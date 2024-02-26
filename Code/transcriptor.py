@@ -63,7 +63,8 @@ if __name__ == "__main__":
         
         # Transcribe audio files one by one
         for audio_file in audio_files:
-            transcribe_audio(audio_file, model, device)
+            transcribe_audio(path ,audio_file, model, device)
             
     except Exception as e:
+        print(e)
         print(f"Model could not be loaded.")
