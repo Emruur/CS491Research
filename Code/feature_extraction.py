@@ -16,11 +16,15 @@ class TranscriptionElement:
     
 @dataclass
 class Pause(TranscriptionElement):
-    isFilled: bool
+    pause_elements: list[TranscriptionElement]
 
 @dataclass
-class Chunk(TranscriptionElement):
-    words: List['Word']
+class FilledPause(TranscriptionElement): 
+    pass
+
+@dataclass
+class Silence(TranscriptionElement):
+    pass
 
 @dataclass
 class Word:
@@ -32,6 +36,9 @@ class Word:
         # Implement syllable counting if necessary
         pass
 
+@dataclass
+class Chunk(TranscriptionElement):
+    words: List[Word]
 @dataclass
 class Transcription:
     elements: List[TranscriptionElement]
@@ -67,7 +74,7 @@ class Transcription:
         return len(self.unique_words) / self.total_duration if self.total_duration else 0
 
 
-    def __init__ (self,word_segments, recording= None):
+    def __init__ (self,word_segments, recording:str= None):
         elements = []
         current_chunk_words = []
         unique= set()
@@ -84,15 +91,16 @@ class Transcription:
                 current_chunk_words.append(word)
             else:
                 silence_duration = word.start - current_chunk_words[-1].end
-                if silence_duration < 0.2:
+                if silence_duration < 0.15:
                     current_chunk_words.append(word)
                 else:
                     # End the current chunk and start a new one
                     chunk = Chunk(start=current_chunk_words[0].start, end=current_chunk_words[-1].end, words=current_chunk_words)
                     elements.append(chunk)
                     #elements.append(Pause(start=current_chunk_words[-1].end, end=word.start))
-                    pauses= detect_pause_segments(current_chunk_words[-1].end, word.start, recording)
-                    elements.extend(pauses)
+                    pauses= detect_pause_segments(current_chunk_words[-1].end*1000, word.start*1000, recording)
+                    pause= Pause(current_chunk_words[-1].end, word.start, pauses)
+                    elements.append(pause)
                     current_chunk_words = [word]
 
         # Add the last chunk if there are any words left
@@ -120,7 +128,10 @@ class Transcription:
 
         for element in self.elements:
             if isinstance(element, Pause):
-                transcription_str += f"Silence from {element.start} to {element.end} seconds\n"
+                    transcription_str += f"Pause from {element.start} to {element.end} seconds\n"
+                    for pause in element.pause_elements:
+                        if isinstance(pause, FilledPause):
+                            transcription_str += f"\tFilled Pause from {pause.start} to {pause.end} seconds\n" 
             elif isinstance(element, Chunk):
                 words_str = ', '.join([word.word for word in element.words])
                 transcription_str += f"Chunk from {element.start} to {element.end} seconds: {words_str}\n"
@@ -131,7 +142,7 @@ def detect_pause_segments(start, end, recording_path):
     audio = AudioSegment.from_file(recording_path)
     
     # Initialize the VAD
-    vad = webrtcvad.Vad(1)  # 1 is the aggressiveness level
+    vad = webrtcvad.Vad(3)  # 1 is the aggressiveness level
 
     # Extract the pause segment
     pause_audio = audio[start:end]
@@ -142,29 +153,38 @@ def detect_pause_segments(start, end, recording_path):
 
     # Split into 30ms frames
     frame_duration = 30  # in ms
-    frames = [pause_bytes[i:i + frame_duration * 16] for i in range(0, len(pause_bytes), frame_duration * 16)]
+    frame_size = int(0.03 * 16000) * 2  # 30 ms * 16000 Hz * 2 bytes/sample
+    frames = [pause_bytes[i:i + frame_size] for i in range(0, len(pause_bytes) - frame_size + 1, frame_size)]
+
 
     pauses = []
     current_start = start
+    current_frame_length= 0
     is_current_filled = vad.is_speech(frames[0], 16000) if frames else False
+
 
     for i, frame in enumerate(frames):
         is_filled = vad.is_speech(frame, 16000)
+        current_frame_length += 1
         if is_filled != is_current_filled or i == len(frames) - 1:
             # End of a segment (silence or filled), create a Pause object
-            current_end = current_start + len(frame) / 16  # frame length in ms
-            pauses.append(Pause(start=current_start / 1000.0, end=current_end / 1000.0, isFilled=is_current_filled))
+            current_end = current_start + frame_duration * current_frame_length# frame length in ms
+            if is_current_filled:
+                pauses.append(FilledPause(start=current_start / 1000.0, end=current_end / 1000.0))
+            else:
+                pauses.append(Silence(start=current_start / 1000.0, end=current_end / 1000.0))
             current_start = current_end
+            current_frame_length= 0
             is_current_filled = is_filled
 
     return pauses
 
 
 
-file_path = 'recording.json'
+file_path = 'testdata/emre_recording.json'
 with open(file_path, 'r') as file:
     data = json.load(file)
                    
 
-transcription = Transcription(data["word_segments"])
+transcription = Transcription(data["word_segments"],"testdata/emre_recording.wav")
 print(transcription)
