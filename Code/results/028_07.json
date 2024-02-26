@@ -1,0 +1,985 @@
+{
+    "segments": [
+        {
+            "start": 0.029,
+            "end": 29.444,
+            "text": " well it's easy to go to the limelight disco it's not that far away so you can just walk but you can also take the number 10 bus so take the number 10 bus in front of the franklin hotel and go three blocks until the bus hit harrison avenue and take off at the harrison avenue and go south about one block and then turn left and then you can see the limelight disco on your right it's not that far",
+            "words": [
+                {
+                    "word": "well",
+                    "start": 0.029,
+                    "end": 0.309,
+                    "score": 0.944
+                },
+                {
+                    "word": "it's",
+                    "start": 0.369,
+                    "end": 0.509,
+                    "score": 0.734
+                },
+                {
+                    "word": "easy",
+                    "start": 0.589,
+                    "end": 0.809,
+                    "score": 0.792
+                },
+                {
+                    "word": "to",
+                    "start": 0.889,
+                    "end": 1.03,
+                    "score": 0.833
+                },
+                {
+                    "word": "go",
+                    "start": 1.07,
+                    "end": 1.23,
+                    "score": 0.942
+                },
+                {
+                    "word": "to",
+                    "start": 1.33,
+                    "end": 1.45,
+                    "score": 0.846
+                },
+                {
+                    "word": "the",
+                    "start": 1.49,
+                    "end": 1.57,
+                    "score": 0.828
+                },
+                {
+                    "word": "limelight",
+                    "start": 1.61,
+                    "end": 2.03,
+                    "score": 0.876
+                },
+                {
+                    "word": "disco",
+                    "start": 2.07,
+                    "end": 2.45,
+                    "score": 0.64
+                },
+                {
+                    "word": "it's",
+                    "start": 2.51,
+                    "end": 2.63,
+                    "score": 0.898
+                },
+                {
+                    "word": "not",
+                    "start": 2.69,
+                    "end": 2.85,
+                    "score": 0.693
+                },
+                {
+                    "word": "that",
+                    "start": 2.87,
+                    "end": 2.991,
+                    "score": 0.372
+                },
+                {
+                    "word": "far",
+                    "start": 3.031,
+                    "end": 3.231,
+                    "score": 0.773
+                },
+                {
+                    "word": "away",
+                    "start": 3.291,
+                    "end": 3.531,
+                    "score": 0.865
+                },
+                {
+                    "word": "so",
+                    "start": 3.611,
+                    "end": 3.771,
+                    "score": 0.852
+                },
+                {
+                    "word": "you",
+                    "start": 3.791,
+                    "end": 3.891,
+                    "score": 0.86
+                },
+                {
+                    "word": "can",
+                    "start": 3.931,
+                    "end": 4.051,
+                    "score": 0.857
+                },
+                {
+                    "word": "just",
+                    "start": 4.071,
+                    "end": 4.251,
+                    "score": 0.719
+                },
+                {
+                    "word": "walk",
+                    "start": 4.311,
+                    "end": 4.631,
+                    "score": 0.954
+                },
+                {
+                    "word": "but",
+                    "start": 5.032,
+                    "end": 5.152,
+                    "score": 0.889
+                },
+                {
+                    "word": "you",
+                    "start": 5.172,
+                    "end": 5.272,
+                    "score": 0.835
+                },
+                {
+                    "word": "can",
+                    "start": 5.312,
+                    "end": 5.452,
+                    "score": 0.969
+                },
+                {
+                    "word": "also",
+                    "start": 5.492,
+                    "end": 5.732,
+                    "score": 0.894
+                },
+                {
+                    "word": "take",
+                    "start": 5.792,
+                    "end": 5.972,
+                    "score": 0.848
+                },
+                {
+                    "word": "the",
+                    "start": 6.032,
+                    "end": 6.132,
+                    "score": 0.702
+                },
+                {
+                    "word": "number",
+                    "start": 6.192,
+                    "end": 6.492,
+                    "score": 0.958
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "bus",
+                    "start": 6.852,
+                    "end": 7.153,
+                    "score": 0.899
+                },
+                {
+                    "word": "so",
+                    "start": 7.673,
+                    "end": 7.993,
+                    "score": 0.462
+                },
+                {
+                    "word": "take",
+                    "start": 8.073,
+                    "end": 8.213,
+                    "score": 0.878
+                },
+                {
+                    "word": "the",
+                    "start": 8.253,
+                    "end": 8.313,
+                    "score": 0.99
+                },
+                {
+                    "word": "number",
+                    "start": 8.353,
+                    "end": 8.613,
+                    "score": 0.911
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "bus",
+                    "start": 9.194,
+                    "end": 9.414,
+                    "score": 0.813
+                },
+                {
+                    "word": "in",
+                    "start": 9.454,
+                    "end": 9.534,
+                    "score": 0.992
+                },
+                {
+                    "word": "front",
+                    "start": 9.594,
+                    "end": 9.814,
+                    "score": 0.737
+                },
+                {
+                    "word": "of",
+                    "start": 9.834,
+                    "end": 9.914,
+                    "score": 0.824
+                },
+                {
+                    "word": "the",
+                    "start": 9.954,
+                    "end": 10.014,
+                    "score": 0.978
+                },
+                {
+                    "word": "franklin",
+                    "start": 10.074,
+                    "end": 10.574,
+                    "score": 0.892
+                },
+                {
+                    "word": "hotel",
+                    "start": 10.634,
+                    "end": 11.115,
+                    "score": 0.769
+                },
+                {
+                    "word": "and",
+                    "start": 11.855,
+                    "end": 12.035,
+                    "score": 0.769
+                },
+                {
+                    "word": "go",
+                    "start": 12.835,
+                    "end": 13.216,
+                    "score": 0.871
+                },
+                {
+                    "word": "three",
+                    "start": 13.416,
+                    "end": 13.696,
+                    "score": 0.782
+                },
+                {
+                    "word": "blocks",
+                    "start": 13.776,
+                    "end": 14.076,
+                    "score": 0.972
+                },
+                {
+                    "word": "until",
+                    "start": 14.176,
+                    "end": 14.556,
+                    "score": 0.835
+                },
+                {
+                    "word": "the",
+                    "start": 14.596,
+                    "end": 14.696,
+                    "score": 0.726
+                },
+                {
+                    "word": "bus",
+                    "start": 14.736,
+                    "end": 15.017,
+                    "score": 0.863
+                },
+                {
+                    "word": "hit",
+                    "start": 15.057,
+                    "end": 15.877,
+                    "score": 0.751
+                },
+                {
+                    "word": "harrison",
+                    "start": 15.997,
+                    "end": 16.437,
+                    "score": 0.819
+                },
+                {
+                    "word": "avenue",
+                    "start": 16.517,
+                    "end": 16.938,
+                    "score": 0.589
+                },
+                {
+                    "word": "and",
+                    "start": 17.658,
+                    "end": 17.838,
+                    "score": 0.503
+                },
+                {
+                    "word": "take",
+                    "start": 18.638,
+                    "end": 18.859,
+                    "score": 0.872
+                },
+                {
+                    "word": "off",
+                    "start": 19.019,
+                    "end": 19.179,
+                    "score": 0.957
+                },
+                {
+                    "word": "at",
+                    "start": 19.379,
+                    "end": 19.439,
+                    "score": 0.983
+                },
+                {
+                    "word": "the",
+                    "start": 19.479,
+                    "end": 19.539,
+                    "score": 0.97
+                },
+                {
+                    "word": "harrison",
+                    "start": 19.579,
+                    "end": 19.979,
+                    "score": 0.719
+                },
+                {
+                    "word": "avenue",
+                    "start": 20.059,
+                    "end": 20.519,
+                    "score": 0.592
+                },
+                {
+                    "word": "and",
+                    "start": 21.0,
+                    "end": 21.12,
+                    "score": 0.692
+                },
+                {
+                    "word": "go",
+                    "start": 21.2,
+                    "end": 21.5,
+                    "score": 0.798
+                },
+                {
+                    "word": "south",
+                    "start": 21.56,
+                    "end": 21.86,
+                    "score": 0.86
+                },
+                {
+                    "word": "about",
+                    "start": 22.12,
+                    "end": 22.44,
+                    "score": 0.836
+                },
+                {
+                    "word": "one",
+                    "start": 22.62,
+                    "end": 22.761,
+                    "score": 0.594
+                },
+                {
+                    "word": "block",
+                    "start": 22.841,
+                    "end": 23.181,
+                    "score": 0.938
+                },
+                {
+                    "word": "and",
+                    "start": 23.761,
+                    "end": 23.861,
+                    "score": 0.859
+                },
+                {
+                    "word": "then",
+                    "start": 23.901,
+                    "end": 24.121,
+                    "score": 0.807
+                },
+                {
+                    "word": "turn",
+                    "start": 24.221,
+                    "end": 24.561,
+                    "score": 0.721
+                },
+                {
+                    "word": "left",
+                    "start": 24.641,
+                    "end": 25.002,
+                    "score": 0.921
+                },
+                {
+                    "word": "and",
+                    "start": 25.602,
+                    "end": 25.682,
+                    "score": 0.912
+                },
+                {
+                    "word": "then",
+                    "start": 25.702,
+                    "end": 25.842,
+                    "score": 0.914
+                },
+                {
+                    "word": "you",
+                    "start": 25.882,
+                    "end": 26.002,
+                    "score": 0.881
+                },
+                {
+                    "word": "can",
+                    "start": 26.022,
+                    "end": 26.162,
+                    "score": 0.972
+                },
+                {
+                    "word": "see",
+                    "start": 26.202,
+                    "end": 26.362,
+                    "score": 0.833
+                },
+                {
+                    "word": "the",
+                    "start": 26.402,
+                    "end": 26.502,
+                    "score": 0.811
+                },
+                {
+                    "word": "limelight",
+                    "start": 26.542,
+                    "end": 27.003,
+                    "score": 0.924
+                },
+                {
+                    "word": "disco",
+                    "start": 27.023,
+                    "end": 27.423,
+                    "score": 0.73
+                },
+                {
+                    "word": "on",
+                    "start": 27.483,
+                    "end": 27.563,
+                    "score": 0.884
+                },
+                {
+                    "word": "your",
+                    "start": 27.603,
+                    "end": 27.783,
+                    "score": 0.862
+                },
+                {
+                    "word": "right",
+                    "start": 27.843,
+                    "end": 28.123,
+                    "score": 0.724
+                },
+                {
+                    "word": "it's",
+                    "start": 28.643,
+                    "end": 28.784,
+                    "score": 0.755
+                },
+                {
+                    "word": "not",
+                    "start": 28.844,
+                    "end": 28.984,
+                    "score": 0.934
+                },
+                {
+                    "word": "that",
+                    "start": 29.024,
+                    "end": 29.164,
+                    "score": 0.502
+                },
+                {
+                    "word": "far",
+                    "start": 29.204,
+                    "end": 29.444,
+                    "score": 0.986
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "well",
+            "start": 0.029,
+            "end": 0.309,
+            "score": 0.944
+        },
+        {
+            "word": "it's",
+            "start": 0.369,
+            "end": 0.509,
+            "score": 0.734
+        },
+        {
+            "word": "easy",
+            "start": 0.589,
+            "end": 0.809,
+            "score": 0.792
+        },
+        {
+            "word": "to",
+            "start": 0.889,
+            "end": 1.03,
+            "score": 0.833
+        },
+        {
+            "word": "go",
+            "start": 1.07,
+            "end": 1.23,
+            "score": 0.942
+        },
+        {
+            "word": "to",
+            "start": 1.33,
+            "end": 1.45,
+            "score": 0.846
+        },
+        {
+            "word": "the",
+            "start": 1.49,
+            "end": 1.57,
+            "score": 0.828
+        },
+        {
+            "word": "limelight",
+            "start": 1.61,
+            "end": 2.03,
+            "score": 0.876
+        },
+        {
+            "word": "disco",
+            "start": 2.07,
+            "end": 2.45,
+            "score": 0.64
+        },
+        {
+            "word": "it's",
+            "start": 2.51,
+            "end": 2.63,
+            "score": 0.898
+        },
+        {
+            "word": "not",
+            "start": 2.69,
+            "end": 2.85,
+            "score": 0.693
+        },
+        {
+            "word": "that",
+            "start": 2.87,
+            "end": 2.991,
+            "score": 0.372
+        },
+        {
+            "word": "far",
+            "start": 3.031,
+            "end": 3.231,
+            "score": 0.773
+        },
+        {
+            "word": "away",
+            "start": 3.291,
+            "end": 3.531,
+            "score": 0.865
+        },
+        {
+            "word": "so",
+            "start": 3.611,
+            "end": 3.771,
+            "score": 0.852
+        },
+        {
+            "word": "you",
+            "start": 3.791,
+            "end": 3.891,
+            "score": 0.86
+        },
+        {
+            "word": "can",
+            "start": 3.931,
+            "end": 4.051,
+            "score": 0.857
+        },
+        {
+            "word": "just",
+            "start": 4.071,
+            "end": 4.251,
+            "score": 0.719
+        },
+        {
+            "word": "walk",
+            "start": 4.311,
+            "end": 4.631,
+            "score": 0.954
+        },
+        {
+            "word": "but",
+            "start": 5.032,
+            "end": 5.152,
+            "score": 0.889
+        },
+        {
+            "word": "you",
+            "start": 5.172,
+            "end": 5.272,
+            "score": 0.835
+        },
+        {
+            "word": "can",
+            "start": 5.312,
+            "end": 5.452,
+            "score": 0.969
+        },
+        {
+            "word": "also",
+            "start": 5.492,
+            "end": 5.732,
+            "score": 0.894
+        },
+        {
+            "word": "take",
+            "start": 5.792,
+            "end": 5.972,
+            "score": 0.848
+        },
+        {
+            "word": "the",
+            "start": 6.032,
+            "end": 6.132,
+            "score": 0.702
+        },
+        {
+            "word": "number",
+            "start": 6.192,
+            "end": 6.492,
+            "score": 0.958
+        },
+        {
+            "word": "10"
+        },
+        {
+            "word": "bus",
+            "start": 6.852,
+            "end": 7.153,
+            "score": 0.899
+        },
+        {
+            "word": "so",
+            "start": 7.673,
+            "end": 7.993,
+            "score": 0.462
+        },
+        {
+            "word": "take",
+            "start": 8.073,
+            "end": 8.213,
+            "score": 0.878
+        },
+        {
+            "word": "the",
+            "start": 8.253,
+            "end": 8.313,
+            "score": 0.99
+        },
+        {
+            "word": "number",
+            "start": 8.353,
+            "end": 8.613,
+            "score": 0.911
+        },
+        {
+            "word": "10"
+        },
+        {
+            "word": "bus",
+            "start": 9.194,
+            "end": 9.414,
+            "score": 0.813
+        },
+        {
+            "word": "in",
+            "start": 9.454,
+            "end": 9.534,
+            "score": 0.992
+        },
+        {
+            "word": "front",
+            "start": 9.594,
+            "end": 9.814,
+            "score": 0.737
+        },
+        {
+            "word": "of",
+            "start": 9.834,
+            "end": 9.914,
+            "score": 0.824
+        },
+        {
+            "word": "the",
+            "start": 9.954,
+            "end": 10.014,
+            "score": 0.978
+        },
+        {
+            "word": "franklin",
+            "start": 10.074,
+            "end": 10.574,
+            "score": 0.892
+        },
+        {
+            "word": "hotel",
+            "start": 10.634,
+            "end": 11.115,
+            "score": 0.769
+        },
+        {
+            "word": "and",
+            "start": 11.855,
+            "end": 12.035,
+            "score": 0.769
+        },
+        {
+            "word": "go",
+            "start": 12.835,
+            "end": 13.216,
+            "score": 0.871
+        },
+        {
+            "word": "three",
+            "start": 13.416,
+            "end": 13.696,
+            "score": 0.782
+        },
+        {
+            "word": "blocks",
+            "start": 13.776,
+            "end": 14.076,
+            "score": 0.972
+        },
+        {
+            "word": "until",
+            "start": 14.176,
+            "end": 14.556,
+            "score": 0.835
+        },
+        {
+            "word": "the",
+            "start": 14.596,
+            "end": 14.696,
+            "score": 0.726
+        },
+        {
+            "word": "bus",
+            "start": 14.736,
+            "end": 15.017,
+            "score": 0.863
+        },
+        {
+            "word": "hit",
+            "start": 15.057,
+            "end": 15.877,
+            "score": 0.751
+        },
+        {
+            "word": "harrison",
+            "start": 15.997,
+            "end": 16.437,
+            "score": 0.819
+        },
+        {
+            "word": "avenue",
+            "start": 16.517,
+            "end": 16.938,
+            "score": 0.589
+        },
+        {
+            "word": "and",
+            "start": 17.658,
+            "end": 17.838,
+            "score": 0.503
+        },
+        {
+            "word": "take",
+            "start": 18.638,
+            "end": 18.859,
+            "score": 0.872
+        },
+        {
+            "word": "off",
+            "start": 19.019,
+            "end": 19.179,
+            "score": 0.957
+        },
+        {
+            "word": "at",
+            "start": 19.379,
+            "end": 19.439,
+            "score": 0.983
+        },
+        {
+            "word": "the",
+            "start": 19.479,
+            "end": 19.539,
+            "score": 0.97
+        },
+        {
+            "word": "harrison",
+            "start": 19.579,
+            "end": 19.979,
+            "score": 0.719
+        },
+        {
+            "word": "avenue",
+            "start": 20.059,
+            "end": 20.519,
+            "score": 0.592
+        },
+        {
+            "word": "and",
+            "start": 21.0,
+            "end": 21.12,
+            "score": 0.692
+        },
+        {
+            "word": "go",
+            "start": 21.2,
+            "end": 21.5,
+            "score": 0.798
+        },
+        {
+            "word": "south",
+            "start": 21.56,
+            "end": 21.86,
+            "score": 0.86
+        },
+        {
+            "word": "about",
+            "start": 22.12,
+            "end": 22.44,
+            "score": 0.836
+        },
+        {
+            "word": "one",
+            "start": 22.62,
+            "end": 22.761,
+            "score": 0.594
+        },
+        {
+            "word": "block",
+            "start": 22.841,
+            "end": 23.181,
+            "score": 0.938
+        },
+        {
+            "word": "and",
+            "start": 23.761,
+            "end": 23.861,
+            "score": 0.859
+        },
+        {
+            "word": "then",
+            "start": 23.901,
+            "end": 24.121,
+            "score": 0.807
+        },
+        {
+            "word": "turn",
+            "start": 24.221,
+            "end": 24.561,
+            "score": 0.721
+        },
+        {
+            "word": "left",
+            "start": 24.641,
+            "end": 25.002,
+            "score": 0.921
+        },
+        {
+            "word": "and",
+            "start": 25.602,
+            "end": 25.682,
+            "score": 0.912
+        },
+        {
+            "word": "then",
+            "start": 25.702,
+            "end": 25.842,
+            "score": 0.914
+        },
+        {
+            "word": "you",
+            "start": 25.882,
+            "end": 26.002,
+            "score": 0.881
+        },
+        {
+            "word": "can",
+            "start": 26.022,
+            "end": 26.162,
+            "score": 0.972
+        },
+        {
+            "word": "see",
+            "start": 26.202,
+            "end": 26.362,
+            "score": 0.833
+        },
+        {
+            "word": "the",
+            "start": 26.402,
+            "end": 26.502,
+            "score": 0.811
+        },
+        {
+            "word": "limelight",
+            "start": 26.542,
+            "end": 27.003,
+            "score": 0.924
+        },
+        {
+            "word": "disco",
+            "start": 27.023,
+            "end": 27.423,
+            "score": 0.73
+        },
+        {
+            "word": "on",
+            "start": 27.483,
+            "end": 27.563,
+            "score": 0.884
+        },
+        {
+            "word": "your",
+            "start": 27.603,
+            "end": 27.783,
+            "score": 0.862
+        },
+        {
+            "word": "right",
+            "start": 27.843,
+            "end": 28.123,
+            "score": 0.724
+        },
+        {
+            "word": "it's",
+            "start": 28.643,
+            "end": 28.784,
+            "score": 0.755
+        },
+        {
+            "word": "not",
+            "start": 28.844,
+            "end": 28.984,
+            "score": 0.934
+        },
+        {
+            "word": "that",
+            "start": 29.024,
+            "end": 29.164,
+            "score": 0.502
+        },
+        {
+            "word": "far",
+            "start": 29.204,
+            "end": 29.444,
+            "score": 0.986
+        }
+    ]
+}

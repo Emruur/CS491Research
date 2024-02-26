@@ -1,0 +1,397 @@
+{
+    "segments": [
+        {
+            "start": 1.608,
+            "end": 29.901,
+            "text": " in front of Franklin Hotel you can go through three blocks Kingdom Avenue and Page Street and Harrison Avenue at the intersection Harrison Avenue and Zero Street you can go to Harrison",
+            "words": [
+                {
+                    "word": "in",
+                    "start": 1.608,
+                    "end": 1.688,
+                    "score": 0.974
+                },
+                {
+                    "word": "front",
+                    "start": 1.748,
+                    "end": 2.088,
+                    "score": 0.831
+                },
+                {
+                    "word": "of",
+                    "start": 2.228,
+                    "end": 2.328,
+                    "score": 0.878
+                },
+                {
+                    "word": "Franklin",
+                    "start": 2.809,
+                    "end": 3.229,
+                    "score": 0.887
+                },
+                {
+                    "word": "Hotel",
+                    "start": 3.269,
+                    "end": 3.649,
+                    "score": 0.57
+                },
+                {
+                    "word": "you",
+                    "start": 6.39,
+                    "end": 6.51,
+                    "score": 0.876
+                },
+                {
+                    "word": "can",
+                    "start": 6.53,
+                    "end": 6.81,
+                    "score": 0.654
+                },
+                {
+                    "word": "go",
+                    "start": 6.87,
+                    "end": 7.151,
+                    "score": 0.904
+                },
+                {
+                    "word": "through",
+                    "start": 7.251,
+                    "end": 7.571,
+                    "score": 0.851
+                },
+                {
+                    "word": "three",
+                    "start": 7.591,
+                    "end": 9.211,
+                    "score": 0.322
+                },
+                {
+                    "word": "blocks",
+                    "start": 9.452,
+                    "end": 9.812,
+                    "score": 0.875
+                },
+                {
+                    "word": "Kingdom",
+                    "start": 11.633,
+                    "end": 12.033,
+                    "score": 0.943
+                },
+                {
+                    "word": "Avenue",
+                    "start": 12.133,
+                    "end": 12.553,
+                    "score": 0.804
+                },
+                {
+                    "word": "and",
+                    "start": 12.873,
+                    "end": 13.013,
+                    "score": 0.709
+                },
+                {
+                    "word": "Page",
+                    "start": 13.333,
+                    "end": 13.713,
+                    "score": 0.765
+                },
+                {
+                    "word": "Street",
+                    "start": 13.753,
+                    "end": 14.134,
+                    "score": 0.83
+                },
+                {
+                    "word": "and",
+                    "start": 14.734,
+                    "end": 14.874,
+                    "score": 0.523
+                },
+                {
+                    "word": "Harrison",
+                    "start": 15.794,
+                    "end": 16.235,
+                    "score": 0.803
+                },
+                {
+                    "word": "Avenue",
+                    "start": 16.315,
+                    "end": 16.655,
+                    "score": 0.821
+                },
+                {
+                    "word": "at",
+                    "start": 17.615,
+                    "end": 17.735,
+                    "score": 0.952
+                },
+                {
+                    "word": "the",
+                    "start": 17.855,
+                    "end": 18.175,
+                    "score": 0.96
+                },
+                {
+                    "word": "intersection",
+                    "start": 19.176,
+                    "end": 19.956,
+                    "score": 0.789
+                },
+                {
+                    "word": "Harrison",
+                    "start": 21.717,
+                    "end": 22.157,
+                    "score": 0.701
+                },
+                {
+                    "word": "Avenue",
+                    "start": 22.257,
+                    "end": 22.677,
+                    "score": 0.775
+                },
+                {
+                    "word": "and",
+                    "start": 23.078,
+                    "end": 23.218,
+                    "score": 0.705
+                },
+                {
+                    "word": "Zero",
+                    "start": 24.138,
+                    "end": 24.618,
+                    "score": 0.691
+                },
+                {
+                    "word": "Street",
+                    "start": 25.118,
+                    "end": 25.519,
+                    "score": 0.914
+                },
+                {
+                    "word": "you",
+                    "start": 27.119,
+                    "end": 27.239,
+                    "score": 0.855
+                },
+                {
+                    "word": "can",
+                    "start": 27.259,
+                    "end": 27.499,
+                    "score": 0.795
+                },
+                {
+                    "word": "go",
+                    "start": 28.78,
+                    "end": 28.96,
+                    "score": 0.986
+                },
+                {
+                    "word": "to",
+                    "start": 29.06,
+                    "end": 29.34,
+                    "score": 0.873
+                },
+                {
+                    "word": "Harrison",
+                    "start": 29.36,
+                    "end": 29.901,
+                    "score": 0.679
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "in",
+            "start": 1.608,
+            "end": 1.688,
+            "score": 0.974
+        },
+        {
+            "word": "front",
+            "start": 1.748,
+            "end": 2.088,
+            "score": 0.831
+        },
+        {
+            "word": "of",
+            "start": 2.228,
+            "end": 2.328,
+            "score": 0.878
+        },
+        {
+            "word": "Franklin",
+            "start": 2.809,
+            "end": 3.229,
+            "score": 0.887
+        },
+        {
+            "word": "Hotel",
+            "start": 3.269,
+            "end": 3.649,
+            "score": 0.57
+        },
+        {
+            "word": "you",
+            "start": 6.39,
+            "end": 6.51,
+            "score": 0.876
+        },
+        {
+            "word": "can",
+            "start": 6.53,
+            "end": 6.81,
+            "score": 0.654
+        },
+        {
+            "word": "go",
+            "start": 6.87,
+            "end": 7.151,
+            "score": 0.904
+        },
+        {
+            "word": "through",
+            "start": 7.251,
+            "end": 7.571,
+            "score": 0.851
+        },
+        {
+            "word": "three",
+            "start": 7.591,
+            "end": 9.211,
+            "score": 0.322
+        },
+        {
+            "word": "blocks",
+            "start": 9.452,
+            "end": 9.812,
+            "score": 0.875
+        },
+        {
+            "word": "Kingdom",
+            "start": 11.633,
+            "end": 12.033,
+            "score": 0.943
+        },
+        {
+            "word": "Avenue",
+            "start": 12.133,
+            "end": 12.553,
+            "score": 0.804
+        },
+        {
+            "word": "and",
+            "start": 12.873,
+            "end": 13.013,
+            "score": 0.709
+        },
+        {
+            "word": "Page",
+            "start": 13.333,
+            "end": 13.713,
+            "score": 0.765
+        },
+        {
+            "word": "Street",
+            "start": 13.753,
+            "end": 14.134,
+            "score": 0.83
+        },
+        {
+            "word": "and",
+            "start": 14.734,
+            "end": 14.874,
+            "score": 0.523
+        },
+        {
+            "word": "Harrison",
+            "start": 15.794,
+            "end": 16.235,
+            "score": 0.803
+        },
+        {
+            "word": "Avenue",
+            "start": 16.315,
+            "end": 16.655,
+            "score": 0.821
+        },
+        {
+            "word": "at",
+            "start": 17.615,
+            "end": 17.735,
+            "score": 0.952
+        },
+        {
+            "word": "the",
+            "start": 17.855,
+            "end": 18.175,
+            "score": 0.96
+        },
+        {
+            "word": "intersection",
+            "start": 19.176,
+            "end": 19.956,
+            "score": 0.789
+        },
+        {
+            "word": "Harrison",
+            "start": 21.717,
+            "end": 22.157,
+            "score": 0.701
+        },
+        {
+            "word": "Avenue",
+            "start": 22.257,
+            "end": 22.677,
+            "score": 0.775
+        },
+        {
+            "word": "and",
+            "start": 23.078,
+            "end": 23.218,
+            "score": 0.705
+        },
+        {
+            "word": "Zero",
+            "start": 24.138,
+            "end": 24.618,
+            "score": 0.691
+        },
+        {
+            "word": "Street",
+            "start": 25.118,
+            "end": 25.519,
+            "score": 0.914
+        },
+        {
+            "word": "you",
+            "start": 27.119,
+            "end": 27.239,
+            "score": 0.855
+        },
+        {
+            "word": "can",
+            "start": 27.259,
+            "end": 27.499,
+            "score": 0.795
+        },
+        {
+            "word": "go",
+            "start": 28.78,
+            "end": 28.96,
+            "score": 0.986
+        },
+        {
+            "word": "to",
+            "start": 29.06,
+            "end": 29.34,
+            "score": 0.873
+        },
+        {
+            "word": "Harrison",
+            "start": 29.36,
+            "end": 29.901,
+            "score": 0.679
+        }
+    ]
+}

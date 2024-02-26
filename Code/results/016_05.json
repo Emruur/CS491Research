@@ -1,0 +1,924 @@
+{
+    "segments": [
+        {
+            "start": 0.149,
+            "end": 6.632,
+            "text": " I disagree with the opinion that the government should require health warning labels on the size of soda cans.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.149,
+                    "end": 0.229,
+                    "score": 0.831
+                },
+                {
+                    "word": "disagree",
+                    "start": 0.249,
+                    "end": 1.109,
+                    "score": 0.872
+                },
+                {
+                    "word": "with",
+                    "start": 1.149,
+                    "end": 1.249,
+                    "score": 0.998
+                },
+                {
+                    "word": "the",
+                    "start": 1.289,
+                    "end": 1.41,
+                    "score": 0.82
+                },
+                {
+                    "word": "opinion",
+                    "start": 1.51,
+                    "end": 1.85,
+                    "score": 0.912
+                },
+                {
+                    "word": "that",
+                    "start": 1.87,
+                    "end": 2.01,
+                    "score": 0.71
+                },
+                {
+                    "word": "the",
+                    "start": 2.03,
+                    "end": 2.09,
+                    "score": 0.979
+                },
+                {
+                    "word": "government",
+                    "start": 2.13,
+                    "end": 2.63,
+                    "score": 0.728
+                },
+                {
+                    "word": "should",
+                    "start": 2.77,
+                    "end": 2.99,
+                    "score": 0.808
+                },
+                {
+                    "word": "require",
+                    "start": 3.03,
+                    "end": 3.47,
+                    "score": 0.793
+                },
+                {
+                    "word": "health",
+                    "start": 3.51,
+                    "end": 3.75,
+                    "score": 0.611
+                },
+                {
+                    "word": "warning",
+                    "start": 3.81,
+                    "end": 4.151,
+                    "score": 0.92
+                },
+                {
+                    "word": "labels",
+                    "start": 4.191,
+                    "end": 4.631,
+                    "score": 0.759
+                },
+                {
+                    "word": "on",
+                    "start": 4.791,
+                    "end": 4.871,
+                    "score": 0.833
+                },
+                {
+                    "word": "the",
+                    "start": 5.211,
+                    "end": 5.311,
+                    "score": 0.87
+                },
+                {
+                    "word": "size",
+                    "start": 5.351,
+                    "end": 5.611,
+                    "score": 0.598
+                },
+                {
+                    "word": "of",
+                    "start": 5.651,
+                    "end": 5.731,
+                    "score": 0.748
+                },
+                {
+                    "word": "soda",
+                    "start": 5.831,
+                    "end": 6.191,
+                    "score": 0.832
+                },
+                {
+                    "word": "cans.",
+                    "start": 6.291,
+                    "end": 6.632,
+                    "score": 0.78
+                }
+            ]
+        },
+        {
+            "start": 7.352,
+            "end": 8.292,
+            "text": "There are two reasons.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 7.352,
+                    "end": 7.552,
+                    "score": 0.887
+                },
+                {
+                    "word": "are",
+                    "start": 7.592,
+                    "end": 7.712,
+                    "score": 0.584
+                },
+                {
+                    "word": "two",
+                    "start": 7.752,
+                    "end": 7.872,
+                    "score": 0.998
+                },
+                {
+                    "word": "reasons.",
+                    "start": 7.932,
+                    "end": 8.292,
+                    "score": 0.848
+                }
+            ]
+        },
+        {
+            "start": 8.732,
+            "end": 25.079,
+            "text": "First, if the government asks for a health warning label on soda, the soda company has nothing to do with the problem.",
+            "words": [
+                {
+                    "word": "First,",
+                    "start": 8.732,
+                    "end": 9.052,
+                    "score": 0.806
+                },
+                {
+                    "word": "if",
+                    "start": 9.813,
+                    "end": 9.853,
+                    "score": 0.991
+                },
+                {
+                    "word": "the",
+                    "start": 9.873,
+                    "end": 9.953,
+                    "score": 0.161
+                },
+                {
+                    "word": "government",
+                    "start": 10.613,
+                    "end": 11.153,
+                    "score": 0.705
+                },
+                {
+                    "word": "asks",
+                    "start": 11.914,
+                    "end": 12.154,
+                    "score": 0.726
+                },
+                {
+                    "word": "for",
+                    "start": 12.174,
+                    "end": 12.614,
+                    "score": 0.317
+                },
+                {
+                    "word": "a",
+                    "start": 12.634,
+                    "end": 12.694,
+                    "score": 0.592
+                },
+                {
+                    "word": "health",
+                    "start": 12.714,
+                    "end": 12.874,
+                    "score": 0.497
+                },
+                {
+                    "word": "warning",
+                    "start": 12.954,
+                    "end": 13.334,
+                    "score": 0.856
+                },
+                {
+                    "word": "label",
+                    "start": 13.414,
+                    "end": 13.874,
+                    "score": 0.72
+                },
+                {
+                    "word": "on",
+                    "start": 16.715,
+                    "end": 16.956,
+                    "score": 0.78
+                },
+                {
+                    "word": "soda,",
+                    "start": 17.276,
+                    "end": 17.636,
+                    "score": 0.761
+                },
+                {
+                    "word": "the",
+                    "start": 17.656,
+                    "end": 17.736,
+                    "score": 0.084
+                },
+                {
+                    "word": "soda",
+                    "start": 19.216,
+                    "end": 19.557,
+                    "score": 0.71
+                },
+                {
+                    "word": "company",
+                    "start": 19.617,
+                    "end": 20.097,
+                    "score": 0.898
+                },
+                {
+                    "word": "has",
+                    "start": 21.557,
+                    "end": 21.757,
+                    "score": 0.819
+                },
+                {
+                    "word": "nothing",
+                    "start": 21.817,
+                    "end": 22.138,
+                    "score": 0.784
+                },
+                {
+                    "word": "to",
+                    "start": 22.198,
+                    "end": 22.338,
+                    "score": 0.863
+                },
+                {
+                    "word": "do",
+                    "start": 22.398,
+                    "end": 22.518,
+                    "score": 0.996
+                },
+                {
+                    "word": "with",
+                    "start": 22.578,
+                    "end": 22.798,
+                    "score": 0.674
+                },
+                {
+                    "word": "the",
+                    "start": 24.038,
+                    "end": 24.278,
+                    "score": 0.783
+                },
+                {
+                    "word": "problem.",
+                    "start": 24.679,
+                    "end": 25.079,
+                    "score": 0.636
+                }
+            ]
+        },
+        {
+            "start": 26.82,
+            "end": 42.733,
+            "text": " So the company has to improve their business record so government should not require the",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 26.82,
+                    "end": 26.98,
+                    "score": 0.784
+                },
+                {
+                    "word": "the",
+                    "start": 27.0,
+                    "end": 27.12,
+                    "score": 0.744
+                },
+                {
+                    "word": "company",
+                    "start": 27.16,
+                    "end": 27.62,
+                    "score": 0.91
+                },
+                {
+                    "word": "has",
+                    "start": 29.382,
+                    "end": 29.582,
+                    "score": 0.962
+                },
+                {
+                    "word": "to",
+                    "start": 29.642,
+                    "end": 29.842,
+                    "score": 0.898
+                },
+                {
+                    "word": "improve",
+                    "start": 30.042,
+                    "end": 30.463,
+                    "score": 0.867
+                },
+                {
+                    "word": "their",
+                    "start": 30.883,
+                    "end": 31.203,
+                    "score": 0.802
+                },
+                {
+                    "word": "business",
+                    "start": 33.265,
+                    "end": 33.685,
+                    "score": 0.818
+                },
+                {
+                    "word": "record",
+                    "start": 33.725,
+                    "end": 34.166,
+                    "score": 0.912
+                },
+                {
+                    "word": "so",
+                    "start": 34.846,
+                    "end": 35.146,
+                    "score": 0.794
+                },
+                {
+                    "word": "government",
+                    "start": 37.268,
+                    "end": 37.749,
+                    "score": 0.881
+                },
+                {
+                    "word": "should",
+                    "start": 38.389,
+                    "end": 38.609,
+                    "score": 0.742
+                },
+                {
+                    "word": "not",
+                    "start": 38.649,
+                    "end": 38.849,
+                    "score": 0.931
+                },
+                {
+                    "word": "require",
+                    "start": 39.43,
+                    "end": 39.77,
+                    "score": 0.271
+                },
+                {
+                    "word": "the",
+                    "start": 42.592,
+                    "end": 42.733,
+                    "score": 0.161
+                }
+            ]
+        },
+        {
+            "start": 50.267,
+            "end": 51.988,
+            "text": " should not require the warning.",
+            "words": [
+                {
+                    "word": "should",
+                    "start": 50.267,
+                    "end": 50.447,
+                    "score": 0.629
+                },
+                {
+                    "word": "not",
+                    "start": 50.467,
+                    "end": 50.607,
+                    "score": 0.719
+                },
+                {
+                    "word": "require",
+                    "start": 50.707,
+                    "end": 51.308,
+                    "score": 0.766
+                },
+                {
+                    "word": "the",
+                    "start": 51.528,
+                    "end": 51.628,
+                    "score": 0.89
+                },
+                {
+                    "word": "warning.",
+                    "start": 51.648,
+                    "end": 51.988,
+                    "score": 0.787
+                }
+            ]
+        },
+        {
+            "start": 53.929,
+            "end": 71.237,
+            "text": "So the company has a guilty of, yeah.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 53.929,
+                    "end": 54.109,
+                    "score": 0.776
+                },
+                {
+                    "word": "the",
+                    "start": 54.129,
+                    "end": 54.289,
+                    "score": 0.761
+                },
+                {
+                    "word": "company",
+                    "start": 54.329,
+                    "end": 54.769,
+                    "score": 0.795
+                },
+                {
+                    "word": "has",
+                    "start": 57.631,
+                    "end": 57.851,
+                    "score": 0.885
+                },
+                {
+                    "word": "a",
+                    "start": 58.771,
+                    "end": 58.931,
+                    "score": 0.847
+                },
+                {
+                    "word": "guilty",
+                    "start": 61.252,
+                    "end": 61.653,
+                    "score": 0.852
+                },
+                {
+                    "word": "of,",
+                    "start": 61.893,
+                    "end": 62.033,
+                    "score": 0.873
+                },
+                {
+                    "word": "yeah.",
+                    "start": 71.097,
+                    "end": 71.237,
+                    "score": 0.464
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.149,
+            "end": 0.229,
+            "score": 0.831
+        },
+        {
+            "word": "disagree",
+            "start": 0.249,
+            "end": 1.109,
+            "score": 0.872
+        },
+        {
+            "word": "with",
+            "start": 1.149,
+            "end": 1.249,
+            "score": 0.998
+        },
+        {
+            "word": "the",
+            "start": 1.289,
+            "end": 1.41,
+            "score": 0.82
+        },
+        {
+            "word": "opinion",
+            "start": 1.51,
+            "end": 1.85,
+            "score": 0.912
+        },
+        {
+            "word": "that",
+            "start": 1.87,
+            "end": 2.01,
+            "score": 0.71
+        },
+        {
+            "word": "the",
+            "start": 2.03,
+            "end": 2.09,
+            "score": 0.979
+        },
+        {
+            "word": "government",
+            "start": 2.13,
+            "end": 2.63,
+            "score": 0.728
+        },
+        {
+            "word": "should",
+            "start": 2.77,
+            "end": 2.99,
+            "score": 0.808
+        },
+        {
+            "word": "require",
+            "start": 3.03,
+            "end": 3.47,
+            "score": 0.793
+        },
+        {
+            "word": "health",
+            "start": 3.51,
+            "end": 3.75,
+            "score": 0.611
+        },
+        {
+            "word": "warning",
+            "start": 3.81,
+            "end": 4.151,
+            "score": 0.92
+        },
+        {
+            "word": "labels",
+            "start": 4.191,
+            "end": 4.631,
+            "score": 0.759
+        },
+        {
+            "word": "on",
+            "start": 4.791,
+            "end": 4.871,
+            "score": 0.833
+        },
+        {
+            "word": "the",
+            "start": 5.211,
+            "end": 5.311,
+            "score": 0.87
+        },
+        {
+            "word": "size",
+            "start": 5.351,
+            "end": 5.611,
+            "score": 0.598
+        },
+        {
+            "word": "of",
+            "start": 5.651,
+            "end": 5.731,
+            "score": 0.748
+        },
+        {
+            "word": "soda",
+            "start": 5.831,
+            "end": 6.191,
+            "score": 0.832
+        },
+        {
+            "word": "cans.",
+            "start": 6.291,
+            "end": 6.632,
+            "score": 0.78
+        },
+        {
+            "word": "There",
+            "start": 7.352,
+            "end": 7.552,
+            "score": 0.887
+        },
+        {
+            "word": "are",
+            "start": 7.592,
+            "end": 7.712,
+            "score": 0.584
+        },
+        {
+            "word": "two",
+            "start": 7.752,
+            "end": 7.872,
+            "score": 0.998
+        },
+        {
+            "word": "reasons.",
+            "start": 7.932,
+            "end": 8.292,
+            "score": 0.848
+        },
+        {
+            "word": "First,",
+            "start": 8.732,
+            "end": 9.052,
+            "score": 0.806
+        },
+        {
+            "word": "if",
+            "start": 9.813,
+            "end": 9.853,
+            "score": 0.991
+        },
+        {
+            "word": "the",
+            "start": 9.873,
+            "end": 9.953,
+            "score": 0.161
+        },
+        {
+            "word": "government",
+            "start": 10.613,
+            "end": 11.153,
+            "score": 0.705
+        },
+        {
+            "word": "asks",
+            "start": 11.914,
+            "end": 12.154,
+            "score": 0.726
+        },
+        {
+            "word": "for",
+            "start": 12.174,
+            "end": 12.614,
+            "score": 0.317
+        },
+        {
+            "word": "a",
+            "start": 12.634,
+            "end": 12.694,
+            "score": 0.592
+        },
+        {
+            "word": "health",
+            "start": 12.714,
+            "end": 12.874,
+            "score": 0.497
+        },
+        {
+            "word": "warning",
+            "start": 12.954,
+            "end": 13.334,
+            "score": 0.856
+        },
+        {
+            "word": "label",
+            "start": 13.414,
+            "end": 13.874,
+            "score": 0.72
+        },
+        {
+            "word": "on",
+            "start": 16.715,
+            "end": 16.956,
+            "score": 0.78
+        },
+        {
+            "word": "soda,",
+            "start": 17.276,
+            "end": 17.636,
+            "score": 0.761
+        },
+        {
+            "word": "the",
+            "start": 17.656,
+            "end": 17.736,
+            "score": 0.084
+        },
+        {
+            "word": "soda",
+            "start": 19.216,
+            "end": 19.557,
+            "score": 0.71
+        },
+        {
+            "word": "company",
+            "start": 19.617,
+            "end": 20.097,
+            "score": 0.898
+        },
+        {
+            "word": "has",
+            "start": 21.557,
+            "end": 21.757,
+            "score": 0.819
+        },
+        {
+            "word": "nothing",
+            "start": 21.817,
+            "end": 22.138,
+            "score": 0.784
+        },
+        {
+            "word": "to",
+            "start": 22.198,
+            "end": 22.338,
+            "score": 0.863
+        },
+        {
+            "word": "do",
+            "start": 22.398,
+            "end": 22.518,
+            "score": 0.996
+        },
+        {
+            "word": "with",
+            "start": 22.578,
+            "end": 22.798,
+            "score": 0.674
+        },
+        {
+            "word": "the",
+            "start": 24.038,
+            "end": 24.278,
+            "score": 0.783
+        },
+        {
+            "word": "problem.",
+            "start": 24.679,
+            "end": 25.079,
+            "score": 0.636
+        },
+        {
+            "word": "So",
+            "start": 26.82,
+            "end": 26.98,
+            "score": 0.784
+        },
+        {
+            "word": "the",
+            "start": 27.0,
+            "end": 27.12,
+            "score": 0.744
+        },
+        {
+            "word": "company",
+            "start": 27.16,
+            "end": 27.62,
+            "score": 0.91
+        },
+        {
+            "word": "has",
+            "start": 29.382,
+            "end": 29.582,
+            "score": 0.962
+        },
+        {
+            "word": "to",
+            "start": 29.642,
+            "end": 29.842,
+            "score": 0.898
+        },
+        {
+            "word": "improve",
+            "start": 30.042,
+            "end": 30.463,
+            "score": 0.867
+        },
+        {
+            "word": "their",
+            "start": 30.883,
+            "end": 31.203,
+            "score": 0.802
+        },
+        {
+            "word": "business",
+            "start": 33.265,
+            "end": 33.685,
+            "score": 0.818
+        },
+        {
+            "word": "record",
+            "start": 33.725,
+            "end": 34.166,
+            "score": 0.912
+        },
+        {
+            "word": "so",
+            "start": 34.846,
+            "end": 35.146,
+            "score": 0.794
+        },
+        {
+            "word": "government",
+            "start": 37.268,
+            "end": 37.749,
+            "score": 0.881
+        },
+        {
+            "word": "should",
+            "start": 38.389,
+            "end": 38.609,
+            "score": 0.742
+        },
+        {
+            "word": "not",
+            "start": 38.649,
+            "end": 38.849,
+            "score": 0.931
+        },
+        {
+            "word": "require",
+            "start": 39.43,
+            "end": 39.77,
+            "score": 0.271
+        },
+        {
+            "word": "the",
+            "start": 42.592,
+            "end": 42.733,
+            "score": 0.161
+        },
+        {
+            "word": "should",
+            "start": 50.267,
+            "end": 50.447,
+            "score": 0.629
+        },
+        {
+            "word": "not",
+            "start": 50.467,
+            "end": 50.607,
+            "score": 0.719
+        },
+        {
+            "word": "require",
+            "start": 50.707,
+            "end": 51.308,
+            "score": 0.766
+        },
+        {
+            "word": "the",
+            "start": 51.528,
+            "end": 51.628,
+            "score": 0.89
+        },
+        {
+            "word": "warning.",
+            "start": 51.648,
+            "end": 51.988,
+            "score": 0.787
+        },
+        {
+            "word": "So",
+            "start": 53.929,
+            "end": 54.109,
+            "score": 0.776
+        },
+        {
+            "word": "the",
+            "start": 54.129,
+            "end": 54.289,
+            "score": 0.761
+        },
+        {
+            "word": "company",
+            "start": 54.329,
+            "end": 54.769,
+            "score": 0.795
+        },
+        {
+            "word": "has",
+            "start": 57.631,
+            "end": 57.851,
+            "score": 0.885
+        },
+        {
+            "word": "a",
+            "start": 58.771,
+            "end": 58.931,
+            "score": 0.847
+        },
+        {
+            "word": "guilty",
+            "start": 61.252,
+            "end": 61.653,
+            "score": 0.852
+        },
+        {
+            "word": "of,",
+            "start": 61.893,
+            "end": 62.033,
+            "score": 0.873
+        },
+        {
+            "word": "yeah.",
+            "start": 71.097,
+            "end": 71.237,
+            "score": 0.464
+        }
+    ]
+}

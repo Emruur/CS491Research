@@ -1,0 +1,805 @@
+{
+    "segments": [
+        {
+            "start": 0.009,
+            "end": 26.0,
+            "text": " yeah right now you are in telephone company and you need just five minutes by walk to get to drugstore just go east with park road then you will turn left with the 10th street and you will go north so after that you will across the high street and you just when you cross high street you will see the drugstore in your right hand",
+            "words": [
+                {
+                    "word": "yeah",
+                    "start": 0.009,
+                    "end": 0.289,
+                    "score": 0.62
+                },
+                {
+                    "word": "right",
+                    "start": 0.329,
+                    "end": 0.549,
+                    "score": 0.815
+                },
+                {
+                    "word": "now",
+                    "start": 0.609,
+                    "end": 0.769,
+                    "score": 0.887
+                },
+                {
+                    "word": "you",
+                    "start": 0.789,
+                    "end": 0.909,
+                    "score": 0.764
+                },
+                {
+                    "word": "are",
+                    "start": 0.989,
+                    "end": 1.109,
+                    "score": 0.664
+                },
+                {
+                    "word": "in",
+                    "start": 1.21,
+                    "end": 1.29,
+                    "score": 0.9
+                },
+                {
+                    "word": "telephone",
+                    "start": 1.33,
+                    "end": 1.77,
+                    "score": 0.93
+                },
+                {
+                    "word": "company",
+                    "start": 1.83,
+                    "end": 2.23,
+                    "score": 0.936
+                },
+                {
+                    "word": "and",
+                    "start": 2.29,
+                    "end": 2.37,
+                    "score": 0.982
+                },
+                {
+                    "word": "you",
+                    "start": 2.41,
+                    "end": 2.49,
+                    "score": 0.937
+                },
+                {
+                    "word": "need",
+                    "start": 2.53,
+                    "end": 2.69,
+                    "score": 0.405
+                },
+                {
+                    "word": "just",
+                    "start": 2.73,
+                    "end": 2.95,
+                    "score": 0.589
+                },
+                {
+                    "word": "five",
+                    "start": 3.05,
+                    "end": 3.33,
+                    "score": 0.81
+                },
+                {
+                    "word": "minutes",
+                    "start": 3.39,
+                    "end": 3.691,
+                    "score": 0.74
+                },
+                {
+                    "word": "by",
+                    "start": 4.311,
+                    "end": 4.511,
+                    "score": 0.942
+                },
+                {
+                    "word": "walk",
+                    "start": 4.551,
+                    "end": 4.771,
+                    "score": 0.93
+                },
+                {
+                    "word": "to",
+                    "start": 4.811,
+                    "end": 4.971,
+                    "score": 0.766
+                },
+                {
+                    "word": "get",
+                    "start": 4.991,
+                    "end": 5.111,
+                    "score": 0.492
+                },
+                {
+                    "word": "to",
+                    "start": 5.191,
+                    "end": 5.631,
+                    "score": 0.894
+                },
+                {
+                    "word": "drugstore",
+                    "start": 6.172,
+                    "end": 6.892,
+                    "score": 0.828
+                },
+                {
+                    "word": "just",
+                    "start": 7.332,
+                    "end": 7.552,
+                    "score": 0.812
+                },
+                {
+                    "word": "go",
+                    "start": 8.272,
+                    "end": 8.513,
+                    "score": 0.996
+                },
+                {
+                    "word": "east",
+                    "start": 8.693,
+                    "end": 8.933,
+                    "score": 0.828
+                },
+                {
+                    "word": "with",
+                    "start": 9.013,
+                    "end": 9.293,
+                    "score": 0.321
+                },
+                {
+                    "word": "park",
+                    "start": 9.553,
+                    "end": 9.913,
+                    "score": 0.869
+                },
+                {
+                    "word": "road",
+                    "start": 10.033,
+                    "end": 10.373,
+                    "score": 0.918
+                },
+                {
+                    "word": "then",
+                    "start": 10.954,
+                    "end": 11.234,
+                    "score": 0.856
+                },
+                {
+                    "word": "you",
+                    "start": 11.434,
+                    "end": 11.614,
+                    "score": 0.914
+                },
+                {
+                    "word": "will",
+                    "start": 11.654,
+                    "end": 12.194,
+                    "score": 0.915
+                },
+                {
+                    "word": "turn",
+                    "start": 12.774,
+                    "end": 13.014,
+                    "score": 0.563
+                },
+                {
+                    "word": "left",
+                    "start": 13.054,
+                    "end": 13.315,
+                    "score": 0.825
+                },
+                {
+                    "word": "with",
+                    "start": 13.415,
+                    "end": 13.615,
+                    "score": 0.907
+                },
+                {
+                    "word": "the",
+                    "start": 13.695,
+                    "end": 13.875,
+                    "score": 0.951
+                },
+                {
+                    "word": "10th",
+                    "start": 14.175,
+                    "end": 14.595,
+                    "score": 0.879
+                },
+                {
+                    "word": "street",
+                    "start": 14.675,
+                    "end": 15.135,
+                    "score": 0.858
+                },
+                {
+                    "word": "and",
+                    "start": 15.415,
+                    "end": 15.516,
+                    "score": 0.809
+                },
+                {
+                    "word": "you",
+                    "start": 15.536,
+                    "end": 15.636,
+                    "score": 0.818
+                },
+                {
+                    "word": "will",
+                    "start": 15.676,
+                    "end": 15.836,
+                    "score": 0.826
+                },
+                {
+                    "word": "go",
+                    "start": 16.076,
+                    "end": 16.276,
+                    "score": 0.708
+                },
+                {
+                    "word": "north",
+                    "start": 16.356,
+                    "end": 16.636,
+                    "score": 0.855
+                },
+                {
+                    "word": "so",
+                    "start": 17.156,
+                    "end": 17.316,
+                    "score": 0.873
+                },
+                {
+                    "word": "after",
+                    "start": 17.396,
+                    "end": 17.576,
+                    "score": 0.975
+                },
+                {
+                    "word": "that",
+                    "start": 17.616,
+                    "end": 17.836,
+                    "score": 0.736
+                },
+                {
+                    "word": "you",
+                    "start": 18.017,
+                    "end": 18.177,
+                    "score": 0.93
+                },
+                {
+                    "word": "will",
+                    "start": 18.217,
+                    "end": 18.497,
+                    "score": 0.844
+                },
+                {
+                    "word": "across",
+                    "start": 18.657,
+                    "end": 18.997,
+                    "score": 0.852
+                },
+                {
+                    "word": "the",
+                    "start": 19.077,
+                    "end": 19.277,
+                    "score": 0.882
+                },
+                {
+                    "word": "high",
+                    "start": 19.457,
+                    "end": 19.757,
+                    "score": 0.79
+                },
+                {
+                    "word": "street",
+                    "start": 19.817,
+                    "end": 20.177,
+                    "score": 0.732
+                },
+                {
+                    "word": "and",
+                    "start": 20.578,
+                    "end": 20.698,
+                    "score": 0.778
+                },
+                {
+                    "word": "you",
+                    "start": 20.798,
+                    "end": 20.998,
+                    "score": 0.937
+                },
+                {
+                    "word": "just",
+                    "start": 21.058,
+                    "end": 21.258,
+                    "score": 0.786
+                },
+                {
+                    "word": "when",
+                    "start": 21.318,
+                    "end": 21.478,
+                    "score": 0.784
+                },
+                {
+                    "word": "you",
+                    "start": 21.498,
+                    "end": 21.718,
+                    "score": 0.908
+                },
+                {
+                    "word": "cross",
+                    "start": 21.838,
+                    "end": 22.138,
+                    "score": 0.886
+                },
+                {
+                    "word": "high",
+                    "start": 22.238,
+                    "end": 22.458,
+                    "score": 0.891
+                },
+                {
+                    "word": "street",
+                    "start": 22.498,
+                    "end": 22.819,
+                    "score": 0.933
+                },
+                {
+                    "word": "you",
+                    "start": 23.159,
+                    "end": 23.259,
+                    "score": 0.938
+                },
+                {
+                    "word": "will",
+                    "start": 23.279,
+                    "end": 23.459,
+                    "score": 0.867
+                },
+                {
+                    "word": "see",
+                    "start": 23.519,
+                    "end": 23.699,
+                    "score": 0.889
+                },
+                {
+                    "word": "the",
+                    "start": 23.779,
+                    "end": 24.079,
+                    "score": 0.752
+                },
+                {
+                    "word": "drugstore",
+                    "start": 24.099,
+                    "end": 24.859,
+                    "score": 0.61
+                },
+                {
+                    "word": "in",
+                    "start": 24.919,
+                    "end": 24.999,
+                    "score": 0.905
+                },
+                {
+                    "word": "your",
+                    "start": 25.04,
+                    "end": 25.26,
+                    "score": 0.787
+                },
+                {
+                    "word": "right",
+                    "start": 25.48,
+                    "end": 25.76,
+                    "score": 0.576
+                },
+                {
+                    "word": "hand",
+                    "start": 25.82,
+                    "end": 26.0,
+                    "score": 0.989
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "yeah",
+            "start": 0.009,
+            "end": 0.289,
+            "score": 0.62
+        },
+        {
+            "word": "right",
+            "start": 0.329,
+            "end": 0.549,
+            "score": 0.815
+        },
+        {
+            "word": "now",
+            "start": 0.609,
+            "end": 0.769,
+            "score": 0.887
+        },
+        {
+            "word": "you",
+            "start": 0.789,
+            "end": 0.909,
+            "score": 0.764
+        },
+        {
+            "word": "are",
+            "start": 0.989,
+            "end": 1.109,
+            "score": 0.664
+        },
+        {
+            "word": "in",
+            "start": 1.21,
+            "end": 1.29,
+            "score": 0.9
+        },
+        {
+            "word": "telephone",
+            "start": 1.33,
+            "end": 1.77,
+            "score": 0.93
+        },
+        {
+            "word": "company",
+            "start": 1.83,
+            "end": 2.23,
+            "score": 0.936
+        },
+        {
+            "word": "and",
+            "start": 2.29,
+            "end": 2.37,
+            "score": 0.982
+        },
+        {
+            "word": "you",
+            "start": 2.41,
+            "end": 2.49,
+            "score": 0.937
+        },
+        {
+            "word": "need",
+            "start": 2.53,
+            "end": 2.69,
+            "score": 0.405
+        },
+        {
+            "word": "just",
+            "start": 2.73,
+            "end": 2.95,
+            "score": 0.589
+        },
+        {
+            "word": "five",
+            "start": 3.05,
+            "end": 3.33,
+            "score": 0.81
+        },
+        {
+            "word": "minutes",
+            "start": 3.39,
+            "end": 3.691,
+            "score": 0.74
+        },
+        {
+            "word": "by",
+            "start": 4.311,
+            "end": 4.511,
+            "score": 0.942
+        },
+        {
+            "word": "walk",
+            "start": 4.551,
+            "end": 4.771,
+            "score": 0.93
+        },
+        {
+            "word": "to",
+            "start": 4.811,
+            "end": 4.971,
+            "score": 0.766
+        },
+        {
+            "word": "get",
+            "start": 4.991,
+            "end": 5.111,
+            "score": 0.492
+        },
+        {
+            "word": "to",
+            "start": 5.191,
+            "end": 5.631,
+            "score": 0.894
+        },
+        {
+            "word": "drugstore",
+            "start": 6.172,
+            "end": 6.892,
+            "score": 0.828
+        },
+        {
+            "word": "just",
+            "start": 7.332,
+            "end": 7.552,
+            "score": 0.812
+        },
+        {
+            "word": "go",
+            "start": 8.272,
+            "end": 8.513,
+            "score": 0.996
+        },
+        {
+            "word": "east",
+            "start": 8.693,
+            "end": 8.933,
+            "score": 0.828
+        },
+        {
+            "word": "with",
+            "start": 9.013,
+            "end": 9.293,
+            "score": 0.321
+        },
+        {
+            "word": "park",
+            "start": 9.553,
+            "end": 9.913,
+            "score": 0.869
+        },
+        {
+            "word": "road",
+            "start": 10.033,
+            "end": 10.373,
+            "score": 0.918
+        },
+        {
+            "word": "then",
+            "start": 10.954,
+            "end": 11.234,
+            "score": 0.856
+        },
+        {
+            "word": "you",
+            "start": 11.434,
+            "end": 11.614,
+            "score": 0.914
+        },
+        {
+            "word": "will",
+            "start": 11.654,
+            "end": 12.194,
+            "score": 0.915
+        },
+        {
+            "word": "turn",
+            "start": 12.774,
+            "end": 13.014,
+            "score": 0.563
+        },
+        {
+            "word": "left",
+            "start": 13.054,
+            "end": 13.315,
+            "score": 0.825
+        },
+        {
+            "word": "with",
+            "start": 13.415,
+            "end": 13.615,
+            "score": 0.907
+        },
+        {
+            "word": "the",
+            "start": 13.695,
+            "end": 13.875,
+            "score": 0.951
+        },
+        {
+            "word": "10th",
+            "start": 14.175,
+            "end": 14.595,
+            "score": 0.879
+        },
+        {
+            "word": "street",
+            "start": 14.675,
+            "end": 15.135,
+            "score": 0.858
+        },
+        {
+            "word": "and",
+            "start": 15.415,
+            "end": 15.516,
+            "score": 0.809
+        },
+        {
+            "word": "you",
+            "start": 15.536,
+            "end": 15.636,
+            "score": 0.818
+        },
+        {
+            "word": "will",
+            "start": 15.676,
+            "end": 15.836,
+            "score": 0.826
+        },
+        {
+            "word": "go",
+            "start": 16.076,
+            "end": 16.276,
+            "score": 0.708
+        },
+        {
+            "word": "north",
+            "start": 16.356,
+            "end": 16.636,
+            "score": 0.855
+        },
+        {
+            "word": "so",
+            "start": 17.156,
+            "end": 17.316,
+            "score": 0.873
+        },
+        {
+            "word": "after",
+            "start": 17.396,
+            "end": 17.576,
+            "score": 0.975
+        },
+        {
+            "word": "that",
+            "start": 17.616,
+            "end": 17.836,
+            "score": 0.736
+        },
+        {
+            "word": "you",
+            "start": 18.017,
+            "end": 18.177,
+            "score": 0.93
+        },
+        {
+            "word": "will",
+            "start": 18.217,
+            "end": 18.497,
+            "score": 0.844
+        },
+        {
+            "word": "across",
+            "start": 18.657,
+            "end": 18.997,
+            "score": 0.852
+        },
+        {
+            "word": "the",
+            "start": 19.077,
+            "end": 19.277,
+            "score": 0.882
+        },
+        {
+            "word": "high",
+            "start": 19.457,
+            "end": 19.757,
+            "score": 0.79
+        },
+        {
+            "word": "street",
+            "start": 19.817,
+            "end": 20.177,
+            "score": 0.732
+        },
+        {
+            "word": "and",
+            "start": 20.578,
+            "end": 20.698,
+            "score": 0.778
+        },
+        {
+            "word": "you",
+            "start": 20.798,
+            "end": 20.998,
+            "score": 0.937
+        },
+        {
+            "word": "just",
+            "start": 21.058,
+            "end": 21.258,
+            "score": 0.786
+        },
+        {
+            "word": "when",
+            "start": 21.318,
+            "end": 21.478,
+            "score": 0.784
+        },
+        {
+            "word": "you",
+            "start": 21.498,
+            "end": 21.718,
+            "score": 0.908
+        },
+        {
+            "word": "cross",
+            "start": 21.838,
+            "end": 22.138,
+            "score": 0.886
+        },
+        {
+            "word": "high",
+            "start": 22.238,
+            "end": 22.458,
+            "score": 0.891
+        },
+        {
+            "word": "street",
+            "start": 22.498,
+            "end": 22.819,
+            "score": 0.933
+        },
+        {
+            "word": "you",
+            "start": 23.159,
+            "end": 23.259,
+            "score": 0.938
+        },
+        {
+            "word": "will",
+            "start": 23.279,
+            "end": 23.459,
+            "score": 0.867
+        },
+        {
+            "word": "see",
+            "start": 23.519,
+            "end": 23.699,
+            "score": 0.889
+        },
+        {
+            "word": "the",
+            "start": 23.779,
+            "end": 24.079,
+            "score": 0.752
+        },
+        {
+            "word": "drugstore",
+            "start": 24.099,
+            "end": 24.859,
+            "score": 0.61
+        },
+        {
+            "word": "in",
+            "start": 24.919,
+            "end": 24.999,
+            "score": 0.905
+        },
+        {
+            "word": "your",
+            "start": 25.04,
+            "end": 25.26,
+            "score": 0.787
+        },
+        {
+            "word": "right",
+            "start": 25.48,
+            "end": 25.76,
+            "score": 0.576
+        },
+        {
+            "word": "hand",
+            "start": 25.82,
+            "end": 26.0,
+            "score": 0.989
+        }
+    ]
+}

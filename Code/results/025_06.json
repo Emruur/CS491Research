@@ -1,0 +1,869 @@
+{
+    "segments": [
+        {
+            "start": 4.093,
+            "end": 9.156,
+            "text": " Yeah, I agree with the opinion.",
+            "words": [
+                {
+                    "word": "Yeah,",
+                    "start": 4.093,
+                    "end": 4.974,
+                    "score": 0.597
+                },
+                {
+                    "word": "I",
+                    "start": 6.675,
+                    "end": 6.795,
+                    "score": 0.759
+                },
+                {
+                    "word": "agree",
+                    "start": 7.956,
+                    "end": 8.196,
+                    "score": 0.732
+                },
+                {
+                    "word": "with",
+                    "start": 8.236,
+                    "end": 8.376,
+                    "score": 0.537
+                },
+                {
+                    "word": "the",
+                    "start": 8.416,
+                    "end": 8.616,
+                    "score": 0.551
+                },
+                {
+                    "word": "opinion.",
+                    "start": 8.756,
+                    "end": 9.156,
+                    "score": 0.93
+                }
+            ]
+        },
+        {
+            "start": 9.917,
+            "end": 22.526,
+            "text": "Some cities want to make no car zones in the city center because it can reduce the accidents between cars and humans.",
+            "words": [
+                {
+                    "word": "Some",
+                    "start": 9.917,
+                    "end": 10.117,
+                    "score": 0.938
+                },
+                {
+                    "word": "cities",
+                    "start": 10.137,
+                    "end": 10.517,
+                    "score": 0.619
+                },
+                {
+                    "word": "want",
+                    "start": 10.577,
+                    "end": 10.738,
+                    "score": 0.712
+                },
+                {
+                    "word": "to",
+                    "start": 10.758,
+                    "end": 10.838,
+                    "score": 0.754
+                },
+                {
+                    "word": "make",
+                    "start": 10.878,
+                    "end": 11.078,
+                    "score": 0.754
+                },
+                {
+                    "word": "no",
+                    "start": 11.158,
+                    "end": 11.298,
+                    "score": 0.928
+                },
+                {
+                    "word": "car",
+                    "start": 11.358,
+                    "end": 11.518,
+                    "score": 0.957
+                },
+                {
+                    "word": "zones",
+                    "start": 11.558,
+                    "end": 11.858,
+                    "score": 0.549
+                },
+                {
+                    "word": "in",
+                    "start": 11.878,
+                    "end": 11.918,
+                    "score": 0.0
+                },
+                {
+                    "word": "the",
+                    "start": 13.159,
+                    "end": 13.279,
+                    "score": 0.854
+                },
+                {
+                    "word": "city",
+                    "start": 13.299,
+                    "end": 13.56,
+                    "score": 0.966
+                },
+                {
+                    "word": "center",
+                    "start": 13.6,
+                    "end": 13.98,
+                    "score": 0.759
+                },
+                {
+                    "word": "because",
+                    "start": 15.861,
+                    "end": 16.181,
+                    "score": 0.898
+                },
+                {
+                    "word": "it",
+                    "start": 16.281,
+                    "end": 16.361,
+                    "score": 0.256
+                },
+                {
+                    "word": "can",
+                    "start": 16.401,
+                    "end": 16.722,
+                    "score": 0.896
+                },
+                {
+                    "word": "reduce",
+                    "start": 17.022,
+                    "end": 17.502,
+                    "score": 0.981
+                },
+                {
+                    "word": "the",
+                    "start": 17.862,
+                    "end": 18.103,
+                    "score": 0.849
+                },
+                {
+                    "word": "accidents",
+                    "start": 18.123,
+                    "end": 19.223,
+                    "score": 0.638
+                },
+                {
+                    "word": "between",
+                    "start": 20.044,
+                    "end": 20.384,
+                    "score": 0.892
+                },
+                {
+                    "word": "cars",
+                    "start": 20.484,
+                    "end": 20.824,
+                    "score": 0.867
+                },
+                {
+                    "word": "and",
+                    "start": 20.885,
+                    "end": 21.085,
+                    "score": 0.537
+                },
+                {
+                    "word": "humans.",
+                    "start": 22.185,
+                    "end": 22.526,
+                    "score": 0.596
+                }
+            ]
+        },
+        {
+            "start": 25.013,
+            "end": 36.198,
+            "text": " and it is helpful to reduce pollution, especially air pollution.",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 25.013,
+                    "end": 25.173,
+                    "score": 0.74
+                },
+                {
+                    "word": "it",
+                    "start": 25.193,
+                    "end": 25.233,
+                    "score": 0.0
+                },
+                {
+                    "word": "is",
+                    "start": 26.294,
+                    "end": 26.694,
+                    "score": 0.65
+                },
+                {
+                    "word": "helpful",
+                    "start": 27.134,
+                    "end": 27.854,
+                    "score": 0.735
+                },
+                {
+                    "word": "to",
+                    "start": 28.855,
+                    "end": 29.215,
+                    "score": 0.966
+                },
+                {
+                    "word": "reduce",
+                    "start": 29.595,
+                    "end": 29.975,
+                    "score": 0.952
+                },
+                {
+                    "word": "pollution,",
+                    "start": 31.276,
+                    "end": 31.876,
+                    "score": 0.774
+                },
+                {
+                    "word": "especially",
+                    "start": 34.537,
+                    "end": 35.118,
+                    "score": 0.92
+                },
+                {
+                    "word": "air",
+                    "start": 35.138,
+                    "end": 35.718,
+                    "score": 0.768
+                },
+                {
+                    "word": "pollution.",
+                    "start": 35.758,
+                    "end": 36.198,
+                    "score": 0.622
+                }
+            ]
+        },
+        {
+            "start": 38.199,
+            "end": 51.125,
+            "text": "In Korea, we already have no car zones and no car zones can make the city clean.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 38.199,
+                    "end": 38.299,
+                    "score": 0.852
+                },
+                {
+                    "word": "Korea,",
+                    "start": 38.339,
+                    "end": 39.139,
+                    "score": 0.622
+                },
+                {
+                    "word": "we",
+                    "start": 39.66,
+                    "end": 39.9,
+                    "score": 0.938
+                },
+                {
+                    "word": "already",
+                    "start": 40.06,
+                    "end": 40.4,
+                    "score": 0.942
+                },
+                {
+                    "word": "have",
+                    "start": 40.46,
+                    "end": 40.7,
+                    "score": 0.907
+                },
+                {
+                    "word": "no",
+                    "start": 41.22,
+                    "end": 41.481,
+                    "score": 0.97
+                },
+                {
+                    "word": "car",
+                    "start": 41.621,
+                    "end": 42.281,
+                    "score": 0.733
+                },
+                {
+                    "word": "zones",
+                    "start": 42.561,
+                    "end": 42.941,
+                    "score": 0.573
+                },
+                {
+                    "word": "and",
+                    "start": 45.502,
+                    "end": 45.842,
+                    "score": 0.898
+                },
+                {
+                    "word": "no",
+                    "start": 47.063,
+                    "end": 47.223,
+                    "score": 0.903
+                },
+                {
+                    "word": "car",
+                    "start": 47.283,
+                    "end": 47.543,
+                    "score": 0.771
+                },
+                {
+                    "word": "zones",
+                    "start": 47.563,
+                    "end": 48.023,
+                    "score": 0.73
+                },
+                {
+                    "word": "can",
+                    "start": 49.104,
+                    "end": 49.324,
+                    "score": 0.805
+                },
+                {
+                    "word": "make",
+                    "start": 49.364,
+                    "end": 49.624,
+                    "score": 0.881
+                },
+                {
+                    "word": "the",
+                    "start": 49.724,
+                    "end": 49.944,
+                    "score": 0.63
+                },
+                {
+                    "word": "city",
+                    "start": 49.984,
+                    "end": 50.284,
+                    "score": 0.7
+                },
+                {
+                    "word": "clean.",
+                    "start": 50.865,
+                    "end": 51.125,
+                    "score": 0.943
+                }
+            ]
+        },
+        {
+            "start": 52.566,
+            "end": 60.07,
+            "text": " It is a good idea to make a no-car zone in the city center.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 52.566,
+                    "end": 52.666,
+                    "score": 0.628
+                },
+                {
+                    "word": "is",
+                    "start": 52.746,
+                    "end": 52.886,
+                    "score": 0.791
+                },
+                {
+                    "word": "a",
+                    "start": 53.026,
+                    "end": 53.106,
+                    "score": 0.703
+                },
+                {
+                    "word": "good",
+                    "start": 53.526,
+                    "end": 53.746,
+                    "score": 0.906
+                },
+                {
+                    "word": "idea",
+                    "start": 53.866,
+                    "end": 54.187,
+                    "score": 0.923
+                },
+                {
+                    "word": "to",
+                    "start": 54.207,
+                    "end": 54.247,
+                    "score": 0.0
+                },
+                {
+                    "word": "make",
+                    "start": 54.947,
+                    "end": 55.427,
+                    "score": 0.847
+                },
+                {
+                    "word": "a",
+                    "start": 55.447,
+                    "end": 55.467,
+                    "score": 0.008
+                },
+                {
+                    "word": "no-car",
+                    "start": 57.188,
+                    "end": 57.809,
+                    "score": 0.898
+                },
+                {
+                    "word": "zone",
+                    "start": 58.249,
+                    "end": 58.669,
+                    "score": 0.77
+                },
+                {
+                    "word": "in",
+                    "start": 59.049,
+                    "end": 59.129,
+                    "score": 0.984
+                },
+                {
+                    "word": "the",
+                    "start": 59.149,
+                    "end": 59.309,
+                    "score": 0.911
+                },
+                {
+                    "word": "city",
+                    "start": 59.47,
+                    "end": 59.75,
+                    "score": 0.712
+                },
+                {
+                    "word": "center.",
+                    "start": 59.77,
+                    "end": 60.07,
+                    "score": 0.818
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Yeah,",
+            "start": 4.093,
+            "end": 4.974,
+            "score": 0.597
+        },
+        {
+            "word": "I",
+            "start": 6.675,
+            "end": 6.795,
+            "score": 0.759
+        },
+        {
+            "word": "agree",
+            "start": 7.956,
+            "end": 8.196,
+            "score": 0.732
+        },
+        {
+            "word": "with",
+            "start": 8.236,
+            "end": 8.376,
+            "score": 0.537
+        },
+        {
+            "word": "the",
+            "start": 8.416,
+            "end": 8.616,
+            "score": 0.551
+        },
+        {
+            "word": "opinion.",
+            "start": 8.756,
+            "end": 9.156,
+            "score": 0.93
+        },
+        {
+            "word": "Some",
+            "start": 9.917,
+            "end": 10.117,
+            "score": 0.938
+        },
+        {
+            "word": "cities",
+            "start": 10.137,
+            "end": 10.517,
+            "score": 0.619
+        },
+        {
+            "word": "want",
+            "start": 10.577,
+            "end": 10.738,
+            "score": 0.712
+        },
+        {
+            "word": "to",
+            "start": 10.758,
+            "end": 10.838,
+            "score": 0.754
+        },
+        {
+            "word": "make",
+            "start": 10.878,
+            "end": 11.078,
+            "score": 0.754
+        },
+        {
+            "word": "no",
+            "start": 11.158,
+            "end": 11.298,
+            "score": 0.928
+        },
+        {
+            "word": "car",
+            "start": 11.358,
+            "end": 11.518,
+            "score": 0.957
+        },
+        {
+            "word": "zones",
+            "start": 11.558,
+            "end": 11.858,
+            "score": 0.549
+        },
+        {
+            "word": "in",
+            "start": 11.878,
+            "end": 11.918,
+            "score": 0.0
+        },
+        {
+            "word": "the",
+            "start": 13.159,
+            "end": 13.279,
+            "score": 0.854
+        },
+        {
+            "word": "city",
+            "start": 13.299,
+            "end": 13.56,
+            "score": 0.966
+        },
+        {
+            "word": "center",
+            "start": 13.6,
+            "end": 13.98,
+            "score": 0.759
+        },
+        {
+            "word": "because",
+            "start": 15.861,
+            "end": 16.181,
+            "score": 0.898
+        },
+        {
+            "word": "it",
+            "start": 16.281,
+            "end": 16.361,
+            "score": 0.256
+        },
+        {
+            "word": "can",
+            "start": 16.401,
+            "end": 16.722,
+            "score": 0.896
+        },
+        {
+            "word": "reduce",
+            "start": 17.022,
+            "end": 17.502,
+            "score": 0.981
+        },
+        {
+            "word": "the",
+            "start": 17.862,
+            "end": 18.103,
+            "score": 0.849
+        },
+        {
+            "word": "accidents",
+            "start": 18.123,
+            "end": 19.223,
+            "score": 0.638
+        },
+        {
+            "word": "between",
+            "start": 20.044,
+            "end": 20.384,
+            "score": 0.892
+        },
+        {
+            "word": "cars",
+            "start": 20.484,
+            "end": 20.824,
+            "score": 0.867
+        },
+        {
+            "word": "and",
+            "start": 20.885,
+            "end": 21.085,
+            "score": 0.537
+        },
+        {
+            "word": "humans.",
+            "start": 22.185,
+            "end": 22.526,
+            "score": 0.596
+        },
+        {
+            "word": "and",
+            "start": 25.013,
+            "end": 25.173,
+            "score": 0.74
+        },
+        {
+            "word": "it",
+            "start": 25.193,
+            "end": 25.233,
+            "score": 0.0
+        },
+        {
+            "word": "is",
+            "start": 26.294,
+            "end": 26.694,
+            "score": 0.65
+        },
+        {
+            "word": "helpful",
+            "start": 27.134,
+            "end": 27.854,
+            "score": 0.735
+        },
+        {
+            "word": "to",
+            "start": 28.855,
+            "end": 29.215,
+            "score": 0.966
+        },
+        {
+            "word": "reduce",
+            "start": 29.595,
+            "end": 29.975,
+            "score": 0.952
+        },
+        {
+            "word": "pollution,",
+            "start": 31.276,
+            "end": 31.876,
+            "score": 0.774
+        },
+        {
+            "word": "especially",
+            "start": 34.537,
+            "end": 35.118,
+            "score": 0.92
+        },
+        {
+            "word": "air",
+            "start": 35.138,
+            "end": 35.718,
+            "score": 0.768
+        },
+        {
+            "word": "pollution.",
+            "start": 35.758,
+            "end": 36.198,
+            "score": 0.622
+        },
+        {
+            "word": "In",
+            "start": 38.199,
+            "end": 38.299,
+            "score": 0.852
+        },
+        {
+            "word": "Korea,",
+            "start": 38.339,
+            "end": 39.139,
+            "score": 0.622
+        },
+        {
+            "word": "we",
+            "start": 39.66,
+            "end": 39.9,
+            "score": 0.938
+        },
+        {
+            "word": "already",
+            "start": 40.06,
+            "end": 40.4,
+            "score": 0.942
+        },
+        {
+            "word": "have",
+            "start": 40.46,
+            "end": 40.7,
+            "score": 0.907
+        },
+        {
+            "word": "no",
+            "start": 41.22,
+            "end": 41.481,
+            "score": 0.97
+        },
+        {
+            "word": "car",
+            "start": 41.621,
+            "end": 42.281,
+            "score": 0.733
+        },
+        {
+            "word": "zones",
+            "start": 42.561,
+            "end": 42.941,
+            "score": 0.573
+        },
+        {
+            "word": "and",
+            "start": 45.502,
+            "end": 45.842,
+            "score": 0.898
+        },
+        {
+            "word": "no",
+            "start": 47.063,
+            "end": 47.223,
+            "score": 0.903
+        },
+        {
+            "word": "car",
+            "start": 47.283,
+            "end": 47.543,
+            "score": 0.771
+        },
+        {
+            "word": "zones",
+            "start": 47.563,
+            "end": 48.023,
+            "score": 0.73
+        },
+        {
+            "word": "can",
+            "start": 49.104,
+            "end": 49.324,
+            "score": 0.805
+        },
+        {
+            "word": "make",
+            "start": 49.364,
+            "end": 49.624,
+            "score": 0.881
+        },
+        {
+            "word": "the",
+            "start": 49.724,
+            "end": 49.944,
+            "score": 0.63
+        },
+        {
+            "word": "city",
+            "start": 49.984,
+            "end": 50.284,
+            "score": 0.7
+        },
+        {
+            "word": "clean.",
+            "start": 50.865,
+            "end": 51.125,
+            "score": 0.943
+        },
+        {
+            "word": "It",
+            "start": 52.566,
+            "end": 52.666,
+            "score": 0.628
+        },
+        {
+            "word": "is",
+            "start": 52.746,
+            "end": 52.886,
+            "score": 0.791
+        },
+        {
+            "word": "a",
+            "start": 53.026,
+            "end": 53.106,
+            "score": 0.703
+        },
+        {
+            "word": "good",
+            "start": 53.526,
+            "end": 53.746,
+            "score": 0.906
+        },
+        {
+            "word": "idea",
+            "start": 53.866,
+            "end": 54.187,
+            "score": 0.923
+        },
+        {
+            "word": "to",
+            "start": 54.207,
+            "end": 54.247,
+            "score": 0.0
+        },
+        {
+            "word": "make",
+            "start": 54.947,
+            "end": 55.427,
+            "score": 0.847
+        },
+        {
+            "word": "a",
+            "start": 55.447,
+            "end": 55.467,
+            "score": 0.008
+        },
+        {
+            "word": "no-car",
+            "start": 57.188,
+            "end": 57.809,
+            "score": 0.898
+        },
+        {
+            "word": "zone",
+            "start": 58.249,
+            "end": 58.669,
+            "score": 0.77
+        },
+        {
+            "word": "in",
+            "start": 59.049,
+            "end": 59.129,
+            "score": 0.984
+        },
+        {
+            "word": "the",
+            "start": 59.149,
+            "end": 59.309,
+            "score": 0.911
+        },
+        {
+            "word": "city",
+            "start": 59.47,
+            "end": 59.75,
+            "score": 0.712
+        },
+        {
+            "word": "center.",
+            "start": 59.77,
+            "end": 60.07,
+            "score": 0.818
+        }
+    ]
+}

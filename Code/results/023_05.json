@@ -1,0 +1,990 @@
+{
+    "segments": [
+        {
+            "start": 0.169,
+            "end": 15.043,
+            "text": " Yes, I strongly agree that the government should require health warning labels for labels who work in companies which produce soda cans and Pepsi.",
+            "words": [
+                {
+                    "word": "Yes,",
+                    "start": 0.169,
+                    "end": 0.489,
+                    "score": 0.896
+                },
+                {
+                    "word": "I",
+                    "start": 0.93,
+                    "end": 1.13,
+                    "score": 0.737
+                },
+                {
+                    "word": "strongly",
+                    "start": 1.691,
+                    "end": 2.371,
+                    "score": 0.783
+                },
+                {
+                    "word": "agree",
+                    "start": 2.451,
+                    "end": 2.852,
+                    "score": 0.862
+                },
+                {
+                    "word": "that",
+                    "start": 3.072,
+                    "end": 3.232,
+                    "score": 0.302
+                },
+                {
+                    "word": "the",
+                    "start": 3.252,
+                    "end": 3.332,
+                    "score": 0.67
+                },
+                {
+                    "word": "government",
+                    "start": 5.294,
+                    "end": 5.914,
+                    "score": 0.84
+                },
+                {
+                    "word": "should",
+                    "start": 6.095,
+                    "end": 6.315,
+                    "score": 0.887
+                },
+                {
+                    "word": "require",
+                    "start": 6.375,
+                    "end": 6.775,
+                    "score": 0.83
+                },
+                {
+                    "word": "health",
+                    "start": 6.795,
+                    "end": 7.316,
+                    "score": 0.715
+                },
+                {
+                    "word": "warning",
+                    "start": 7.356,
+                    "end": 7.696,
+                    "score": 0.552
+                },
+                {
+                    "word": "labels",
+                    "start": 7.776,
+                    "end": 8.197,
+                    "score": 0.845
+                },
+                {
+                    "word": "for",
+                    "start": 10.218,
+                    "end": 10.859,
+                    "score": 0.833
+                },
+                {
+                    "word": "labels",
+                    "start": 10.919,
+                    "end": 11.339,
+                    "score": 0.823
+                },
+                {
+                    "word": "who",
+                    "start": 11.42,
+                    "end": 11.64,
+                    "score": 0.894
+                },
+                {
+                    "word": "work",
+                    "start": 11.7,
+                    "end": 11.98,
+                    "score": 0.839
+                },
+                {
+                    "word": "in",
+                    "start": 12.1,
+                    "end": 12.24,
+                    "score": 0.764
+                },
+                {
+                    "word": "companies",
+                    "start": 12.721,
+                    "end": 13.161,
+                    "score": 0.86
+                },
+                {
+                    "word": "which",
+                    "start": 13.221,
+                    "end": 13.461,
+                    "score": 0.473
+                },
+                {
+                    "word": "produce",
+                    "start": 14.082,
+                    "end": 14.342,
+                    "score": 0.244
+                },
+                {
+                    "word": "soda",
+                    "start": 14.382,
+                    "end": 14.462,
+                    "score": 0.003
+                },
+                {
+                    "word": "cans",
+                    "start": 14.482,
+                    "end": 14.562,
+                    "score": 0.032
+                },
+                {
+                    "word": "and",
+                    "start": 14.582,
+                    "end": 14.743,
+                    "score": 0.71
+                },
+                {
+                    "word": "Pepsi.",
+                    "start": 14.843,
+                    "end": 15.043,
+                    "score": 0.298
+                }
+            ]
+        },
+        {
+            "start": 23.09,
+            "end": 33.672,
+            "text": " And also, you know, the opacity is extremely increasing these days.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 23.09,
+                    "end": 23.21,
+                    "score": 0.778
+                },
+                {
+                    "word": "also,",
+                    "start": 23.39,
+                    "end": 23.79,
+                    "score": 0.934
+                },
+                {
+                    "word": "you",
+                    "start": 23.81,
+                    "end": 23.87,
+                    "score": 0.004
+                },
+                {
+                    "word": "know,",
+                    "start": 24.39,
+                    "end": 24.57,
+                    "score": 0.774
+                },
+                {
+                    "word": "the",
+                    "start": 24.61,
+                    "end": 24.91,
+                    "score": 0.847
+                },
+                {
+                    "word": "opacity",
+                    "start": 25.191,
+                    "end": 27.711,
+                    "score": 0.802
+                },
+                {
+                    "word": "is",
+                    "start": 28.611,
+                    "end": 28.751,
+                    "score": 0.62
+                },
+                {
+                    "word": "extremely",
+                    "start": 30.292,
+                    "end": 31.092,
+                    "score": 0.737
+                },
+                {
+                    "word": "increasing",
+                    "start": 31.112,
+                    "end": 32.672,
+                    "score": 0.723
+                },
+                {
+                    "word": "these",
+                    "start": 33.112,
+                    "end": 33.312,
+                    "score": 0.846
+                },
+                {
+                    "word": "days.",
+                    "start": 33.372,
+                    "end": 33.672,
+                    "score": 0.757
+                }
+            ]
+        },
+        {
+            "start": 34.573,
+            "end": 41.154,
+            "text": "And the cause behind that, because it executes fat.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 34.573,
+                    "end": 34.693,
+                    "score": 0.63
+                },
+                {
+                    "word": "the",
+                    "start": 34.813,
+                    "end": 34.913,
+                    "score": 0.945
+                },
+                {
+                    "word": "cause",
+                    "start": 34.953,
+                    "end": 37.273,
+                    "score": 0.709
+                },
+                {
+                    "word": "behind",
+                    "start": 37.353,
+                    "end": 37.713,
+                    "score": 0.909
+                },
+                {
+                    "word": "that,",
+                    "start": 37.773,
+                    "end": 38.013,
+                    "score": 0.858
+                },
+                {
+                    "word": "because",
+                    "start": 38.073,
+                    "end": 38.574,
+                    "score": 0.912
+                },
+                {
+                    "word": "it",
+                    "start": 39.114,
+                    "end": 39.194,
+                    "score": 0.989
+                },
+                {
+                    "word": "executes",
+                    "start": 39.334,
+                    "end": 39.994,
+                    "score": 0.848
+                },
+                {
+                    "word": "fat.",
+                    "start": 40.814,
+                    "end": 41.154,
+                    "score": 0.924
+                }
+            ]
+        },
+        {
+            "start": 41.754,
+            "end": 44.195,
+            "text": "And also, right now, people, they are...",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 41.754,
+                    "end": 41.874,
+                    "score": 0.762
+                },
+                {
+                    "word": "also,",
+                    "start": 42.074,
+                    "end": 42.454,
+                    "score": 0.66
+                },
+                {
+                    "word": "right",
+                    "start": 42.715,
+                    "end": 42.915,
+                    "score": 0.879
+                },
+                {
+                    "word": "now,",
+                    "start": 42.955,
+                    "end": 43.195,
+                    "score": 0.857
+                },
+                {
+                    "word": "people,",
+                    "start": 43.315,
+                    "end": 43.715,
+                    "score": 0.805
+                },
+                {
+                    "word": "they",
+                    "start": 43.775,
+                    "end": 43.935,
+                    "score": 0.992
+                },
+                {
+                    "word": "are...",
+                    "start": 44.095,
+                    "end": 44.195,
+                    "score": 0.888
+                }
+            ]
+        },
+        {
+            "start": 45.275,
+            "end": 54.679,
+            "text": " consuming soda and Pepsi more than they did in the past, for example, in the last 30 years.",
+            "words": [
+                {
+                    "word": "consuming",
+                    "start": 45.275,
+                    "end": 46.035,
+                    "score": 0.905
+                },
+                {
+                    "word": "soda",
+                    "start": 46.356,
+                    "end": 46.776,
+                    "score": 0.9
+                },
+                {
+                    "word": "and",
+                    "start": 46.896,
+                    "end": 47.016,
+                    "score": 0.679
+                },
+                {
+                    "word": "Pepsi",
+                    "start": 47.196,
+                    "end": 47.736,
+                    "score": 0.809
+                },
+                {
+                    "word": "more",
+                    "start": 47.956,
+                    "end": 48.476,
+                    "score": 0.773
+                },
+                {
+                    "word": "than",
+                    "start": 48.496,
+                    "end": 48.576,
+                    "score": 0.007
+                },
+                {
+                    "word": "they",
+                    "start": 49.337,
+                    "end": 49.777,
+                    "score": 0.706
+                },
+                {
+                    "word": "did",
+                    "start": 49.817,
+                    "end": 50.037,
+                    "score": 0.8
+                },
+                {
+                    "word": "in",
+                    "start": 50.137,
+                    "end": 50.197,
+                    "score": 0.998
+                },
+                {
+                    "word": "the",
+                    "start": 50.237,
+                    "end": 50.357,
+                    "score": 0.897
+                },
+                {
+                    "word": "past,",
+                    "start": 50.417,
+                    "end": 50.777,
+                    "score": 0.93
+                },
+                {
+                    "word": "for",
+                    "start": 51.538,
+                    "end": 51.718,
+                    "score": 0.934
+                },
+                {
+                    "word": "example,",
+                    "start": 51.758,
+                    "end": 52.478,
+                    "score": 0.707
+                },
+                {
+                    "word": "in",
+                    "start": 52.718,
+                    "end": 52.818,
+                    "score": 0.259
+                },
+                {
+                    "word": "the",
+                    "start": 52.878,
+                    "end": 52.978,
+                    "score": 0.931
+                },
+                {
+                    "word": "last",
+                    "start": 53.018,
+                    "end": 54.359,
+                    "score": 0.786
+                },
+                {
+                    "word": "30"
+                },
+                {
+                    "word": "years.",
+                    "start": 54.419,
+                    "end": 54.679,
+                    "score": 0.719
+                }
+            ]
+        },
+        {
+            "start": 54.699,
+            "end": 60.301,
+            "text": "So yeah, I strongly that the government should require it.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 54.699,
+                    "end": 54.739,
+                    "score": 0.001
+                },
+                {
+                    "word": "yeah,",
+                    "start": 55.879,
+                    "end": 56.179,
+                    "score": 0.752
+                },
+                {
+                    "word": "I",
+                    "start": 56.319,
+                    "end": 56.399,
+                    "score": 0.939
+                },
+                {
+                    "word": "strongly",
+                    "start": 56.479,
+                    "end": 57.56,
+                    "score": 0.791
+                },
+                {
+                    "word": "that",
+                    "start": 58.56,
+                    "end": 58.78,
+                    "score": 0.805
+                },
+                {
+                    "word": "the",
+                    "start": 58.88,
+                    "end": 59.04,
+                    "score": 0.756
+                },
+                {
+                    "word": "government",
+                    "start": 59.06,
+                    "end": 59.541,
+                    "score": 0.8
+                },
+                {
+                    "word": "should",
+                    "start": 59.681,
+                    "end": 59.861,
+                    "score": 0.688
+                },
+                {
+                    "word": "require",
+                    "start": 59.901,
+                    "end": 60.241,
+                    "score": 0.855
+                },
+                {
+                    "word": "it.",
+                    "start": 60.261,
+                    "end": 60.301,
+                    "score": 0.446
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Yes,",
+            "start": 0.169,
+            "end": 0.489,
+            "score": 0.896
+        },
+        {
+            "word": "I",
+            "start": 0.93,
+            "end": 1.13,
+            "score": 0.737
+        },
+        {
+            "word": "strongly",
+            "start": 1.691,
+            "end": 2.371,
+            "score": 0.783
+        },
+        {
+            "word": "agree",
+            "start": 2.451,
+            "end": 2.852,
+            "score": 0.862
+        },
+        {
+            "word": "that",
+            "start": 3.072,
+            "end": 3.232,
+            "score": 0.302
+        },
+        {
+            "word": "the",
+            "start": 3.252,
+            "end": 3.332,
+            "score": 0.67
+        },
+        {
+            "word": "government",
+            "start": 5.294,
+            "end": 5.914,
+            "score": 0.84
+        },
+        {
+            "word": "should",
+            "start": 6.095,
+            "end": 6.315,
+            "score": 0.887
+        },
+        {
+            "word": "require",
+            "start": 6.375,
+            "end": 6.775,
+            "score": 0.83
+        },
+        {
+            "word": "health",
+            "start": 6.795,
+            "end": 7.316,
+            "score": 0.715
+        },
+        {
+            "word": "warning",
+            "start": 7.356,
+            "end": 7.696,
+            "score": 0.552
+        },
+        {
+            "word": "labels",
+            "start": 7.776,
+            "end": 8.197,
+            "score": 0.845
+        },
+        {
+            "word": "for",
+            "start": 10.218,
+            "end": 10.859,
+            "score": 0.833
+        },
+        {
+            "word": "labels",
+            "start": 10.919,
+            "end": 11.339,
+            "score": 0.823
+        },
+        {
+            "word": "who",
+            "start": 11.42,
+            "end": 11.64,
+            "score": 0.894
+        },
+        {
+            "word": "work",
+            "start": 11.7,
+            "end": 11.98,
+            "score": 0.839
+        },
+        {
+            "word": "in",
+            "start": 12.1,
+            "end": 12.24,
+            "score": 0.764
+        },
+        {
+            "word": "companies",
+            "start": 12.721,
+            "end": 13.161,
+            "score": 0.86
+        },
+        {
+            "word": "which",
+            "start": 13.221,
+            "end": 13.461,
+            "score": 0.473
+        },
+        {
+            "word": "produce",
+            "start": 14.082,
+            "end": 14.342,
+            "score": 0.244
+        },
+        {
+            "word": "soda",
+            "start": 14.382,
+            "end": 14.462,
+            "score": 0.003
+        },
+        {
+            "word": "cans",
+            "start": 14.482,
+            "end": 14.562,
+            "score": 0.032
+        },
+        {
+            "word": "and",
+            "start": 14.582,
+            "end": 14.743,
+            "score": 0.71
+        },
+        {
+            "word": "Pepsi.",
+            "start": 14.843,
+            "end": 15.043,
+            "score": 0.298
+        },
+        {
+            "word": "And",
+            "start": 23.09,
+            "end": 23.21,
+            "score": 0.778
+        },
+        {
+            "word": "also,",
+            "start": 23.39,
+            "end": 23.79,
+            "score": 0.934
+        },
+        {
+            "word": "you",
+            "start": 23.81,
+            "end": 23.87,
+            "score": 0.004
+        },
+        {
+            "word": "know,",
+            "start": 24.39,
+            "end": 24.57,
+            "score": 0.774
+        },
+        {
+            "word": "the",
+            "start": 24.61,
+            "end": 24.91,
+            "score": 0.847
+        },
+        {
+            "word": "opacity",
+            "start": 25.191,
+            "end": 27.711,
+            "score": 0.802
+        },
+        {
+            "word": "is",
+            "start": 28.611,
+            "end": 28.751,
+            "score": 0.62
+        },
+        {
+            "word": "extremely",
+            "start": 30.292,
+            "end": 31.092,
+            "score": 0.737
+        },
+        {
+            "word": "increasing",
+            "start": 31.112,
+            "end": 32.672,
+            "score": 0.723
+        },
+        {
+            "word": "these",
+            "start": 33.112,
+            "end": 33.312,
+            "score": 0.846
+        },
+        {
+            "word": "days.",
+            "start": 33.372,
+            "end": 33.672,
+            "score": 0.757
+        },
+        {
+            "word": "And",
+            "start": 34.573,
+            "end": 34.693,
+            "score": 0.63
+        },
+        {
+            "word": "the",
+            "start": 34.813,
+            "end": 34.913,
+            "score": 0.945
+        },
+        {
+            "word": "cause",
+            "start": 34.953,
+            "end": 37.273,
+            "score": 0.709
+        },
+        {
+            "word": "behind",
+            "start": 37.353,
+            "end": 37.713,
+            "score": 0.909
+        },
+        {
+            "word": "that,",
+            "start": 37.773,
+            "end": 38.013,
+            "score": 0.858
+        },
+        {
+            "word": "because",
+            "start": 38.073,
+            "end": 38.574,
+            "score": 0.912
+        },
+        {
+            "word": "it",
+            "start": 39.114,
+            "end": 39.194,
+            "score": 0.989
+        },
+        {
+            "word": "executes",
+            "start": 39.334,
+            "end": 39.994,
+            "score": 0.848
+        },
+        {
+            "word": "fat.",
+            "start": 40.814,
+            "end": 41.154,
+            "score": 0.924
+        },
+        {
+            "word": "And",
+            "start": 41.754,
+            "end": 41.874,
+            "score": 0.762
+        },
+        {
+            "word": "also,",
+            "start": 42.074,
+            "end": 42.454,
+            "score": 0.66
+        },
+        {
+            "word": "right",
+            "start": 42.715,
+            "end": 42.915,
+            "score": 0.879
+        },
+        {
+            "word": "now,",
+            "start": 42.955,
+            "end": 43.195,
+            "score": 0.857
+        },
+        {
+            "word": "people,",
+            "start": 43.315,
+            "end": 43.715,
+            "score": 0.805
+        },
+        {
+            "word": "they",
+            "start": 43.775,
+            "end": 43.935,
+            "score": 0.992
+        },
+        {
+            "word": "are...",
+            "start": 44.095,
+            "end": 44.195,
+            "score": 0.888
+        },
+        {
+            "word": "consuming",
+            "start": 45.275,
+            "end": 46.035,
+            "score": 0.905
+        },
+        {
+            "word": "soda",
+            "start": 46.356,
+            "end": 46.776,
+            "score": 0.9
+        },
+        {
+            "word": "and",
+            "start": 46.896,
+            "end": 47.016,
+            "score": 0.679
+        },
+        {
+            "word": "Pepsi",
+            "start": 47.196,
+            "end": 47.736,
+            "score": 0.809
+        },
+        {
+            "word": "more",
+            "start": 47.956,
+            "end": 48.476,
+            "score": 0.773
+        },
+        {
+            "word": "than",
+            "start": 48.496,
+            "end": 48.576,
+            "score": 0.007
+        },
+        {
+            "word": "they",
+            "start": 49.337,
+            "end": 49.777,
+            "score": 0.706
+        },
+        {
+            "word": "did",
+            "start": 49.817,
+            "end": 50.037,
+            "score": 0.8
+        },
+        {
+            "word": "in",
+            "start": 50.137,
+            "end": 50.197,
+            "score": 0.998
+        },
+        {
+            "word": "the",
+            "start": 50.237,
+            "end": 50.357,
+            "score": 0.897
+        },
+        {
+            "word": "past,",
+            "start": 50.417,
+            "end": 50.777,
+            "score": 0.93
+        },
+        {
+            "word": "for",
+            "start": 51.538,
+            "end": 51.718,
+            "score": 0.934
+        },
+        {
+            "word": "example,",
+            "start": 51.758,
+            "end": 52.478,
+            "score": 0.707
+        },
+        {
+            "word": "in",
+            "start": 52.718,
+            "end": 52.818,
+            "score": 0.259
+        },
+        {
+            "word": "the",
+            "start": 52.878,
+            "end": 52.978,
+            "score": 0.931
+        },
+        {
+            "word": "last",
+            "start": 53.018,
+            "end": 54.359,
+            "score": 0.786
+        },
+        {
+            "word": "30"
+        },
+        {
+            "word": "years.",
+            "start": 54.419,
+            "end": 54.679,
+            "score": 0.719
+        },
+        {
+            "word": "So",
+            "start": 54.699,
+            "end": 54.739,
+            "score": 0.001
+        },
+        {
+            "word": "yeah,",
+            "start": 55.879,
+            "end": 56.179,
+            "score": 0.752
+        },
+        {
+            "word": "I",
+            "start": 56.319,
+            "end": 56.399,
+            "score": 0.939
+        },
+        {
+            "word": "strongly",
+            "start": 56.479,
+            "end": 57.56,
+            "score": 0.791
+        },
+        {
+            "word": "that",
+            "start": 58.56,
+            "end": 58.78,
+            "score": 0.805
+        },
+        {
+            "word": "the",
+            "start": 58.88,
+            "end": 59.04,
+            "score": 0.756
+        },
+        {
+            "word": "government",
+            "start": 59.06,
+            "end": 59.541,
+            "score": 0.8
+        },
+        {
+            "word": "should",
+            "start": 59.681,
+            "end": 59.861,
+            "score": 0.688
+        },
+        {
+            "word": "require",
+            "start": 59.901,
+            "end": 60.241,
+            "score": 0.855
+        },
+        {
+            "word": "it.",
+            "start": 60.261,
+            "end": 60.301,
+            "score": 0.446
+        }
+    ]
+}

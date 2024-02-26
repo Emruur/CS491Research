@@ -1,0 +1,1235 @@
+{
+    "segments": [
+        {
+            "start": 0.169,
+            "end": 20.954,
+            "text": " I like a Braveheart movie and I have been watching this one maybe seven or eight times and I like the actors whose name Mel Gibson and this movie it was it came up in 1996",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.169,
+                    "end": 0.269,
+                    "score": 0.886
+                },
+                {
+                    "word": "like",
+                    "start": 0.329,
+                    "end": 1.309,
+                    "score": 0.819
+                },
+                {
+                    "word": "a",
+                    "start": 1.329,
+                    "end": 1.349,
+                    "score": 0.011
+                },
+                {
+                    "word": "Braveheart",
+                    "start": 2.79,
+                    "end": 3.51,
+                    "score": 0.758
+                },
+                {
+                    "word": "movie",
+                    "start": 3.69,
+                    "end": 4.11,
+                    "score": 0.669
+                },
+                {
+                    "word": "and",
+                    "start": 4.49,
+                    "end": 4.61,
+                    "score": 0.725
+                },
+                {
+                    "word": "I",
+                    "start": 4.69,
+                    "end": 4.77,
+                    "score": 0.994
+                },
+                {
+                    "word": "have",
+                    "start": 4.81,
+                    "end": 5.09,
+                    "score": 0.958
+                },
+                {
+                    "word": "been",
+                    "start": 5.31,
+                    "end": 5.55,
+                    "score": 0.815
+                },
+                {
+                    "word": "watching",
+                    "start": 5.61,
+                    "end": 6.01,
+                    "score": 0.838
+                },
+                {
+                    "word": "this",
+                    "start": 6.05,
+                    "end": 6.231,
+                    "score": 0.926
+                },
+                {
+                    "word": "one",
+                    "start": 6.511,
+                    "end": 6.691,
+                    "score": 0.885
+                },
+                {
+                    "word": "maybe",
+                    "start": 7.231,
+                    "end": 7.531,
+                    "score": 0.959
+                },
+                {
+                    "word": "seven",
+                    "start": 7.611,
+                    "end": 7.911,
+                    "score": 0.867
+                },
+                {
+                    "word": "or",
+                    "start": 8.031,
+                    "end": 8.111,
+                    "score": 0.685
+                },
+                {
+                    "word": "eight",
+                    "start": 8.231,
+                    "end": 8.411,
+                    "score": 0.769
+                },
+                {
+                    "word": "times",
+                    "start": 8.491,
+                    "end": 8.871,
+                    "score": 0.797
+                },
+                {
+                    "word": "and",
+                    "start": 9.871,
+                    "end": 10.472,
+                    "score": 0.709
+                },
+                {
+                    "word": "I",
+                    "start": 10.672,
+                    "end": 10.752,
+                    "score": 0.788
+                },
+                {
+                    "word": "like",
+                    "start": 10.792,
+                    "end": 11.812,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 11.912,
+                    "end": 12.032,
+                    "score": 0.994
+                },
+                {
+                    "word": "actors",
+                    "start": 12.152,
+                    "end": 12.512,
+                    "score": 0.911
+                },
+                {
+                    "word": "whose",
+                    "start": 13.012,
+                    "end": 13.252,
+                    "score": 0.807
+                },
+                {
+                    "word": "name",
+                    "start": 13.332,
+                    "end": 13.712,
+                    "score": 0.87
+                },
+                {
+                    "word": "Mel",
+                    "start": 14.873,
+                    "end": 15.593,
+                    "score": 0.818
+                },
+                {
+                    "word": "Gibson",
+                    "start": 16.473,
+                    "end": 17.013,
+                    "score": 0.86
+                },
+                {
+                    "word": "and",
+                    "start": 17.713,
+                    "end": 17.813,
+                    "score": 0.831
+                },
+                {
+                    "word": "this",
+                    "start": 17.873,
+                    "end": 18.113,
+                    "score": 0.878
+                },
+                {
+                    "word": "movie",
+                    "start": 18.654,
+                    "end": 18.994,
+                    "score": 0.764
+                },
+                {
+                    "word": "it",
+                    "start": 19.014,
+                    "end": 19.074,
+                    "score": 0.494
+                },
+                {
+                    "word": "was",
+                    "start": 19.114,
+                    "end": 19.354,
+                    "score": 0.906
+                },
+                {
+                    "word": "it",
+                    "start": 19.374,
+                    "end": 19.414,
+                    "score": 0.488
+                },
+                {
+                    "word": "came",
+                    "start": 19.434,
+                    "end": 19.714,
+                    "score": 0.52
+                },
+                {
+                    "word": "up",
+                    "start": 19.734,
+                    "end": 19.774,
+                    "score": 0.0
+                },
+                {
+                    "word": "in",
+                    "start": 20.834,
+                    "end": 20.954,
+                    "score": 0.802
+                },
+                {
+                    "word": "1996"
+                }
+            ]
+        },
+        {
+            "start": 25.135,
+            "end": 44.723,
+            "text": " And the story talk about the union of great British and yeah, you know, the actors did very well there and also I like the environment and the way how he can make the movie and the actions there and it has a lot of",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 25.135,
+                    "end": 25.255,
+                    "score": 0.849
+                },
+                {
+                    "word": "the",
+                    "start": 25.335,
+                    "end": 25.435,
+                    "score": 0.951
+                },
+                {
+                    "word": "story",
+                    "start": 25.455,
+                    "end": 26.076,
+                    "score": 0.848
+                },
+                {
+                    "word": "talk",
+                    "start": 26.836,
+                    "end": 27.136,
+                    "score": 0.99
+                },
+                {
+                    "word": "about",
+                    "start": 27.256,
+                    "end": 27.556,
+                    "score": 0.927
+                },
+                {
+                    "word": "the",
+                    "start": 27.936,
+                    "end": 28.056,
+                    "score": 0.99
+                },
+                {
+                    "word": "union",
+                    "start": 28.176,
+                    "end": 28.436,
+                    "score": 0.806
+                },
+                {
+                    "word": "of",
+                    "start": 28.496,
+                    "end": 28.597,
+                    "score": 0.864
+                },
+                {
+                    "word": "great",
+                    "start": 28.797,
+                    "end": 29.117,
+                    "score": 0.943
+                },
+                {
+                    "word": "British",
+                    "start": 29.197,
+                    "end": 29.677,
+                    "score": 0.867
+                },
+                {
+                    "word": "and",
+                    "start": 30.737,
+                    "end": 30.877,
+                    "score": 0.786
+                },
+                {
+                    "word": "yeah,",
+                    "start": 31.518,
+                    "end": 31.878,
+                    "score": 0.607
+                },
+                {
+                    "word": "you",
+                    "start": 32.138,
+                    "end": 32.658,
+                    "score": 0.695
+                },
+                {
+                    "word": "know,",
+                    "start": 32.678,
+                    "end": 33.178,
+                    "score": 0.49
+                },
+                {
+                    "word": "the",
+                    "start": 33.398,
+                    "end": 33.659,
+                    "score": 0.832
+                },
+                {
+                    "word": "actors",
+                    "start": 33.839,
+                    "end": 34.199,
+                    "score": 0.871
+                },
+                {
+                    "word": "did",
+                    "start": 34.319,
+                    "end": 34.539,
+                    "score": 0.975
+                },
+                {
+                    "word": "very",
+                    "start": 34.619,
+                    "end": 34.819,
+                    "score": 0.746
+                },
+                {
+                    "word": "well",
+                    "start": 34.839,
+                    "end": 35.019,
+                    "score": 0.53
+                },
+                {
+                    "word": "there",
+                    "start": 35.039,
+                    "end": 35.239,
+                    "score": 0.358
+                },
+                {
+                    "word": "and",
+                    "start": 35.339,
+                    "end": 35.459,
+                    "score": 0.753
+                },
+                {
+                    "word": "also",
+                    "start": 35.599,
+                    "end": 35.799,
+                    "score": 0.918
+                },
+                {
+                    "word": "I",
+                    "start": 35.859,
+                    "end": 35.919,
+                    "score": 0.726
+                },
+                {
+                    "word": "like",
+                    "start": 35.959,
+                    "end": 36.18,
+                    "score": 0.857
+                },
+                {
+                    "word": "the",
+                    "start": 36.24,
+                    "end": 36.36,
+                    "score": 0.961
+                },
+                {
+                    "word": "environment",
+                    "start": 36.4,
+                    "end": 37.3,
+                    "score": 0.878
+                },
+                {
+                    "word": "and",
+                    "start": 37.48,
+                    "end": 37.58,
+                    "score": 0.889
+                },
+                {
+                    "word": "the",
+                    "start": 37.66,
+                    "end": 37.96,
+                    "score": 0.787
+                },
+                {
+                    "word": "way",
+                    "start": 39.221,
+                    "end": 39.461,
+                    "score": 0.969
+                },
+                {
+                    "word": "how",
+                    "start": 39.501,
+                    "end": 39.701,
+                    "score": 0.944
+                },
+                {
+                    "word": "he",
+                    "start": 39.781,
+                    "end": 39.941,
+                    "score": 0.864
+                },
+                {
+                    "word": "can",
+                    "start": 40.021,
+                    "end": 40.281,
+                    "score": 0.977
+                },
+                {
+                    "word": "make",
+                    "start": 40.381,
+                    "end": 40.681,
+                    "score": 0.775
+                },
+                {
+                    "word": "the",
+                    "start": 40.961,
+                    "end": 41.081,
+                    "score": 0.982
+                },
+                {
+                    "word": "movie",
+                    "start": 41.121,
+                    "end": 41.682,
+                    "score": 0.729
+                },
+                {
+                    "word": "and",
+                    "start": 41.822,
+                    "end": 41.942,
+                    "score": 0.711
+                },
+                {
+                    "word": "the",
+                    "start": 42.202,
+                    "end": 42.342,
+                    "score": 0.934
+                },
+                {
+                    "word": "actions",
+                    "start": 42.522,
+                    "end": 42.902,
+                    "score": 0.872
+                },
+                {
+                    "word": "there",
+                    "start": 42.982,
+                    "end": 43.362,
+                    "score": 0.828
+                },
+                {
+                    "word": "and",
+                    "start": 43.482,
+                    "end": 43.602,
+                    "score": 0.751
+                },
+                {
+                    "word": "it",
+                    "start": 43.622,
+                    "end": 43.682,
+                    "score": 0.645
+                },
+                {
+                    "word": "has",
+                    "start": 43.762,
+                    "end": 43.983,
+                    "score": 0.911
+                },
+                {
+                    "word": "a",
+                    "start": 44.143,
+                    "end": 44.183,
+                    "score": 0.586
+                },
+                {
+                    "word": "lot",
+                    "start": 44.263,
+                    "end": 44.563,
+                    "score": 0.871
+                },
+                {
+                    "word": "of",
+                    "start": 44.683,
+                    "end": 44.723,
+                    "score": 0.997
+                }
+            ]
+        },
+        {
+            "start": 46.145,
+            "end": 47.487,
+            "text": " A lot of actions.",
+            "words": [
+                {
+                    "word": "A",
+                    "start": 46.145,
+                    "end": 46.205,
+                    "score": 0.707
+                },
+                {
+                    "word": "lot",
+                    "start": 46.285,
+                    "end": 46.546,
+                    "score": 0.916
+                },
+                {
+                    "word": "of",
+                    "start": 46.646,
+                    "end": 46.726,
+                    "score": 0.827
+                },
+                {
+                    "word": "actions.",
+                    "start": 46.946,
+                    "end": 47.487,
+                    "score": 0.933
+                }
+            ]
+        },
+        {
+            "start": 47.507,
+            "end": 50.452,
+            "text": "I saw this one when I was in high school.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 47.507,
+                    "end": 47.527,
+                    "score": 0.0
+                },
+                {
+                    "word": "saw",
+                    "start": 47.547,
+                    "end": 47.968,
+                    "score": 0.614
+                },
+                {
+                    "word": "this",
+                    "start": 48.048,
+                    "end": 48.329,
+                    "score": 0.638
+                },
+                {
+                    "word": "one",
+                    "start": 48.349,
+                    "end": 49.19,
+                    "score": 0.908
+                },
+                {
+                    "word": "when",
+                    "start": 49.21,
+                    "end": 49.29,
+                    "score": 0.022
+                },
+                {
+                    "word": "I",
+                    "start": 49.39,
+                    "end": 49.471,
+                    "score": 0.733
+                },
+                {
+                    "word": "was",
+                    "start": 49.491,
+                    "end": 49.651,
+                    "score": 0.635
+                },
+                {
+                    "word": "in",
+                    "start": 49.791,
+                    "end": 49.891,
+                    "score": 0.37
+                },
+                {
+                    "word": "high",
+                    "start": 49.971,
+                    "end": 50.212,
+                    "score": 0.62
+                },
+                {
+                    "word": "school.",
+                    "start": 50.232,
+                    "end": 50.452,
+                    "score": 0.163
+                }
+            ]
+        },
+        {
+            "start": 50.512,
+            "end": 51.434,
+            "text": "This is my favorite movie.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 50.512,
+                    "end": 50.713,
+                    "score": 0.864
+                },
+                {
+                    "word": "is",
+                    "start": 50.773,
+                    "end": 50.853,
+                    "score": 0.929
+                },
+                {
+                    "word": "my",
+                    "start": 50.873,
+                    "end": 50.993,
+                    "score": 0.487
+                },
+                {
+                    "word": "favorite",
+                    "start": 51.013,
+                    "end": 51.314,
+                    "score": 0.235
+                },
+                {
+                    "word": "movie.",
+                    "start": 51.334,
+                    "end": 51.434,
+                    "score": 0.012
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.169,
+            "end": 0.269,
+            "score": 0.886
+        },
+        {
+            "word": "like",
+            "start": 0.329,
+            "end": 1.309,
+            "score": 0.819
+        },
+        {
+            "word": "a",
+            "start": 1.329,
+            "end": 1.349,
+            "score": 0.011
+        },
+        {
+            "word": "Braveheart",
+            "start": 2.79,
+            "end": 3.51,
+            "score": 0.758
+        },
+        {
+            "word": "movie",
+            "start": 3.69,
+            "end": 4.11,
+            "score": 0.669
+        },
+        {
+            "word": "and",
+            "start": 4.49,
+            "end": 4.61,
+            "score": 0.725
+        },
+        {
+            "word": "I",
+            "start": 4.69,
+            "end": 4.77,
+            "score": 0.994
+        },
+        {
+            "word": "have",
+            "start": 4.81,
+            "end": 5.09,
+            "score": 0.958
+        },
+        {
+            "word": "been",
+            "start": 5.31,
+            "end": 5.55,
+            "score": 0.815
+        },
+        {
+            "word": "watching",
+            "start": 5.61,
+            "end": 6.01,
+            "score": 0.838
+        },
+        {
+            "word": "this",
+            "start": 6.05,
+            "end": 6.231,
+            "score": 0.926
+        },
+        {
+            "word": "one",
+            "start": 6.511,
+            "end": 6.691,
+            "score": 0.885
+        },
+        {
+            "word": "maybe",
+            "start": 7.231,
+            "end": 7.531,
+            "score": 0.959
+        },
+        {
+            "word": "seven",
+            "start": 7.611,
+            "end": 7.911,
+            "score": 0.867
+        },
+        {
+            "word": "or",
+            "start": 8.031,
+            "end": 8.111,
+            "score": 0.685
+        },
+        {
+            "word": "eight",
+            "start": 8.231,
+            "end": 8.411,
+            "score": 0.769
+        },
+        {
+            "word": "times",
+            "start": 8.491,
+            "end": 8.871,
+            "score": 0.797
+        },
+        {
+            "word": "and",
+            "start": 9.871,
+            "end": 10.472,
+            "score": 0.709
+        },
+        {
+            "word": "I",
+            "start": 10.672,
+            "end": 10.752,
+            "score": 0.788
+        },
+        {
+            "word": "like",
+            "start": 10.792,
+            "end": 11.812,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 11.912,
+            "end": 12.032,
+            "score": 0.994
+        },
+        {
+            "word": "actors",
+            "start": 12.152,
+            "end": 12.512,
+            "score": 0.911
+        },
+        {
+            "word": "whose",
+            "start": 13.012,
+            "end": 13.252,
+            "score": 0.807
+        },
+        {
+            "word": "name",
+            "start": 13.332,
+            "end": 13.712,
+            "score": 0.87
+        },
+        {
+            "word": "Mel",
+            "start": 14.873,
+            "end": 15.593,
+            "score": 0.818
+        },
+        {
+            "word": "Gibson",
+            "start": 16.473,
+            "end": 17.013,
+            "score": 0.86
+        },
+        {
+            "word": "and",
+            "start": 17.713,
+            "end": 17.813,
+            "score": 0.831
+        },
+        {
+            "word": "this",
+            "start": 17.873,
+            "end": 18.113,
+            "score": 0.878
+        },
+        {
+            "word": "movie",
+            "start": 18.654,
+            "end": 18.994,
+            "score": 0.764
+        },
+        {
+            "word": "it",
+            "start": 19.014,
+            "end": 19.074,
+            "score": 0.494
+        },
+        {
+            "word": "was",
+            "start": 19.114,
+            "end": 19.354,
+            "score": 0.906
+        },
+        {
+            "word": "it",
+            "start": 19.374,
+            "end": 19.414,
+            "score": 0.488
+        },
+        {
+            "word": "came",
+            "start": 19.434,
+            "end": 19.714,
+            "score": 0.52
+        },
+        {
+            "word": "up",
+            "start": 19.734,
+            "end": 19.774,
+            "score": 0.0
+        },
+        {
+            "word": "in",
+            "start": 20.834,
+            "end": 20.954,
+            "score": 0.802
+        },
+        {
+            "word": "1996"
+        },
+        {
+            "word": "And",
+            "start": 25.135,
+            "end": 25.255,
+            "score": 0.849
+        },
+        {
+            "word": "the",
+            "start": 25.335,
+            "end": 25.435,
+            "score": 0.951
+        },
+        {
+            "word": "story",
+            "start": 25.455,
+            "end": 26.076,
+            "score": 0.848
+        },
+        {
+            "word": "talk",
+            "start": 26.836,
+            "end": 27.136,
+            "score": 0.99
+        },
+        {
+            "word": "about",
+            "start": 27.256,
+            "end": 27.556,
+            "score": 0.927
+        },
+        {
+            "word": "the",
+            "start": 27.936,
+            "end": 28.056,
+            "score": 0.99
+        },
+        {
+            "word": "union",
+            "start": 28.176,
+            "end": 28.436,
+            "score": 0.806
+        },
+        {
+            "word": "of",
+            "start": 28.496,
+            "end": 28.597,
+            "score": 0.864
+        },
+        {
+            "word": "great",
+            "start": 28.797,
+            "end": 29.117,
+            "score": 0.943
+        },
+        {
+            "word": "British",
+            "start": 29.197,
+            "end": 29.677,
+            "score": 0.867
+        },
+        {
+            "word": "and",
+            "start": 30.737,
+            "end": 30.877,
+            "score": 0.786
+        },
+        {
+            "word": "yeah,",
+            "start": 31.518,
+            "end": 31.878,
+            "score": 0.607
+        },
+        {
+            "word": "you",
+            "start": 32.138,
+            "end": 32.658,
+            "score": 0.695
+        },
+        {
+            "word": "know,",
+            "start": 32.678,
+            "end": 33.178,
+            "score": 0.49
+        },
+        {
+            "word": "the",
+            "start": 33.398,
+            "end": 33.659,
+            "score": 0.832
+        },
+        {
+            "word": "actors",
+            "start": 33.839,
+            "end": 34.199,
+            "score": 0.871
+        },
+        {
+            "word": "did",
+            "start": 34.319,
+            "end": 34.539,
+            "score": 0.975
+        },
+        {
+            "word": "very",
+            "start": 34.619,
+            "end": 34.819,
+            "score": 0.746
+        },
+        {
+            "word": "well",
+            "start": 34.839,
+            "end": 35.019,
+            "score": 0.53
+        },
+        {
+            "word": "there",
+            "start": 35.039,
+            "end": 35.239,
+            "score": 0.358
+        },
+        {
+            "word": "and",
+            "start": 35.339,
+            "end": 35.459,
+            "score": 0.753
+        },
+        {
+            "word": "also",
+            "start": 35.599,
+            "end": 35.799,
+            "score": 0.918
+        },
+        {
+            "word": "I",
+            "start": 35.859,
+            "end": 35.919,
+            "score": 0.726
+        },
+        {
+            "word": "like",
+            "start": 35.959,
+            "end": 36.18,
+            "score": 0.857
+        },
+        {
+            "word": "the",
+            "start": 36.24,
+            "end": 36.36,
+            "score": 0.961
+        },
+        {
+            "word": "environment",
+            "start": 36.4,
+            "end": 37.3,
+            "score": 0.878
+        },
+        {
+            "word": "and",
+            "start": 37.48,
+            "end": 37.58,
+            "score": 0.889
+        },
+        {
+            "word": "the",
+            "start": 37.66,
+            "end": 37.96,
+            "score": 0.787
+        },
+        {
+            "word": "way",
+            "start": 39.221,
+            "end": 39.461,
+            "score": 0.969
+        },
+        {
+            "word": "how",
+            "start": 39.501,
+            "end": 39.701,
+            "score": 0.944
+        },
+        {
+            "word": "he",
+            "start": 39.781,
+            "end": 39.941,
+            "score": 0.864
+        },
+        {
+            "word": "can",
+            "start": 40.021,
+            "end": 40.281,
+            "score": 0.977
+        },
+        {
+            "word": "make",
+            "start": 40.381,
+            "end": 40.681,
+            "score": 0.775
+        },
+        {
+            "word": "the",
+            "start": 40.961,
+            "end": 41.081,
+            "score": 0.982
+        },
+        {
+            "word": "movie",
+            "start": 41.121,
+            "end": 41.682,
+            "score": 0.729
+        },
+        {
+            "word": "and",
+            "start": 41.822,
+            "end": 41.942,
+            "score": 0.711
+        },
+        {
+            "word": "the",
+            "start": 42.202,
+            "end": 42.342,
+            "score": 0.934
+        },
+        {
+            "word": "actions",
+            "start": 42.522,
+            "end": 42.902,
+            "score": 0.872
+        },
+        {
+            "word": "there",
+            "start": 42.982,
+            "end": 43.362,
+            "score": 0.828
+        },
+        {
+            "word": "and",
+            "start": 43.482,
+            "end": 43.602,
+            "score": 0.751
+        },
+        {
+            "word": "it",
+            "start": 43.622,
+            "end": 43.682,
+            "score": 0.645
+        },
+        {
+            "word": "has",
+            "start": 43.762,
+            "end": 43.983,
+            "score": 0.911
+        },
+        {
+            "word": "a",
+            "start": 44.143,
+            "end": 44.183,
+            "score": 0.586
+        },
+        {
+            "word": "lot",
+            "start": 44.263,
+            "end": 44.563,
+            "score": 0.871
+        },
+        {
+            "word": "of",
+            "start": 44.683,
+            "end": 44.723,
+            "score": 0.997
+        },
+        {
+            "word": "A",
+            "start": 46.145,
+            "end": 46.205,
+            "score": 0.707
+        },
+        {
+            "word": "lot",
+            "start": 46.285,
+            "end": 46.546,
+            "score": 0.916
+        },
+        {
+            "word": "of",
+            "start": 46.646,
+            "end": 46.726,
+            "score": 0.827
+        },
+        {
+            "word": "actions.",
+            "start": 46.946,
+            "end": 47.487,
+            "score": 0.933
+        },
+        {
+            "word": "I",
+            "start": 47.507,
+            "end": 47.527,
+            "score": 0.0
+        },
+        {
+            "word": "saw",
+            "start": 47.547,
+            "end": 47.968,
+            "score": 0.614
+        },
+        {
+            "word": "this",
+            "start": 48.048,
+            "end": 48.329,
+            "score": 0.638
+        },
+        {
+            "word": "one",
+            "start": 48.349,
+            "end": 49.19,
+            "score": 0.908
+        },
+        {
+            "word": "when",
+            "start": 49.21,
+            "end": 49.29,
+            "score": 0.022
+        },
+        {
+            "word": "I",
+            "start": 49.39,
+            "end": 49.471,
+            "score": 0.733
+        },
+        {
+            "word": "was",
+            "start": 49.491,
+            "end": 49.651,
+            "score": 0.635
+        },
+        {
+            "word": "in",
+            "start": 49.791,
+            "end": 49.891,
+            "score": 0.37
+        },
+        {
+            "word": "high",
+            "start": 49.971,
+            "end": 50.212,
+            "score": 0.62
+        },
+        {
+            "word": "school.",
+            "start": 50.232,
+            "end": 50.452,
+            "score": 0.163
+        },
+        {
+            "word": "This",
+            "start": 50.512,
+            "end": 50.713,
+            "score": 0.864
+        },
+        {
+            "word": "is",
+            "start": 50.773,
+            "end": 50.853,
+            "score": 0.929
+        },
+        {
+            "word": "my",
+            "start": 50.873,
+            "end": 50.993,
+            "score": 0.487
+        },
+        {
+            "word": "favorite",
+            "start": 51.013,
+            "end": 51.314,
+            "score": 0.235
+        },
+        {
+            "word": "movie.",
+            "start": 51.334,
+            "end": 51.434,
+            "score": 0.012
+        }
+    ]
+}

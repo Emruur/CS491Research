@@ -1,0 +1,857 @@
+{
+    "segments": [
+        {
+            "start": 0.63,
+            "end": 1.831,
+            "text": " I like the movie.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.63,
+                    "end": 0.69,
+                    "score": 0.958
+                },
+                {
+                    "word": "like",
+                    "start": 0.73,
+                    "end": 0.93,
+                    "score": 0.836
+                },
+                {
+                    "word": "the",
+                    "start": 0.99,
+                    "end": 1.25,
+                    "score": 0.824
+                },
+                {
+                    "word": "movie.",
+                    "start": 1.43,
+                    "end": 1.831,
+                    "score": 0.703
+                }
+            ]
+        },
+        {
+            "start": 1.931,
+            "end": 4.574,
+            "text": "The title is Bad Boys.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 1.931,
+                    "end": 2.271,
+                    "score": 0.815
+                },
+                {
+                    "word": "title",
+                    "start": 2.371,
+                    "end": 2.732,
+                    "score": 0.726
+                },
+                {
+                    "word": "is",
+                    "start": 3.212,
+                    "end": 3.332,
+                    "score": 0.67
+                },
+                {
+                    "word": "Bad",
+                    "start": 3.713,
+                    "end": 3.913,
+                    "score": 0.898
+                },
+                {
+                    "word": "Boys.",
+                    "start": 3.953,
+                    "end": 4.574,
+                    "score": 0.843
+                }
+            ]
+        },
+        {
+            "start": 6.636,
+            "end": 8.598,
+            "text": "The Bad Boys director is Michael Bay.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 6.636,
+                    "end": 6.776,
+                    "score": 0.989
+                },
+                {
+                    "word": "Bad",
+                    "start": 6.936,
+                    "end": 7.096,
+                    "score": 0.863
+                },
+                {
+                    "word": "Boys",
+                    "start": 7.116,
+                    "end": 7.316,
+                    "score": 0.872
+                },
+                {
+                    "word": "director",
+                    "start": 7.356,
+                    "end": 7.737,
+                    "score": 0.865
+                },
+                {
+                    "word": "is",
+                    "start": 7.757,
+                    "end": 8.017,
+                    "score": 0.478
+                },
+                {
+                    "word": "Michael",
+                    "start": 8.077,
+                    "end": 8.377,
+                    "score": 0.607
+                },
+                {
+                    "word": "Bay.",
+                    "start": 8.417,
+                    "end": 8.598,
+                    "score": 0.882
+                }
+            ]
+        },
+        {
+            "start": 8.938,
+            "end": 16.045,
+            "text": "I like his movie style because he is kind of very actionable.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 8.938,
+                    "end": 9.018,
+                    "score": 0.783
+                },
+                {
+                    "word": "like",
+                    "start": 9.058,
+                    "end": 9.519,
+                    "score": 0.948
+                },
+                {
+                    "word": "his",
+                    "start": 9.899,
+                    "end": 10.079,
+                    "score": 0.786
+                },
+                {
+                    "word": "movie",
+                    "start": 10.179,
+                    "end": 10.52,
+                    "score": 0.589
+                },
+                {
+                    "word": "style",
+                    "start": 10.66,
+                    "end": 11.12,
+                    "score": 0.551
+                },
+                {
+                    "word": "because",
+                    "start": 11.22,
+                    "end": 11.521,
+                    "score": 0.845
+                },
+                {
+                    "word": "he",
+                    "start": 11.541,
+                    "end": 11.581,
+                    "score": 0.436
+                },
+                {
+                    "word": "is",
+                    "start": 11.681,
+                    "end": 12.041,
+                    "score": 0.608
+                },
+                {
+                    "word": "kind",
+                    "start": 12.642,
+                    "end": 12.822,
+                    "score": 0.93
+                },
+                {
+                    "word": "of",
+                    "start": 12.882,
+                    "end": 12.942,
+                    "score": 0.824
+                },
+                {
+                    "word": "very",
+                    "start": 12.982,
+                    "end": 13.503,
+                    "score": 0.866
+                },
+                {
+                    "word": "actionable.",
+                    "start": 13.523,
+                    "end": 16.045,
+                    "score": 0.601
+                }
+            ]
+        },
+        {
+            "start": 20.369,
+            "end": 38.148,
+            "text": " and very uh spectacle because uh he's uh he made the many commercials so his movie is a little very fast paced and his plot is a very simple yeah it's uh i like the spectacle movies like that yeah",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 20.369,
+                    "end": 20.53,
+                    "score": 0.623
+                },
+                {
+                    "word": "very",
+                    "start": 20.61,
+                    "end": 20.89,
+                    "score": 0.904
+                },
+                {
+                    "word": "uh",
+                    "start": 21.551,
+                    "end": 21.731,
+                    "score": 0.526
+                },
+                {
+                    "word": "spectacle",
+                    "start": 22.432,
+                    "end": 23.012,
+                    "score": 0.834
+                },
+                {
+                    "word": "because",
+                    "start": 23.473,
+                    "end": 23.713,
+                    "score": 0.889
+                },
+                {
+                    "word": "uh",
+                    "start": 23.733,
+                    "end": 23.973,
+                    "score": 0.528
+                },
+                {
+                    "word": "he's",
+                    "start": 24.013,
+                    "end": 24.233,
+                    "score": 0.554
+                },
+                {
+                    "word": "uh",
+                    "start": 24.474,
+                    "end": 24.594,
+                    "score": 0.256
+                },
+                {
+                    "word": "he",
+                    "start": 24.654,
+                    "end": 25.114,
+                    "score": 0.893
+                },
+                {
+                    "word": "made",
+                    "start": 25.515,
+                    "end": 25.735,
+                    "score": 0.839
+                },
+                {
+                    "word": "the",
+                    "start": 25.795,
+                    "end": 26.055,
+                    "score": 0.569
+                },
+                {
+                    "word": "many",
+                    "start": 26.436,
+                    "end": 26.636,
+                    "score": 0.984
+                },
+                {
+                    "word": "commercials",
+                    "start": 26.696,
+                    "end": 27.217,
+                    "score": 0.736
+                },
+                {
+                    "word": "so",
+                    "start": 27.357,
+                    "end": 27.537,
+                    "score": 0.853
+                },
+                {
+                    "word": "his",
+                    "start": 27.597,
+                    "end": 27.797,
+                    "score": 0.895
+                },
+                {
+                    "word": "movie",
+                    "start": 27.937,
+                    "end": 28.218,
+                    "score": 0.711
+                },
+                {
+                    "word": "is",
+                    "start": 28.238,
+                    "end": 28.278,
+                    "score": 0.2
+                },
+                {
+                    "word": "a",
+                    "start": 28.338,
+                    "end": 28.398,
+                    "score": 0.411
+                },
+                {
+                    "word": "little",
+                    "start": 28.418,
+                    "end": 28.598,
+                    "score": 0.56
+                },
+                {
+                    "word": "very",
+                    "start": 28.618,
+                    "end": 29.159,
+                    "score": 0.736
+                },
+                {
+                    "word": "fast",
+                    "start": 29.719,
+                    "end": 30.039,
+                    "score": 0.76
+                },
+                {
+                    "word": "paced",
+                    "start": 30.56,
+                    "end": 30.88,
+                    "score": 0.768
+                },
+                {
+                    "word": "and",
+                    "start": 30.98,
+                    "end": 31.181,
+                    "score": 0.432
+                },
+                {
+                    "word": "his",
+                    "start": 31.241,
+                    "end": 31.401,
+                    "score": 0.769
+                },
+                {
+                    "word": "plot",
+                    "start": 31.501,
+                    "end": 31.761,
+                    "score": 0.795
+                },
+                {
+                    "word": "is",
+                    "start": 31.781,
+                    "end": 31.861,
+                    "score": 0.683
+                },
+                {
+                    "word": "a",
+                    "start": 31.941,
+                    "end": 32.002,
+                    "score": 0.517
+                },
+                {
+                    "word": "very",
+                    "start": 32.042,
+                    "end": 32.342,
+                    "score": 0.795
+                },
+                {
+                    "word": "simple",
+                    "start": 33.183,
+                    "end": 33.523,
+                    "score": 0.858
+                },
+                {
+                    "word": "yeah",
+                    "start": 33.743,
+                    "end": 34.124,
+                    "score": 0.556
+                },
+                {
+                    "word": "it's",
+                    "start": 34.244,
+                    "end": 34.704,
+                    "score": 0.683
+                },
+                {
+                    "word": "uh",
+                    "start": 35.105,
+                    "end": 35.205,
+                    "score": 0.476
+                },
+                {
+                    "word": "i",
+                    "start": 35.445,
+                    "end": 35.505,
+                    "score": 0.987
+                },
+                {
+                    "word": "like",
+                    "start": 35.545,
+                    "end": 35.725,
+                    "score": 0.852
+                },
+                {
+                    "word": "the",
+                    "start": 35.765,
+                    "end": 35.926,
+                    "score": 0.696
+                },
+                {
+                    "word": "spectacle",
+                    "start": 36.366,
+                    "end": 36.806,
+                    "score": 0.928
+                },
+                {
+                    "word": "movies",
+                    "start": 36.847,
+                    "end": 37.167,
+                    "score": 0.731
+                },
+                {
+                    "word": "like",
+                    "start": 37.227,
+                    "end": 37.427,
+                    "score": 0.821
+                },
+                {
+                    "word": "that",
+                    "start": 37.507,
+                    "end": 37.727,
+                    "score": 0.556
+                },
+                {
+                    "word": "yeah",
+                    "start": 38.028,
+                    "end": 38.148,
+                    "score": 0.422
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.63,
+            "end": 0.69,
+            "score": 0.958
+        },
+        {
+            "word": "like",
+            "start": 0.73,
+            "end": 0.93,
+            "score": 0.836
+        },
+        {
+            "word": "the",
+            "start": 0.99,
+            "end": 1.25,
+            "score": 0.824
+        },
+        {
+            "word": "movie.",
+            "start": 1.43,
+            "end": 1.831,
+            "score": 0.703
+        },
+        {
+            "word": "The",
+            "start": 1.931,
+            "end": 2.271,
+            "score": 0.815
+        },
+        {
+            "word": "title",
+            "start": 2.371,
+            "end": 2.732,
+            "score": 0.726
+        },
+        {
+            "word": "is",
+            "start": 3.212,
+            "end": 3.332,
+            "score": 0.67
+        },
+        {
+            "word": "Bad",
+            "start": 3.713,
+            "end": 3.913,
+            "score": 0.898
+        },
+        {
+            "word": "Boys.",
+            "start": 3.953,
+            "end": 4.574,
+            "score": 0.843
+        },
+        {
+            "word": "The",
+            "start": 6.636,
+            "end": 6.776,
+            "score": 0.989
+        },
+        {
+            "word": "Bad",
+            "start": 6.936,
+            "end": 7.096,
+            "score": 0.863
+        },
+        {
+            "word": "Boys",
+            "start": 7.116,
+            "end": 7.316,
+            "score": 0.872
+        },
+        {
+            "word": "director",
+            "start": 7.356,
+            "end": 7.737,
+            "score": 0.865
+        },
+        {
+            "word": "is",
+            "start": 7.757,
+            "end": 8.017,
+            "score": 0.478
+        },
+        {
+            "word": "Michael",
+            "start": 8.077,
+            "end": 8.377,
+            "score": 0.607
+        },
+        {
+            "word": "Bay.",
+            "start": 8.417,
+            "end": 8.598,
+            "score": 0.882
+        },
+        {
+            "word": "I",
+            "start": 8.938,
+            "end": 9.018,
+            "score": 0.783
+        },
+        {
+            "word": "like",
+            "start": 9.058,
+            "end": 9.519,
+            "score": 0.948
+        },
+        {
+            "word": "his",
+            "start": 9.899,
+            "end": 10.079,
+            "score": 0.786
+        },
+        {
+            "word": "movie",
+            "start": 10.179,
+            "end": 10.52,
+            "score": 0.589
+        },
+        {
+            "word": "style",
+            "start": 10.66,
+            "end": 11.12,
+            "score": 0.551
+        },
+        {
+            "word": "because",
+            "start": 11.22,
+            "end": 11.521,
+            "score": 0.845
+        },
+        {
+            "word": "he",
+            "start": 11.541,
+            "end": 11.581,
+            "score": 0.436
+        },
+        {
+            "word": "is",
+            "start": 11.681,
+            "end": 12.041,
+            "score": 0.608
+        },
+        {
+            "word": "kind",
+            "start": 12.642,
+            "end": 12.822,
+            "score": 0.93
+        },
+        {
+            "word": "of",
+            "start": 12.882,
+            "end": 12.942,
+            "score": 0.824
+        },
+        {
+            "word": "very",
+            "start": 12.982,
+            "end": 13.503,
+            "score": 0.866
+        },
+        {
+            "word": "actionable.",
+            "start": 13.523,
+            "end": 16.045,
+            "score": 0.601
+        },
+        {
+            "word": "and",
+            "start": 20.369,
+            "end": 20.53,
+            "score": 0.623
+        },
+        {
+            "word": "very",
+            "start": 20.61,
+            "end": 20.89,
+            "score": 0.904
+        },
+        {
+            "word": "uh",
+            "start": 21.551,
+            "end": 21.731,
+            "score": 0.526
+        },
+        {
+            "word": "spectacle",
+            "start": 22.432,
+            "end": 23.012,
+            "score": 0.834
+        },
+        {
+            "word": "because",
+            "start": 23.473,
+            "end": 23.713,
+            "score": 0.889
+        },
+        {
+            "word": "uh",
+            "start": 23.733,
+            "end": 23.973,
+            "score": 0.528
+        },
+        {
+            "word": "he's",
+            "start": 24.013,
+            "end": 24.233,
+            "score": 0.554
+        },
+        {
+            "word": "uh",
+            "start": 24.474,
+            "end": 24.594,
+            "score": 0.256
+        },
+        {
+            "word": "he",
+            "start": 24.654,
+            "end": 25.114,
+            "score": 0.893
+        },
+        {
+            "word": "made",
+            "start": 25.515,
+            "end": 25.735,
+            "score": 0.839
+        },
+        {
+            "word": "the",
+            "start": 25.795,
+            "end": 26.055,
+            "score": 0.569
+        },
+        {
+            "word": "many",
+            "start": 26.436,
+            "end": 26.636,
+            "score": 0.984
+        },
+        {
+            "word": "commercials",
+            "start": 26.696,
+            "end": 27.217,
+            "score": 0.736
+        },
+        {
+            "word": "so",
+            "start": 27.357,
+            "end": 27.537,
+            "score": 0.853
+        },
+        {
+            "word": "his",
+            "start": 27.597,
+            "end": 27.797,
+            "score": 0.895
+        },
+        {
+            "word": "movie",
+            "start": 27.937,
+            "end": 28.218,
+            "score": 0.711
+        },
+        {
+            "word": "is",
+            "start": 28.238,
+            "end": 28.278,
+            "score": 0.2
+        },
+        {
+            "word": "a",
+            "start": 28.338,
+            "end": 28.398,
+            "score": 0.411
+        },
+        {
+            "word": "little",
+            "start": 28.418,
+            "end": 28.598,
+            "score": 0.56
+        },
+        {
+            "word": "very",
+            "start": 28.618,
+            "end": 29.159,
+            "score": 0.736
+        },
+        {
+            "word": "fast",
+            "start": 29.719,
+            "end": 30.039,
+            "score": 0.76
+        },
+        {
+            "word": "paced",
+            "start": 30.56,
+            "end": 30.88,
+            "score": 0.768
+        },
+        {
+            "word": "and",
+            "start": 30.98,
+            "end": 31.181,
+            "score": 0.432
+        },
+        {
+            "word": "his",
+            "start": 31.241,
+            "end": 31.401,
+            "score": 0.769
+        },
+        {
+            "word": "plot",
+            "start": 31.501,
+            "end": 31.761,
+            "score": 0.795
+        },
+        {
+            "word": "is",
+            "start": 31.781,
+            "end": 31.861,
+            "score": 0.683
+        },
+        {
+            "word": "a",
+            "start": 31.941,
+            "end": 32.002,
+            "score": 0.517
+        },
+        {
+            "word": "very",
+            "start": 32.042,
+            "end": 32.342,
+            "score": 0.795
+        },
+        {
+            "word": "simple",
+            "start": 33.183,
+            "end": 33.523,
+            "score": 0.858
+        },
+        {
+            "word": "yeah",
+            "start": 33.743,
+            "end": 34.124,
+            "score": 0.556
+        },
+        {
+            "word": "it's",
+            "start": 34.244,
+            "end": 34.704,
+            "score": 0.683
+        },
+        {
+            "word": "uh",
+            "start": 35.105,
+            "end": 35.205,
+            "score": 0.476
+        },
+        {
+            "word": "i",
+            "start": 35.445,
+            "end": 35.505,
+            "score": 0.987
+        },
+        {
+            "word": "like",
+            "start": 35.545,
+            "end": 35.725,
+            "score": 0.852
+        },
+        {
+            "word": "the",
+            "start": 35.765,
+            "end": 35.926,
+            "score": 0.696
+        },
+        {
+            "word": "spectacle",
+            "start": 36.366,
+            "end": 36.806,
+            "score": 0.928
+        },
+        {
+            "word": "movies",
+            "start": 36.847,
+            "end": 37.167,
+            "score": 0.731
+        },
+        {
+            "word": "like",
+            "start": 37.227,
+            "end": 37.427,
+            "score": 0.821
+        },
+        {
+            "word": "that",
+            "start": 37.507,
+            "end": 37.727,
+            "score": 0.556
+        },
+        {
+            "word": "yeah",
+            "start": 38.028,
+            "end": 38.148,
+            "score": 0.422
+        }
+    ]
+}

@@ -1,0 +1,734 @@
+{
+    "segments": [
+        {
+            "start": 7.592,
+            "end": 10.873,
+            "text": " My favorite movie is Love Actually.",
+            "words": [
+                {
+                    "word": "My",
+                    "start": 7.592,
+                    "end": 7.852,
+                    "score": 0.667
+                },
+                {
+                    "word": "favorite",
+                    "start": 8.232,
+                    "end": 8.712,
+                    "score": 0.539
+                },
+                {
+                    "word": "movie",
+                    "start": 8.772,
+                    "end": 9.172,
+                    "score": 0.777
+                },
+                {
+                    "word": "is",
+                    "start": 9.272,
+                    "end": 9.392,
+                    "score": 0.67
+                },
+                {
+                    "word": "Love",
+                    "start": 10.032,
+                    "end": 10.353,
+                    "score": 0.854
+                },
+                {
+                    "word": "Actually.",
+                    "start": 10.413,
+                    "end": 10.873,
+                    "score": 0.715
+                }
+            ]
+        },
+        {
+            "start": 11.893,
+            "end": 14.394,
+            "text": "I love this movie because of two reasons.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 11.893,
+                    "end": 11.973,
+                    "score": 0.8
+                },
+                {
+                    "word": "love",
+                    "start": 12.013,
+                    "end": 12.233,
+                    "score": 0.94
+                },
+                {
+                    "word": "this",
+                    "start": 12.273,
+                    "end": 12.473,
+                    "score": 0.802
+                },
+                {
+                    "word": "movie",
+                    "start": 12.573,
+                    "end": 13.013,
+                    "score": 0.85
+                },
+                {
+                    "word": "because",
+                    "start": 13.153,
+                    "end": 13.494,
+                    "score": 0.914
+                },
+                {
+                    "word": "of",
+                    "start": 13.574,
+                    "end": 13.654,
+                    "score": 0.835
+                },
+                {
+                    "word": "two",
+                    "start": 13.734,
+                    "end": 13.934,
+                    "score": 0.88
+                },
+                {
+                    "word": "reasons.",
+                    "start": 13.994,
+                    "end": 14.394,
+                    "score": 0.785
+                }
+            ]
+        },
+        {
+            "start": 15.194,
+            "end": 20.236,
+            "text": "First one is their accent and second is story.",
+            "words": [
+                {
+                    "word": "First",
+                    "start": 15.194,
+                    "end": 15.434,
+                    "score": 0.612
+                },
+                {
+                    "word": "one",
+                    "start": 15.534,
+                    "end": 15.654,
+                    "score": 0.786
+                },
+                {
+                    "word": "is",
+                    "start": 15.694,
+                    "end": 15.874,
+                    "score": 0.728
+                },
+                {
+                    "word": "their",
+                    "start": 16.755,
+                    "end": 17.055,
+                    "score": 0.678
+                },
+                {
+                    "word": "accent",
+                    "start": 17.275,
+                    "end": 17.735,
+                    "score": 0.8
+                },
+                {
+                    "word": "and",
+                    "start": 18.215,
+                    "end": 18.355,
+                    "score": 0.753
+                },
+                {
+                    "word": "second",
+                    "start": 18.795,
+                    "end": 19.175,
+                    "score": 0.856
+                },
+                {
+                    "word": "is",
+                    "start": 19.195,
+                    "end": 19.336,
+                    "score": 0.796
+                },
+                {
+                    "word": "story.",
+                    "start": 19.896,
+                    "end": 20.236,
+                    "score": 0.85
+                }
+            ]
+        },
+        {
+            "start": 22.056,
+            "end": 26.298,
+            "text": "The British accent is so attractive.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 22.056,
+                    "end": 22.257,
+                    "score": 0.9
+                },
+                {
+                    "word": "British",
+                    "start": 22.357,
+                    "end": 22.977,
+                    "score": 0.842
+                },
+                {
+                    "word": "accent",
+                    "start": 23.457,
+                    "end": 23.937,
+                    "score": 0.781
+                },
+                {
+                    "word": "is",
+                    "start": 24.497,
+                    "end": 24.637,
+                    "score": 0.894
+                },
+                {
+                    "word": "so",
+                    "start": 25.358,
+                    "end": 25.598,
+                    "score": 0.978
+                },
+                {
+                    "word": "attractive.",
+                    "start": 25.698,
+                    "end": 26.298,
+                    "score": 0.859
+                }
+            ]
+        },
+        {
+            "start": 27.779,
+            "end": 30.182,
+            "text": " And the story was fine.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 27.779,
+                    "end": 27.879,
+                    "score": 0.959
+                },
+                {
+                    "word": "the",
+                    "start": 27.919,
+                    "end": 28.079,
+                    "score": 0.901
+                },
+                {
+                    "word": "story",
+                    "start": 28.32,
+                    "end": 28.7,
+                    "score": 0.79
+                },
+                {
+                    "word": "was",
+                    "start": 29.341,
+                    "end": 29.601,
+                    "score": 0.744
+                },
+                {
+                    "word": "fine.",
+                    "start": 29.841,
+                    "end": 30.182,
+                    "score": 0.916
+                }
+            ]
+        },
+        {
+            "start": 30.822,
+            "end": 31.583,
+            "text": "It was good.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 30.822,
+                    "end": 30.882,
+                    "score": 0.998
+                },
+                {
+                    "word": "was",
+                    "start": 30.942,
+                    "end": 31.103,
+                    "score": 0.872
+                },
+                {
+                    "word": "good.",
+                    "start": 31.323,
+                    "end": 31.583,
+                    "score": 0.949
+                }
+            ]
+        },
+        {
+            "start": 32.404,
+            "end": 40.752,
+            "text": "And I don't remember the actors and actress, but it is really nice movie.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 32.404,
+                    "end": 32.504,
+                    "score": 0.759
+                },
+                {
+                    "word": "I",
+                    "start": 33.245,
+                    "end": 33.305,
+                    "score": 0.993
+                },
+                {
+                    "word": "don't",
+                    "start": 33.345,
+                    "end": 33.585,
+                    "score": 0.856
+                },
+                {
+                    "word": "remember",
+                    "start": 33.825,
+                    "end": 34.306,
+                    "score": 0.947
+                },
+                {
+                    "word": "the",
+                    "start": 34.386,
+                    "end": 34.686,
+                    "score": 0.932
+                },
+                {
+                    "word": "actors",
+                    "start": 35.747,
+                    "end": 36.208,
+                    "score": 0.868
+                },
+                {
+                    "word": "and",
+                    "start": 36.448,
+                    "end": 36.608,
+                    "score": 0.823
+                },
+                {
+                    "word": "actress,",
+                    "start": 36.688,
+                    "end": 37.108,
+                    "score": 0.714
+                },
+                {
+                    "word": "but",
+                    "start": 37.489,
+                    "end": 37.709,
+                    "score": 0.888
+                },
+                {
+                    "word": "it",
+                    "start": 38.89,
+                    "end": 38.97,
+                    "score": 0.91
+                },
+                {
+                    "word": "is",
+                    "start": 39.03,
+                    "end": 39.151,
+                    "score": 0.691
+                },
+                {
+                    "word": "really",
+                    "start": 39.391,
+                    "end": 39.711,
+                    "score": 0.884
+                },
+                {
+                    "word": "nice",
+                    "start": 40.051,
+                    "end": 40.292,
+                    "score": 0.981
+                },
+                {
+                    "word": "movie.",
+                    "start": 40.372,
+                    "end": 40.752,
+                    "score": 0.668
+                }
+            ]
+        },
+        {
+            "start": 41.433,
+            "end": 43.855,
+            "text": "So I like Love Actually.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 41.433,
+                    "end": 41.733,
+                    "score": 0.996
+                },
+                {
+                    "word": "I",
+                    "start": 42.194,
+                    "end": 42.274,
+                    "score": 0.931
+                },
+                {
+                    "word": "like",
+                    "start": 42.294,
+                    "end": 42.534,
+                    "score": 0.966
+                },
+                {
+                    "word": "Love",
+                    "start": 43.155,
+                    "end": 43.355,
+                    "score": 0.836
+                },
+                {
+                    "word": "Actually.",
+                    "start": 43.435,
+                    "end": 43.855,
+                    "score": 0.908
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "My",
+            "start": 7.592,
+            "end": 7.852,
+            "score": 0.667
+        },
+        {
+            "word": "favorite",
+            "start": 8.232,
+            "end": 8.712,
+            "score": 0.539
+        },
+        {
+            "word": "movie",
+            "start": 8.772,
+            "end": 9.172,
+            "score": 0.777
+        },
+        {
+            "word": "is",
+            "start": 9.272,
+            "end": 9.392,
+            "score": 0.67
+        },
+        {
+            "word": "Love",
+            "start": 10.032,
+            "end": 10.353,
+            "score": 0.854
+        },
+        {
+            "word": "Actually.",
+            "start": 10.413,
+            "end": 10.873,
+            "score": 0.715
+        },
+        {
+            "word": "I",
+            "start": 11.893,
+            "end": 11.973,
+            "score": 0.8
+        },
+        {
+            "word": "love",
+            "start": 12.013,
+            "end": 12.233,
+            "score": 0.94
+        },
+        {
+            "word": "this",
+            "start": 12.273,
+            "end": 12.473,
+            "score": 0.802
+        },
+        {
+            "word": "movie",
+            "start": 12.573,
+            "end": 13.013,
+            "score": 0.85
+        },
+        {
+            "word": "because",
+            "start": 13.153,
+            "end": 13.494,
+            "score": 0.914
+        },
+        {
+            "word": "of",
+            "start": 13.574,
+            "end": 13.654,
+            "score": 0.835
+        },
+        {
+            "word": "two",
+            "start": 13.734,
+            "end": 13.934,
+            "score": 0.88
+        },
+        {
+            "word": "reasons.",
+            "start": 13.994,
+            "end": 14.394,
+            "score": 0.785
+        },
+        {
+            "word": "First",
+            "start": 15.194,
+            "end": 15.434,
+            "score": 0.612
+        },
+        {
+            "word": "one",
+            "start": 15.534,
+            "end": 15.654,
+            "score": 0.786
+        },
+        {
+            "word": "is",
+            "start": 15.694,
+            "end": 15.874,
+            "score": 0.728
+        },
+        {
+            "word": "their",
+            "start": 16.755,
+            "end": 17.055,
+            "score": 0.678
+        },
+        {
+            "word": "accent",
+            "start": 17.275,
+            "end": 17.735,
+            "score": 0.8
+        },
+        {
+            "word": "and",
+            "start": 18.215,
+            "end": 18.355,
+            "score": 0.753
+        },
+        {
+            "word": "second",
+            "start": 18.795,
+            "end": 19.175,
+            "score": 0.856
+        },
+        {
+            "word": "is",
+            "start": 19.195,
+            "end": 19.336,
+            "score": 0.796
+        },
+        {
+            "word": "story.",
+            "start": 19.896,
+            "end": 20.236,
+            "score": 0.85
+        },
+        {
+            "word": "The",
+            "start": 22.056,
+            "end": 22.257,
+            "score": 0.9
+        },
+        {
+            "word": "British",
+            "start": 22.357,
+            "end": 22.977,
+            "score": 0.842
+        },
+        {
+            "word": "accent",
+            "start": 23.457,
+            "end": 23.937,
+            "score": 0.781
+        },
+        {
+            "word": "is",
+            "start": 24.497,
+            "end": 24.637,
+            "score": 0.894
+        },
+        {
+            "word": "so",
+            "start": 25.358,
+            "end": 25.598,
+            "score": 0.978
+        },
+        {
+            "word": "attractive.",
+            "start": 25.698,
+            "end": 26.298,
+            "score": 0.859
+        },
+        {
+            "word": "And",
+            "start": 27.779,
+            "end": 27.879,
+            "score": 0.959
+        },
+        {
+            "word": "the",
+            "start": 27.919,
+            "end": 28.079,
+            "score": 0.901
+        },
+        {
+            "word": "story",
+            "start": 28.32,
+            "end": 28.7,
+            "score": 0.79
+        },
+        {
+            "word": "was",
+            "start": 29.341,
+            "end": 29.601,
+            "score": 0.744
+        },
+        {
+            "word": "fine.",
+            "start": 29.841,
+            "end": 30.182,
+            "score": 0.916
+        },
+        {
+            "word": "It",
+            "start": 30.822,
+            "end": 30.882,
+            "score": 0.998
+        },
+        {
+            "word": "was",
+            "start": 30.942,
+            "end": 31.103,
+            "score": 0.872
+        },
+        {
+            "word": "good.",
+            "start": 31.323,
+            "end": 31.583,
+            "score": 0.949
+        },
+        {
+            "word": "And",
+            "start": 32.404,
+            "end": 32.504,
+            "score": 0.759
+        },
+        {
+            "word": "I",
+            "start": 33.245,
+            "end": 33.305,
+            "score": 0.993
+        },
+        {
+            "word": "don't",
+            "start": 33.345,
+            "end": 33.585,
+            "score": 0.856
+        },
+        {
+            "word": "remember",
+            "start": 33.825,
+            "end": 34.306,
+            "score": 0.947
+        },
+        {
+            "word": "the",
+            "start": 34.386,
+            "end": 34.686,
+            "score": 0.932
+        },
+        {
+            "word": "actors",
+            "start": 35.747,
+            "end": 36.208,
+            "score": 0.868
+        },
+        {
+            "word": "and",
+            "start": 36.448,
+            "end": 36.608,
+            "score": 0.823
+        },
+        {
+            "word": "actress,",
+            "start": 36.688,
+            "end": 37.108,
+            "score": 0.714
+        },
+        {
+            "word": "but",
+            "start": 37.489,
+            "end": 37.709,
+            "score": 0.888
+        },
+        {
+            "word": "it",
+            "start": 38.89,
+            "end": 38.97,
+            "score": 0.91
+        },
+        {
+            "word": "is",
+            "start": 39.03,
+            "end": 39.151,
+            "score": 0.691
+        },
+        {
+            "word": "really",
+            "start": 39.391,
+            "end": 39.711,
+            "score": 0.884
+        },
+        {
+            "word": "nice",
+            "start": 40.051,
+            "end": 40.292,
+            "score": 0.981
+        },
+        {
+            "word": "movie.",
+            "start": 40.372,
+            "end": 40.752,
+            "score": 0.668
+        },
+        {
+            "word": "So",
+            "start": 41.433,
+            "end": 41.733,
+            "score": 0.996
+        },
+        {
+            "word": "I",
+            "start": 42.194,
+            "end": 42.274,
+            "score": 0.931
+        },
+        {
+            "word": "like",
+            "start": 42.294,
+            "end": 42.534,
+            "score": 0.966
+        },
+        {
+            "word": "Love",
+            "start": 43.155,
+            "end": 43.355,
+            "score": 0.836
+        },
+        {
+            "word": "Actually.",
+            "start": 43.435,
+            "end": 43.855,
+            "score": 0.908
+        }
+    ]
+}

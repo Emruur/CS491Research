@@ -1,0 +1,862 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 10.055,
+            "text": " Well, I'm not sure where you are in this picture, but assuming that you are in the park hotel, then I recommend you visit the park.",
+            "words": [
+                {
+                    "word": "Well,",
+                    "start": 0.049,
+                    "end": 0.349,
+                    "score": 0.817
+                },
+                {
+                    "word": "I'm",
+                    "start": 0.729,
+                    "end": 0.85,
+                    "score": 0.97
+                },
+                {
+                    "word": "not",
+                    "start": 0.89,
+                    "end": 1.01,
+                    "score": 0.977
+                },
+                {
+                    "word": "sure",
+                    "start": 1.07,
+                    "end": 1.33,
+                    "score": 0.651
+                },
+                {
+                    "word": "where",
+                    "start": 1.39,
+                    "end": 1.67,
+                    "score": 0.572
+                },
+                {
+                    "word": "you",
+                    "start": 1.77,
+                    "end": 1.91,
+                    "score": 0.884
+                },
+                {
+                    "word": "are",
+                    "start": 2.13,
+                    "end": 2.27,
+                    "score": 0.76
+                },
+                {
+                    "word": "in",
+                    "start": 2.631,
+                    "end": 2.711,
+                    "score": 0.855
+                },
+                {
+                    "word": "this",
+                    "start": 2.771,
+                    "end": 2.951,
+                    "score": 0.939
+                },
+                {
+                    "word": "picture,",
+                    "start": 3.051,
+                    "end": 3.471,
+                    "score": 0.85
+                },
+                {
+                    "word": "but",
+                    "start": 3.591,
+                    "end": 3.811,
+                    "score": 0.895
+                },
+                {
+                    "word": "assuming",
+                    "start": 4.612,
+                    "end": 5.032,
+                    "score": 0.922
+                },
+                {
+                    "word": "that",
+                    "start": 5.092,
+                    "end": 5.212,
+                    "score": 0.959
+                },
+                {
+                    "word": "you",
+                    "start": 5.252,
+                    "end": 5.552,
+                    "score": 0.717
+                },
+                {
+                    "word": "are",
+                    "start": 5.572,
+                    "end": 5.632,
+                    "score": 0.001
+                },
+                {
+                    "word": "in",
+                    "start": 6.253,
+                    "end": 6.353,
+                    "score": 0.744
+                },
+                {
+                    "word": "the",
+                    "start": 6.433,
+                    "end": 6.553,
+                    "score": 0.85
+                },
+                {
+                    "word": "park",
+                    "start": 6.633,
+                    "end": 6.933,
+                    "score": 0.827
+                },
+                {
+                    "word": "hotel,",
+                    "start": 6.953,
+                    "end": 7.393,
+                    "score": 0.776
+                },
+                {
+                    "word": "then",
+                    "start": 7.794,
+                    "end": 8.014,
+                    "score": 0.898
+                },
+                {
+                    "word": "I",
+                    "start": 8.174,
+                    "end": 8.254,
+                    "score": 0.785
+                },
+                {
+                    "word": "recommend",
+                    "start": 8.334,
+                    "end": 8.874,
+                    "score": 0.777
+                },
+                {
+                    "word": "you",
+                    "start": 8.994,
+                    "end": 9.175,
+                    "score": 0.834
+                },
+                {
+                    "word": "visit",
+                    "start": 9.215,
+                    "end": 9.495,
+                    "score": 0.847
+                },
+                {
+                    "word": "the",
+                    "start": 9.535,
+                    "end": 9.635,
+                    "score": 0.861
+                },
+                {
+                    "word": "park.",
+                    "start": 9.675,
+                    "end": 10.055,
+                    "score": 0.798
+                }
+            ]
+        },
+        {
+            "start": 10.435,
+            "end": 17.259,
+            "text": "There's a large park in the center of the city, and it is very close from the park hotel.",
+            "words": [
+                {
+                    "word": "There's",
+                    "start": 10.435,
+                    "end": 10.716,
+                    "score": 0.802
+                },
+                {
+                    "word": "a",
+                    "start": 10.756,
+                    "end": 10.796,
+                    "score": 0.5
+                },
+                {
+                    "word": "large",
+                    "start": 10.836,
+                    "end": 11.156,
+                    "score": 0.789
+                },
+                {
+                    "word": "park",
+                    "start": 11.256,
+                    "end": 11.656,
+                    "score": 0.872
+                },
+                {
+                    "word": "in",
+                    "start": 11.896,
+                    "end": 11.996,
+                    "score": 0.842
+                },
+                {
+                    "word": "the",
+                    "start": 12.076,
+                    "end": 12.296,
+                    "score": 0.779
+                },
+                {
+                    "word": "center",
+                    "start": 12.637,
+                    "end": 12.957,
+                    "score": 0.774
+                },
+                {
+                    "word": "of",
+                    "start": 13.017,
+                    "end": 13.077,
+                    "score": 0.75
+                },
+                {
+                    "word": "the",
+                    "start": 13.137,
+                    "end": 13.237,
+                    "score": 0.981
+                },
+                {
+                    "word": "city,",
+                    "start": 13.277,
+                    "end": 13.597,
+                    "score": 0.859
+                },
+                {
+                    "word": "and",
+                    "start": 14.418,
+                    "end": 14.538,
+                    "score": 0.993
+                },
+                {
+                    "word": "it",
+                    "start": 15.038,
+                    "end": 15.098,
+                    "score": 0.995
+                },
+                {
+                    "word": "is",
+                    "start": 15.158,
+                    "end": 15.238,
+                    "score": 0.446
+                },
+                {
+                    "word": "very",
+                    "start": 15.278,
+                    "end": 15.518,
+                    "score": 0.757
+                },
+                {
+                    "word": "close",
+                    "start": 15.598,
+                    "end": 15.899,
+                    "score": 0.863
+                },
+                {
+                    "word": "from",
+                    "start": 15.939,
+                    "end": 16.119,
+                    "score": 0.848
+                },
+                {
+                    "word": "the",
+                    "start": 16.159,
+                    "end": 16.239,
+                    "score": 0.83
+                },
+                {
+                    "word": "park",
+                    "start": 16.539,
+                    "end": 16.799,
+                    "score": 0.875
+                },
+                {
+                    "word": "hotel.",
+                    "start": 16.859,
+                    "end": 17.259,
+                    "score": 0.706
+                }
+            ]
+        },
+        {
+            "start": 17.279,
+            "end": 22.042,
+            "text": "It's on the western part of the hotel, so just",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 17.279,
+                    "end": 18.56,
+                    "score": 0.352
+                },
+                {
+                    "word": "on",
+                    "start": 19.181,
+                    "end": 19.241,
+                    "score": 0.993
+                },
+                {
+                    "word": "the",
+                    "start": 19.281,
+                    "end": 19.381,
+                    "score": 0.836
+                },
+                {
+                    "word": "western",
+                    "start": 19.441,
+                    "end": 19.861,
+                    "score": 0.78
+                },
+                {
+                    "word": "part",
+                    "start": 19.901,
+                    "end": 20.161,
+                    "score": 0.873
+                },
+                {
+                    "word": "of",
+                    "start": 20.201,
+                    "end": 20.281,
+                    "score": 0.76
+                },
+                {
+                    "word": "the",
+                    "start": 20.381,
+                    "end": 20.501,
+                    "score": 0.875
+                },
+                {
+                    "word": "hotel,",
+                    "start": 20.561,
+                    "end": 21.002,
+                    "score": 0.74
+                },
+                {
+                    "word": "so",
+                    "start": 21.422,
+                    "end": 21.742,
+                    "score": 0.924
+                },
+                {
+                    "word": "just",
+                    "start": 21.822,
+                    "end": 22.042,
+                    "score": 0.996
+                }
+            ]
+        },
+        {
+            "start": 25.044,
+            "end": 30.092,
+            "text": " go out of the hotel on the park road and then goes the west",
+            "words": [
+                {
+                    "word": "go",
+                    "start": 25.044,
+                    "end": 25.245,
+                    "score": 0.819
+                },
+                {
+                    "word": "out",
+                    "start": 25.485,
+                    "end": 25.625,
+                    "score": 0.876
+                },
+                {
+                    "word": "of",
+                    "start": 25.665,
+                    "end": 25.745,
+                    "score": 0.763
+                },
+                {
+                    "word": "the",
+                    "start": 25.786,
+                    "end": 25.866,
+                    "score": 0.854
+                },
+                {
+                    "word": "hotel",
+                    "start": 25.926,
+                    "end": 26.286,
+                    "score": 0.748
+                },
+                {
+                    "word": "on",
+                    "start": 26.366,
+                    "end": 26.446,
+                    "score": 0.826
+                },
+                {
+                    "word": "the",
+                    "start": 26.486,
+                    "end": 26.587,
+                    "score": 0.848
+                },
+                {
+                    "word": "park",
+                    "start": 26.627,
+                    "end": 26.947,
+                    "score": 0.821
+                },
+                {
+                    "word": "road",
+                    "start": 27.027,
+                    "end": 27.328,
+                    "score": 0.821
+                },
+                {
+                    "word": "and",
+                    "start": 28.269,
+                    "end": 28.449,
+                    "score": 0.705
+                },
+                {
+                    "word": "then",
+                    "start": 28.529,
+                    "end": 28.71,
+                    "score": 0.881
+                },
+                {
+                    "word": "goes",
+                    "start": 28.79,
+                    "end": 29.13,
+                    "score": 0.802
+                },
+                {
+                    "word": "the",
+                    "start": 29.711,
+                    "end": 29.811,
+                    "score": 0.831
+                },
+                {
+                    "word": "west",
+                    "start": 29.851,
+                    "end": 30.092,
+                    "score": 0.919
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Well,",
+            "start": 0.049,
+            "end": 0.349,
+            "score": 0.817
+        },
+        {
+            "word": "I'm",
+            "start": 0.729,
+            "end": 0.85,
+            "score": 0.97
+        },
+        {
+            "word": "not",
+            "start": 0.89,
+            "end": 1.01,
+            "score": 0.977
+        },
+        {
+            "word": "sure",
+            "start": 1.07,
+            "end": 1.33,
+            "score": 0.651
+        },
+        {
+            "word": "where",
+            "start": 1.39,
+            "end": 1.67,
+            "score": 0.572
+        },
+        {
+            "word": "you",
+            "start": 1.77,
+            "end": 1.91,
+            "score": 0.884
+        },
+        {
+            "word": "are",
+            "start": 2.13,
+            "end": 2.27,
+            "score": 0.76
+        },
+        {
+            "word": "in",
+            "start": 2.631,
+            "end": 2.711,
+            "score": 0.855
+        },
+        {
+            "word": "this",
+            "start": 2.771,
+            "end": 2.951,
+            "score": 0.939
+        },
+        {
+            "word": "picture,",
+            "start": 3.051,
+            "end": 3.471,
+            "score": 0.85
+        },
+        {
+            "word": "but",
+            "start": 3.591,
+            "end": 3.811,
+            "score": 0.895
+        },
+        {
+            "word": "assuming",
+            "start": 4.612,
+            "end": 5.032,
+            "score": 0.922
+        },
+        {
+            "word": "that",
+            "start": 5.092,
+            "end": 5.212,
+            "score": 0.959
+        },
+        {
+            "word": "you",
+            "start": 5.252,
+            "end": 5.552,
+            "score": 0.717
+        },
+        {
+            "word": "are",
+            "start": 5.572,
+            "end": 5.632,
+            "score": 0.001
+        },
+        {
+            "word": "in",
+            "start": 6.253,
+            "end": 6.353,
+            "score": 0.744
+        },
+        {
+            "word": "the",
+            "start": 6.433,
+            "end": 6.553,
+            "score": 0.85
+        },
+        {
+            "word": "park",
+            "start": 6.633,
+            "end": 6.933,
+            "score": 0.827
+        },
+        {
+            "word": "hotel,",
+            "start": 6.953,
+            "end": 7.393,
+            "score": 0.776
+        },
+        {
+            "word": "then",
+            "start": 7.794,
+            "end": 8.014,
+            "score": 0.898
+        },
+        {
+            "word": "I",
+            "start": 8.174,
+            "end": 8.254,
+            "score": 0.785
+        },
+        {
+            "word": "recommend",
+            "start": 8.334,
+            "end": 8.874,
+            "score": 0.777
+        },
+        {
+            "word": "you",
+            "start": 8.994,
+            "end": 9.175,
+            "score": 0.834
+        },
+        {
+            "word": "visit",
+            "start": 9.215,
+            "end": 9.495,
+            "score": 0.847
+        },
+        {
+            "word": "the",
+            "start": 9.535,
+            "end": 9.635,
+            "score": 0.861
+        },
+        {
+            "word": "park.",
+            "start": 9.675,
+            "end": 10.055,
+            "score": 0.798
+        },
+        {
+            "word": "There's",
+            "start": 10.435,
+            "end": 10.716,
+            "score": 0.802
+        },
+        {
+            "word": "a",
+            "start": 10.756,
+            "end": 10.796,
+            "score": 0.5
+        },
+        {
+            "word": "large",
+            "start": 10.836,
+            "end": 11.156,
+            "score": 0.789
+        },
+        {
+            "word": "park",
+            "start": 11.256,
+            "end": 11.656,
+            "score": 0.872
+        },
+        {
+            "word": "in",
+            "start": 11.896,
+            "end": 11.996,
+            "score": 0.842
+        },
+        {
+            "word": "the",
+            "start": 12.076,
+            "end": 12.296,
+            "score": 0.779
+        },
+        {
+            "word": "center",
+            "start": 12.637,
+            "end": 12.957,
+            "score": 0.774
+        },
+        {
+            "word": "of",
+            "start": 13.017,
+            "end": 13.077,
+            "score": 0.75
+        },
+        {
+            "word": "the",
+            "start": 13.137,
+            "end": 13.237,
+            "score": 0.981
+        },
+        {
+            "word": "city,",
+            "start": 13.277,
+            "end": 13.597,
+            "score": 0.859
+        },
+        {
+            "word": "and",
+            "start": 14.418,
+            "end": 14.538,
+            "score": 0.993
+        },
+        {
+            "word": "it",
+            "start": 15.038,
+            "end": 15.098,
+            "score": 0.995
+        },
+        {
+            "word": "is",
+            "start": 15.158,
+            "end": 15.238,
+            "score": 0.446
+        },
+        {
+            "word": "very",
+            "start": 15.278,
+            "end": 15.518,
+            "score": 0.757
+        },
+        {
+            "word": "close",
+            "start": 15.598,
+            "end": 15.899,
+            "score": 0.863
+        },
+        {
+            "word": "from",
+            "start": 15.939,
+            "end": 16.119,
+            "score": 0.848
+        },
+        {
+            "word": "the",
+            "start": 16.159,
+            "end": 16.239,
+            "score": 0.83
+        },
+        {
+            "word": "park",
+            "start": 16.539,
+            "end": 16.799,
+            "score": 0.875
+        },
+        {
+            "word": "hotel.",
+            "start": 16.859,
+            "end": 17.259,
+            "score": 0.706
+        },
+        {
+            "word": "It's",
+            "start": 17.279,
+            "end": 18.56,
+            "score": 0.352
+        },
+        {
+            "word": "on",
+            "start": 19.181,
+            "end": 19.241,
+            "score": 0.993
+        },
+        {
+            "word": "the",
+            "start": 19.281,
+            "end": 19.381,
+            "score": 0.836
+        },
+        {
+            "word": "western",
+            "start": 19.441,
+            "end": 19.861,
+            "score": 0.78
+        },
+        {
+            "word": "part",
+            "start": 19.901,
+            "end": 20.161,
+            "score": 0.873
+        },
+        {
+            "word": "of",
+            "start": 20.201,
+            "end": 20.281,
+            "score": 0.76
+        },
+        {
+            "word": "the",
+            "start": 20.381,
+            "end": 20.501,
+            "score": 0.875
+        },
+        {
+            "word": "hotel,",
+            "start": 20.561,
+            "end": 21.002,
+            "score": 0.74
+        },
+        {
+            "word": "so",
+            "start": 21.422,
+            "end": 21.742,
+            "score": 0.924
+        },
+        {
+            "word": "just",
+            "start": 21.822,
+            "end": 22.042,
+            "score": 0.996
+        },
+        {
+            "word": "go",
+            "start": 25.044,
+            "end": 25.245,
+            "score": 0.819
+        },
+        {
+            "word": "out",
+            "start": 25.485,
+            "end": 25.625,
+            "score": 0.876
+        },
+        {
+            "word": "of",
+            "start": 25.665,
+            "end": 25.745,
+            "score": 0.763
+        },
+        {
+            "word": "the",
+            "start": 25.786,
+            "end": 25.866,
+            "score": 0.854
+        },
+        {
+            "word": "hotel",
+            "start": 25.926,
+            "end": 26.286,
+            "score": 0.748
+        },
+        {
+            "word": "on",
+            "start": 26.366,
+            "end": 26.446,
+            "score": 0.826
+        },
+        {
+            "word": "the",
+            "start": 26.486,
+            "end": 26.587,
+            "score": 0.848
+        },
+        {
+            "word": "park",
+            "start": 26.627,
+            "end": 26.947,
+            "score": 0.821
+        },
+        {
+            "word": "road",
+            "start": 27.027,
+            "end": 27.328,
+            "score": 0.821
+        },
+        {
+            "word": "and",
+            "start": 28.269,
+            "end": 28.449,
+            "score": 0.705
+        },
+        {
+            "word": "then",
+            "start": 28.529,
+            "end": 28.71,
+            "score": 0.881
+        },
+        {
+            "word": "goes",
+            "start": 28.79,
+            "end": 29.13,
+            "score": 0.802
+        },
+        {
+            "word": "the",
+            "start": 29.711,
+            "end": 29.811,
+            "score": 0.831
+        },
+        {
+            "word": "west",
+            "start": 29.851,
+            "end": 30.092,
+            "score": 0.919
+        }
+    ]
+}

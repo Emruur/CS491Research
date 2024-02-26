@@ -1,0 +1,1246 @@
+{
+    "segments": [
+        {
+            "start": 0.589,
+            "end": 26.892,
+            "text": " I want to go England and I want to go specific place London in England because I like to watch soccer and Premier League is the best interesting to I want to see so I want to go London and some stadium to saw to see a soccer game and you see the Harry Potter that background is the London England",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.589,
+                    "end": 0.63,
+                    "score": 0.454
+                },
+                {
+                    "word": "want",
+                    "start": 0.65,
+                    "end": 0.81,
+                    "score": 0.55
+                },
+                {
+                    "word": "to",
+                    "start": 0.91,
+                    "end": 1.11,
+                    "score": 0.909
+                },
+                {
+                    "word": "go",
+                    "start": 1.13,
+                    "end": 1.17,
+                    "score": 0.001
+                },
+                {
+                    "word": "England",
+                    "start": 1.43,
+                    "end": 1.851,
+                    "score": 0.749
+                },
+                {
+                    "word": "and",
+                    "start": 2.671,
+                    "end": 2.811,
+                    "score": 0.707
+                },
+                {
+                    "word": "I",
+                    "start": 2.992,
+                    "end": 3.032,
+                    "score": 0.648
+                },
+                {
+                    "word": "want",
+                    "start": 3.052,
+                    "end": 3.152,
+                    "score": 0.516
+                },
+                {
+                    "word": "to",
+                    "start": 3.172,
+                    "end": 3.232,
+                    "score": 0.292
+                },
+                {
+                    "word": "go",
+                    "start": 3.272,
+                    "end": 3.412,
+                    "score": 0.73
+                },
+                {
+                    "word": "specific",
+                    "start": 3.432,
+                    "end": 4.052,
+                    "score": 0.691
+                },
+                {
+                    "word": "place",
+                    "start": 4.072,
+                    "end": 4.453,
+                    "score": 0.903
+                },
+                {
+                    "word": "London",
+                    "start": 4.933,
+                    "end": 5.354,
+                    "score": 0.722
+                },
+                {
+                    "word": "in",
+                    "start": 5.914,
+                    "end": 5.994,
+                    "score": 0.813
+                },
+                {
+                    "word": "England",
+                    "start": 6.074,
+                    "end": 6.454,
+                    "score": 0.636
+                },
+                {
+                    "word": "because",
+                    "start": 6.975,
+                    "end": 7.295,
+                    "score": 0.908
+                },
+                {
+                    "word": "I",
+                    "start": 7.415,
+                    "end": 7.535,
+                    "score": 0.827
+                },
+                {
+                    "word": "like",
+                    "start": 7.575,
+                    "end": 7.816,
+                    "score": 0.889
+                },
+                {
+                    "word": "to",
+                    "start": 8.136,
+                    "end": 8.376,
+                    "score": 0.794
+                },
+                {
+                    "word": "watch",
+                    "start": 8.716,
+                    "end": 9.017,
+                    "score": 0.549
+                },
+                {
+                    "word": "soccer",
+                    "start": 9.197,
+                    "end": 9.677,
+                    "score": 0.797
+                },
+                {
+                    "word": "and",
+                    "start": 10.298,
+                    "end": 10.378,
+                    "score": 0.809
+                },
+                {
+                    "word": "Premier",
+                    "start": 10.438,
+                    "end": 10.898,
+                    "score": 0.869
+                },
+                {
+                    "word": "League",
+                    "start": 10.918,
+                    "end": 11.078,
+                    "score": 0.15
+                },
+                {
+                    "word": "is",
+                    "start": 11.218,
+                    "end": 11.339,
+                    "score": 0.828
+                },
+                {
+                    "word": "the",
+                    "start": 11.399,
+                    "end": 11.539,
+                    "score": 0.888
+                },
+                {
+                    "word": "best",
+                    "start": 11.579,
+                    "end": 11.859,
+                    "score": 0.942
+                },
+                {
+                    "word": "interesting",
+                    "start": 12.419,
+                    "end": 13.02,
+                    "score": 0.901
+                },
+                {
+                    "word": "to",
+                    "start": 13.3,
+                    "end": 13.44,
+                    "score": 0.828
+                },
+                {
+                    "word": "I",
+                    "start": 13.54,
+                    "end": 13.58,
+                    "score": 0.817
+                },
+                {
+                    "word": "want",
+                    "start": 13.6,
+                    "end": 13.741,
+                    "score": 0.502
+                },
+                {
+                    "word": "to",
+                    "start": 13.761,
+                    "end": 13.861,
+                    "score": 0.283
+                },
+                {
+                    "word": "see",
+                    "start": 13.881,
+                    "end": 14.121,
+                    "score": 0.548
+                },
+                {
+                    "word": "so",
+                    "start": 15.042,
+                    "end": 15.242,
+                    "score": 0.859
+                },
+                {
+                    "word": "I",
+                    "start": 15.382,
+                    "end": 15.442,
+                    "score": 0.715
+                },
+                {
+                    "word": "want",
+                    "start": 15.482,
+                    "end": 15.762,
+                    "score": 0.7
+                },
+                {
+                    "word": "to",
+                    "start": 15.802,
+                    "end": 16.022,
+                    "score": 0.757
+                },
+                {
+                    "word": "go",
+                    "start": 16.043,
+                    "end": 16.083,
+                    "score": 0.002
+                },
+                {
+                    "word": "London",
+                    "start": 16.203,
+                    "end": 16.583,
+                    "score": 0.845
+                },
+                {
+                    "word": "and",
+                    "start": 16.723,
+                    "end": 16.883,
+                    "score": 0.71
+                },
+                {
+                    "word": "some",
+                    "start": 17.203,
+                    "end": 17.384,
+                    "score": 0.866
+                },
+                {
+                    "word": "stadium",
+                    "start": 17.444,
+                    "end": 18.024,
+                    "score": 0.89
+                },
+                {
+                    "word": "to",
+                    "start": 18.304,
+                    "end": 18.445,
+                    "score": 0.856
+                },
+                {
+                    "word": "saw",
+                    "start": 18.945,
+                    "end": 19.285,
+                    "score": 0.728
+                },
+                {
+                    "word": "to",
+                    "start": 19.886,
+                    "end": 20.026,
+                    "score": 0.85
+                },
+                {
+                    "word": "see",
+                    "start": 20.086,
+                    "end": 20.286,
+                    "score": 0.903
+                },
+                {
+                    "word": "a",
+                    "start": 20.386,
+                    "end": 20.486,
+                    "score": 0.791
+                },
+                {
+                    "word": "soccer",
+                    "start": 20.546,
+                    "end": 20.927,
+                    "score": 0.696
+                },
+                {
+                    "word": "game",
+                    "start": 20.947,
+                    "end": 21.207,
+                    "score": 0.83
+                },
+                {
+                    "word": "and",
+                    "start": 21.907,
+                    "end": 22.068,
+                    "score": 0.696
+                },
+                {
+                    "word": "you",
+                    "start": 22.788,
+                    "end": 22.948,
+                    "score": 0.827
+                },
+                {
+                    "word": "see",
+                    "start": 23.008,
+                    "end": 23.209,
+                    "score": 0.907
+                },
+                {
+                    "word": "the",
+                    "start": 23.229,
+                    "end": 23.349,
+                    "score": 0.889
+                },
+                {
+                    "word": "Harry",
+                    "start": 23.809,
+                    "end": 24.029,
+                    "score": 0.666
+                },
+                {
+                    "word": "Potter",
+                    "start": 24.069,
+                    "end": 24.41,
+                    "score": 0.886
+                },
+                {
+                    "word": "that",
+                    "start": 24.55,
+                    "end": 24.79,
+                    "score": 0.82
+                },
+                {
+                    "word": "background",
+                    "start": 24.85,
+                    "end": 25.27,
+                    "score": 0.921
+                },
+                {
+                    "word": "is",
+                    "start": 25.35,
+                    "end": 25.47,
+                    "score": 0.692
+                },
+                {
+                    "word": "the",
+                    "start": 25.51,
+                    "end": 25.771,
+                    "score": 0.228
+                },
+                {
+                    "word": "London",
+                    "start": 25.851,
+                    "end": 26.231,
+                    "score": 0.848
+                },
+                {
+                    "word": "England",
+                    "start": 26.611,
+                    "end": 26.892,
+                    "score": 0.918
+                }
+            ]
+        },
+        {
+            "start": 27.692,
+            "end": 34.435,
+            "text": " So I want to see some place to use in Harry Potter scenes.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 27.692,
+                    "end": 27.872,
+                    "score": 0.884
+                },
+                {
+                    "word": "I",
+                    "start": 27.992,
+                    "end": 28.052,
+                    "score": 0.689
+                },
+                {
+                    "word": "want",
+                    "start": 28.072,
+                    "end": 28.292,
+                    "score": 0.761
+                },
+                {
+                    "word": "to",
+                    "start": 28.312,
+                    "end": 28.353,
+                    "score": 0.002
+                },
+                {
+                    "word": "see",
+                    "start": 29.153,
+                    "end": 29.373,
+                    "score": 0.969
+                },
+                {
+                    "word": "some",
+                    "start": 29.433,
+                    "end": 29.613,
+                    "score": 0.949
+                },
+                {
+                    "word": "place",
+                    "start": 29.693,
+                    "end": 30.454,
+                    "score": 0.946
+                },
+                {
+                    "word": "to",
+                    "start": 30.474,
+                    "end": 30.514,
+                    "score": 0.004
+                },
+                {
+                    "word": "use",
+                    "start": 31.634,
+                    "end": 31.854,
+                    "score": 0.877
+                },
+                {
+                    "word": "in",
+                    "start": 32.214,
+                    "end": 32.374,
+                    "score": 0.669
+                },
+                {
+                    "word": "Harry",
+                    "start": 33.435,
+                    "end": 33.655,
+                    "score": 0.643
+                },
+                {
+                    "word": "Potter",
+                    "start": 33.695,
+                    "end": 34.035,
+                    "score": 0.807
+                },
+                {
+                    "word": "scenes.",
+                    "start": 34.135,
+                    "end": 34.435,
+                    "score": 0.641
+                }
+            ]
+        },
+        {
+            "start": 34.996,
+            "end": 39.598,
+            "text": "So I want to go to that site and I enjoy the site and the game.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 34.996,
+                    "end": 35.156,
+                    "score": 0.878
+                },
+                {
+                    "word": "I",
+                    "start": 35.196,
+                    "end": 35.256,
+                    "score": 0.867
+                },
+                {
+                    "word": "want",
+                    "start": 35.296,
+                    "end": 35.416,
+                    "score": 0.816
+                },
+                {
+                    "word": "to",
+                    "start": 35.436,
+                    "end": 35.496,
+                    "score": 0.227
+                },
+                {
+                    "word": "go",
+                    "start": 35.516,
+                    "end": 35.656,
+                    "score": 0.996
+                },
+                {
+                    "word": "to",
+                    "start": 35.676,
+                    "end": 35.716,
+                    "score": 0.0
+                },
+                {
+                    "word": "that",
+                    "start": 35.756,
+                    "end": 36.016,
+                    "score": 0.562
+                },
+                {
+                    "word": "site",
+                    "start": 36.216,
+                    "end": 36.577,
+                    "score": 0.772
+                },
+                {
+                    "word": "and",
+                    "start": 37.057,
+                    "end": 37.177,
+                    "score": 0.842
+                },
+                {
+                    "word": "I",
+                    "start": 37.297,
+                    "end": 37.417,
+                    "score": 0.806
+                },
+                {
+                    "word": "enjoy",
+                    "start": 37.597,
+                    "end": 37.937,
+                    "score": 0.72
+                },
+                {
+                    "word": "the",
+                    "start": 37.997,
+                    "end": 38.177,
+                    "score": 0.788
+                },
+                {
+                    "word": "site",
+                    "start": 38.317,
+                    "end": 38.678,
+                    "score": 0.664
+                },
+                {
+                    "word": "and",
+                    "start": 38.798,
+                    "end": 38.938,
+                    "score": 0.848
+                },
+                {
+                    "word": "the",
+                    "start": 39.098,
+                    "end": 39.218,
+                    "score": 0.897
+                },
+                {
+                    "word": "game.",
+                    "start": 39.278,
+                    "end": 39.598,
+                    "score": 0.909
+                }
+            ]
+        },
+        {
+            "start": 40.398,
+            "end": 42.419,
+            "text": "If I go there, I have fun, a lot of fun.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 40.398,
+                    "end": 40.498,
+                    "score": 0.874
+                },
+                {
+                    "word": "I",
+                    "start": 40.578,
+                    "end": 40.659,
+                    "score": 0.75
+                },
+                {
+                    "word": "go",
+                    "start": 40.679,
+                    "end": 40.799,
+                    "score": 0.847
+                },
+                {
+                    "word": "there,",
+                    "start": 40.839,
+                    "end": 41.039,
+                    "score": 0.84
+                },
+                {
+                    "word": "I",
+                    "start": 41.219,
+                    "end": 41.319,
+                    "score": 0.824
+                },
+                {
+                    "word": "have",
+                    "start": 41.339,
+                    "end": 41.479,
+                    "score": 0.884
+                },
+                {
+                    "word": "fun,",
+                    "start": 41.539,
+                    "end": 41.759,
+                    "score": 0.76
+                },
+                {
+                    "word": "a",
+                    "start": 41.819,
+                    "end": 41.839,
+                    "score": 0.995
+                },
+                {
+                    "word": "lot",
+                    "start": 41.899,
+                    "end": 42.079,
+                    "score": 0.884
+                },
+                {
+                    "word": "of",
+                    "start": 42.099,
+                    "end": 42.159,
+                    "score": 0.68
+                },
+                {
+                    "word": "fun.",
+                    "start": 42.239,
+                    "end": 42.419,
+                    "score": 0.987
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.589,
+            "end": 0.63,
+            "score": 0.454
+        },
+        {
+            "word": "want",
+            "start": 0.65,
+            "end": 0.81,
+            "score": 0.55
+        },
+        {
+            "word": "to",
+            "start": 0.91,
+            "end": 1.11,
+            "score": 0.909
+        },
+        {
+            "word": "go",
+            "start": 1.13,
+            "end": 1.17,
+            "score": 0.001
+        },
+        {
+            "word": "England",
+            "start": 1.43,
+            "end": 1.851,
+            "score": 0.749
+        },
+        {
+            "word": "and",
+            "start": 2.671,
+            "end": 2.811,
+            "score": 0.707
+        },
+        {
+            "word": "I",
+            "start": 2.992,
+            "end": 3.032,
+            "score": 0.648
+        },
+        {
+            "word": "want",
+            "start": 3.052,
+            "end": 3.152,
+            "score": 0.516
+        },
+        {
+            "word": "to",
+            "start": 3.172,
+            "end": 3.232,
+            "score": 0.292
+        },
+        {
+            "word": "go",
+            "start": 3.272,
+            "end": 3.412,
+            "score": 0.73
+        },
+        {
+            "word": "specific",
+            "start": 3.432,
+            "end": 4.052,
+            "score": 0.691
+        },
+        {
+            "word": "place",
+            "start": 4.072,
+            "end": 4.453,
+            "score": 0.903
+        },
+        {
+            "word": "London",
+            "start": 4.933,
+            "end": 5.354,
+            "score": 0.722
+        },
+        {
+            "word": "in",
+            "start": 5.914,
+            "end": 5.994,
+            "score": 0.813
+        },
+        {
+            "word": "England",
+            "start": 6.074,
+            "end": 6.454,
+            "score": 0.636
+        },
+        {
+            "word": "because",
+            "start": 6.975,
+            "end": 7.295,
+            "score": 0.908
+        },
+        {
+            "word": "I",
+            "start": 7.415,
+            "end": 7.535,
+            "score": 0.827
+        },
+        {
+            "word": "like",
+            "start": 7.575,
+            "end": 7.816,
+            "score": 0.889
+        },
+        {
+            "word": "to",
+            "start": 8.136,
+            "end": 8.376,
+            "score": 0.794
+        },
+        {
+            "word": "watch",
+            "start": 8.716,
+            "end": 9.017,
+            "score": 0.549
+        },
+        {
+            "word": "soccer",
+            "start": 9.197,
+            "end": 9.677,
+            "score": 0.797
+        },
+        {
+            "word": "and",
+            "start": 10.298,
+            "end": 10.378,
+            "score": 0.809
+        },
+        {
+            "word": "Premier",
+            "start": 10.438,
+            "end": 10.898,
+            "score": 0.869
+        },
+        {
+            "word": "League",
+            "start": 10.918,
+            "end": 11.078,
+            "score": 0.15
+        },
+        {
+            "word": "is",
+            "start": 11.218,
+            "end": 11.339,
+            "score": 0.828
+        },
+        {
+            "word": "the",
+            "start": 11.399,
+            "end": 11.539,
+            "score": 0.888
+        },
+        {
+            "word": "best",
+            "start": 11.579,
+            "end": 11.859,
+            "score": 0.942
+        },
+        {
+            "word": "interesting",
+            "start": 12.419,
+            "end": 13.02,
+            "score": 0.901
+        },
+        {
+            "word": "to",
+            "start": 13.3,
+            "end": 13.44,
+            "score": 0.828
+        },
+        {
+            "word": "I",
+            "start": 13.54,
+            "end": 13.58,
+            "score": 0.817
+        },
+        {
+            "word": "want",
+            "start": 13.6,
+            "end": 13.741,
+            "score": 0.502
+        },
+        {
+            "word": "to",
+            "start": 13.761,
+            "end": 13.861,
+            "score": 0.283
+        },
+        {
+            "word": "see",
+            "start": 13.881,
+            "end": 14.121,
+            "score": 0.548
+        },
+        {
+            "word": "so",
+            "start": 15.042,
+            "end": 15.242,
+            "score": 0.859
+        },
+        {
+            "word": "I",
+            "start": 15.382,
+            "end": 15.442,
+            "score": 0.715
+        },
+        {
+            "word": "want",
+            "start": 15.482,
+            "end": 15.762,
+            "score": 0.7
+        },
+        {
+            "word": "to",
+            "start": 15.802,
+            "end": 16.022,
+            "score": 0.757
+        },
+        {
+            "word": "go",
+            "start": 16.043,
+            "end": 16.083,
+            "score": 0.002
+        },
+        {
+            "word": "London",
+            "start": 16.203,
+            "end": 16.583,
+            "score": 0.845
+        },
+        {
+            "word": "and",
+            "start": 16.723,
+            "end": 16.883,
+            "score": 0.71
+        },
+        {
+            "word": "some",
+            "start": 17.203,
+            "end": 17.384,
+            "score": 0.866
+        },
+        {
+            "word": "stadium",
+            "start": 17.444,
+            "end": 18.024,
+            "score": 0.89
+        },
+        {
+            "word": "to",
+            "start": 18.304,
+            "end": 18.445,
+            "score": 0.856
+        },
+        {
+            "word": "saw",
+            "start": 18.945,
+            "end": 19.285,
+            "score": 0.728
+        },
+        {
+            "word": "to",
+            "start": 19.886,
+            "end": 20.026,
+            "score": 0.85
+        },
+        {
+            "word": "see",
+            "start": 20.086,
+            "end": 20.286,
+            "score": 0.903
+        },
+        {
+            "word": "a",
+            "start": 20.386,
+            "end": 20.486,
+            "score": 0.791
+        },
+        {
+            "word": "soccer",
+            "start": 20.546,
+            "end": 20.927,
+            "score": 0.696
+        },
+        {
+            "word": "game",
+            "start": 20.947,
+            "end": 21.207,
+            "score": 0.83
+        },
+        {
+            "word": "and",
+            "start": 21.907,
+            "end": 22.068,
+            "score": 0.696
+        },
+        {
+            "word": "you",
+            "start": 22.788,
+            "end": 22.948,
+            "score": 0.827
+        },
+        {
+            "word": "see",
+            "start": 23.008,
+            "end": 23.209,
+            "score": 0.907
+        },
+        {
+            "word": "the",
+            "start": 23.229,
+            "end": 23.349,
+            "score": 0.889
+        },
+        {
+            "word": "Harry",
+            "start": 23.809,
+            "end": 24.029,
+            "score": 0.666
+        },
+        {
+            "word": "Potter",
+            "start": 24.069,
+            "end": 24.41,
+            "score": 0.886
+        },
+        {
+            "word": "that",
+            "start": 24.55,
+            "end": 24.79,
+            "score": 0.82
+        },
+        {
+            "word": "background",
+            "start": 24.85,
+            "end": 25.27,
+            "score": 0.921
+        },
+        {
+            "word": "is",
+            "start": 25.35,
+            "end": 25.47,
+            "score": 0.692
+        },
+        {
+            "word": "the",
+            "start": 25.51,
+            "end": 25.771,
+            "score": 0.228
+        },
+        {
+            "word": "London",
+            "start": 25.851,
+            "end": 26.231,
+            "score": 0.848
+        },
+        {
+            "word": "England",
+            "start": 26.611,
+            "end": 26.892,
+            "score": 0.918
+        },
+        {
+            "word": "So",
+            "start": 27.692,
+            "end": 27.872,
+            "score": 0.884
+        },
+        {
+            "word": "I",
+            "start": 27.992,
+            "end": 28.052,
+            "score": 0.689
+        },
+        {
+            "word": "want",
+            "start": 28.072,
+            "end": 28.292,
+            "score": 0.761
+        },
+        {
+            "word": "to",
+            "start": 28.312,
+            "end": 28.353,
+            "score": 0.002
+        },
+        {
+            "word": "see",
+            "start": 29.153,
+            "end": 29.373,
+            "score": 0.969
+        },
+        {
+            "word": "some",
+            "start": 29.433,
+            "end": 29.613,
+            "score": 0.949
+        },
+        {
+            "word": "place",
+            "start": 29.693,
+            "end": 30.454,
+            "score": 0.946
+        },
+        {
+            "word": "to",
+            "start": 30.474,
+            "end": 30.514,
+            "score": 0.004
+        },
+        {
+            "word": "use",
+            "start": 31.634,
+            "end": 31.854,
+            "score": 0.877
+        },
+        {
+            "word": "in",
+            "start": 32.214,
+            "end": 32.374,
+            "score": 0.669
+        },
+        {
+            "word": "Harry",
+            "start": 33.435,
+            "end": 33.655,
+            "score": 0.643
+        },
+        {
+            "word": "Potter",
+            "start": 33.695,
+            "end": 34.035,
+            "score": 0.807
+        },
+        {
+            "word": "scenes.",
+            "start": 34.135,
+            "end": 34.435,
+            "score": 0.641
+        },
+        {
+            "word": "So",
+            "start": 34.996,
+            "end": 35.156,
+            "score": 0.878
+        },
+        {
+            "word": "I",
+            "start": 35.196,
+            "end": 35.256,
+            "score": 0.867
+        },
+        {
+            "word": "want",
+            "start": 35.296,
+            "end": 35.416,
+            "score": 0.816
+        },
+        {
+            "word": "to",
+            "start": 35.436,
+            "end": 35.496,
+            "score": 0.227
+        },
+        {
+            "word": "go",
+            "start": 35.516,
+            "end": 35.656,
+            "score": 0.996
+        },
+        {
+            "word": "to",
+            "start": 35.676,
+            "end": 35.716,
+            "score": 0.0
+        },
+        {
+            "word": "that",
+            "start": 35.756,
+            "end": 36.016,
+            "score": 0.562
+        },
+        {
+            "word": "site",
+            "start": 36.216,
+            "end": 36.577,
+            "score": 0.772
+        },
+        {
+            "word": "and",
+            "start": 37.057,
+            "end": 37.177,
+            "score": 0.842
+        },
+        {
+            "word": "I",
+            "start": 37.297,
+            "end": 37.417,
+            "score": 0.806
+        },
+        {
+            "word": "enjoy",
+            "start": 37.597,
+            "end": 37.937,
+            "score": 0.72
+        },
+        {
+            "word": "the",
+            "start": 37.997,
+            "end": 38.177,
+            "score": 0.788
+        },
+        {
+            "word": "site",
+            "start": 38.317,
+            "end": 38.678,
+            "score": 0.664
+        },
+        {
+            "word": "and",
+            "start": 38.798,
+            "end": 38.938,
+            "score": 0.848
+        },
+        {
+            "word": "the",
+            "start": 39.098,
+            "end": 39.218,
+            "score": 0.897
+        },
+        {
+            "word": "game.",
+            "start": 39.278,
+            "end": 39.598,
+            "score": 0.909
+        },
+        {
+            "word": "If",
+            "start": 40.398,
+            "end": 40.498,
+            "score": 0.874
+        },
+        {
+            "word": "I",
+            "start": 40.578,
+            "end": 40.659,
+            "score": 0.75
+        },
+        {
+            "word": "go",
+            "start": 40.679,
+            "end": 40.799,
+            "score": 0.847
+        },
+        {
+            "word": "there,",
+            "start": 40.839,
+            "end": 41.039,
+            "score": 0.84
+        },
+        {
+            "word": "I",
+            "start": 41.219,
+            "end": 41.319,
+            "score": 0.824
+        },
+        {
+            "word": "have",
+            "start": 41.339,
+            "end": 41.479,
+            "score": 0.884
+        },
+        {
+            "word": "fun,",
+            "start": 41.539,
+            "end": 41.759,
+            "score": 0.76
+        },
+        {
+            "word": "a",
+            "start": 41.819,
+            "end": 41.839,
+            "score": 0.995
+        },
+        {
+            "word": "lot",
+            "start": 41.899,
+            "end": 42.079,
+            "score": 0.884
+        },
+        {
+            "word": "of",
+            "start": 42.099,
+            "end": 42.159,
+            "score": 0.68
+        },
+        {
+            "word": "fun.",
+            "start": 42.239,
+            "end": 42.419,
+            "score": 0.987
+        }
+    ]
+}

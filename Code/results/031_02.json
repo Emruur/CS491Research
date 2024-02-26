@@ -1,0 +1,1090 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 4.231,
+            "text": " The place I'd like to go in the world is Italy.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 0.049,
+                    "end": 0.149,
+                    "score": 0.847
+                },
+                {
+                    "word": "place",
+                    "start": 0.289,
+                    "end": 0.729,
+                    "score": 0.864
+                },
+                {
+                    "word": "I'd",
+                    "start": 1.21,
+                    "end": 1.37,
+                    "score": 0.817
+                },
+                {
+                    "word": "like",
+                    "start": 1.51,
+                    "end": 1.75,
+                    "score": 0.921
+                },
+                {
+                    "word": "to",
+                    "start": 1.85,
+                    "end": 1.93,
+                    "score": 0.969
+                },
+                {
+                    "word": "go",
+                    "start": 1.99,
+                    "end": 2.29,
+                    "score": 0.769
+                },
+                {
+                    "word": "in",
+                    "start": 2.45,
+                    "end": 2.53,
+                    "score": 0.83
+                },
+                {
+                    "word": "the",
+                    "start": 2.57,
+                    "end": 2.67,
+                    "score": 0.7
+                },
+                {
+                    "word": "world",
+                    "start": 2.731,
+                    "end": 3.131,
+                    "score": 0.733
+                },
+                {
+                    "word": "is",
+                    "start": 3.431,
+                    "end": 3.531,
+                    "score": 0.83
+                },
+                {
+                    "word": "Italy.",
+                    "start": 3.831,
+                    "end": 4.231,
+                    "score": 0.832
+                }
+            ]
+        },
+        {
+            "start": 5.032,
+            "end": 13.516,
+            "text": "The one of the biggest reason that I want to go Italy is I really want to see the picture of the Sistine Chapel.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 5.032,
+                    "end": 5.232,
+                    "score": 0.815
+                },
+                {
+                    "word": "one",
+                    "start": 5.312,
+                    "end": 5.432,
+                    "score": 0.755
+                },
+                {
+                    "word": "of",
+                    "start": 5.452,
+                    "end": 5.512,
+                    "score": 0.748
+                },
+                {
+                    "word": "the",
+                    "start": 5.592,
+                    "end": 5.692,
+                    "score": 0.843
+                },
+                {
+                    "word": "biggest",
+                    "start": 5.752,
+                    "end": 6.052,
+                    "score": 0.928
+                },
+                {
+                    "word": "reason",
+                    "start": 6.172,
+                    "end": 6.633,
+                    "score": 0.798
+                },
+                {
+                    "word": "that",
+                    "start": 6.853,
+                    "end": 6.993,
+                    "score": 0.869
+                },
+                {
+                    "word": "I",
+                    "start": 7.033,
+                    "end": 7.093,
+                    "score": 0.58
+                },
+                {
+                    "word": "want",
+                    "start": 7.133,
+                    "end": 7.333,
+                    "score": 0.872
+                },
+                {
+                    "word": "to",
+                    "start": 7.393,
+                    "end": 7.473,
+                    "score": 0.754
+                },
+                {
+                    "word": "go",
+                    "start": 7.493,
+                    "end": 7.633,
+                    "score": 0.836
+                },
+                {
+                    "word": "Italy",
+                    "start": 7.793,
+                    "end": 8.194,
+                    "score": 0.812
+                },
+                {
+                    "word": "is",
+                    "start": 8.454,
+                    "end": 8.554,
+                    "score": 0.866
+                },
+                {
+                    "word": "I",
+                    "start": 9.034,
+                    "end": 9.094,
+                    "score": 0.701
+                },
+                {
+                    "word": "really",
+                    "start": 9.174,
+                    "end": 9.474,
+                    "score": 0.751
+                },
+                {
+                    "word": "want",
+                    "start": 9.534,
+                    "end": 9.794,
+                    "score": 0.862
+                },
+                {
+                    "word": "to",
+                    "start": 9.854,
+                    "end": 9.934,
+                    "score": 0.994
+                },
+                {
+                    "word": "see",
+                    "start": 10.055,
+                    "end": 10.435,
+                    "score": 0.829
+                },
+                {
+                    "word": "the",
+                    "start": 10.875,
+                    "end": 10.975,
+                    "score": 0.986
+                },
+                {
+                    "word": "picture",
+                    "start": 11.095,
+                    "end": 11.515,
+                    "score": 0.827
+                },
+                {
+                    "word": "of",
+                    "start": 11.876,
+                    "end": 11.996,
+                    "score": 0.801
+                },
+                {
+                    "word": "the",
+                    "start": 12.476,
+                    "end": 12.556,
+                    "score": 0.996
+                },
+                {
+                    "word": "Sistine",
+                    "start": 12.636,
+                    "end": 13.016,
+                    "score": 0.736
+                },
+                {
+                    "word": "Chapel.",
+                    "start": 13.056,
+                    "end": 13.516,
+                    "score": 0.752
+                }
+            ]
+        },
+        {
+            "start": 14.897,
+            "end": 18.799,
+            "text": "When I was a little kid, I read a story about",
+            "words": [
+                {
+                    "word": "When",
+                    "start": 14.897,
+                    "end": 15.017,
+                    "score": 0.878
+                },
+                {
+                    "word": "I",
+                    "start": 15.077,
+                    "end": 15.137,
+                    "score": 0.977
+                },
+                {
+                    "word": "was",
+                    "start": 15.197,
+                    "end": 15.397,
+                    "score": 0.867
+                },
+                {
+                    "word": "a",
+                    "start": 15.478,
+                    "end": 15.518,
+                    "score": 0.817
+                },
+                {
+                    "word": "little",
+                    "start": 15.578,
+                    "end": 15.818,
+                    "score": 0.872
+                },
+                {
+                    "word": "kid,",
+                    "start": 15.878,
+                    "end": 16.218,
+                    "score": 0.862
+                },
+                {
+                    "word": "I",
+                    "start": 16.818,
+                    "end": 16.898,
+                    "score": 0.751
+                },
+                {
+                    "word": "read",
+                    "start": 16.958,
+                    "end": 17.198,
+                    "score": 0.863
+                },
+                {
+                    "word": "a",
+                    "start": 17.319,
+                    "end": 17.359,
+                    "score": 0.637
+                },
+                {
+                    "word": "story",
+                    "start": 17.999,
+                    "end": 18.379,
+                    "score": 0.78
+                },
+                {
+                    "word": "about",
+                    "start": 18.539,
+                    "end": 18.799,
+                    "score": 0.999
+                }
+            ]
+        },
+        {
+            "start": 20.12,
+            "end": 45.139,
+            "text": " Da Vinci and one of the his masterpiece which is the picture of Sistine Chapel is so yeah captivates me that's why I wanted to go Italy first then I really like to taste the real gelato in Italy so yeah that's",
+            "words": [
+                {
+                    "word": "Da",
+                    "start": 20.12,
+                    "end": 20.28,
+                    "score": 0.84
+                },
+                {
+                    "word": "Vinci",
+                    "start": 20.32,
+                    "end": 20.801,
+                    "score": 0.909
+                },
+                {
+                    "word": "and",
+                    "start": 21.521,
+                    "end": 21.721,
+                    "score": 0.484
+                },
+                {
+                    "word": "one",
+                    "start": 22.782,
+                    "end": 22.882,
+                    "score": 0.845
+                },
+                {
+                    "word": "of",
+                    "start": 22.922,
+                    "end": 22.982,
+                    "score": 0.929
+                },
+                {
+                    "word": "the",
+                    "start": 23.142,
+                    "end": 23.302,
+                    "score": 0.901
+                },
+                {
+                    "word": "his",
+                    "start": 23.463,
+                    "end": 23.723,
+                    "score": 0.948
+                },
+                {
+                    "word": "masterpiece",
+                    "start": 23.923,
+                    "end": 24.583,
+                    "score": 0.718
+                },
+                {
+                    "word": "which",
+                    "start": 24.764,
+                    "end": 24.964,
+                    "score": 0.914
+                },
+                {
+                    "word": "is",
+                    "start": 25.044,
+                    "end": 25.164,
+                    "score": 0.812
+                },
+                {
+                    "word": "the",
+                    "start": 25.284,
+                    "end": 25.404,
+                    "score": 0.944
+                },
+                {
+                    "word": "picture",
+                    "start": 26.185,
+                    "end": 26.565,
+                    "score": 0.874
+                },
+                {
+                    "word": "of",
+                    "start": 26.685,
+                    "end": 26.765,
+                    "score": 0.826
+                },
+                {
+                    "word": "Sistine",
+                    "start": 26.845,
+                    "end": 27.185,
+                    "score": 0.72
+                },
+                {
+                    "word": "Chapel",
+                    "start": 27.225,
+                    "end": 27.806,
+                    "score": 0.747
+                },
+                {
+                    "word": "is",
+                    "start": 28.286,
+                    "end": 28.386,
+                    "score": 0.62
+                },
+                {
+                    "word": "so",
+                    "start": 28.506,
+                    "end": 28.807,
+                    "score": 0.876
+                },
+                {
+                    "word": "yeah",
+                    "start": 29.487,
+                    "end": 29.827,
+                    "score": 0.694
+                },
+                {
+                    "word": "captivates",
+                    "start": 29.967,
+                    "end": 30.648,
+                    "score": 0.72
+                },
+                {
+                    "word": "me",
+                    "start": 30.688,
+                    "end": 30.908,
+                    "score": 0.986
+                },
+                {
+                    "word": "that's",
+                    "start": 31.348,
+                    "end": 31.569,
+                    "score": 0.884
+                },
+                {
+                    "word": "why",
+                    "start": 31.649,
+                    "end": 32.029,
+                    "score": 0.821
+                },
+                {
+                    "word": "I",
+                    "start": 32.609,
+                    "end": 32.689,
+                    "score": 0.541
+                },
+                {
+                    "word": "wanted",
+                    "start": 32.769,
+                    "end": 33.05,
+                    "score": 0.953
+                },
+                {
+                    "word": "to",
+                    "start": 33.27,
+                    "end": 33.35,
+                    "score": 0.967
+                },
+                {
+                    "word": "go",
+                    "start": 33.39,
+                    "end": 33.63,
+                    "score": 0.86
+                },
+                {
+                    "word": "Italy",
+                    "start": 34.511,
+                    "end": 34.831,
+                    "score": 0.869
+                },
+                {
+                    "word": "first",
+                    "start": 34.891,
+                    "end": 35.191,
+                    "score": 0.947
+                },
+                {
+                    "word": "then",
+                    "start": 35.812,
+                    "end": 36.152,
+                    "score": 0.886
+                },
+                {
+                    "word": "I",
+                    "start": 36.172,
+                    "end": 36.192,
+                    "score": 0.0
+                },
+                {
+                    "word": "really",
+                    "start": 37.173,
+                    "end": 37.553,
+                    "score": 0.895
+                },
+                {
+                    "word": "like",
+                    "start": 37.773,
+                    "end": 38.033,
+                    "score": 0.912
+                },
+                {
+                    "word": "to",
+                    "start": 38.073,
+                    "end": 38.153,
+                    "score": 0.772
+                },
+                {
+                    "word": "taste",
+                    "start": 38.213,
+                    "end": 38.494,
+                    "score": 0.755
+                },
+                {
+                    "word": "the",
+                    "start": 38.634,
+                    "end": 38.774,
+                    "score": 0.913
+                },
+                {
+                    "word": "real",
+                    "start": 39.114,
+                    "end": 39.414,
+                    "score": 0.792
+                },
+                {
+                    "word": "gelato",
+                    "start": 39.494,
+                    "end": 39.975,
+                    "score": 0.895
+                },
+                {
+                    "word": "in",
+                    "start": 40.475,
+                    "end": 40.595,
+                    "score": 0.792
+                },
+                {
+                    "word": "Italy",
+                    "start": 40.835,
+                    "end": 41.236,
+                    "score": 0.797
+                },
+                {
+                    "word": "so",
+                    "start": 42.957,
+                    "end": 43.357,
+                    "score": 0.853
+                },
+                {
+                    "word": "yeah",
+                    "start": 43.838,
+                    "end": 44.238,
+                    "score": 0.771
+                },
+                {
+                    "word": "that's",
+                    "start": 44.858,
+                    "end": 45.139,
+                    "score": 0.49
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 0.049,
+            "end": 0.149,
+            "score": 0.847
+        },
+        {
+            "word": "place",
+            "start": 0.289,
+            "end": 0.729,
+            "score": 0.864
+        },
+        {
+            "word": "I'd",
+            "start": 1.21,
+            "end": 1.37,
+            "score": 0.817
+        },
+        {
+            "word": "like",
+            "start": 1.51,
+            "end": 1.75,
+            "score": 0.921
+        },
+        {
+            "word": "to",
+            "start": 1.85,
+            "end": 1.93,
+            "score": 0.969
+        },
+        {
+            "word": "go",
+            "start": 1.99,
+            "end": 2.29,
+            "score": 0.769
+        },
+        {
+            "word": "in",
+            "start": 2.45,
+            "end": 2.53,
+            "score": 0.83
+        },
+        {
+            "word": "the",
+            "start": 2.57,
+            "end": 2.67,
+            "score": 0.7
+        },
+        {
+            "word": "world",
+            "start": 2.731,
+            "end": 3.131,
+            "score": 0.733
+        },
+        {
+            "word": "is",
+            "start": 3.431,
+            "end": 3.531,
+            "score": 0.83
+        },
+        {
+            "word": "Italy.",
+            "start": 3.831,
+            "end": 4.231,
+            "score": 0.832
+        },
+        {
+            "word": "The",
+            "start": 5.032,
+            "end": 5.232,
+            "score": 0.815
+        },
+        {
+            "word": "one",
+            "start": 5.312,
+            "end": 5.432,
+            "score": 0.755
+        },
+        {
+            "word": "of",
+            "start": 5.452,
+            "end": 5.512,
+            "score": 0.748
+        },
+        {
+            "word": "the",
+            "start": 5.592,
+            "end": 5.692,
+            "score": 0.843
+        },
+        {
+            "word": "biggest",
+            "start": 5.752,
+            "end": 6.052,
+            "score": 0.928
+        },
+        {
+            "word": "reason",
+            "start": 6.172,
+            "end": 6.633,
+            "score": 0.798
+        },
+        {
+            "word": "that",
+            "start": 6.853,
+            "end": 6.993,
+            "score": 0.869
+        },
+        {
+            "word": "I",
+            "start": 7.033,
+            "end": 7.093,
+            "score": 0.58
+        },
+        {
+            "word": "want",
+            "start": 7.133,
+            "end": 7.333,
+            "score": 0.872
+        },
+        {
+            "word": "to",
+            "start": 7.393,
+            "end": 7.473,
+            "score": 0.754
+        },
+        {
+            "word": "go",
+            "start": 7.493,
+            "end": 7.633,
+            "score": 0.836
+        },
+        {
+            "word": "Italy",
+            "start": 7.793,
+            "end": 8.194,
+            "score": 0.812
+        },
+        {
+            "word": "is",
+            "start": 8.454,
+            "end": 8.554,
+            "score": 0.866
+        },
+        {
+            "word": "I",
+            "start": 9.034,
+            "end": 9.094,
+            "score": 0.701
+        },
+        {
+            "word": "really",
+            "start": 9.174,
+            "end": 9.474,
+            "score": 0.751
+        },
+        {
+            "word": "want",
+            "start": 9.534,
+            "end": 9.794,
+            "score": 0.862
+        },
+        {
+            "word": "to",
+            "start": 9.854,
+            "end": 9.934,
+            "score": 0.994
+        },
+        {
+            "word": "see",
+            "start": 10.055,
+            "end": 10.435,
+            "score": 0.829
+        },
+        {
+            "word": "the",
+            "start": 10.875,
+            "end": 10.975,
+            "score": 0.986
+        },
+        {
+            "word": "picture",
+            "start": 11.095,
+            "end": 11.515,
+            "score": 0.827
+        },
+        {
+            "word": "of",
+            "start": 11.876,
+            "end": 11.996,
+            "score": 0.801
+        },
+        {
+            "word": "the",
+            "start": 12.476,
+            "end": 12.556,
+            "score": 0.996
+        },
+        {
+            "word": "Sistine",
+            "start": 12.636,
+            "end": 13.016,
+            "score": 0.736
+        },
+        {
+            "word": "Chapel.",
+            "start": 13.056,
+            "end": 13.516,
+            "score": 0.752
+        },
+        {
+            "word": "When",
+            "start": 14.897,
+            "end": 15.017,
+            "score": 0.878
+        },
+        {
+            "word": "I",
+            "start": 15.077,
+            "end": 15.137,
+            "score": 0.977
+        },
+        {
+            "word": "was",
+            "start": 15.197,
+            "end": 15.397,
+            "score": 0.867
+        },
+        {
+            "word": "a",
+            "start": 15.478,
+            "end": 15.518,
+            "score": 0.817
+        },
+        {
+            "word": "little",
+            "start": 15.578,
+            "end": 15.818,
+            "score": 0.872
+        },
+        {
+            "word": "kid,",
+            "start": 15.878,
+            "end": 16.218,
+            "score": 0.862
+        },
+        {
+            "word": "I",
+            "start": 16.818,
+            "end": 16.898,
+            "score": 0.751
+        },
+        {
+            "word": "read",
+            "start": 16.958,
+            "end": 17.198,
+            "score": 0.863
+        },
+        {
+            "word": "a",
+            "start": 17.319,
+            "end": 17.359,
+            "score": 0.637
+        },
+        {
+            "word": "story",
+            "start": 17.999,
+            "end": 18.379,
+            "score": 0.78
+        },
+        {
+            "word": "about",
+            "start": 18.539,
+            "end": 18.799,
+            "score": 0.999
+        },
+        {
+            "word": "Da",
+            "start": 20.12,
+            "end": 20.28,
+            "score": 0.84
+        },
+        {
+            "word": "Vinci",
+            "start": 20.32,
+            "end": 20.801,
+            "score": 0.909
+        },
+        {
+            "word": "and",
+            "start": 21.521,
+            "end": 21.721,
+            "score": 0.484
+        },
+        {
+            "word": "one",
+            "start": 22.782,
+            "end": 22.882,
+            "score": 0.845
+        },
+        {
+            "word": "of",
+            "start": 22.922,
+            "end": 22.982,
+            "score": 0.929
+        },
+        {
+            "word": "the",
+            "start": 23.142,
+            "end": 23.302,
+            "score": 0.901
+        },
+        {
+            "word": "his",
+            "start": 23.463,
+            "end": 23.723,
+            "score": 0.948
+        },
+        {
+            "word": "masterpiece",
+            "start": 23.923,
+            "end": 24.583,
+            "score": 0.718
+        },
+        {
+            "word": "which",
+            "start": 24.764,
+            "end": 24.964,
+            "score": 0.914
+        },
+        {
+            "word": "is",
+            "start": 25.044,
+            "end": 25.164,
+            "score": 0.812
+        },
+        {
+            "word": "the",
+            "start": 25.284,
+            "end": 25.404,
+            "score": 0.944
+        },
+        {
+            "word": "picture",
+            "start": 26.185,
+            "end": 26.565,
+            "score": 0.874
+        },
+        {
+            "word": "of",
+            "start": 26.685,
+            "end": 26.765,
+            "score": 0.826
+        },
+        {
+            "word": "Sistine",
+            "start": 26.845,
+            "end": 27.185,
+            "score": 0.72
+        },
+        {
+            "word": "Chapel",
+            "start": 27.225,
+            "end": 27.806,
+            "score": 0.747
+        },
+        {
+            "word": "is",
+            "start": 28.286,
+            "end": 28.386,
+            "score": 0.62
+        },
+        {
+            "word": "so",
+            "start": 28.506,
+            "end": 28.807,
+            "score": 0.876
+        },
+        {
+            "word": "yeah",
+            "start": 29.487,
+            "end": 29.827,
+            "score": 0.694
+        },
+        {
+            "word": "captivates",
+            "start": 29.967,
+            "end": 30.648,
+            "score": 0.72
+        },
+        {
+            "word": "me",
+            "start": 30.688,
+            "end": 30.908,
+            "score": 0.986
+        },
+        {
+            "word": "that's",
+            "start": 31.348,
+            "end": 31.569,
+            "score": 0.884
+        },
+        {
+            "word": "why",
+            "start": 31.649,
+            "end": 32.029,
+            "score": 0.821
+        },
+        {
+            "word": "I",
+            "start": 32.609,
+            "end": 32.689,
+            "score": 0.541
+        },
+        {
+            "word": "wanted",
+            "start": 32.769,
+            "end": 33.05,
+            "score": 0.953
+        },
+        {
+            "word": "to",
+            "start": 33.27,
+            "end": 33.35,
+            "score": 0.967
+        },
+        {
+            "word": "go",
+            "start": 33.39,
+            "end": 33.63,
+            "score": 0.86
+        },
+        {
+            "word": "Italy",
+            "start": 34.511,
+            "end": 34.831,
+            "score": 0.869
+        },
+        {
+            "word": "first",
+            "start": 34.891,
+            "end": 35.191,
+            "score": 0.947
+        },
+        {
+            "word": "then",
+            "start": 35.812,
+            "end": 36.152,
+            "score": 0.886
+        },
+        {
+            "word": "I",
+            "start": 36.172,
+            "end": 36.192,
+            "score": 0.0
+        },
+        {
+            "word": "really",
+            "start": 37.173,
+            "end": 37.553,
+            "score": 0.895
+        },
+        {
+            "word": "like",
+            "start": 37.773,
+            "end": 38.033,
+            "score": 0.912
+        },
+        {
+            "word": "to",
+            "start": 38.073,
+            "end": 38.153,
+            "score": 0.772
+        },
+        {
+            "word": "taste",
+            "start": 38.213,
+            "end": 38.494,
+            "score": 0.755
+        },
+        {
+            "word": "the",
+            "start": 38.634,
+            "end": 38.774,
+            "score": 0.913
+        },
+        {
+            "word": "real",
+            "start": 39.114,
+            "end": 39.414,
+            "score": 0.792
+        },
+        {
+            "word": "gelato",
+            "start": 39.494,
+            "end": 39.975,
+            "score": 0.895
+        },
+        {
+            "word": "in",
+            "start": 40.475,
+            "end": 40.595,
+            "score": 0.792
+        },
+        {
+            "word": "Italy",
+            "start": 40.835,
+            "end": 41.236,
+            "score": 0.797
+        },
+        {
+            "word": "so",
+            "start": 42.957,
+            "end": 43.357,
+            "score": 0.853
+        },
+        {
+            "word": "yeah",
+            "start": 43.838,
+            "end": 44.238,
+            "score": 0.771
+        },
+        {
+            "word": "that's",
+            "start": 44.858,
+            "end": 45.139,
+            "score": 0.49
+        }
+    ]
+}

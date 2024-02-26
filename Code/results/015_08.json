@@ -1,0 +1,644 @@
+{
+    "segments": [
+        {
+            "start": 0.509,
+            "end": 9.435,
+            "text": " Now I'm in telephone company in 10th street and I would like to go to the post office.",
+            "words": [
+                {
+                    "word": "Now",
+                    "start": 0.509,
+                    "end": 0.709,
+                    "score": 0.951
+                },
+                {
+                    "word": "I'm",
+                    "start": 0.87,
+                    "end": 1.03,
+                    "score": 0.826
+                },
+                {
+                    "word": "in",
+                    "start": 1.09,
+                    "end": 1.19,
+                    "score": 0.332
+                },
+                {
+                    "word": "telephone",
+                    "start": 1.25,
+                    "end": 1.77,
+                    "score": 0.71
+                },
+                {
+                    "word": "company",
+                    "start": 1.81,
+                    "end": 2.331,
+                    "score": 0.891
+                },
+                {
+                    "word": "in",
+                    "start": 3.111,
+                    "end": 3.271,
+                    "score": 0.727
+                },
+                {
+                    "word": "10th",
+                    "start": 4.712,
+                    "end": 5.092,
+                    "score": 0.814
+                },
+                {
+                    "word": "street",
+                    "start": 5.253,
+                    "end": 5.633,
+                    "score": 0.625
+                },
+                {
+                    "word": "and",
+                    "start": 6.353,
+                    "end": 6.473,
+                    "score": 0.69
+                },
+                {
+                    "word": "I",
+                    "start": 6.493,
+                    "end": 6.513,
+                    "score": 0.0
+                },
+                {
+                    "word": "would",
+                    "start": 7.574,
+                    "end": 7.754,
+                    "score": 0.536
+                },
+                {
+                    "word": "like",
+                    "start": 7.794,
+                    "end": 7.994,
+                    "score": 0.822
+                },
+                {
+                    "word": "to",
+                    "start": 8.014,
+                    "end": 8.055,
+                    "score": 0.869
+                },
+                {
+                    "word": "go",
+                    "start": 8.095,
+                    "end": 8.315,
+                    "score": 0.85
+                },
+                {
+                    "word": "to",
+                    "start": 8.355,
+                    "end": 8.455,
+                    "score": 0.832
+                },
+                {
+                    "word": "the",
+                    "start": 8.475,
+                    "end": 8.595,
+                    "score": 0.75
+                },
+                {
+                    "word": "post",
+                    "start": 8.695,
+                    "end": 8.935,
+                    "score": 0.851
+                },
+                {
+                    "word": "office.",
+                    "start": 9.035,
+                    "end": 9.435,
+                    "score": 0.947
+                }
+            ]
+        },
+        {
+            "start": 10.116,
+            "end": 29.049,
+            "text": "So first go straight two blocks until met the high street and turn right and go to the one block and I can find the 11th street and it's next to the post office.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 10.116,
+                    "end": 10.376,
+                    "score": 0.949
+                },
+                {
+                    "word": "first",
+                    "start": 11.457,
+                    "end": 11.777,
+                    "score": 0.791
+                },
+                {
+                    "word": "go",
+                    "start": 12.418,
+                    "end": 12.618,
+                    "score": 0.823
+                },
+                {
+                    "word": "straight",
+                    "start": 12.638,
+                    "end": 12.998,
+                    "score": 0.776
+                },
+                {
+                    "word": "two",
+                    "start": 13.198,
+                    "end": 13.358,
+                    "score": 0.958
+                },
+                {
+                    "word": "blocks",
+                    "start": 13.398,
+                    "end": 13.798,
+                    "score": 0.679
+                },
+                {
+                    "word": "until",
+                    "start": 14.939,
+                    "end": 15.36,
+                    "score": 0.805
+                },
+                {
+                    "word": "met",
+                    "start": 16.06,
+                    "end": 16.36,
+                    "score": 0.917
+                },
+                {
+                    "word": "the",
+                    "start": 16.42,
+                    "end": 16.58,
+                    "score": 0.854
+                },
+                {
+                    "word": "high",
+                    "start": 16.68,
+                    "end": 16.881,
+                    "score": 0.893
+                },
+                {
+                    "word": "street",
+                    "start": 16.901,
+                    "end": 17.221,
+                    "score": 0.831
+                },
+                {
+                    "word": "and",
+                    "start": 17.681,
+                    "end": 17.781,
+                    "score": 0.818
+                },
+                {
+                    "word": "turn",
+                    "start": 17.821,
+                    "end": 18.041,
+                    "score": 0.804
+                },
+                {
+                    "word": "right",
+                    "start": 18.081,
+                    "end": 19.302,
+                    "score": 0.774
+                },
+                {
+                    "word": "and",
+                    "start": 21.023,
+                    "end": 21.224,
+                    "score": 0.427
+                },
+                {
+                    "word": "go",
+                    "start": 21.584,
+                    "end": 21.824,
+                    "score": 0.992
+                },
+                {
+                    "word": "to",
+                    "start": 21.944,
+                    "end": 22.044,
+                    "score": 0.893
+                },
+                {
+                    "word": "the",
+                    "start": 22.084,
+                    "end": 22.224,
+                    "score": 0.897
+                },
+                {
+                    "word": "one",
+                    "start": 22.564,
+                    "end": 22.645,
+                    "score": 0.361
+                },
+                {
+                    "word": "block",
+                    "start": 22.665,
+                    "end": 22.985,
+                    "score": 0.702
+                },
+                {
+                    "word": "and",
+                    "start": 23.245,
+                    "end": 23.345,
+                    "score": 0.836
+                },
+                {
+                    "word": "I",
+                    "start": 23.405,
+                    "end": 23.485,
+                    "score": 0.754
+                },
+                {
+                    "word": "can",
+                    "start": 23.525,
+                    "end": 23.765,
+                    "score": 0.912
+                },
+                {
+                    "word": "find",
+                    "start": 23.885,
+                    "end": 24.146,
+                    "score": 0.849
+                },
+                {
+                    "word": "the",
+                    "start": 24.186,
+                    "end": 24.386,
+                    "score": 0.521
+                },
+                {
+                    "word": "11th",
+                    "start": 24.846,
+                    "end": 25.146,
+                    "score": 0.55
+                },
+                {
+                    "word": "street",
+                    "start": 25.166,
+                    "end": 25.486,
+                    "score": 0.786
+                },
+                {
+                    "word": "and",
+                    "start": 26.227,
+                    "end": 26.367,
+                    "score": 0.714
+                },
+                {
+                    "word": "it's",
+                    "start": 27.448,
+                    "end": 27.628,
+                    "score": 0.535
+                },
+                {
+                    "word": "next",
+                    "start": 27.688,
+                    "end": 27.908,
+                    "score": 0.946
+                },
+                {
+                    "word": "to",
+                    "start": 28.048,
+                    "end": 28.168,
+                    "score": 0.853
+                },
+                {
+                    "word": "the",
+                    "start": 28.188,
+                    "end": 28.328,
+                    "score": 0.917
+                },
+                {
+                    "word": "post",
+                    "start": 28.448,
+                    "end": 28.689,
+                    "score": 0.87
+                },
+                {
+                    "word": "office.",
+                    "start": 28.749,
+                    "end": 29.049,
+                    "score": 0.986
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Now",
+            "start": 0.509,
+            "end": 0.709,
+            "score": 0.951
+        },
+        {
+            "word": "I'm",
+            "start": 0.87,
+            "end": 1.03,
+            "score": 0.826
+        },
+        {
+            "word": "in",
+            "start": 1.09,
+            "end": 1.19,
+            "score": 0.332
+        },
+        {
+            "word": "telephone",
+            "start": 1.25,
+            "end": 1.77,
+            "score": 0.71
+        },
+        {
+            "word": "company",
+            "start": 1.81,
+            "end": 2.331,
+            "score": 0.891
+        },
+        {
+            "word": "in",
+            "start": 3.111,
+            "end": 3.271,
+            "score": 0.727
+        },
+        {
+            "word": "10th",
+            "start": 4.712,
+            "end": 5.092,
+            "score": 0.814
+        },
+        {
+            "word": "street",
+            "start": 5.253,
+            "end": 5.633,
+            "score": 0.625
+        },
+        {
+            "word": "and",
+            "start": 6.353,
+            "end": 6.473,
+            "score": 0.69
+        },
+        {
+            "word": "I",
+            "start": 6.493,
+            "end": 6.513,
+            "score": 0.0
+        },
+        {
+            "word": "would",
+            "start": 7.574,
+            "end": 7.754,
+            "score": 0.536
+        },
+        {
+            "word": "like",
+            "start": 7.794,
+            "end": 7.994,
+            "score": 0.822
+        },
+        {
+            "word": "to",
+            "start": 8.014,
+            "end": 8.055,
+            "score": 0.869
+        },
+        {
+            "word": "go",
+            "start": 8.095,
+            "end": 8.315,
+            "score": 0.85
+        },
+        {
+            "word": "to",
+            "start": 8.355,
+            "end": 8.455,
+            "score": 0.832
+        },
+        {
+            "word": "the",
+            "start": 8.475,
+            "end": 8.595,
+            "score": 0.75
+        },
+        {
+            "word": "post",
+            "start": 8.695,
+            "end": 8.935,
+            "score": 0.851
+        },
+        {
+            "word": "office.",
+            "start": 9.035,
+            "end": 9.435,
+            "score": 0.947
+        },
+        {
+            "word": "So",
+            "start": 10.116,
+            "end": 10.376,
+            "score": 0.949
+        },
+        {
+            "word": "first",
+            "start": 11.457,
+            "end": 11.777,
+            "score": 0.791
+        },
+        {
+            "word": "go",
+            "start": 12.418,
+            "end": 12.618,
+            "score": 0.823
+        },
+        {
+            "word": "straight",
+            "start": 12.638,
+            "end": 12.998,
+            "score": 0.776
+        },
+        {
+            "word": "two",
+            "start": 13.198,
+            "end": 13.358,
+            "score": 0.958
+        },
+        {
+            "word": "blocks",
+            "start": 13.398,
+            "end": 13.798,
+            "score": 0.679
+        },
+        {
+            "word": "until",
+            "start": 14.939,
+            "end": 15.36,
+            "score": 0.805
+        },
+        {
+            "word": "met",
+            "start": 16.06,
+            "end": 16.36,
+            "score": 0.917
+        },
+        {
+            "word": "the",
+            "start": 16.42,
+            "end": 16.58,
+            "score": 0.854
+        },
+        {
+            "word": "high",
+            "start": 16.68,
+            "end": 16.881,
+            "score": 0.893
+        },
+        {
+            "word": "street",
+            "start": 16.901,
+            "end": 17.221,
+            "score": 0.831
+        },
+        {
+            "word": "and",
+            "start": 17.681,
+            "end": 17.781,
+            "score": 0.818
+        },
+        {
+            "word": "turn",
+            "start": 17.821,
+            "end": 18.041,
+            "score": 0.804
+        },
+        {
+            "word": "right",
+            "start": 18.081,
+            "end": 19.302,
+            "score": 0.774
+        },
+        {
+            "word": "and",
+            "start": 21.023,
+            "end": 21.224,
+            "score": 0.427
+        },
+        {
+            "word": "go",
+            "start": 21.584,
+            "end": 21.824,
+            "score": 0.992
+        },
+        {
+            "word": "to",
+            "start": 21.944,
+            "end": 22.044,
+            "score": 0.893
+        },
+        {
+            "word": "the",
+            "start": 22.084,
+            "end": 22.224,
+            "score": 0.897
+        },
+        {
+            "word": "one",
+            "start": 22.564,
+            "end": 22.645,
+            "score": 0.361
+        },
+        {
+            "word": "block",
+            "start": 22.665,
+            "end": 22.985,
+            "score": 0.702
+        },
+        {
+            "word": "and",
+            "start": 23.245,
+            "end": 23.345,
+            "score": 0.836
+        },
+        {
+            "word": "I",
+            "start": 23.405,
+            "end": 23.485,
+            "score": 0.754
+        },
+        {
+            "word": "can",
+            "start": 23.525,
+            "end": 23.765,
+            "score": 0.912
+        },
+        {
+            "word": "find",
+            "start": 23.885,
+            "end": 24.146,
+            "score": 0.849
+        },
+        {
+            "word": "the",
+            "start": 24.186,
+            "end": 24.386,
+            "score": 0.521
+        },
+        {
+            "word": "11th",
+            "start": 24.846,
+            "end": 25.146,
+            "score": 0.55
+        },
+        {
+            "word": "street",
+            "start": 25.166,
+            "end": 25.486,
+            "score": 0.786
+        },
+        {
+            "word": "and",
+            "start": 26.227,
+            "end": 26.367,
+            "score": 0.714
+        },
+        {
+            "word": "it's",
+            "start": 27.448,
+            "end": 27.628,
+            "score": 0.535
+        },
+        {
+            "word": "next",
+            "start": 27.688,
+            "end": 27.908,
+            "score": 0.946
+        },
+        {
+            "word": "to",
+            "start": 28.048,
+            "end": 28.168,
+            "score": 0.853
+        },
+        {
+            "word": "the",
+            "start": 28.188,
+            "end": 28.328,
+            "score": 0.917
+        },
+        {
+            "word": "post",
+            "start": 28.448,
+            "end": 28.689,
+            "score": 0.87
+        },
+        {
+            "word": "office.",
+            "start": 28.749,
+            "end": 29.049,
+            "score": 0.986
+        }
+    ]
+}

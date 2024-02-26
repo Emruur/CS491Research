@@ -1,0 +1,483 @@
+{
+    "segments": [
+        {
+            "start": 0.229,
+            "end": 8.832,
+            "text": " The Franklin Hotel is in the north-west of the city.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 0.229,
+                    "end": 0.389,
+                    "score": 0.784
+                },
+                {
+                    "word": "Franklin",
+                    "start": 0.449,
+                    "end": 1.049,
+                    "score": 0.824
+                },
+                {
+                    "word": "Hotel",
+                    "start": 1.149,
+                    "end": 1.609,
+                    "score": 0.831
+                },
+                {
+                    "word": "is",
+                    "start": 1.79,
+                    "end": 2.29,
+                    "score": 0.743
+                },
+                {
+                    "word": "in",
+                    "start": 3.79,
+                    "end": 3.89,
+                    "score": 0.835
+                },
+                {
+                    "word": "the",
+                    "start": 3.93,
+                    "end": 4.27,
+                    "score": 0.869
+                },
+                {
+                    "word": "north-west",
+                    "start": 6.571,
+                    "end": 8.091,
+                    "score": 0.763
+                },
+                {
+                    "word": "of",
+                    "start": 8.232,
+                    "end": 8.312,
+                    "score": 0.96
+                },
+                {
+                    "word": "the",
+                    "start": 8.352,
+                    "end": 8.432,
+                    "score": 0.988
+                },
+                {
+                    "word": "city.",
+                    "start": 8.472,
+                    "end": 8.832,
+                    "score": 0.922
+                }
+            ]
+        },
+        {
+            "start": 9.532,
+            "end": 19.615,
+            "text": "If you want to go to the night disco, you just drive along the zero street toward the east.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 9.532,
+                    "end": 9.612,
+                    "score": 0.616
+                },
+                {
+                    "word": "you",
+                    "start": 9.652,
+                    "end": 9.772,
+                    "score": 0.951
+                },
+                {
+                    "word": "want",
+                    "start": 9.812,
+                    "end": 10.012,
+                    "score": 0.786
+                },
+                {
+                    "word": "to",
+                    "start": 10.032,
+                    "end": 10.172,
+                    "score": 0.857
+                },
+                {
+                    "word": "go",
+                    "start": 10.252,
+                    "end": 10.392,
+                    "score": 0.991
+                },
+                {
+                    "word": "to",
+                    "start": 10.432,
+                    "end": 10.532,
+                    "score": 0.897
+                },
+                {
+                    "word": "the",
+                    "start": 10.572,
+                    "end": 10.652,
+                    "score": 0.818
+                },
+                {
+                    "word": "night",
+                    "start": 10.712,
+                    "end": 11.353,
+                    "score": 0.621
+                },
+                {
+                    "word": "disco,",
+                    "start": 11.753,
+                    "end": 12.233,
+                    "score": 0.824
+                },
+                {
+                    "word": "you",
+                    "start": 12.613,
+                    "end": 12.853,
+                    "score": 0.838
+                },
+                {
+                    "word": "just",
+                    "start": 12.873,
+                    "end": 13.473,
+                    "score": 0.764
+                },
+                {
+                    "word": "drive",
+                    "start": 13.913,
+                    "end": 14.333,
+                    "score": 0.851
+                },
+                {
+                    "word": "along",
+                    "start": 15.634,
+                    "end": 15.954,
+                    "score": 0.808
+                },
+                {
+                    "word": "the",
+                    "start": 15.994,
+                    "end": 16.234,
+                    "score": 0.917
+                },
+                {
+                    "word": "zero",
+                    "start": 16.374,
+                    "end": 16.754,
+                    "score": 0.805
+                },
+                {
+                    "word": "street",
+                    "start": 16.774,
+                    "end": 17.334,
+                    "score": 0.833
+                },
+                {
+                    "word": "toward",
+                    "start": 18.015,
+                    "end": 18.495,
+                    "score": 0.749
+                },
+                {
+                    "word": "the",
+                    "start": 18.535,
+                    "end": 18.815,
+                    "score": 0.887
+                },
+                {
+                    "word": "east.",
+                    "start": 19.335,
+                    "end": 19.615,
+                    "score": 0.73
+                }
+            ]
+        },
+        {
+            "start": 20.475,
+            "end": 28.098,
+            "text": "Then, past Page Street, Harrison Avenue, then turn right.",
+            "words": [
+                {
+                    "word": "Then,",
+                    "start": 20.475,
+                    "end": 20.835,
+                    "score": 0.846
+                },
+                {
+                    "word": "past",
+                    "start": 23.696,
+                    "end": 24.016,
+                    "score": 0.798
+                },
+                {
+                    "word": "Page",
+                    "start": 24.397,
+                    "end": 24.857,
+                    "score": 0.778
+                },
+                {
+                    "word": "Street,",
+                    "start": 24.877,
+                    "end": 25.337,
+                    "score": 0.84
+                },
+                {
+                    "word": "Harrison",
+                    "start": 25.877,
+                    "end": 26.357,
+                    "score": 0.738
+                },
+                {
+                    "word": "Avenue,",
+                    "start": 26.437,
+                    "end": 26.937,
+                    "score": 0.848
+                },
+                {
+                    "word": "then",
+                    "start": 27.217,
+                    "end": 27.457,
+                    "score": 0.944
+                },
+                {
+                    "word": "turn",
+                    "start": 27.538,
+                    "end": 27.778,
+                    "score": 0.611
+                },
+                {
+                    "word": "right.",
+                    "start": 27.838,
+                    "end": 28.098,
+                    "score": 0.469
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 0.229,
+            "end": 0.389,
+            "score": 0.784
+        },
+        {
+            "word": "Franklin",
+            "start": 0.449,
+            "end": 1.049,
+            "score": 0.824
+        },
+        {
+            "word": "Hotel",
+            "start": 1.149,
+            "end": 1.609,
+            "score": 0.831
+        },
+        {
+            "word": "is",
+            "start": 1.79,
+            "end": 2.29,
+            "score": 0.743
+        },
+        {
+            "word": "in",
+            "start": 3.79,
+            "end": 3.89,
+            "score": 0.835
+        },
+        {
+            "word": "the",
+            "start": 3.93,
+            "end": 4.27,
+            "score": 0.869
+        },
+        {
+            "word": "north-west",
+            "start": 6.571,
+            "end": 8.091,
+            "score": 0.763
+        },
+        {
+            "word": "of",
+            "start": 8.232,
+            "end": 8.312,
+            "score": 0.96
+        },
+        {
+            "word": "the",
+            "start": 8.352,
+            "end": 8.432,
+            "score": 0.988
+        },
+        {
+            "word": "city.",
+            "start": 8.472,
+            "end": 8.832,
+            "score": 0.922
+        },
+        {
+            "word": "If",
+            "start": 9.532,
+            "end": 9.612,
+            "score": 0.616
+        },
+        {
+            "word": "you",
+            "start": 9.652,
+            "end": 9.772,
+            "score": 0.951
+        },
+        {
+            "word": "want",
+            "start": 9.812,
+            "end": 10.012,
+            "score": 0.786
+        },
+        {
+            "word": "to",
+            "start": 10.032,
+            "end": 10.172,
+            "score": 0.857
+        },
+        {
+            "word": "go",
+            "start": 10.252,
+            "end": 10.392,
+            "score": 0.991
+        },
+        {
+            "word": "to",
+            "start": 10.432,
+            "end": 10.532,
+            "score": 0.897
+        },
+        {
+            "word": "the",
+            "start": 10.572,
+            "end": 10.652,
+            "score": 0.818
+        },
+        {
+            "word": "night",
+            "start": 10.712,
+            "end": 11.353,
+            "score": 0.621
+        },
+        {
+            "word": "disco,",
+            "start": 11.753,
+            "end": 12.233,
+            "score": 0.824
+        },
+        {
+            "word": "you",
+            "start": 12.613,
+            "end": 12.853,
+            "score": 0.838
+        },
+        {
+            "word": "just",
+            "start": 12.873,
+            "end": 13.473,
+            "score": 0.764
+        },
+        {
+            "word": "drive",
+            "start": 13.913,
+            "end": 14.333,
+            "score": 0.851
+        },
+        {
+            "word": "along",
+            "start": 15.634,
+            "end": 15.954,
+            "score": 0.808
+        },
+        {
+            "word": "the",
+            "start": 15.994,
+            "end": 16.234,
+            "score": 0.917
+        },
+        {
+            "word": "zero",
+            "start": 16.374,
+            "end": 16.754,
+            "score": 0.805
+        },
+        {
+            "word": "street",
+            "start": 16.774,
+            "end": 17.334,
+            "score": 0.833
+        },
+        {
+            "word": "toward",
+            "start": 18.015,
+            "end": 18.495,
+            "score": 0.749
+        },
+        {
+            "word": "the",
+            "start": 18.535,
+            "end": 18.815,
+            "score": 0.887
+        },
+        {
+            "word": "east.",
+            "start": 19.335,
+            "end": 19.615,
+            "score": 0.73
+        },
+        {
+            "word": "Then,",
+            "start": 20.475,
+            "end": 20.835,
+            "score": 0.846
+        },
+        {
+            "word": "past",
+            "start": 23.696,
+            "end": 24.016,
+            "score": 0.798
+        },
+        {
+            "word": "Page",
+            "start": 24.397,
+            "end": 24.857,
+            "score": 0.778
+        },
+        {
+            "word": "Street,",
+            "start": 24.877,
+            "end": 25.337,
+            "score": 0.84
+        },
+        {
+            "word": "Harrison",
+            "start": 25.877,
+            "end": 26.357,
+            "score": 0.738
+        },
+        {
+            "word": "Avenue,",
+            "start": 26.437,
+            "end": 26.937,
+            "score": 0.848
+        },
+        {
+            "word": "then",
+            "start": 27.217,
+            "end": 27.457,
+            "score": 0.944
+        },
+        {
+            "word": "turn",
+            "start": 27.538,
+            "end": 27.778,
+            "score": 0.611
+        },
+        {
+            "word": "right.",
+            "start": 27.838,
+            "end": 28.098,
+            "score": 0.469
+        }
+    ]
+}

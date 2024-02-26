@@ -1,0 +1,1174 @@
+{
+    "segments": [
+        {
+            "start": 0.129,
+            "end": 9.64,
+            "text": " I like father of the bride one into the reason I like the movie is that it's a really warm family movie that can.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.129,
+                    "end": 0.229,
+                    "score": 0.801
+                },
+                {
+                    "word": "like",
+                    "start": 0.269,
+                    "end": 0.49,
+                    "score": 0.895
+                },
+                {
+                    "word": "father",
+                    "start": 0.59,
+                    "end": 0.97,
+                    "score": 0.894
+                },
+                {
+                    "word": "of",
+                    "start": 1.01,
+                    "end": 1.09,
+                    "score": 0.845
+                },
+                {
+                    "word": "the",
+                    "start": 1.15,
+                    "end": 1.25,
+                    "score": 0.834
+                },
+                {
+                    "word": "bride",
+                    "start": 1.29,
+                    "end": 1.691,
+                    "score": 0.917
+                },
+                {
+                    "word": "one",
+                    "start": 1.951,
+                    "end": 2.071,
+                    "score": 0.649
+                },
+                {
+                    "word": "into",
+                    "start": 2.151,
+                    "end": 2.592,
+                    "score": 0.79
+                },
+                {
+                    "word": "the",
+                    "start": 3.092,
+                    "end": 3.213,
+                    "score": 0.914
+                },
+                {
+                    "word": "reason",
+                    "start": 3.253,
+                    "end": 3.593,
+                    "score": 0.822
+                },
+                {
+                    "word": "I",
+                    "start": 3.653,
+                    "end": 3.753,
+                    "score": 0.798
+                },
+                {
+                    "word": "like",
+                    "start": 3.773,
+                    "end": 3.973,
+                    "score": 0.809
+                },
+                {
+                    "word": "the",
+                    "start": 4.013,
+                    "end": 4.113,
+                    "score": 0.767
+                },
+                {
+                    "word": "movie",
+                    "start": 4.154,
+                    "end": 4.554,
+                    "score": 0.73
+                },
+                {
+                    "word": "is",
+                    "start": 4.714,
+                    "end": 4.834,
+                    "score": 0.865
+                },
+                {
+                    "word": "that",
+                    "start": 4.914,
+                    "end": 5.195,
+                    "score": 0.803
+                },
+                {
+                    "word": "it's",
+                    "start": 5.315,
+                    "end": 5.455,
+                    "score": 0.84
+                },
+                {
+                    "word": "a",
+                    "start": 5.535,
+                    "end": 5.595,
+                    "score": 0.646
+                },
+                {
+                    "word": "really",
+                    "start": 5.635,
+                    "end": 5.976,
+                    "score": 0.916
+                },
+                {
+                    "word": "warm",
+                    "start": 6.556,
+                    "end": 7.437,
+                    "score": 0.722
+                },
+                {
+                    "word": "family",
+                    "start": 7.537,
+                    "end": 7.938,
+                    "score": 0.933
+                },
+                {
+                    "word": "movie",
+                    "start": 7.978,
+                    "end": 8.398,
+                    "score": 0.688
+                },
+                {
+                    "word": "that",
+                    "start": 8.478,
+                    "end": 8.658,
+                    "score": 0.843
+                },
+                {
+                    "word": "can.",
+                    "start": 8.779,
+                    "end": 9.64,
+                    "score": 0.895
+                }
+            ]
+        },
+        {
+            "start": 10.46,
+            "end": 19.991,
+            "text": "That shows us how families important and how family members love each other yeah so that's why I liked the movie main reason I liked the movie.",
+            "words": [
+                {
+                    "word": "That",
+                    "start": 10.46,
+                    "end": 10.661,
+                    "score": 0.874
+                },
+                {
+                    "word": "shows",
+                    "start": 10.761,
+                    "end": 11.101,
+                    "score": 0.909
+                },
+                {
+                    "word": "us",
+                    "start": 11.201,
+                    "end": 11.301,
+                    "score": 0.614
+                },
+                {
+                    "word": "how",
+                    "start": 11.361,
+                    "end": 11.642,
+                    "score": 0.886
+                },
+                {
+                    "word": "families",
+                    "start": 11.722,
+                    "end": 12.242,
+                    "score": 0.642
+                },
+                {
+                    "word": "important",
+                    "start": 12.302,
+                    "end": 12.943,
+                    "score": 0.877
+                },
+                {
+                    "word": "and",
+                    "start": 13.544,
+                    "end": 13.724,
+                    "score": 0.602
+                },
+                {
+                    "word": "how",
+                    "start": 13.824,
+                    "end": 14.024,
+                    "score": 0.917
+                },
+                {
+                    "word": "family",
+                    "start": 14.084,
+                    "end": 14.465,
+                    "score": 0.944
+                },
+                {
+                    "word": "members",
+                    "start": 14.505,
+                    "end": 14.885,
+                    "score": 0.812
+                },
+                {
+                    "word": "love",
+                    "start": 14.965,
+                    "end": 15.186,
+                    "score": 0.983
+                },
+                {
+                    "word": "each",
+                    "start": 15.246,
+                    "end": 15.406,
+                    "score": 0.822
+                },
+                {
+                    "word": "other",
+                    "start": 15.486,
+                    "end": 15.686,
+                    "score": 0.877
+                },
+                {
+                    "word": "yeah",
+                    "start": 15.706,
+                    "end": 15.786,
+                    "score": 0.002
+                },
+                {
+                    "word": "so",
+                    "start": 17.108,
+                    "end": 17.248,
+                    "score": 0.997
+                },
+                {
+                    "word": "that's",
+                    "start": 17.288,
+                    "end": 17.488,
+                    "score": 0.773
+                },
+                {
+                    "word": "why",
+                    "start": 17.528,
+                    "end": 17.708,
+                    "score": 0.791
+                },
+                {
+                    "word": "I",
+                    "start": 17.788,
+                    "end": 17.889,
+                    "score": 0.803
+                },
+                {
+                    "word": "liked",
+                    "start": 17.909,
+                    "end": 18.109,
+                    "score": 0.785
+                },
+                {
+                    "word": "the",
+                    "start": 18.149,
+                    "end": 18.229,
+                    "score": 0.79
+                },
+                {
+                    "word": "movie",
+                    "start": 18.269,
+                    "end": 18.649,
+                    "score": 0.493
+                },
+                {
+                    "word": "main",
+                    "start": 18.709,
+                    "end": 18.93,
+                    "score": 0.659
+                },
+                {
+                    "word": "reason",
+                    "start": 18.97,
+                    "end": 19.23,
+                    "score": 0.863
+                },
+                {
+                    "word": "I",
+                    "start": 19.27,
+                    "end": 19.33,
+                    "score": 0.996
+                },
+                {
+                    "word": "liked",
+                    "start": 19.37,
+                    "end": 19.55,
+                    "score": 0.772
+                },
+                {
+                    "word": "the",
+                    "start": 19.59,
+                    "end": 19.671,
+                    "score": 0.929
+                },
+                {
+                    "word": "movie.",
+                    "start": 19.711,
+                    "end": 19.991,
+                    "score": 0.667
+                }
+            ]
+        },
+        {
+            "start": 20.311,
+            "end": 38.342,
+            "text": " Usually these days, the movies don't describe a good friendly relationship between people and they like showing how killing people is easy and I don't really like it.",
+            "words": [
+                {
+                    "word": "Usually",
+                    "start": 20.311,
+                    "end": 20.711,
+                    "score": 0.829
+                },
+                {
+                    "word": "these",
+                    "start": 21.472,
+                    "end": 21.672,
+                    "score": 0.826
+                },
+                {
+                    "word": "days,",
+                    "start": 21.732,
+                    "end": 22.092,
+                    "score": 0.82
+                },
+                {
+                    "word": "the",
+                    "start": 22.733,
+                    "end": 22.873,
+                    "score": 0.988
+                },
+                {
+                    "word": "movies",
+                    "start": 23.073,
+                    "end": 26.095,
+                    "score": 0.719
+                },
+                {
+                    "word": "don't",
+                    "start": 26.835,
+                    "end": 27.075,
+                    "score": 0.735
+                },
+                {
+                    "word": "describe",
+                    "start": 27.115,
+                    "end": 27.696,
+                    "score": 0.881
+                },
+                {
+                    "word": "a",
+                    "start": 27.936,
+                    "end": 28.016,
+                    "score": 0.87
+                },
+                {
+                    "word": "good",
+                    "start": 29.036,
+                    "end": 29.277,
+                    "score": 0.898
+                },
+                {
+                    "word": "friendly",
+                    "start": 29.377,
+                    "end": 30.177,
+                    "score": 0.735
+                },
+                {
+                    "word": "relationship",
+                    "start": 30.217,
+                    "end": 30.898,
+                    "score": 0.884
+                },
+                {
+                    "word": "between",
+                    "start": 30.938,
+                    "end": 31.278,
+                    "score": 0.859
+                },
+                {
+                    "word": "people",
+                    "start": 31.338,
+                    "end": 31.758,
+                    "score": 0.734
+                },
+                {
+                    "word": "and",
+                    "start": 32.338,
+                    "end": 32.478,
+                    "score": 0.748
+                },
+                {
+                    "word": "they",
+                    "start": 32.799,
+                    "end": 33.099,
+                    "score": 0.774
+                },
+                {
+                    "word": "like",
+                    "start": 33.439,
+                    "end": 33.659,
+                    "score": 0.924
+                },
+                {
+                    "word": "showing",
+                    "start": 33.739,
+                    "end": 34.26,
+                    "score": 0.809
+                },
+                {
+                    "word": "how",
+                    "start": 34.8,
+                    "end": 35.12,
+                    "score": 0.891
+                },
+                {
+                    "word": "killing",
+                    "start": 35.24,
+                    "end": 35.52,
+                    "score": 0.977
+                },
+                {
+                    "word": "people",
+                    "start": 35.56,
+                    "end": 35.881,
+                    "score": 0.816
+                },
+                {
+                    "word": "is",
+                    "start": 36.001,
+                    "end": 36.121,
+                    "score": 0.667
+                },
+                {
+                    "word": "easy",
+                    "start": 36.241,
+                    "end": 36.601,
+                    "score": 0.778
+                },
+                {
+                    "word": "and",
+                    "start": 36.901,
+                    "end": 37.061,
+                    "score": 0.646
+                },
+                {
+                    "word": "I",
+                    "start": 37.321,
+                    "end": 37.361,
+                    "score": 1.0
+                },
+                {
+                    "word": "don't",
+                    "start": 37.401,
+                    "end": 37.622,
+                    "score": 0.747
+                },
+                {
+                    "word": "really",
+                    "start": 37.682,
+                    "end": 37.922,
+                    "score": 0.883
+                },
+                {
+                    "word": "like",
+                    "start": 37.982,
+                    "end": 38.222,
+                    "score": 0.621
+                },
+                {
+                    "word": "it.",
+                    "start": 38.282,
+                    "end": 38.342,
+                    "score": 0.774
+                }
+            ]
+        },
+        {
+            "start": 38.442,
+            "end": 44.746,
+            "text": "So although this movie is not fashionable and old and that's why I like the movie.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 38.442,
+                    "end": 38.682,
+                    "score": 0.876
+                },
+                {
+                    "word": "although",
+                    "start": 39.183,
+                    "end": 39.503,
+                    "score": 0.9
+                },
+                {
+                    "word": "this",
+                    "start": 39.523,
+                    "end": 39.683,
+                    "score": 0.892
+                },
+                {
+                    "word": "movie",
+                    "start": 39.823,
+                    "end": 40.163,
+                    "score": 0.777
+                },
+                {
+                    "word": "is",
+                    "start": 40.363,
+                    "end": 40.503,
+                    "score": 0.666
+                },
+                {
+                    "word": "not",
+                    "start": 40.743,
+                    "end": 40.904,
+                    "score": 0.974
+                },
+                {
+                    "word": "fashionable",
+                    "start": 40.964,
+                    "end": 41.644,
+                    "score": 0.781
+                },
+                {
+                    "word": "and",
+                    "start": 41.864,
+                    "end": 41.944,
+                    "score": 0.895
+                },
+                {
+                    "word": "old",
+                    "start": 42.585,
+                    "end": 42.785,
+                    "score": 0.712
+                },
+                {
+                    "word": "and",
+                    "start": 43.105,
+                    "end": 43.225,
+                    "score": 0.771
+                },
+                {
+                    "word": "that's",
+                    "start": 43.365,
+                    "end": 43.565,
+                    "score": 0.802
+                },
+                {
+                    "word": "why",
+                    "start": 43.625,
+                    "end": 43.825,
+                    "score": 0.897
+                },
+                {
+                    "word": "I",
+                    "start": 43.925,
+                    "end": 44.005,
+                    "score": 0.539
+                },
+                {
+                    "word": "like",
+                    "start": 44.045,
+                    "end": 44.246,
+                    "score": 0.926
+                },
+                {
+                    "word": "the",
+                    "start": 44.286,
+                    "end": 44.386,
+                    "score": 0.865
+                },
+                {
+                    "word": "movie.",
+                    "start": 44.406,
+                    "end": 44.746,
+                    "score": 0.614
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.129,
+            "end": 0.229,
+            "score": 0.801
+        },
+        {
+            "word": "like",
+            "start": 0.269,
+            "end": 0.49,
+            "score": 0.895
+        },
+        {
+            "word": "father",
+            "start": 0.59,
+            "end": 0.97,
+            "score": 0.894
+        },
+        {
+            "word": "of",
+            "start": 1.01,
+            "end": 1.09,
+            "score": 0.845
+        },
+        {
+            "word": "the",
+            "start": 1.15,
+            "end": 1.25,
+            "score": 0.834
+        },
+        {
+            "word": "bride",
+            "start": 1.29,
+            "end": 1.691,
+            "score": 0.917
+        },
+        {
+            "word": "one",
+            "start": 1.951,
+            "end": 2.071,
+            "score": 0.649
+        },
+        {
+            "word": "into",
+            "start": 2.151,
+            "end": 2.592,
+            "score": 0.79
+        },
+        {
+            "word": "the",
+            "start": 3.092,
+            "end": 3.213,
+            "score": 0.914
+        },
+        {
+            "word": "reason",
+            "start": 3.253,
+            "end": 3.593,
+            "score": 0.822
+        },
+        {
+            "word": "I",
+            "start": 3.653,
+            "end": 3.753,
+            "score": 0.798
+        },
+        {
+            "word": "like",
+            "start": 3.773,
+            "end": 3.973,
+            "score": 0.809
+        },
+        {
+            "word": "the",
+            "start": 4.013,
+            "end": 4.113,
+            "score": 0.767
+        },
+        {
+            "word": "movie",
+            "start": 4.154,
+            "end": 4.554,
+            "score": 0.73
+        },
+        {
+            "word": "is",
+            "start": 4.714,
+            "end": 4.834,
+            "score": 0.865
+        },
+        {
+            "word": "that",
+            "start": 4.914,
+            "end": 5.195,
+            "score": 0.803
+        },
+        {
+            "word": "it's",
+            "start": 5.315,
+            "end": 5.455,
+            "score": 0.84
+        },
+        {
+            "word": "a",
+            "start": 5.535,
+            "end": 5.595,
+            "score": 0.646
+        },
+        {
+            "word": "really",
+            "start": 5.635,
+            "end": 5.976,
+            "score": 0.916
+        },
+        {
+            "word": "warm",
+            "start": 6.556,
+            "end": 7.437,
+            "score": 0.722
+        },
+        {
+            "word": "family",
+            "start": 7.537,
+            "end": 7.938,
+            "score": 0.933
+        },
+        {
+            "word": "movie",
+            "start": 7.978,
+            "end": 8.398,
+            "score": 0.688
+        },
+        {
+            "word": "that",
+            "start": 8.478,
+            "end": 8.658,
+            "score": 0.843
+        },
+        {
+            "word": "can.",
+            "start": 8.779,
+            "end": 9.64,
+            "score": 0.895
+        },
+        {
+            "word": "That",
+            "start": 10.46,
+            "end": 10.661,
+            "score": 0.874
+        },
+        {
+            "word": "shows",
+            "start": 10.761,
+            "end": 11.101,
+            "score": 0.909
+        },
+        {
+            "word": "us",
+            "start": 11.201,
+            "end": 11.301,
+            "score": 0.614
+        },
+        {
+            "word": "how",
+            "start": 11.361,
+            "end": 11.642,
+            "score": 0.886
+        },
+        {
+            "word": "families",
+            "start": 11.722,
+            "end": 12.242,
+            "score": 0.642
+        },
+        {
+            "word": "important",
+            "start": 12.302,
+            "end": 12.943,
+            "score": 0.877
+        },
+        {
+            "word": "and",
+            "start": 13.544,
+            "end": 13.724,
+            "score": 0.602
+        },
+        {
+            "word": "how",
+            "start": 13.824,
+            "end": 14.024,
+            "score": 0.917
+        },
+        {
+            "word": "family",
+            "start": 14.084,
+            "end": 14.465,
+            "score": 0.944
+        },
+        {
+            "word": "members",
+            "start": 14.505,
+            "end": 14.885,
+            "score": 0.812
+        },
+        {
+            "word": "love",
+            "start": 14.965,
+            "end": 15.186,
+            "score": 0.983
+        },
+        {
+            "word": "each",
+            "start": 15.246,
+            "end": 15.406,
+            "score": 0.822
+        },
+        {
+            "word": "other",
+            "start": 15.486,
+            "end": 15.686,
+            "score": 0.877
+        },
+        {
+            "word": "yeah",
+            "start": 15.706,
+            "end": 15.786,
+            "score": 0.002
+        },
+        {
+            "word": "so",
+            "start": 17.108,
+            "end": 17.248,
+            "score": 0.997
+        },
+        {
+            "word": "that's",
+            "start": 17.288,
+            "end": 17.488,
+            "score": 0.773
+        },
+        {
+            "word": "why",
+            "start": 17.528,
+            "end": 17.708,
+            "score": 0.791
+        },
+        {
+            "word": "I",
+            "start": 17.788,
+            "end": 17.889,
+            "score": 0.803
+        },
+        {
+            "word": "liked",
+            "start": 17.909,
+            "end": 18.109,
+            "score": 0.785
+        },
+        {
+            "word": "the",
+            "start": 18.149,
+            "end": 18.229,
+            "score": 0.79
+        },
+        {
+            "word": "movie",
+            "start": 18.269,
+            "end": 18.649,
+            "score": 0.493
+        },
+        {
+            "word": "main",
+            "start": 18.709,
+            "end": 18.93,
+            "score": 0.659
+        },
+        {
+            "word": "reason",
+            "start": 18.97,
+            "end": 19.23,
+            "score": 0.863
+        },
+        {
+            "word": "I",
+            "start": 19.27,
+            "end": 19.33,
+            "score": 0.996
+        },
+        {
+            "word": "liked",
+            "start": 19.37,
+            "end": 19.55,
+            "score": 0.772
+        },
+        {
+            "word": "the",
+            "start": 19.59,
+            "end": 19.671,
+            "score": 0.929
+        },
+        {
+            "word": "movie.",
+            "start": 19.711,
+            "end": 19.991,
+            "score": 0.667
+        },
+        {
+            "word": "Usually",
+            "start": 20.311,
+            "end": 20.711,
+            "score": 0.829
+        },
+        {
+            "word": "these",
+            "start": 21.472,
+            "end": 21.672,
+            "score": 0.826
+        },
+        {
+            "word": "days,",
+            "start": 21.732,
+            "end": 22.092,
+            "score": 0.82
+        },
+        {
+            "word": "the",
+            "start": 22.733,
+            "end": 22.873,
+            "score": 0.988
+        },
+        {
+            "word": "movies",
+            "start": 23.073,
+            "end": 26.095,
+            "score": 0.719
+        },
+        {
+            "word": "don't",
+            "start": 26.835,
+            "end": 27.075,
+            "score": 0.735
+        },
+        {
+            "word": "describe",
+            "start": 27.115,
+            "end": 27.696,
+            "score": 0.881
+        },
+        {
+            "word": "a",
+            "start": 27.936,
+            "end": 28.016,
+            "score": 0.87
+        },
+        {
+            "word": "good",
+            "start": 29.036,
+            "end": 29.277,
+            "score": 0.898
+        },
+        {
+            "word": "friendly",
+            "start": 29.377,
+            "end": 30.177,
+            "score": 0.735
+        },
+        {
+            "word": "relationship",
+            "start": 30.217,
+            "end": 30.898,
+            "score": 0.884
+        },
+        {
+            "word": "between",
+            "start": 30.938,
+            "end": 31.278,
+            "score": 0.859
+        },
+        {
+            "word": "people",
+            "start": 31.338,
+            "end": 31.758,
+            "score": 0.734
+        },
+        {
+            "word": "and",
+            "start": 32.338,
+            "end": 32.478,
+            "score": 0.748
+        },
+        {
+            "word": "they",
+            "start": 32.799,
+            "end": 33.099,
+            "score": 0.774
+        },
+        {
+            "word": "like",
+            "start": 33.439,
+            "end": 33.659,
+            "score": 0.924
+        },
+        {
+            "word": "showing",
+            "start": 33.739,
+            "end": 34.26,
+            "score": 0.809
+        },
+        {
+            "word": "how",
+            "start": 34.8,
+            "end": 35.12,
+            "score": 0.891
+        },
+        {
+            "word": "killing",
+            "start": 35.24,
+            "end": 35.52,
+            "score": 0.977
+        },
+        {
+            "word": "people",
+            "start": 35.56,
+            "end": 35.881,
+            "score": 0.816
+        },
+        {
+            "word": "is",
+            "start": 36.001,
+            "end": 36.121,
+            "score": 0.667
+        },
+        {
+            "word": "easy",
+            "start": 36.241,
+            "end": 36.601,
+            "score": 0.778
+        },
+        {
+            "word": "and",
+            "start": 36.901,
+            "end": 37.061,
+            "score": 0.646
+        },
+        {
+            "word": "I",
+            "start": 37.321,
+            "end": 37.361,
+            "score": 1.0
+        },
+        {
+            "word": "don't",
+            "start": 37.401,
+            "end": 37.622,
+            "score": 0.747
+        },
+        {
+            "word": "really",
+            "start": 37.682,
+            "end": 37.922,
+            "score": 0.883
+        },
+        {
+            "word": "like",
+            "start": 37.982,
+            "end": 38.222,
+            "score": 0.621
+        },
+        {
+            "word": "it.",
+            "start": 38.282,
+            "end": 38.342,
+            "score": 0.774
+        },
+        {
+            "word": "So",
+            "start": 38.442,
+            "end": 38.682,
+            "score": 0.876
+        },
+        {
+            "word": "although",
+            "start": 39.183,
+            "end": 39.503,
+            "score": 0.9
+        },
+        {
+            "word": "this",
+            "start": 39.523,
+            "end": 39.683,
+            "score": 0.892
+        },
+        {
+            "word": "movie",
+            "start": 39.823,
+            "end": 40.163,
+            "score": 0.777
+        },
+        {
+            "word": "is",
+            "start": 40.363,
+            "end": 40.503,
+            "score": 0.666
+        },
+        {
+            "word": "not",
+            "start": 40.743,
+            "end": 40.904,
+            "score": 0.974
+        },
+        {
+            "word": "fashionable",
+            "start": 40.964,
+            "end": 41.644,
+            "score": 0.781
+        },
+        {
+            "word": "and",
+            "start": 41.864,
+            "end": 41.944,
+            "score": 0.895
+        },
+        {
+            "word": "old",
+            "start": 42.585,
+            "end": 42.785,
+            "score": 0.712
+        },
+        {
+            "word": "and",
+            "start": 43.105,
+            "end": 43.225,
+            "score": 0.771
+        },
+        {
+            "word": "that's",
+            "start": 43.365,
+            "end": 43.565,
+            "score": 0.802
+        },
+        {
+            "word": "why",
+            "start": 43.625,
+            "end": 43.825,
+            "score": 0.897
+        },
+        {
+            "word": "I",
+            "start": 43.925,
+            "end": 44.005,
+            "score": 0.539
+        },
+        {
+            "word": "like",
+            "start": 44.045,
+            "end": 44.246,
+            "score": 0.926
+        },
+        {
+            "word": "the",
+            "start": 44.286,
+            "end": 44.386,
+            "score": 0.865
+        },
+        {
+            "word": "movie.",
+            "start": 44.406,
+            "end": 44.746,
+            "score": 0.614
+        }
+    ]
+}

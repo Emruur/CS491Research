@@ -1,0 +1,697 @@
+{
+    "segments": [
+        {
+            "start": 0.469,
+            "end": 25.384,
+            "text": " uh i want to choose to go to the hobby shop if i if i was in front of a drugstore i i will have shot because it is a very important uh this is a place for for me to shopping or something so i think it's a good place i want to explain and why",
+            "words": [
+                {
+                    "word": "uh",
+                    "start": 0.469,
+                    "end": 1.53,
+                    "score": 0.794
+                },
+                {
+                    "word": "i",
+                    "start": 1.95,
+                    "end": 2.01,
+                    "score": 0.707
+                },
+                {
+                    "word": "want",
+                    "start": 2.03,
+                    "end": 2.19,
+                    "score": 0.643
+                },
+                {
+                    "word": "to",
+                    "start": 2.21,
+                    "end": 2.25,
+                    "score": 0.29
+                },
+                {
+                    "word": "choose",
+                    "start": 2.27,
+                    "end": 2.571,
+                    "score": 0.82
+                },
+                {
+                    "word": "to",
+                    "start": 2.871,
+                    "end": 3.051,
+                    "score": 0.832
+                },
+                {
+                    "word": "go",
+                    "start": 3.111,
+                    "end": 3.291,
+                    "score": 0.998
+                },
+                {
+                    "word": "to",
+                    "start": 3.391,
+                    "end": 3.531,
+                    "score": 0.994
+                },
+                {
+                    "word": "the",
+                    "start": 3.571,
+                    "end": 3.791,
+                    "score": 0.9
+                },
+                {
+                    "word": "hobby",
+                    "start": 4.111,
+                    "end": 4.612,
+                    "score": 0.824
+                },
+                {
+                    "word": "shop",
+                    "start": 4.712,
+                    "end": 5.032,
+                    "score": 0.904
+                },
+                {
+                    "word": "if",
+                    "start": 5.772,
+                    "end": 5.852,
+                    "score": 0.966
+                },
+                {
+                    "word": "i",
+                    "start": 6.033,
+                    "end": 6.133,
+                    "score": 0.92
+                },
+                {
+                    "word": "if",
+                    "start": 6.293,
+                    "end": 6.373,
+                    "score": 0.97
+                },
+                {
+                    "word": "i",
+                    "start": 6.453,
+                    "end": 6.513,
+                    "score": 0.684
+                },
+                {
+                    "word": "was",
+                    "start": 6.533,
+                    "end": 6.653,
+                    "score": 0.879
+                },
+                {
+                    "word": "in",
+                    "start": 6.733,
+                    "end": 6.833,
+                    "score": 0.781
+                },
+                {
+                    "word": "front",
+                    "start": 6.873,
+                    "end": 7.093,
+                    "score": 0.727
+                },
+                {
+                    "word": "of",
+                    "start": 7.153,
+                    "end": 7.273,
+                    "score": 0.536
+                },
+                {
+                    "word": "a",
+                    "start": 7.313,
+                    "end": 7.353,
+                    "score": 0.555
+                },
+                {
+                    "word": "drugstore",
+                    "start": 7.373,
+                    "end": 7.974,
+                    "score": 0.745
+                },
+                {
+                    "word": "i",
+                    "start": 7.994,
+                    "end": 8.014,
+                    "score": 0.0
+                },
+                {
+                    "word": "i",
+                    "start": 8.634,
+                    "end": 9.615,
+                    "score": 0.947
+                },
+                {
+                    "word": "will",
+                    "start": 9.775,
+                    "end": 10.215,
+                    "score": 0.843
+                },
+                {
+                    "word": "have",
+                    "start": 12.917,
+                    "end": 13.037,
+                    "score": 0.306
+                },
+                {
+                    "word": "shot",
+                    "start": 13.057,
+                    "end": 13.317,
+                    "score": 0.586
+                },
+                {
+                    "word": "because",
+                    "start": 13.397,
+                    "end": 13.737,
+                    "score": 0.918
+                },
+                {
+                    "word": "it",
+                    "start": 13.857,
+                    "end": 13.937,
+                    "score": 0.919
+                },
+                {
+                    "word": "is",
+                    "start": 13.997,
+                    "end": 14.097,
+                    "score": 0.644
+                },
+                {
+                    "word": "a",
+                    "start": 14.177,
+                    "end": 14.237,
+                    "score": 0.626
+                },
+                {
+                    "word": "very",
+                    "start": 14.277,
+                    "end": 14.558,
+                    "score": 0.946
+                },
+                {
+                    "word": "important",
+                    "start": 15.258,
+                    "end": 15.718,
+                    "score": 0.99
+                },
+                {
+                    "word": "uh",
+                    "start": 16.058,
+                    "end": 16.119,
+                    "score": 0.228
+                },
+                {
+                    "word": "this",
+                    "start": 16.139,
+                    "end": 16.239,
+                    "score": 0.141
+                },
+                {
+                    "word": "is",
+                    "start": 16.319,
+                    "end": 16.439,
+                    "score": 0.536
+                },
+                {
+                    "word": "a",
+                    "start": 16.499,
+                    "end": 16.559,
+                    "score": 0.554
+                },
+                {
+                    "word": "place",
+                    "start": 16.619,
+                    "end": 16.959,
+                    "score": 0.932
+                },
+                {
+                    "word": "for",
+                    "start": 17.059,
+                    "end": 17.319,
+                    "score": 0.841
+                },
+                {
+                    "word": "for",
+                    "start": 17.479,
+                    "end": 17.619,
+                    "score": 0.951
+                },
+                {
+                    "word": "me",
+                    "start": 17.659,
+                    "end": 17.799,
+                    "score": 0.914
+                },
+                {
+                    "word": "to",
+                    "start": 17.82,
+                    "end": 17.92,
+                    "score": 0.984
+                },
+                {
+                    "word": "shopping",
+                    "start": 17.98,
+                    "end": 18.36,
+                    "score": 0.877
+                },
+                {
+                    "word": "or",
+                    "start": 18.44,
+                    "end": 18.52,
+                    "score": 0.74
+                },
+                {
+                    "word": "something",
+                    "start": 18.58,
+                    "end": 18.96,
+                    "score": 0.92
+                },
+                {
+                    "word": "so",
+                    "start": 18.98,
+                    "end": 20.041,
+                    "score": 0.76
+                },
+                {
+                    "word": "i",
+                    "start": 20.661,
+                    "end": 20.721,
+                    "score": 0.992
+                },
+                {
+                    "word": "think",
+                    "start": 20.781,
+                    "end": 21.081,
+                    "score": 0.916
+                },
+                {
+                    "word": "it's",
+                    "start": 21.202,
+                    "end": 21.342,
+                    "score": 0.742
+                },
+                {
+                    "word": "a",
+                    "start": 21.382,
+                    "end": 21.422,
+                    "score": 0.657
+                },
+                {
+                    "word": "good",
+                    "start": 21.482,
+                    "end": 21.662,
+                    "score": 0.872
+                },
+                {
+                    "word": "place",
+                    "start": 21.722,
+                    "end": 22.122,
+                    "score": 0.927
+                },
+                {
+                    "word": "i",
+                    "start": 22.822,
+                    "end": 22.882,
+                    "score": 0.703
+                },
+                {
+                    "word": "want",
+                    "start": 22.903,
+                    "end": 23.143,
+                    "score": 0.726
+                },
+                {
+                    "word": "to",
+                    "start": 23.183,
+                    "end": 23.403,
+                    "score": 0.915
+                },
+                {
+                    "word": "explain",
+                    "start": 23.783,
+                    "end": 24.343,
+                    "score": 0.765
+                },
+                {
+                    "word": "and",
+                    "start": 24.884,
+                    "end": 25.024,
+                    "score": 0.7
+                },
+                {
+                    "word": "why",
+                    "start": 25.184,
+                    "end": 25.384,
+                    "score": 0.998
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "uh",
+            "start": 0.469,
+            "end": 1.53,
+            "score": 0.794
+        },
+        {
+            "word": "i",
+            "start": 1.95,
+            "end": 2.01,
+            "score": 0.707
+        },
+        {
+            "word": "want",
+            "start": 2.03,
+            "end": 2.19,
+            "score": 0.643
+        },
+        {
+            "word": "to",
+            "start": 2.21,
+            "end": 2.25,
+            "score": 0.29
+        },
+        {
+            "word": "choose",
+            "start": 2.27,
+            "end": 2.571,
+            "score": 0.82
+        },
+        {
+            "word": "to",
+            "start": 2.871,
+            "end": 3.051,
+            "score": 0.832
+        },
+        {
+            "word": "go",
+            "start": 3.111,
+            "end": 3.291,
+            "score": 0.998
+        },
+        {
+            "word": "to",
+            "start": 3.391,
+            "end": 3.531,
+            "score": 0.994
+        },
+        {
+            "word": "the",
+            "start": 3.571,
+            "end": 3.791,
+            "score": 0.9
+        },
+        {
+            "word": "hobby",
+            "start": 4.111,
+            "end": 4.612,
+            "score": 0.824
+        },
+        {
+            "word": "shop",
+            "start": 4.712,
+            "end": 5.032,
+            "score": 0.904
+        },
+        {
+            "word": "if",
+            "start": 5.772,
+            "end": 5.852,
+            "score": 0.966
+        },
+        {
+            "word": "i",
+            "start": 6.033,
+            "end": 6.133,
+            "score": 0.92
+        },
+        {
+            "word": "if",
+            "start": 6.293,
+            "end": 6.373,
+            "score": 0.97
+        },
+        {
+            "word": "i",
+            "start": 6.453,
+            "end": 6.513,
+            "score": 0.684
+        },
+        {
+            "word": "was",
+            "start": 6.533,
+            "end": 6.653,
+            "score": 0.879
+        },
+        {
+            "word": "in",
+            "start": 6.733,
+            "end": 6.833,
+            "score": 0.781
+        },
+        {
+            "word": "front",
+            "start": 6.873,
+            "end": 7.093,
+            "score": 0.727
+        },
+        {
+            "word": "of",
+            "start": 7.153,
+            "end": 7.273,
+            "score": 0.536
+        },
+        {
+            "word": "a",
+            "start": 7.313,
+            "end": 7.353,
+            "score": 0.555
+        },
+        {
+            "word": "drugstore",
+            "start": 7.373,
+            "end": 7.974,
+            "score": 0.745
+        },
+        {
+            "word": "i",
+            "start": 7.994,
+            "end": 8.014,
+            "score": 0.0
+        },
+        {
+            "word": "i",
+            "start": 8.634,
+            "end": 9.615,
+            "score": 0.947
+        },
+        {
+            "word": "will",
+            "start": 9.775,
+            "end": 10.215,
+            "score": 0.843
+        },
+        {
+            "word": "have",
+            "start": 12.917,
+            "end": 13.037,
+            "score": 0.306
+        },
+        {
+            "word": "shot",
+            "start": 13.057,
+            "end": 13.317,
+            "score": 0.586
+        },
+        {
+            "word": "because",
+            "start": 13.397,
+            "end": 13.737,
+            "score": 0.918
+        },
+        {
+            "word": "it",
+            "start": 13.857,
+            "end": 13.937,
+            "score": 0.919
+        },
+        {
+            "word": "is",
+            "start": 13.997,
+            "end": 14.097,
+            "score": 0.644
+        },
+        {
+            "word": "a",
+            "start": 14.177,
+            "end": 14.237,
+            "score": 0.626
+        },
+        {
+            "word": "very",
+            "start": 14.277,
+            "end": 14.558,
+            "score": 0.946
+        },
+        {
+            "word": "important",
+            "start": 15.258,
+            "end": 15.718,
+            "score": 0.99
+        },
+        {
+            "word": "uh",
+            "start": 16.058,
+            "end": 16.119,
+            "score": 0.228
+        },
+        {
+            "word": "this",
+            "start": 16.139,
+            "end": 16.239,
+            "score": 0.141
+        },
+        {
+            "word": "is",
+            "start": 16.319,
+            "end": 16.439,
+            "score": 0.536
+        },
+        {
+            "word": "a",
+            "start": 16.499,
+            "end": 16.559,
+            "score": 0.554
+        },
+        {
+            "word": "place",
+            "start": 16.619,
+            "end": 16.959,
+            "score": 0.932
+        },
+        {
+            "word": "for",
+            "start": 17.059,
+            "end": 17.319,
+            "score": 0.841
+        },
+        {
+            "word": "for",
+            "start": 17.479,
+            "end": 17.619,
+            "score": 0.951
+        },
+        {
+            "word": "me",
+            "start": 17.659,
+            "end": 17.799,
+            "score": 0.914
+        },
+        {
+            "word": "to",
+            "start": 17.82,
+            "end": 17.92,
+            "score": 0.984
+        },
+        {
+            "word": "shopping",
+            "start": 17.98,
+            "end": 18.36,
+            "score": 0.877
+        },
+        {
+            "word": "or",
+            "start": 18.44,
+            "end": 18.52,
+            "score": 0.74
+        },
+        {
+            "word": "something",
+            "start": 18.58,
+            "end": 18.96,
+            "score": 0.92
+        },
+        {
+            "word": "so",
+            "start": 18.98,
+            "end": 20.041,
+            "score": 0.76
+        },
+        {
+            "word": "i",
+            "start": 20.661,
+            "end": 20.721,
+            "score": 0.992
+        },
+        {
+            "word": "think",
+            "start": 20.781,
+            "end": 21.081,
+            "score": 0.916
+        },
+        {
+            "word": "it's",
+            "start": 21.202,
+            "end": 21.342,
+            "score": 0.742
+        },
+        {
+            "word": "a",
+            "start": 21.382,
+            "end": 21.422,
+            "score": 0.657
+        },
+        {
+            "word": "good",
+            "start": 21.482,
+            "end": 21.662,
+            "score": 0.872
+        },
+        {
+            "word": "place",
+            "start": 21.722,
+            "end": 22.122,
+            "score": 0.927
+        },
+        {
+            "word": "i",
+            "start": 22.822,
+            "end": 22.882,
+            "score": 0.703
+        },
+        {
+            "word": "want",
+            "start": 22.903,
+            "end": 23.143,
+            "score": 0.726
+        },
+        {
+            "word": "to",
+            "start": 23.183,
+            "end": 23.403,
+            "score": 0.915
+        },
+        {
+            "word": "explain",
+            "start": 23.783,
+            "end": 24.343,
+            "score": 0.765
+        },
+        {
+            "word": "and",
+            "start": 24.884,
+            "end": 25.024,
+            "score": 0.7
+        },
+        {
+            "word": "why",
+            "start": 25.184,
+            "end": 25.384,
+            "score": 0.998
+        }
+    ]
+}

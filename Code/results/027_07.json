@@ -1,0 +1,349 @@
+{
+    "segments": [
+        {
+            "start": 0.129,
+            "end": 22.998,
+            "text": " go straight by Cerro Street to Harrison Ave and then turn right to the corner of Harrison and Gaines Street and again here turn left to the disco",
+            "words": [
+                {
+                    "word": "go",
+                    "start": 0.129,
+                    "end": 0.429,
+                    "score": 0.968
+                },
+                {
+                    "word": "straight",
+                    "start": 0.509,
+                    "end": 1.51,
+                    "score": 0.852
+                },
+                {
+                    "word": "by",
+                    "start": 2.13,
+                    "end": 2.31,
+                    "score": 0.947
+                },
+                {
+                    "word": "Cerro",
+                    "start": 2.37,
+                    "end": 2.69,
+                    "score": 0.854
+                },
+                {
+                    "word": "Street",
+                    "start": 2.75,
+                    "end": 3.09,
+                    "score": 0.936
+                },
+                {
+                    "word": "to",
+                    "start": 3.49,
+                    "end": 3.71,
+                    "score": 0.866
+                },
+                {
+                    "word": "Harrison",
+                    "start": 4.611,
+                    "end": 5.051,
+                    "score": 0.79
+                },
+                {
+                    "word": "Ave",
+                    "start": 5.231,
+                    "end": 5.411,
+                    "score": 0.512
+                },
+                {
+                    "word": "and",
+                    "start": 5.791,
+                    "end": 5.911,
+                    "score": 0.843
+                },
+                {
+                    "word": "then",
+                    "start": 6.432,
+                    "end": 6.712,
+                    "score": 0.927
+                },
+                {
+                    "word": "turn",
+                    "start": 8.512,
+                    "end": 10.073,
+                    "score": 0.85
+                },
+                {
+                    "word": "right",
+                    "start": 10.153,
+                    "end": 13.194,
+                    "score": 0.785
+                },
+                {
+                    "word": "to",
+                    "start": 13.494,
+                    "end": 13.754,
+                    "score": 0.968
+                },
+                {
+                    "word": "the",
+                    "start": 13.854,
+                    "end": 13.974,
+                    "score": 0.883
+                },
+                {
+                    "word": "corner",
+                    "start": 14.034,
+                    "end": 14.455,
+                    "score": 0.944
+                },
+                {
+                    "word": "of",
+                    "start": 14.515,
+                    "end": 14.595,
+                    "score": 0.984
+                },
+                {
+                    "word": "Harrison",
+                    "start": 14.835,
+                    "end": 15.375,
+                    "score": 0.852
+                },
+                {
+                    "word": "and",
+                    "start": 15.435,
+                    "end": 15.555,
+                    "score": 0.833
+                },
+                {
+                    "word": "Gaines",
+                    "start": 15.615,
+                    "end": 15.975,
+                    "score": 0.683
+                },
+                {
+                    "word": "Street",
+                    "start": 16.015,
+                    "end": 16.315,
+                    "score": 0.872
+                },
+                {
+                    "word": "and",
+                    "start": 17.676,
+                    "end": 17.796,
+                    "score": 0.66
+                },
+                {
+                    "word": "again",
+                    "start": 17.856,
+                    "end": 18.376,
+                    "score": 0.895
+                },
+                {
+                    "word": "here",
+                    "start": 19.957,
+                    "end": 20.317,
+                    "score": 0.928
+                },
+                {
+                    "word": "turn",
+                    "start": 20.737,
+                    "end": 21.017,
+                    "score": 0.688
+                },
+                {
+                    "word": "left",
+                    "start": 21.457,
+                    "end": 21.697,
+                    "score": 0.856
+                },
+                {
+                    "word": "to",
+                    "start": 22.518,
+                    "end": 22.618,
+                    "score": 0.6
+                },
+                {
+                    "word": "the",
+                    "start": 22.658,
+                    "end": 22.758,
+                    "score": 0.354
+                },
+                {
+                    "word": "disco",
+                    "start": 22.798,
+                    "end": 22.998,
+                    "score": 0.452
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "go",
+            "start": 0.129,
+            "end": 0.429,
+            "score": 0.968
+        },
+        {
+            "word": "straight",
+            "start": 0.509,
+            "end": 1.51,
+            "score": 0.852
+        },
+        {
+            "word": "by",
+            "start": 2.13,
+            "end": 2.31,
+            "score": 0.947
+        },
+        {
+            "word": "Cerro",
+            "start": 2.37,
+            "end": 2.69,
+            "score": 0.854
+        },
+        {
+            "word": "Street",
+            "start": 2.75,
+            "end": 3.09,
+            "score": 0.936
+        },
+        {
+            "word": "to",
+            "start": 3.49,
+            "end": 3.71,
+            "score": 0.866
+        },
+        {
+            "word": "Harrison",
+            "start": 4.611,
+            "end": 5.051,
+            "score": 0.79
+        },
+        {
+            "word": "Ave",
+            "start": 5.231,
+            "end": 5.411,
+            "score": 0.512
+        },
+        {
+            "word": "and",
+            "start": 5.791,
+            "end": 5.911,
+            "score": 0.843
+        },
+        {
+            "word": "then",
+            "start": 6.432,
+            "end": 6.712,
+            "score": 0.927
+        },
+        {
+            "word": "turn",
+            "start": 8.512,
+            "end": 10.073,
+            "score": 0.85
+        },
+        {
+            "word": "right",
+            "start": 10.153,
+            "end": 13.194,
+            "score": 0.785
+        },
+        {
+            "word": "to",
+            "start": 13.494,
+            "end": 13.754,
+            "score": 0.968
+        },
+        {
+            "word": "the",
+            "start": 13.854,
+            "end": 13.974,
+            "score": 0.883
+        },
+        {
+            "word": "corner",
+            "start": 14.034,
+            "end": 14.455,
+            "score": 0.944
+        },
+        {
+            "word": "of",
+            "start": 14.515,
+            "end": 14.595,
+            "score": 0.984
+        },
+        {
+            "word": "Harrison",
+            "start": 14.835,
+            "end": 15.375,
+            "score": 0.852
+        },
+        {
+            "word": "and",
+            "start": 15.435,
+            "end": 15.555,
+            "score": 0.833
+        },
+        {
+            "word": "Gaines",
+            "start": 15.615,
+            "end": 15.975,
+            "score": 0.683
+        },
+        {
+            "word": "Street",
+            "start": 16.015,
+            "end": 16.315,
+            "score": 0.872
+        },
+        {
+            "word": "and",
+            "start": 17.676,
+            "end": 17.796,
+            "score": 0.66
+        },
+        {
+            "word": "again",
+            "start": 17.856,
+            "end": 18.376,
+            "score": 0.895
+        },
+        {
+            "word": "here",
+            "start": 19.957,
+            "end": 20.317,
+            "score": 0.928
+        },
+        {
+            "word": "turn",
+            "start": 20.737,
+            "end": 21.017,
+            "score": 0.688
+        },
+        {
+            "word": "left",
+            "start": 21.457,
+            "end": 21.697,
+            "score": 0.856
+        },
+        {
+            "word": "to",
+            "start": 22.518,
+            "end": 22.618,
+            "score": 0.6
+        },
+        {
+            "word": "the",
+            "start": 22.658,
+            "end": 22.758,
+            "score": 0.354
+        },
+        {
+            "word": "disco",
+            "start": 22.798,
+            "end": 22.998,
+            "score": 0.452
+        }
+    ]
+}

@@ -1,0 +1,1947 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 26.731,
+            "text": " no i disagree actually the soda i don't think it has anything to do with obesity even doctors say it's yeah it might affect some people but some people are okay with drinking soda all the time i mean the soda is not a smoking or something so they can write stuff or write warning on the top of it or in the can also i think the obesity is not caused by by the soda it's",
+            "words": [
+                {
+                    "word": "no",
+                    "start": 0.089,
+                    "end": 0.229,
+                    "score": 0.788
+                },
+                {
+                    "word": "i",
+                    "start": 0.289,
+                    "end": 0.349,
+                    "score": 0.745
+                },
+                {
+                    "word": "disagree",
+                    "start": 0.369,
+                    "end": 0.83,
+                    "score": 0.885
+                },
+                {
+                    "word": "actually",
+                    "start": 0.95,
+                    "end": 1.27,
+                    "score": 0.512
+                },
+                {
+                    "word": "the",
+                    "start": 1.29,
+                    "end": 1.41,
+                    "score": 0.494
+                },
+                {
+                    "word": "soda",
+                    "start": 1.45,
+                    "end": 1.931,
+                    "score": 0.875
+                },
+                {
+                    "word": "i",
+                    "start": 2.491,
+                    "end": 2.531,
+                    "score": 0.537
+                },
+                {
+                    "word": "don't",
+                    "start": 2.571,
+                    "end": 2.691,
+                    "score": 0.899
+                },
+                {
+                    "word": "think",
+                    "start": 2.731,
+                    "end": 2.871,
+                    "score": 0.918
+                },
+                {
+                    "word": "it",
+                    "start": 2.931,
+                    "end": 3.011,
+                    "score": 0.84
+                },
+                {
+                    "word": "has",
+                    "start": 3.072,
+                    "end": 3.252,
+                    "score": 0.78
+                },
+                {
+                    "word": "anything",
+                    "start": 3.432,
+                    "end": 3.772,
+                    "score": 0.809
+                },
+                {
+                    "word": "to",
+                    "start": 3.812,
+                    "end": 3.892,
+                    "score": 0.934
+                },
+                {
+                    "word": "do",
+                    "start": 3.932,
+                    "end": 4.072,
+                    "score": 0.986
+                },
+                {
+                    "word": "with",
+                    "start": 4.112,
+                    "end": 4.293,
+                    "score": 0.584
+                },
+                {
+                    "word": "obesity",
+                    "start": 4.593,
+                    "end": 5.153,
+                    "score": 0.857
+                },
+                {
+                    "word": "even",
+                    "start": 5.453,
+                    "end": 5.614,
+                    "score": 0.87
+                },
+                {
+                    "word": "doctors",
+                    "start": 5.714,
+                    "end": 5.974,
+                    "score": 0.816
+                },
+                {
+                    "word": "say",
+                    "start": 5.994,
+                    "end": 6.114,
+                    "score": 0.754
+                },
+                {
+                    "word": "it's",
+                    "start": 6.154,
+                    "end": 6.294,
+                    "score": 0.818
+                },
+                {
+                    "word": "yeah",
+                    "start": 6.414,
+                    "end": 6.634,
+                    "score": 0.583
+                },
+                {
+                    "word": "it",
+                    "start": 6.855,
+                    "end": 6.935,
+                    "score": 0.879
+                },
+                {
+                    "word": "might",
+                    "start": 6.975,
+                    "end": 7.155,
+                    "score": 0.796
+                },
+                {
+                    "word": "affect",
+                    "start": 7.235,
+                    "end": 7.515,
+                    "score": 0.935
+                },
+                {
+                    "word": "some",
+                    "start": 7.555,
+                    "end": 7.715,
+                    "score": 0.976
+                },
+                {
+                    "word": "people",
+                    "start": 7.755,
+                    "end": 8.076,
+                    "score": 0.876
+                },
+                {
+                    "word": "but",
+                    "start": 8.456,
+                    "end": 8.596,
+                    "score": 0.835
+                },
+                {
+                    "word": "some",
+                    "start": 8.616,
+                    "end": 8.756,
+                    "score": 0.794
+                },
+                {
+                    "word": "people",
+                    "start": 8.796,
+                    "end": 9.076,
+                    "score": 0.826
+                },
+                {
+                    "word": "are",
+                    "start": 9.157,
+                    "end": 9.257,
+                    "score": 0.757
+                },
+                {
+                    "word": "okay",
+                    "start": 9.337,
+                    "end": 9.597,
+                    "score": 0.751
+                },
+                {
+                    "word": "with",
+                    "start": 9.617,
+                    "end": 9.797,
+                    "score": 0.724
+                },
+                {
+                    "word": "drinking",
+                    "start": 9.957,
+                    "end": 10.257,
+                    "score": 0.932
+                },
+                {
+                    "word": "soda",
+                    "start": 10.318,
+                    "end": 10.618,
+                    "score": 0.925
+                },
+                {
+                    "word": "all",
+                    "start": 10.658,
+                    "end": 10.758,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 10.798,
+                    "end": 10.878,
+                    "score": 0.856
+                },
+                {
+                    "word": "time",
+                    "start": 10.918,
+                    "end": 11.158,
+                    "score": 0.877
+                },
+                {
+                    "word": "i",
+                    "start": 11.759,
+                    "end": 11.819,
+                    "score": 0.377
+                },
+                {
+                    "word": "mean",
+                    "start": 11.839,
+                    "end": 11.999,
+                    "score": 0.692
+                },
+                {
+                    "word": "the",
+                    "start": 13.16,
+                    "end": 13.26,
+                    "score": 0.865
+                },
+                {
+                    "word": "soda",
+                    "start": 13.28,
+                    "end": 13.52,
+                    "score": 0.808
+                },
+                {
+                    "word": "is",
+                    "start": 13.56,
+                    "end": 13.64,
+                    "score": 0.589
+                },
+                {
+                    "word": "not",
+                    "start": 13.68,
+                    "end": 13.88,
+                    "score": 0.884
+                },
+                {
+                    "word": "a",
+                    "start": 13.961,
+                    "end": 14.001,
+                    "score": 0.864
+                },
+                {
+                    "word": "smoking",
+                    "start": 14.041,
+                    "end": 14.481,
+                    "score": 0.893
+                },
+                {
+                    "word": "or",
+                    "start": 14.641,
+                    "end": 14.701,
+                    "score": 0.983
+                },
+                {
+                    "word": "something",
+                    "start": 14.761,
+                    "end": 15.121,
+                    "score": 0.872
+                },
+                {
+                    "word": "so",
+                    "start": 15.542,
+                    "end": 15.642,
+                    "score": 0.852
+                },
+                {
+                    "word": "they",
+                    "start": 15.682,
+                    "end": 15.782,
+                    "score": 0.363
+                },
+                {
+                    "word": "can",
+                    "start": 15.802,
+                    "end": 15.982,
+                    "score": 0.706
+                },
+                {
+                    "word": "write",
+                    "start": 16.022,
+                    "end": 16.322,
+                    "score": 0.757
+                },
+                {
+                    "word": "stuff",
+                    "start": 16.443,
+                    "end": 16.763,
+                    "score": 0.916
+                },
+                {
+                    "word": "or",
+                    "start": 17.063,
+                    "end": 17.143,
+                    "score": 0.764
+                },
+                {
+                    "word": "write",
+                    "start": 17.203,
+                    "end": 17.423,
+                    "score": 0.508
+                },
+                {
+                    "word": "warning",
+                    "start": 17.483,
+                    "end": 17.864,
+                    "score": 0.867
+                },
+                {
+                    "word": "on",
+                    "start": 18.304,
+                    "end": 18.424,
+                    "score": 0.865
+                },
+                {
+                    "word": "the",
+                    "start": 18.484,
+                    "end": 18.584,
+                    "score": 0.962
+                },
+                {
+                    "word": "top",
+                    "start": 18.664,
+                    "end": 18.885,
+                    "score": 0.909
+                },
+                {
+                    "word": "of",
+                    "start": 18.945,
+                    "end": 19.005,
+                    "score": 0.995
+                },
+                {
+                    "word": "it",
+                    "start": 19.085,
+                    "end": 19.165,
+                    "score": 0.834
+                },
+                {
+                    "word": "or",
+                    "start": 19.565,
+                    "end": 19.625,
+                    "score": 0.905
+                },
+                {
+                    "word": "in",
+                    "start": 19.665,
+                    "end": 19.705,
+                    "score": 0.784
+                },
+                {
+                    "word": "the",
+                    "start": 19.725,
+                    "end": 19.845,
+                    "score": 0.8
+                },
+                {
+                    "word": "can",
+                    "start": 19.885,
+                    "end": 20.166,
+                    "score": 0.824
+                },
+                {
+                    "word": "also",
+                    "start": 21.046,
+                    "end": 21.327,
+                    "score": 0.932
+                },
+                {
+                    "word": "i",
+                    "start": 21.767,
+                    "end": 21.827,
+                    "score": 0.668
+                },
+                {
+                    "word": "think",
+                    "start": 21.867,
+                    "end": 22.047,
+                    "score": 0.78
+                },
+                {
+                    "word": "the",
+                    "start": 22.067,
+                    "end": 22.187,
+                    "score": 0.85
+                },
+                {
+                    "word": "obesity",
+                    "start": 22.207,
+                    "end": 22.748,
+                    "score": 0.856
+                },
+                {
+                    "word": "is",
+                    "start": 23.208,
+                    "end": 23.388,
+                    "score": 0.586
+                },
+                {
+                    "word": "not",
+                    "start": 23.428,
+                    "end": 23.588,
+                    "score": 0.887
+                },
+                {
+                    "word": "caused",
+                    "start": 23.648,
+                    "end": 23.989,
+                    "score": 0.861
+                },
+                {
+                    "word": "by",
+                    "start": 24.049,
+                    "end": 24.309,
+                    "score": 0.883
+                },
+                {
+                    "word": "by",
+                    "start": 25.39,
+                    "end": 25.51,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 25.53,
+                    "end": 25.63,
+                    "score": 0.879
+                },
+                {
+                    "word": "soda",
+                    "start": 25.67,
+                    "end": 26.01,
+                    "score": 0.883
+                },
+                {
+                    "word": "it's",
+                    "start": 26.591,
+                    "end": 26.731,
+                    "score": 0.838
+                }
+            ]
+        },
+        {
+            "start": 27.992,
+            "end": 52.738,
+            "text": " by the sedentary actions or by the fast food so yeah it might be a part of it but it's almost from the fast food and from the less movement I mean all of the people they just they want to eat and sit down doing nothing during their daily life they're just sitting and eating in restaurants while they're doing nothing",
+            "words": [
+                {
+                    "word": "by",
+                    "start": 27.992,
+                    "end": 28.132,
+                    "score": 0.978
+                },
+                {
+                    "word": "the",
+                    "start": 28.172,
+                    "end": 28.452,
+                    "score": 0.838
+                },
+                {
+                    "word": "sedentary",
+                    "start": 29.272,
+                    "end": 30.893,
+                    "score": 0.727
+                },
+                {
+                    "word": "actions",
+                    "start": 31.013,
+                    "end": 31.433,
+                    "score": 0.859
+                },
+                {
+                    "word": "or",
+                    "start": 31.853,
+                    "end": 31.953,
+                    "score": 0.818
+                },
+                {
+                    "word": "by",
+                    "start": 32.473,
+                    "end": 32.693,
+                    "score": 0.848
+                },
+                {
+                    "word": "the",
+                    "start": 32.733,
+                    "end": 33.133,
+                    "score": 0.763
+                },
+                {
+                    "word": "fast",
+                    "start": 33.393,
+                    "end": 33.673,
+                    "score": 0.93
+                },
+                {
+                    "word": "food",
+                    "start": 33.713,
+                    "end": 33.993,
+                    "score": 0.846
+                },
+                {
+                    "word": "so",
+                    "start": 34.394,
+                    "end": 34.534,
+                    "score": 0.998
+                },
+                {
+                    "word": "yeah",
+                    "start": 34.574,
+                    "end": 34.814,
+                    "score": 0.618
+                },
+                {
+                    "word": "it",
+                    "start": 35.354,
+                    "end": 35.434,
+                    "score": 0.843
+                },
+                {
+                    "word": "might",
+                    "start": 35.494,
+                    "end": 35.674,
+                    "score": 0.821
+                },
+                {
+                    "word": "be",
+                    "start": 35.694,
+                    "end": 35.814,
+                    "score": 0.692
+                },
+                {
+                    "word": "a",
+                    "start": 35.874,
+                    "end": 35.914,
+                    "score": 0.544
+                },
+                {
+                    "word": "part",
+                    "start": 35.974,
+                    "end": 36.214,
+                    "score": 0.928
+                },
+                {
+                    "word": "of",
+                    "start": 36.254,
+                    "end": 36.314,
+                    "score": 0.998
+                },
+                {
+                    "word": "it",
+                    "start": 36.394,
+                    "end": 36.494,
+                    "score": 0.826
+                },
+                {
+                    "word": "but",
+                    "start": 36.914,
+                    "end": 37.114,
+                    "score": 0.874
+                },
+                {
+                    "word": "it's",
+                    "start": 37.394,
+                    "end": 37.534,
+                    "score": 0.829
+                },
+                {
+                    "word": "almost",
+                    "start": 37.734,
+                    "end": 38.014,
+                    "score": 0.917
+                },
+                {
+                    "word": "from",
+                    "start": 38.094,
+                    "end": 38.254,
+                    "score": 0.881
+                },
+                {
+                    "word": "the",
+                    "start": 38.274,
+                    "end": 38.395,
+                    "score": 0.775
+                },
+                {
+                    "word": "fast",
+                    "start": 38.415,
+                    "end": 38.695,
+                    "score": 0.833
+                },
+                {
+                    "word": "food",
+                    "start": 38.755,
+                    "end": 39.055,
+                    "score": 0.798
+                },
+                {
+                    "word": "and",
+                    "start": 39.455,
+                    "end": 39.595,
+                    "score": 0.626
+                },
+                {
+                    "word": "from",
+                    "start": 39.675,
+                    "end": 39.855,
+                    "score": 0.798
+                },
+                {
+                    "word": "the",
+                    "start": 39.915,
+                    "end": 40.115,
+                    "score": 0.843
+                },
+                {
+                    "word": "less",
+                    "start": 40.875,
+                    "end": 41.095,
+                    "score": 0.799
+                },
+                {
+                    "word": "movement",
+                    "start": 41.155,
+                    "end": 41.615,
+                    "score": 0.847
+                },
+                {
+                    "word": "I",
+                    "start": 41.975,
+                    "end": 42.015,
+                    "score": 0.693
+                },
+                {
+                    "word": "mean",
+                    "start": 42.055,
+                    "end": 42.235,
+                    "score": 0.904
+                },
+                {
+                    "word": "all",
+                    "start": 42.656,
+                    "end": 42.776,
+                    "score": 0.836
+                },
+                {
+                    "word": "of",
+                    "start": 42.796,
+                    "end": 42.836,
+                    "score": 0.568
+                },
+                {
+                    "word": "the",
+                    "start": 42.876,
+                    "end": 42.976,
+                    "score": 0.766
+                },
+                {
+                    "word": "people",
+                    "start": 43.016,
+                    "end": 43.296,
+                    "score": 0.828
+                },
+                {
+                    "word": "they",
+                    "start": 43.356,
+                    "end": 43.456,
+                    "score": 0.119
+                },
+                {
+                    "word": "just",
+                    "start": 43.496,
+                    "end": 43.676,
+                    "score": 0.734
+                },
+                {
+                    "word": "they",
+                    "start": 44.136,
+                    "end": 44.276,
+                    "score": 0.902
+                },
+                {
+                    "word": "want",
+                    "start": 44.296,
+                    "end": 44.476,
+                    "score": 0.627
+                },
+                {
+                    "word": "to",
+                    "start": 44.516,
+                    "end": 44.576,
+                    "score": 0.997
+                },
+                {
+                    "word": "eat",
+                    "start": 44.696,
+                    "end": 44.856,
+                    "score": 0.817
+                },
+                {
+                    "word": "and",
+                    "start": 44.976,
+                    "end": 45.056,
+                    "score": 0.85
+                },
+                {
+                    "word": "sit",
+                    "start": 45.096,
+                    "end": 45.296,
+                    "score": 0.971
+                },
+                {
+                    "word": "down",
+                    "start": 45.356,
+                    "end": 45.616,
+                    "score": 0.818
+                },
+                {
+                    "word": "doing",
+                    "start": 45.956,
+                    "end": 46.216,
+                    "score": 0.747
+                },
+                {
+                    "word": "nothing",
+                    "start": 46.276,
+                    "end": 46.596,
+                    "score": 0.791
+                },
+                {
+                    "word": "during",
+                    "start": 47.017,
+                    "end": 47.277,
+                    "score": 0.876
+                },
+                {
+                    "word": "their",
+                    "start": 47.337,
+                    "end": 47.557,
+                    "score": 0.893
+                },
+                {
+                    "word": "daily",
+                    "start": 48.397,
+                    "end": 48.617,
+                    "score": 0.944
+                },
+                {
+                    "word": "life",
+                    "start": 48.677,
+                    "end": 48.937,
+                    "score": 0.86
+                },
+                {
+                    "word": "they're",
+                    "start": 49.177,
+                    "end": 49.377,
+                    "score": 0.766
+                },
+                {
+                    "word": "just",
+                    "start": 49.397,
+                    "end": 49.557,
+                    "score": 0.827
+                },
+                {
+                    "word": "sitting",
+                    "start": 49.637,
+                    "end": 49.977,
+                    "score": 0.845
+                },
+                {
+                    "word": "and",
+                    "start": 50.097,
+                    "end": 50.177,
+                    "score": 0.967
+                },
+                {
+                    "word": "eating",
+                    "start": 50.257,
+                    "end": 50.517,
+                    "score": 0.833
+                },
+                {
+                    "word": "in",
+                    "start": 50.537,
+                    "end": 50.617,
+                    "score": 0.562
+                },
+                {
+                    "word": "restaurants",
+                    "start": 50.697,
+                    "end": 51.198,
+                    "score": 0.817
+                },
+                {
+                    "word": "while",
+                    "start": 51.798,
+                    "end": 51.998,
+                    "score": 0.865
+                },
+                {
+                    "word": "they're",
+                    "start": 52.018,
+                    "end": 52.238,
+                    "score": 0.817
+                },
+                {
+                    "word": "doing",
+                    "start": 52.258,
+                    "end": 52.478,
+                    "score": 0.789
+                },
+                {
+                    "word": "nothing",
+                    "start": 52.518,
+                    "end": 52.738,
+                    "score": 0.997
+                }
+            ]
+        },
+        {
+            "start": 53.418,
+            "end": 59.704,
+            "text": " So I think they should not put any warning on the soda can because it has nothing to do with that.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 53.418,
+                    "end": 53.579,
+                    "score": 0.914
+                },
+                {
+                    "word": "I",
+                    "start": 53.659,
+                    "end": 53.719,
+                    "score": 0.995
+                },
+                {
+                    "word": "think",
+                    "start": 53.759,
+                    "end": 53.959,
+                    "score": 0.859
+                },
+                {
+                    "word": "they",
+                    "start": 54.499,
+                    "end": 54.599,
+                    "score": 0.979
+                },
+                {
+                    "word": "should",
+                    "start": 54.619,
+                    "end": 54.8,
+                    "score": 0.825
+                },
+                {
+                    "word": "not",
+                    "start": 54.84,
+                    "end": 55.06,
+                    "score": 0.901
+                },
+                {
+                    "word": "put",
+                    "start": 55.5,
+                    "end": 55.7,
+                    "score": 0.789
+                },
+                {
+                    "word": "any",
+                    "start": 55.881,
+                    "end": 56.061,
+                    "score": 0.921
+                },
+                {
+                    "word": "warning",
+                    "start": 56.261,
+                    "end": 56.621,
+                    "score": 0.884
+                },
+                {
+                    "word": "on",
+                    "start": 56.821,
+                    "end": 56.901,
+                    "score": 0.558
+                },
+                {
+                    "word": "the",
+                    "start": 56.921,
+                    "end": 57.042,
+                    "score": 0.532
+                },
+                {
+                    "word": "soda",
+                    "start": 57.102,
+                    "end": 57.462,
+                    "score": 0.864
+                },
+                {
+                    "word": "can",
+                    "start": 57.522,
+                    "end": 57.822,
+                    "score": 0.975
+                },
+                {
+                    "word": "because",
+                    "start": 58.583,
+                    "end": 58.803,
+                    "score": 0.86
+                },
+                {
+                    "word": "it",
+                    "start": 58.823,
+                    "end": 58.923,
+                    "score": 0.398
+                },
+                {
+                    "word": "has",
+                    "start": 58.943,
+                    "end": 59.023,
+                    "score": 0.546
+                },
+                {
+                    "word": "nothing",
+                    "start": 59.043,
+                    "end": 59.223,
+                    "score": 0.77
+                },
+                {
+                    "word": "to",
+                    "start": 59.244,
+                    "end": 59.304,
+                    "score": 0.472
+                },
+                {
+                    "word": "do",
+                    "start": 59.324,
+                    "end": 59.444,
+                    "score": 0.485
+                },
+                {
+                    "word": "with",
+                    "start": 59.464,
+                    "end": 59.564,
+                    "score": 0.158
+                },
+                {
+                    "word": "that.",
+                    "start": 59.584,
+                    "end": 59.704,
+                    "score": 0.851
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "no",
+            "start": 0.089,
+            "end": 0.229,
+            "score": 0.788
+        },
+        {
+            "word": "i",
+            "start": 0.289,
+            "end": 0.349,
+            "score": 0.745
+        },
+        {
+            "word": "disagree",
+            "start": 0.369,
+            "end": 0.83,
+            "score": 0.885
+        },
+        {
+            "word": "actually",
+            "start": 0.95,
+            "end": 1.27,
+            "score": 0.512
+        },
+        {
+            "word": "the",
+            "start": 1.29,
+            "end": 1.41,
+            "score": 0.494
+        },
+        {
+            "word": "soda",
+            "start": 1.45,
+            "end": 1.931,
+            "score": 0.875
+        },
+        {
+            "word": "i",
+            "start": 2.491,
+            "end": 2.531,
+            "score": 0.537
+        },
+        {
+            "word": "don't",
+            "start": 2.571,
+            "end": 2.691,
+            "score": 0.899
+        },
+        {
+            "word": "think",
+            "start": 2.731,
+            "end": 2.871,
+            "score": 0.918
+        },
+        {
+            "word": "it",
+            "start": 2.931,
+            "end": 3.011,
+            "score": 0.84
+        },
+        {
+            "word": "has",
+            "start": 3.072,
+            "end": 3.252,
+            "score": 0.78
+        },
+        {
+            "word": "anything",
+            "start": 3.432,
+            "end": 3.772,
+            "score": 0.809
+        },
+        {
+            "word": "to",
+            "start": 3.812,
+            "end": 3.892,
+            "score": 0.934
+        },
+        {
+            "word": "do",
+            "start": 3.932,
+            "end": 4.072,
+            "score": 0.986
+        },
+        {
+            "word": "with",
+            "start": 4.112,
+            "end": 4.293,
+            "score": 0.584
+        },
+        {
+            "word": "obesity",
+            "start": 4.593,
+            "end": 5.153,
+            "score": 0.857
+        },
+        {
+            "word": "even",
+            "start": 5.453,
+            "end": 5.614,
+            "score": 0.87
+        },
+        {
+            "word": "doctors",
+            "start": 5.714,
+            "end": 5.974,
+            "score": 0.816
+        },
+        {
+            "word": "say",
+            "start": 5.994,
+            "end": 6.114,
+            "score": 0.754
+        },
+        {
+            "word": "it's",
+            "start": 6.154,
+            "end": 6.294,
+            "score": 0.818
+        },
+        {
+            "word": "yeah",
+            "start": 6.414,
+            "end": 6.634,
+            "score": 0.583
+        },
+        {
+            "word": "it",
+            "start": 6.855,
+            "end": 6.935,
+            "score": 0.879
+        },
+        {
+            "word": "might",
+            "start": 6.975,
+            "end": 7.155,
+            "score": 0.796
+        },
+        {
+            "word": "affect",
+            "start": 7.235,
+            "end": 7.515,
+            "score": 0.935
+        },
+        {
+            "word": "some",
+            "start": 7.555,
+            "end": 7.715,
+            "score": 0.976
+        },
+        {
+            "word": "people",
+            "start": 7.755,
+            "end": 8.076,
+            "score": 0.876
+        },
+        {
+            "word": "but",
+            "start": 8.456,
+            "end": 8.596,
+            "score": 0.835
+        },
+        {
+            "word": "some",
+            "start": 8.616,
+            "end": 8.756,
+            "score": 0.794
+        },
+        {
+            "word": "people",
+            "start": 8.796,
+            "end": 9.076,
+            "score": 0.826
+        },
+        {
+            "word": "are",
+            "start": 9.157,
+            "end": 9.257,
+            "score": 0.757
+        },
+        {
+            "word": "okay",
+            "start": 9.337,
+            "end": 9.597,
+            "score": 0.751
+        },
+        {
+            "word": "with",
+            "start": 9.617,
+            "end": 9.797,
+            "score": 0.724
+        },
+        {
+            "word": "drinking",
+            "start": 9.957,
+            "end": 10.257,
+            "score": 0.932
+        },
+        {
+            "word": "soda",
+            "start": 10.318,
+            "end": 10.618,
+            "score": 0.925
+        },
+        {
+            "word": "all",
+            "start": 10.658,
+            "end": 10.758,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 10.798,
+            "end": 10.878,
+            "score": 0.856
+        },
+        {
+            "word": "time",
+            "start": 10.918,
+            "end": 11.158,
+            "score": 0.877
+        },
+        {
+            "word": "i",
+            "start": 11.759,
+            "end": 11.819,
+            "score": 0.377
+        },
+        {
+            "word": "mean",
+            "start": 11.839,
+            "end": 11.999,
+            "score": 0.692
+        },
+        {
+            "word": "the",
+            "start": 13.16,
+            "end": 13.26,
+            "score": 0.865
+        },
+        {
+            "word": "soda",
+            "start": 13.28,
+            "end": 13.52,
+            "score": 0.808
+        },
+        {
+            "word": "is",
+            "start": 13.56,
+            "end": 13.64,
+            "score": 0.589
+        },
+        {
+            "word": "not",
+            "start": 13.68,
+            "end": 13.88,
+            "score": 0.884
+        },
+        {
+            "word": "a",
+            "start": 13.961,
+            "end": 14.001,
+            "score": 0.864
+        },
+        {
+            "word": "smoking",
+            "start": 14.041,
+            "end": 14.481,
+            "score": 0.893
+        },
+        {
+            "word": "or",
+            "start": 14.641,
+            "end": 14.701,
+            "score": 0.983
+        },
+        {
+            "word": "something",
+            "start": 14.761,
+            "end": 15.121,
+            "score": 0.872
+        },
+        {
+            "word": "so",
+            "start": 15.542,
+            "end": 15.642,
+            "score": 0.852
+        },
+        {
+            "word": "they",
+            "start": 15.682,
+            "end": 15.782,
+            "score": 0.363
+        },
+        {
+            "word": "can",
+            "start": 15.802,
+            "end": 15.982,
+            "score": 0.706
+        },
+        {
+            "word": "write",
+            "start": 16.022,
+            "end": 16.322,
+            "score": 0.757
+        },
+        {
+            "word": "stuff",
+            "start": 16.443,
+            "end": 16.763,
+            "score": 0.916
+        },
+        {
+            "word": "or",
+            "start": 17.063,
+            "end": 17.143,
+            "score": 0.764
+        },
+        {
+            "word": "write",
+            "start": 17.203,
+            "end": 17.423,
+            "score": 0.508
+        },
+        {
+            "word": "warning",
+            "start": 17.483,
+            "end": 17.864,
+            "score": 0.867
+        },
+        {
+            "word": "on",
+            "start": 18.304,
+            "end": 18.424,
+            "score": 0.865
+        },
+        {
+            "word": "the",
+            "start": 18.484,
+            "end": 18.584,
+            "score": 0.962
+        },
+        {
+            "word": "top",
+            "start": 18.664,
+            "end": 18.885,
+            "score": 0.909
+        },
+        {
+            "word": "of",
+            "start": 18.945,
+            "end": 19.005,
+            "score": 0.995
+        },
+        {
+            "word": "it",
+            "start": 19.085,
+            "end": 19.165,
+            "score": 0.834
+        },
+        {
+            "word": "or",
+            "start": 19.565,
+            "end": 19.625,
+            "score": 0.905
+        },
+        {
+            "word": "in",
+            "start": 19.665,
+            "end": 19.705,
+            "score": 0.784
+        },
+        {
+            "word": "the",
+            "start": 19.725,
+            "end": 19.845,
+            "score": 0.8
+        },
+        {
+            "word": "can",
+            "start": 19.885,
+            "end": 20.166,
+            "score": 0.824
+        },
+        {
+            "word": "also",
+            "start": 21.046,
+            "end": 21.327,
+            "score": 0.932
+        },
+        {
+            "word": "i",
+            "start": 21.767,
+            "end": 21.827,
+            "score": 0.668
+        },
+        {
+            "word": "think",
+            "start": 21.867,
+            "end": 22.047,
+            "score": 0.78
+        },
+        {
+            "word": "the",
+            "start": 22.067,
+            "end": 22.187,
+            "score": 0.85
+        },
+        {
+            "word": "obesity",
+            "start": 22.207,
+            "end": 22.748,
+            "score": 0.856
+        },
+        {
+            "word": "is",
+            "start": 23.208,
+            "end": 23.388,
+            "score": 0.586
+        },
+        {
+            "word": "not",
+            "start": 23.428,
+            "end": 23.588,
+            "score": 0.887
+        },
+        {
+            "word": "caused",
+            "start": 23.648,
+            "end": 23.989,
+            "score": 0.861
+        },
+        {
+            "word": "by",
+            "start": 24.049,
+            "end": 24.309,
+            "score": 0.883
+        },
+        {
+            "word": "by",
+            "start": 25.39,
+            "end": 25.51,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 25.53,
+            "end": 25.63,
+            "score": 0.879
+        },
+        {
+            "word": "soda",
+            "start": 25.67,
+            "end": 26.01,
+            "score": 0.883
+        },
+        {
+            "word": "it's",
+            "start": 26.591,
+            "end": 26.731,
+            "score": 0.838
+        },
+        {
+            "word": "by",
+            "start": 27.992,
+            "end": 28.132,
+            "score": 0.978
+        },
+        {
+            "word": "the",
+            "start": 28.172,
+            "end": 28.452,
+            "score": 0.838
+        },
+        {
+            "word": "sedentary",
+            "start": 29.272,
+            "end": 30.893,
+            "score": 0.727
+        },
+        {
+            "word": "actions",
+            "start": 31.013,
+            "end": 31.433,
+            "score": 0.859
+        },
+        {
+            "word": "or",
+            "start": 31.853,
+            "end": 31.953,
+            "score": 0.818
+        },
+        {
+            "word": "by",
+            "start": 32.473,
+            "end": 32.693,
+            "score": 0.848
+        },
+        {
+            "word": "the",
+            "start": 32.733,
+            "end": 33.133,
+            "score": 0.763
+        },
+        {
+            "word": "fast",
+            "start": 33.393,
+            "end": 33.673,
+            "score": 0.93
+        },
+        {
+            "word": "food",
+            "start": 33.713,
+            "end": 33.993,
+            "score": 0.846
+        },
+        {
+            "word": "so",
+            "start": 34.394,
+            "end": 34.534,
+            "score": 0.998
+        },
+        {
+            "word": "yeah",
+            "start": 34.574,
+            "end": 34.814,
+            "score": 0.618
+        },
+        {
+            "word": "it",
+            "start": 35.354,
+            "end": 35.434,
+            "score": 0.843
+        },
+        {
+            "word": "might",
+            "start": 35.494,
+            "end": 35.674,
+            "score": 0.821
+        },
+        {
+            "word": "be",
+            "start": 35.694,
+            "end": 35.814,
+            "score": 0.692
+        },
+        {
+            "word": "a",
+            "start": 35.874,
+            "end": 35.914,
+            "score": 0.544
+        },
+        {
+            "word": "part",
+            "start": 35.974,
+            "end": 36.214,
+            "score": 0.928
+        },
+        {
+            "word": "of",
+            "start": 36.254,
+            "end": 36.314,
+            "score": 0.998
+        },
+        {
+            "word": "it",
+            "start": 36.394,
+            "end": 36.494,
+            "score": 0.826
+        },
+        {
+            "word": "but",
+            "start": 36.914,
+            "end": 37.114,
+            "score": 0.874
+        },
+        {
+            "word": "it's",
+            "start": 37.394,
+            "end": 37.534,
+            "score": 0.829
+        },
+        {
+            "word": "almost",
+            "start": 37.734,
+            "end": 38.014,
+            "score": 0.917
+        },
+        {
+            "word": "from",
+            "start": 38.094,
+            "end": 38.254,
+            "score": 0.881
+        },
+        {
+            "word": "the",
+            "start": 38.274,
+            "end": 38.395,
+            "score": 0.775
+        },
+        {
+            "word": "fast",
+            "start": 38.415,
+            "end": 38.695,
+            "score": 0.833
+        },
+        {
+            "word": "food",
+            "start": 38.755,
+            "end": 39.055,
+            "score": 0.798
+        },
+        {
+            "word": "and",
+            "start": 39.455,
+            "end": 39.595,
+            "score": 0.626
+        },
+        {
+            "word": "from",
+            "start": 39.675,
+            "end": 39.855,
+            "score": 0.798
+        },
+        {
+            "word": "the",
+            "start": 39.915,
+            "end": 40.115,
+            "score": 0.843
+        },
+        {
+            "word": "less",
+            "start": 40.875,
+            "end": 41.095,
+            "score": 0.799
+        },
+        {
+            "word": "movement",
+            "start": 41.155,
+            "end": 41.615,
+            "score": 0.847
+        },
+        {
+            "word": "I",
+            "start": 41.975,
+            "end": 42.015,
+            "score": 0.693
+        },
+        {
+            "word": "mean",
+            "start": 42.055,
+            "end": 42.235,
+            "score": 0.904
+        },
+        {
+            "word": "all",
+            "start": 42.656,
+            "end": 42.776,
+            "score": 0.836
+        },
+        {
+            "word": "of",
+            "start": 42.796,
+            "end": 42.836,
+            "score": 0.568
+        },
+        {
+            "word": "the",
+            "start": 42.876,
+            "end": 42.976,
+            "score": 0.766
+        },
+        {
+            "word": "people",
+            "start": 43.016,
+            "end": 43.296,
+            "score": 0.828
+        },
+        {
+            "word": "they",
+            "start": 43.356,
+            "end": 43.456,
+            "score": 0.119
+        },
+        {
+            "word": "just",
+            "start": 43.496,
+            "end": 43.676,
+            "score": 0.734
+        },
+        {
+            "word": "they",
+            "start": 44.136,
+            "end": 44.276,
+            "score": 0.902
+        },
+        {
+            "word": "want",
+            "start": 44.296,
+            "end": 44.476,
+            "score": 0.627
+        },
+        {
+            "word": "to",
+            "start": 44.516,
+            "end": 44.576,
+            "score": 0.997
+        },
+        {
+            "word": "eat",
+            "start": 44.696,
+            "end": 44.856,
+            "score": 0.817
+        },
+        {
+            "word": "and",
+            "start": 44.976,
+            "end": 45.056,
+            "score": 0.85
+        },
+        {
+            "word": "sit",
+            "start": 45.096,
+            "end": 45.296,
+            "score": 0.971
+        },
+        {
+            "word": "down",
+            "start": 45.356,
+            "end": 45.616,
+            "score": 0.818
+        },
+        {
+            "word": "doing",
+            "start": 45.956,
+            "end": 46.216,
+            "score": 0.747
+        },
+        {
+            "word": "nothing",
+            "start": 46.276,
+            "end": 46.596,
+            "score": 0.791
+        },
+        {
+            "word": "during",
+            "start": 47.017,
+            "end": 47.277,
+            "score": 0.876
+        },
+        {
+            "word": "their",
+            "start": 47.337,
+            "end": 47.557,
+            "score": 0.893
+        },
+        {
+            "word": "daily",
+            "start": 48.397,
+            "end": 48.617,
+            "score": 0.944
+        },
+        {
+            "word": "life",
+            "start": 48.677,
+            "end": 48.937,
+            "score": 0.86
+        },
+        {
+            "word": "they're",
+            "start": 49.177,
+            "end": 49.377,
+            "score": 0.766
+        },
+        {
+            "word": "just",
+            "start": 49.397,
+            "end": 49.557,
+            "score": 0.827
+        },
+        {
+            "word": "sitting",
+            "start": 49.637,
+            "end": 49.977,
+            "score": 0.845
+        },
+        {
+            "word": "and",
+            "start": 50.097,
+            "end": 50.177,
+            "score": 0.967
+        },
+        {
+            "word": "eating",
+            "start": 50.257,
+            "end": 50.517,
+            "score": 0.833
+        },
+        {
+            "word": "in",
+            "start": 50.537,
+            "end": 50.617,
+            "score": 0.562
+        },
+        {
+            "word": "restaurants",
+            "start": 50.697,
+            "end": 51.198,
+            "score": 0.817
+        },
+        {
+            "word": "while",
+            "start": 51.798,
+            "end": 51.998,
+            "score": 0.865
+        },
+        {
+            "word": "they're",
+            "start": 52.018,
+            "end": 52.238,
+            "score": 0.817
+        },
+        {
+            "word": "doing",
+            "start": 52.258,
+            "end": 52.478,
+            "score": 0.789
+        },
+        {
+            "word": "nothing",
+            "start": 52.518,
+            "end": 52.738,
+            "score": 0.997
+        },
+        {
+            "word": "So",
+            "start": 53.418,
+            "end": 53.579,
+            "score": 0.914
+        },
+        {
+            "word": "I",
+            "start": 53.659,
+            "end": 53.719,
+            "score": 0.995
+        },
+        {
+            "word": "think",
+            "start": 53.759,
+            "end": 53.959,
+            "score": 0.859
+        },
+        {
+            "word": "they",
+            "start": 54.499,
+            "end": 54.599,
+            "score": 0.979
+        },
+        {
+            "word": "should",
+            "start": 54.619,
+            "end": 54.8,
+            "score": 0.825
+        },
+        {
+            "word": "not",
+            "start": 54.84,
+            "end": 55.06,
+            "score": 0.901
+        },
+        {
+            "word": "put",
+            "start": 55.5,
+            "end": 55.7,
+            "score": 0.789
+        },
+        {
+            "word": "any",
+            "start": 55.881,
+            "end": 56.061,
+            "score": 0.921
+        },
+        {
+            "word": "warning",
+            "start": 56.261,
+            "end": 56.621,
+            "score": 0.884
+        },
+        {
+            "word": "on",
+            "start": 56.821,
+            "end": 56.901,
+            "score": 0.558
+        },
+        {
+            "word": "the",
+            "start": 56.921,
+            "end": 57.042,
+            "score": 0.532
+        },
+        {
+            "word": "soda",
+            "start": 57.102,
+            "end": 57.462,
+            "score": 0.864
+        },
+        {
+            "word": "can",
+            "start": 57.522,
+            "end": 57.822,
+            "score": 0.975
+        },
+        {
+            "word": "because",
+            "start": 58.583,
+            "end": 58.803,
+            "score": 0.86
+        },
+        {
+            "word": "it",
+            "start": 58.823,
+            "end": 58.923,
+            "score": 0.398
+        },
+        {
+            "word": "has",
+            "start": 58.943,
+            "end": 59.023,
+            "score": 0.546
+        },
+        {
+            "word": "nothing",
+            "start": 59.043,
+            "end": 59.223,
+            "score": 0.77
+        },
+        {
+            "word": "to",
+            "start": 59.244,
+            "end": 59.304,
+            "score": 0.472
+        },
+        {
+            "word": "do",
+            "start": 59.324,
+            "end": 59.444,
+            "score": 0.485
+        },
+        {
+            "word": "with",
+            "start": 59.464,
+            "end": 59.564,
+            "score": 0.158
+        },
+        {
+            "word": "that.",
+            "start": 59.584,
+            "end": 59.704,
+            "score": 0.851
+        }
+    ]
+}

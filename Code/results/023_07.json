@@ -1,0 +1,586 @@
+{
+    "segments": [
+        {
+            "start": 0.009,
+            "end": 16.217,
+            "text": " When you go out from the Franklin Hotel, you should go east on Zero Street and you will cross Kingdom Avenue and Peaches Street.",
+            "words": [
+                {
+                    "word": "When",
+                    "start": 0.009,
+                    "end": 0.149,
+                    "score": 0.903
+                },
+                {
+                    "word": "you",
+                    "start": 0.189,
+                    "end": 0.349,
+                    "score": 0.827
+                },
+                {
+                    "word": "go",
+                    "start": 0.449,
+                    "end": 1.41,
+                    "score": 0.895
+                },
+                {
+                    "word": "out",
+                    "start": 1.87,
+                    "end": 2.19,
+                    "score": 0.847
+                },
+                {
+                    "word": "from",
+                    "start": 2.27,
+                    "end": 2.95,
+                    "score": 0.892
+                },
+                {
+                    "word": "the",
+                    "start": 3.031,
+                    "end": 3.231,
+                    "score": 0.837
+                },
+                {
+                    "word": "Franklin",
+                    "start": 3.351,
+                    "end": 4.191,
+                    "score": 0.802
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 4.271,
+                    "end": 4.791,
+                    "score": 0.901
+                },
+                {
+                    "word": "you",
+                    "start": 5.452,
+                    "end": 5.612,
+                    "score": 0.723
+                },
+                {
+                    "word": "should",
+                    "start": 5.652,
+                    "end": 5.932,
+                    "score": 0.748
+                },
+                {
+                    "word": "go",
+                    "start": 6.692,
+                    "end": 7.113,
+                    "score": 0.376
+                },
+                {
+                    "word": "east",
+                    "start": 8.133,
+                    "end": 8.373,
+                    "score": 0.794
+                },
+                {
+                    "word": "on",
+                    "start": 8.573,
+                    "end": 8.854,
+                    "score": 0.774
+                },
+                {
+                    "word": "Zero",
+                    "start": 9.074,
+                    "end": 9.394,
+                    "score": 0.843
+                },
+                {
+                    "word": "Street",
+                    "start": 9.414,
+                    "end": 9.834,
+                    "score": 0.897
+                },
+                {
+                    "word": "and",
+                    "start": 10.794,
+                    "end": 10.955,
+                    "score": 0.698
+                },
+                {
+                    "word": "you",
+                    "start": 10.975,
+                    "end": 11.035,
+                    "score": 0.0
+                },
+                {
+                    "word": "will",
+                    "start": 11.055,
+                    "end": 11.815,
+                    "score": 0.566
+                },
+                {
+                    "word": "cross",
+                    "start": 12.295,
+                    "end": 12.695,
+                    "score": 0.817
+                },
+                {
+                    "word": "Kingdom",
+                    "start": 13.176,
+                    "end": 13.636,
+                    "score": 0.886
+                },
+                {
+                    "word": "Avenue",
+                    "start": 13.776,
+                    "end": 14.236,
+                    "score": 0.87
+                },
+                {
+                    "word": "and",
+                    "start": 14.396,
+                    "end": 14.676,
+                    "score": 0.304
+                },
+                {
+                    "word": "Peaches",
+                    "start": 14.857,
+                    "end": 15.437,
+                    "score": 0.829
+                },
+                {
+                    "word": "Street.",
+                    "start": 15.617,
+                    "end": 16.217,
+                    "score": 0.895
+                }
+            ]
+        },
+        {
+            "start": 17.218,
+            "end": 22.561,
+            "text": "After that, you will turn right with Harrison Avenue.",
+            "words": [
+                {
+                    "word": "After",
+                    "start": 17.218,
+                    "end": 17.458,
+                    "score": 0.884
+                },
+                {
+                    "word": "that,",
+                    "start": 17.518,
+                    "end": 17.758,
+                    "score": 0.688
+                },
+                {
+                    "word": "you",
+                    "start": 17.798,
+                    "end": 17.938,
+                    "score": 0.784
+                },
+                {
+                    "word": "will",
+                    "start": 17.998,
+                    "end": 18.639,
+                    "score": 0.919
+                },
+                {
+                    "word": "turn",
+                    "start": 19.399,
+                    "end": 19.799,
+                    "score": 0.744
+                },
+                {
+                    "word": "right",
+                    "start": 19.919,
+                    "end": 20.379,
+                    "score": 0.842
+                },
+                {
+                    "word": "with",
+                    "start": 20.519,
+                    "end": 20.8,
+                    "score": 0.808
+                },
+                {
+                    "word": "Harrison",
+                    "start": 21.14,
+                    "end": 22.0,
+                    "score": 0.902
+                },
+                {
+                    "word": "Avenue.",
+                    "start": 22.24,
+                    "end": 22.561,
+                    "score": 0.624
+                }
+            ]
+        },
+        {
+            "start": 23.701,
+            "end": 25.925,
+            "text": " So yeah, we will go south.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 23.701,
+                    "end": 23.982,
+                    "score": 0.952
+                },
+                {
+                    "word": "yeah,",
+                    "start": 24.042,
+                    "end": 24.302,
+                    "score": 0.734
+                },
+                {
+                    "word": "we",
+                    "start": 24.482,
+                    "end": 25.144,
+                    "score": 0.331
+                },
+                {
+                    "word": "will",
+                    "start": 25.164,
+                    "end": 25.244,
+                    "score": 0.0
+                },
+                {
+                    "word": "go",
+                    "start": 25.264,
+                    "end": 25.304,
+                    "score": 0.002
+                },
+                {
+                    "word": "south.",
+                    "start": 25.544,
+                    "end": 25.925,
+                    "score": 0.825
+                }
+            ]
+        },
+        {
+            "start": 26.506,
+            "end": 30.131,
+            "text": "Then you will lift with Church Street.",
+            "words": [
+                {
+                    "word": "Then",
+                    "start": 26.506,
+                    "end": 26.726,
+                    "score": 0.967
+                },
+                {
+                    "word": "you",
+                    "start": 26.746,
+                    "end": 26.806,
+                    "score": 0.0
+                },
+                {
+                    "word": "will",
+                    "start": 28.128,
+                    "end": 28.309,
+                    "score": 0.725
+                },
+                {
+                    "word": "lift",
+                    "start": 28.99,
+                    "end": 29.17,
+                    "score": 0.707
+                },
+                {
+                    "word": "with",
+                    "start": 29.21,
+                    "end": 29.41,
+                    "score": 0.421
+                },
+                {
+                    "word": "Church",
+                    "start": 29.531,
+                    "end": 29.851,
+                    "score": 0.799
+                },
+                {
+                    "word": "Street.",
+                    "start": 29.871,
+                    "end": 30.131,
+                    "score": 0.877
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "When",
+            "start": 0.009,
+            "end": 0.149,
+            "score": 0.903
+        },
+        {
+            "word": "you",
+            "start": 0.189,
+            "end": 0.349,
+            "score": 0.827
+        },
+        {
+            "word": "go",
+            "start": 0.449,
+            "end": 1.41,
+            "score": 0.895
+        },
+        {
+            "word": "out",
+            "start": 1.87,
+            "end": 2.19,
+            "score": 0.847
+        },
+        {
+            "word": "from",
+            "start": 2.27,
+            "end": 2.95,
+            "score": 0.892
+        },
+        {
+            "word": "the",
+            "start": 3.031,
+            "end": 3.231,
+            "score": 0.837
+        },
+        {
+            "word": "Franklin",
+            "start": 3.351,
+            "end": 4.191,
+            "score": 0.802
+        },
+        {
+            "word": "Hotel,",
+            "start": 4.271,
+            "end": 4.791,
+            "score": 0.901
+        },
+        {
+            "word": "you",
+            "start": 5.452,
+            "end": 5.612,
+            "score": 0.723
+        },
+        {
+            "word": "should",
+            "start": 5.652,
+            "end": 5.932,
+            "score": 0.748
+        },
+        {
+            "word": "go",
+            "start": 6.692,
+            "end": 7.113,
+            "score": 0.376
+        },
+        {
+            "word": "east",
+            "start": 8.133,
+            "end": 8.373,
+            "score": 0.794
+        },
+        {
+            "word": "on",
+            "start": 8.573,
+            "end": 8.854,
+            "score": 0.774
+        },
+        {
+            "word": "Zero",
+            "start": 9.074,
+            "end": 9.394,
+            "score": 0.843
+        },
+        {
+            "word": "Street",
+            "start": 9.414,
+            "end": 9.834,
+            "score": 0.897
+        },
+        {
+            "word": "and",
+            "start": 10.794,
+            "end": 10.955,
+            "score": 0.698
+        },
+        {
+            "word": "you",
+            "start": 10.975,
+            "end": 11.035,
+            "score": 0.0
+        },
+        {
+            "word": "will",
+            "start": 11.055,
+            "end": 11.815,
+            "score": 0.566
+        },
+        {
+            "word": "cross",
+            "start": 12.295,
+            "end": 12.695,
+            "score": 0.817
+        },
+        {
+            "word": "Kingdom",
+            "start": 13.176,
+            "end": 13.636,
+            "score": 0.886
+        },
+        {
+            "word": "Avenue",
+            "start": 13.776,
+            "end": 14.236,
+            "score": 0.87
+        },
+        {
+            "word": "and",
+            "start": 14.396,
+            "end": 14.676,
+            "score": 0.304
+        },
+        {
+            "word": "Peaches",
+            "start": 14.857,
+            "end": 15.437,
+            "score": 0.829
+        },
+        {
+            "word": "Street.",
+            "start": 15.617,
+            "end": 16.217,
+            "score": 0.895
+        },
+        {
+            "word": "After",
+            "start": 17.218,
+            "end": 17.458,
+            "score": 0.884
+        },
+        {
+            "word": "that,",
+            "start": 17.518,
+            "end": 17.758,
+            "score": 0.688
+        },
+        {
+            "word": "you",
+            "start": 17.798,
+            "end": 17.938,
+            "score": 0.784
+        },
+        {
+            "word": "will",
+            "start": 17.998,
+            "end": 18.639,
+            "score": 0.919
+        },
+        {
+            "word": "turn",
+            "start": 19.399,
+            "end": 19.799,
+            "score": 0.744
+        },
+        {
+            "word": "right",
+            "start": 19.919,
+            "end": 20.379,
+            "score": 0.842
+        },
+        {
+            "word": "with",
+            "start": 20.519,
+            "end": 20.8,
+            "score": 0.808
+        },
+        {
+            "word": "Harrison",
+            "start": 21.14,
+            "end": 22.0,
+            "score": 0.902
+        },
+        {
+            "word": "Avenue.",
+            "start": 22.24,
+            "end": 22.561,
+            "score": 0.624
+        },
+        {
+            "word": "So",
+            "start": 23.701,
+            "end": 23.982,
+            "score": 0.952
+        },
+        {
+            "word": "yeah,",
+            "start": 24.042,
+            "end": 24.302,
+            "score": 0.734
+        },
+        {
+            "word": "we",
+            "start": 24.482,
+            "end": 25.144,
+            "score": 0.331
+        },
+        {
+            "word": "will",
+            "start": 25.164,
+            "end": 25.244,
+            "score": 0.0
+        },
+        {
+            "word": "go",
+            "start": 25.264,
+            "end": 25.304,
+            "score": 0.002
+        },
+        {
+            "word": "south.",
+            "start": 25.544,
+            "end": 25.925,
+            "score": 0.825
+        },
+        {
+            "word": "Then",
+            "start": 26.506,
+            "end": 26.726,
+            "score": 0.967
+        },
+        {
+            "word": "you",
+            "start": 26.746,
+            "end": 26.806,
+            "score": 0.0
+        },
+        {
+            "word": "will",
+            "start": 28.128,
+            "end": 28.309,
+            "score": 0.725
+        },
+        {
+            "word": "lift",
+            "start": 28.99,
+            "end": 29.17,
+            "score": 0.707
+        },
+        {
+            "word": "with",
+            "start": 29.21,
+            "end": 29.41,
+            "score": 0.421
+        },
+        {
+            "word": "Church",
+            "start": 29.531,
+            "end": 29.851,
+            "score": 0.799
+        },
+        {
+            "word": "Street.",
+            "start": 29.871,
+            "end": 30.131,
+            "score": 0.877
+        }
+    ]
+}

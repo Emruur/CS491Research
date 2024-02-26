@@ -1,0 +1,584 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 19.376,
+            "text": " If I can go anywhere in the world, I want to go to Grand Canyon because I saw a Korean drama whose couple met there before their death and it's very simple size.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.069,
+                    "end": 0.189,
+                    "score": 0.848
+                },
+                {
+                    "word": "I",
+                    "start": 0.329,
+                    "end": 0.429,
+                    "score": 0.852
+                },
+                {
+                    "word": "can",
+                    "start": 0.509,
+                    "end": 0.709,
+                    "score": 0.893
+                },
+                {
+                    "word": "go",
+                    "start": 0.749,
+                    "end": 1.209,
+                    "score": 0.896
+                },
+                {
+                    "word": "anywhere",
+                    "start": 1.59,
+                    "end": 2.21,
+                    "score": 0.734
+                },
+                {
+                    "word": "in",
+                    "start": 2.51,
+                    "end": 2.59,
+                    "score": 0.966
+                },
+                {
+                    "word": "the",
+                    "start": 2.63,
+                    "end": 2.73,
+                    "score": 0.987
+                },
+                {
+                    "word": "world,",
+                    "start": 2.79,
+                    "end": 3.05,
+                    "score": 0.758
+                },
+                {
+                    "word": "I",
+                    "start": 3.17,
+                    "end": 3.23,
+                    "score": 0.671
+                },
+                {
+                    "word": "want",
+                    "start": 3.27,
+                    "end": 3.45,
+                    "score": 0.816
+                },
+                {
+                    "word": "to",
+                    "start": 3.49,
+                    "end": 3.57,
+                    "score": 0.95
+                },
+                {
+                    "word": "go",
+                    "start": 3.61,
+                    "end": 3.93,
+                    "score": 0.84
+                },
+                {
+                    "word": "to",
+                    "start": 4.111,
+                    "end": 4.391,
+                    "score": 0.82
+                },
+                {
+                    "word": "Grand",
+                    "start": 4.471,
+                    "end": 4.771,
+                    "score": 0.861
+                },
+                {
+                    "word": "Canyon",
+                    "start": 4.831,
+                    "end": 5.271,
+                    "score": 0.814
+                },
+                {
+                    "word": "because",
+                    "start": 5.891,
+                    "end": 6.351,
+                    "score": 0.967
+                },
+                {
+                    "word": "I",
+                    "start": 6.972,
+                    "end": 7.092,
+                    "score": 0.834
+                },
+                {
+                    "word": "saw",
+                    "start": 7.212,
+                    "end": 7.632,
+                    "score": 0.984
+                },
+                {
+                    "word": "a",
+                    "start": 7.652,
+                    "end": 7.672,
+                    "score": 0.001
+                },
+                {
+                    "word": "Korean",
+                    "start": 8.152,
+                    "end": 8.492,
+                    "score": 0.672
+                },
+                {
+                    "word": "drama",
+                    "start": 8.532,
+                    "end": 9.032,
+                    "score": 0.888
+                },
+                {
+                    "word": "whose",
+                    "start": 9.673,
+                    "end": 9.993,
+                    "score": 0.744
+                },
+                {
+                    "word": "couple",
+                    "start": 10.213,
+                    "end": 10.633,
+                    "score": 0.917
+                },
+                {
+                    "word": "met",
+                    "start": 10.733,
+                    "end": 10.993,
+                    "score": 0.968
+                },
+                {
+                    "word": "there",
+                    "start": 11.153,
+                    "end": 11.573,
+                    "score": 0.647
+                },
+                {
+                    "word": "before",
+                    "start": 12.514,
+                    "end": 13.054,
+                    "score": 0.756
+                },
+                {
+                    "word": "their",
+                    "start": 13.854,
+                    "end": 14.274,
+                    "score": 0.683
+                },
+                {
+                    "word": "death",
+                    "start": 14.354,
+                    "end": 14.674,
+                    "score": 0.541
+                },
+                {
+                    "word": "and",
+                    "start": 15.375,
+                    "end": 15.515,
+                    "score": 0.95
+                },
+                {
+                    "word": "it's",
+                    "start": 15.695,
+                    "end": 15.815,
+                    "score": 0.389
+                },
+                {
+                    "word": "very",
+                    "start": 15.895,
+                    "end": 16.375,
+                    "score": 0.853
+                },
+                {
+                    "word": "simple",
+                    "start": 18.576,
+                    "end": 19.056,
+                    "score": 0.793
+                },
+                {
+                    "word": "size.",
+                    "start": 19.076,
+                    "end": 19.376,
+                    "score": 0.829
+                }
+            ]
+        },
+        {
+            "start": 22.894,
+            "end": 37.956,
+            "text": " I like the scene of there and I think it's very amazing environment and",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 22.894,
+                    "end": 22.974,
+                    "score": 0.958
+                },
+                {
+                    "word": "like",
+                    "start": 23.054,
+                    "end": 23.315,
+                    "score": 0.981
+                },
+                {
+                    "word": "the",
+                    "start": 23.635,
+                    "end": 24.036,
+                    "score": 0.782
+                },
+                {
+                    "word": "scene",
+                    "start": 24.677,
+                    "end": 25.117,
+                    "score": 0.816
+                },
+                {
+                    "word": "of",
+                    "start": 25.458,
+                    "end": 25.618,
+                    "score": 0.772
+                },
+                {
+                    "word": "there",
+                    "start": 25.678,
+                    "end": 26.059,
+                    "score": 0.131
+                },
+                {
+                    "word": "and",
+                    "start": 27.461,
+                    "end": 27.661,
+                    "score": 0.748
+                },
+                {
+                    "word": "I",
+                    "start": 27.681,
+                    "end": 27.701,
+                    "score": 0.001
+                },
+                {
+                    "word": "think",
+                    "start": 29.043,
+                    "end": 29.444,
+                    "score": 0.925
+                },
+                {
+                    "word": "it's",
+                    "start": 29.924,
+                    "end": 30.024,
+                    "score": 0.241
+                },
+                {
+                    "word": "very",
+                    "start": 30.125,
+                    "end": 30.565,
+                    "score": 0.744
+                },
+                {
+                    "word": "amazing",
+                    "start": 30.585,
+                    "end": 32.568,
+                    "score": 0.85
+                },
+                {
+                    "word": "environment",
+                    "start": 32.588,
+                    "end": 36.173,
+                    "score": 0.673
+                },
+                {
+                    "word": "and",
+                    "start": 37.776,
+                    "end": 37.956,
+                    "score": 0.759
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.069,
+            "end": 0.189,
+            "score": 0.848
+        },
+        {
+            "word": "I",
+            "start": 0.329,
+            "end": 0.429,
+            "score": 0.852
+        },
+        {
+            "word": "can",
+            "start": 0.509,
+            "end": 0.709,
+            "score": 0.893
+        },
+        {
+            "word": "go",
+            "start": 0.749,
+            "end": 1.209,
+            "score": 0.896
+        },
+        {
+            "word": "anywhere",
+            "start": 1.59,
+            "end": 2.21,
+            "score": 0.734
+        },
+        {
+            "word": "in",
+            "start": 2.51,
+            "end": 2.59,
+            "score": 0.966
+        },
+        {
+            "word": "the",
+            "start": 2.63,
+            "end": 2.73,
+            "score": 0.987
+        },
+        {
+            "word": "world,",
+            "start": 2.79,
+            "end": 3.05,
+            "score": 0.758
+        },
+        {
+            "word": "I",
+            "start": 3.17,
+            "end": 3.23,
+            "score": 0.671
+        },
+        {
+            "word": "want",
+            "start": 3.27,
+            "end": 3.45,
+            "score": 0.816
+        },
+        {
+            "word": "to",
+            "start": 3.49,
+            "end": 3.57,
+            "score": 0.95
+        },
+        {
+            "word": "go",
+            "start": 3.61,
+            "end": 3.93,
+            "score": 0.84
+        },
+        {
+            "word": "to",
+            "start": 4.111,
+            "end": 4.391,
+            "score": 0.82
+        },
+        {
+            "word": "Grand",
+            "start": 4.471,
+            "end": 4.771,
+            "score": 0.861
+        },
+        {
+            "word": "Canyon",
+            "start": 4.831,
+            "end": 5.271,
+            "score": 0.814
+        },
+        {
+            "word": "because",
+            "start": 5.891,
+            "end": 6.351,
+            "score": 0.967
+        },
+        {
+            "word": "I",
+            "start": 6.972,
+            "end": 7.092,
+            "score": 0.834
+        },
+        {
+            "word": "saw",
+            "start": 7.212,
+            "end": 7.632,
+            "score": 0.984
+        },
+        {
+            "word": "a",
+            "start": 7.652,
+            "end": 7.672,
+            "score": 0.001
+        },
+        {
+            "word": "Korean",
+            "start": 8.152,
+            "end": 8.492,
+            "score": 0.672
+        },
+        {
+            "word": "drama",
+            "start": 8.532,
+            "end": 9.032,
+            "score": 0.888
+        },
+        {
+            "word": "whose",
+            "start": 9.673,
+            "end": 9.993,
+            "score": 0.744
+        },
+        {
+            "word": "couple",
+            "start": 10.213,
+            "end": 10.633,
+            "score": 0.917
+        },
+        {
+            "word": "met",
+            "start": 10.733,
+            "end": 10.993,
+            "score": 0.968
+        },
+        {
+            "word": "there",
+            "start": 11.153,
+            "end": 11.573,
+            "score": 0.647
+        },
+        {
+            "word": "before",
+            "start": 12.514,
+            "end": 13.054,
+            "score": 0.756
+        },
+        {
+            "word": "their",
+            "start": 13.854,
+            "end": 14.274,
+            "score": 0.683
+        },
+        {
+            "word": "death",
+            "start": 14.354,
+            "end": 14.674,
+            "score": 0.541
+        },
+        {
+            "word": "and",
+            "start": 15.375,
+            "end": 15.515,
+            "score": 0.95
+        },
+        {
+            "word": "it's",
+            "start": 15.695,
+            "end": 15.815,
+            "score": 0.389
+        },
+        {
+            "word": "very",
+            "start": 15.895,
+            "end": 16.375,
+            "score": 0.853
+        },
+        {
+            "word": "simple",
+            "start": 18.576,
+            "end": 19.056,
+            "score": 0.793
+        },
+        {
+            "word": "size.",
+            "start": 19.076,
+            "end": 19.376,
+            "score": 0.829
+        },
+        {
+            "word": "I",
+            "start": 22.894,
+            "end": 22.974,
+            "score": 0.958
+        },
+        {
+            "word": "like",
+            "start": 23.054,
+            "end": 23.315,
+            "score": 0.981
+        },
+        {
+            "word": "the",
+            "start": 23.635,
+            "end": 24.036,
+            "score": 0.782
+        },
+        {
+            "word": "scene",
+            "start": 24.677,
+            "end": 25.117,
+            "score": 0.816
+        },
+        {
+            "word": "of",
+            "start": 25.458,
+            "end": 25.618,
+            "score": 0.772
+        },
+        {
+            "word": "there",
+            "start": 25.678,
+            "end": 26.059,
+            "score": 0.131
+        },
+        {
+            "word": "and",
+            "start": 27.461,
+            "end": 27.661,
+            "score": 0.748
+        },
+        {
+            "word": "I",
+            "start": 27.681,
+            "end": 27.701,
+            "score": 0.001
+        },
+        {
+            "word": "think",
+            "start": 29.043,
+            "end": 29.444,
+            "score": 0.925
+        },
+        {
+            "word": "it's",
+            "start": 29.924,
+            "end": 30.024,
+            "score": 0.241
+        },
+        {
+            "word": "very",
+            "start": 30.125,
+            "end": 30.565,
+            "score": 0.744
+        },
+        {
+            "word": "amazing",
+            "start": 30.585,
+            "end": 32.568,
+            "score": 0.85
+        },
+        {
+            "word": "environment",
+            "start": 32.588,
+            "end": 36.173,
+            "score": 0.673
+        },
+        {
+            "word": "and",
+            "start": 37.776,
+            "end": 37.956,
+            "score": 0.759
+        }
+    ]
+}

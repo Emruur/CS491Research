@@ -1,0 +1,1070 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 2.691,
+            "text": " This week in San Francisco is cloudy.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 0.049,
+                    "end": 0.249,
+                    "score": 0.704
+                },
+                {
+                    "word": "week",
+                    "start": 0.309,
+                    "end": 0.649,
+                    "score": 0.887
+                },
+                {
+                    "word": "in",
+                    "start": 0.79,
+                    "end": 0.93,
+                    "score": 0.762
+                },
+                {
+                    "word": "San",
+                    "start": 0.95,
+                    "end": 1.11,
+                    "score": 0.764
+                },
+                {
+                    "word": "Francisco",
+                    "start": 1.13,
+                    "end": 1.89,
+                    "score": 0.912
+                },
+                {
+                    "word": "is",
+                    "start": 2.01,
+                    "end": 2.11,
+                    "score": 0.89
+                },
+                {
+                    "word": "cloudy.",
+                    "start": 2.19,
+                    "end": 2.691,
+                    "score": 0.924
+                }
+            ]
+        },
+        {
+            "start": 3.111,
+            "end": 6.734,
+            "text": "So from Monday to Wednesday, the weather is cloudy.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 3.111,
+                    "end": 3.431,
+                    "score": 0.983
+                },
+                {
+                    "word": "from",
+                    "start": 3.711,
+                    "end": 3.912,
+                    "score": 0.879
+                },
+                {
+                    "word": "Monday",
+                    "start": 3.972,
+                    "end": 4.412,
+                    "score": 0.87
+                },
+                {
+                    "word": "to",
+                    "start": 4.492,
+                    "end": 4.632,
+                    "score": 0.87
+                },
+                {
+                    "word": "Wednesday,",
+                    "start": 4.692,
+                    "end": 5.253,
+                    "score": 0.657
+                },
+                {
+                    "word": "the",
+                    "start": 5.553,
+                    "end": 5.633,
+                    "score": 0.892
+                },
+                {
+                    "word": "weather",
+                    "start": 5.673,
+                    "end": 5.993,
+                    "score": 0.865
+                },
+                {
+                    "word": "is",
+                    "start": 6.113,
+                    "end": 6.233,
+                    "score": 0.81
+                },
+                {
+                    "word": "cloudy.",
+                    "start": 6.293,
+                    "end": 6.734,
+                    "score": 0.889
+                }
+            ]
+        },
+        {
+            "start": 7.134,
+            "end": 12.898,
+            "text": "And from Thursday to Friday, it's mostly cloudy with a little bit of sunshine.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 7.134,
+                    "end": 7.254,
+                    "score": 0.615
+                },
+                {
+                    "word": "from",
+                    "start": 7.334,
+                    "end": 7.574,
+                    "score": 0.816
+                },
+                {
+                    "word": "Thursday",
+                    "start": 7.614,
+                    "end": 8.054,
+                    "score": 0.875
+                },
+                {
+                    "word": "to",
+                    "start": 8.074,
+                    "end": 8.114,
+                    "score": 0.004
+                },
+                {
+                    "word": "Friday,",
+                    "start": 8.175,
+                    "end": 8.655,
+                    "score": 0.922
+                },
+                {
+                    "word": "it's",
+                    "start": 8.675,
+                    "end": 9.195,
+                    "score": 0.551
+                },
+                {
+                    "word": "mostly",
+                    "start": 10.236,
+                    "end": 10.656,
+                    "score": 0.915
+                },
+                {
+                    "word": "cloudy",
+                    "start": 10.696,
+                    "end": 11.137,
+                    "score": 0.907
+                },
+                {
+                    "word": "with",
+                    "start": 11.677,
+                    "end": 11.877,
+                    "score": 0.645
+                },
+                {
+                    "word": "a",
+                    "start": 11.937,
+                    "end": 11.977,
+                    "score": 0.944
+                },
+                {
+                    "word": "little",
+                    "start": 12.017,
+                    "end": 12.217,
+                    "score": 0.92
+                },
+                {
+                    "word": "bit",
+                    "start": 12.237,
+                    "end": 12.337,
+                    "score": 0.995
+                },
+                {
+                    "word": "of",
+                    "start": 12.357,
+                    "end": 12.397,
+                    "score": 0.006
+                },
+                {
+                    "word": "sunshine.",
+                    "start": 12.417,
+                    "end": 12.898,
+                    "score": 0.845
+                }
+            ]
+        },
+        {
+            "start": 13.478,
+            "end": 17.981,
+            "text": "And the temperature is about 60 degrees Fahrenheit in general.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 13.478,
+                    "end": 13.598,
+                    "score": 0.726
+                },
+                {
+                    "word": "the",
+                    "start": 13.658,
+                    "end": 13.738,
+                    "score": 0.723
+                },
+                {
+                    "word": "temperature",
+                    "start": 13.798,
+                    "end": 14.279,
+                    "score": 0.814
+                },
+                {
+                    "word": "is",
+                    "start": 14.359,
+                    "end": 14.439,
+                    "score": 0.806
+                },
+                {
+                    "word": "about",
+                    "start": 14.519,
+                    "end": 14.779,
+                    "score": 0.898
+                },
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "degrees",
+                    "start": 15.279,
+                    "end": 15.74,
+                    "score": 0.775
+                },
+                {
+                    "word": "Fahrenheit",
+                    "start": 16.12,
+                    "end": 16.8,
+                    "score": 0.66
+                },
+                {
+                    "word": "in",
+                    "start": 17.341,
+                    "end": 17.421,
+                    "score": 0.912
+                },
+                {
+                    "word": "general.",
+                    "start": 17.481,
+                    "end": 17.981,
+                    "score": 0.899
+                }
+            ]
+        },
+        {
+            "start": 18.582,
+            "end": 19.822,
+            "text": "And the humidity is about 86%.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 18.582,
+                    "end": 18.702,
+                    "score": 0.669
+                },
+                {
+                    "word": "the",
+                    "start": 18.782,
+                    "end": 18.862,
+                    "score": 0.858
+                },
+                {
+                    "word": "humidity",
+                    "start": 18.902,
+                    "end": 19.402,
+                    "score": 0.885
+                },
+                {
+                    "word": "is",
+                    "start": 19.482,
+                    "end": 19.582,
+                    "score": 0.772
+                },
+                {
+                    "word": "about",
+                    "start": 19.642,
+                    "end": 19.822,
+                    "score": 0.981
+                },
+                {
+                    "word": "86%."
+                }
+            ]
+        },
+        {
+            "start": 23.565,
+            "end": 30.47,
+            "text": " So compared to other cities, San Francisco is kind of in good weather condition.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 23.565,
+                    "end": 23.945,
+                    "score": 0.918
+                },
+                {
+                    "word": "compared",
+                    "start": 24.526,
+                    "end": 25.366,
+                    "score": 0.86
+                },
+                {
+                    "word": "to",
+                    "start": 25.546,
+                    "end": 25.787,
+                    "score": 0.982
+                },
+                {
+                    "word": "other",
+                    "start": 25.927,
+                    "end": 26.207,
+                    "score": 0.716
+                },
+                {
+                    "word": "cities,",
+                    "start": 26.227,
+                    "end": 26.587,
+                    "score": 0.739
+                },
+                {
+                    "word": "San",
+                    "start": 26.647,
+                    "end": 26.787,
+                    "score": 0.518
+                },
+                {
+                    "word": "Francisco",
+                    "start": 26.807,
+                    "end": 27.408,
+                    "score": 0.62
+                },
+                {
+                    "word": "is",
+                    "start": 27.428,
+                    "end": 27.608,
+                    "score": 0.76
+                },
+                {
+                    "word": "kind",
+                    "start": 27.668,
+                    "end": 27.948,
+                    "score": 0.878
+                },
+                {
+                    "word": "of",
+                    "start": 28.028,
+                    "end": 28.088,
+                    "score": 0.986
+                },
+                {
+                    "word": "in",
+                    "start": 28.208,
+                    "end": 28.328,
+                    "score": 0.874
+                },
+                {
+                    "word": "good",
+                    "start": 28.929,
+                    "end": 29.169,
+                    "score": 0.876
+                },
+                {
+                    "word": "weather",
+                    "start": 29.489,
+                    "end": 29.849,
+                    "score": 0.87
+                },
+                {
+                    "word": "condition.",
+                    "start": 29.949,
+                    "end": 30.47,
+                    "score": 0.716
+                }
+            ]
+        },
+        {
+            "start": 33.312,
+            "end": 48.523,
+            "text": "For people that is afraid of coldness, probably you better to wear some sweater, light sweater or a jacket.",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 33.312,
+                    "end": 33.712,
+                    "score": 0.691
+                },
+                {
+                    "word": "people",
+                    "start": 34.393,
+                    "end": 34.773,
+                    "score": 0.882
+                },
+                {
+                    "word": "that",
+                    "start": 35.093,
+                    "end": 35.473,
+                    "score": 0.85
+                },
+                {
+                    "word": "is",
+                    "start": 38.135,
+                    "end": 38.295,
+                    "score": 0.746
+                },
+                {
+                    "word": "afraid",
+                    "start": 38.355,
+                    "end": 38.616,
+                    "score": 0.9
+                },
+                {
+                    "word": "of",
+                    "start": 38.696,
+                    "end": 38.796,
+                    "score": 0.95
+                },
+                {
+                    "word": "coldness,",
+                    "start": 39.396,
+                    "end": 40.237,
+                    "score": 0.921
+                },
+                {
+                    "word": "probably",
+                    "start": 41.097,
+                    "end": 41.538,
+                    "score": 0.903
+                },
+                {
+                    "word": "you",
+                    "start": 41.958,
+                    "end": 42.218,
+                    "score": 0.873
+                },
+                {
+                    "word": "better",
+                    "start": 42.358,
+                    "end": 42.719,
+                    "score": 0.875
+                },
+                {
+                    "word": "to",
+                    "start": 42.759,
+                    "end": 42.859,
+                    "score": 0.992
+                },
+                {
+                    "word": "wear",
+                    "start": 42.919,
+                    "end": 43.199,
+                    "score": 0.91
+                },
+                {
+                    "word": "some",
+                    "start": 43.299,
+                    "end": 43.579,
+                    "score": 0.852
+                },
+                {
+                    "word": "sweater,",
+                    "start": 43.799,
+                    "end": 44.24,
+                    "score": 0.75
+                },
+                {
+                    "word": "light",
+                    "start": 44.78,
+                    "end": 45.02,
+                    "score": 0.849
+                },
+                {
+                    "word": "sweater",
+                    "start": 45.1,
+                    "end": 45.561,
+                    "score": 0.793
+                },
+                {
+                    "word": "or",
+                    "start": 45.821,
+                    "end": 45.981,
+                    "score": 0.736
+                },
+                {
+                    "word": "a",
+                    "start": 46.001,
+                    "end": 46.021,
+                    "score": 0.012
+                },
+                {
+                    "word": "jacket.",
+                    "start": 48.162,
+                    "end": 48.523,
+                    "score": 0.991
+                }
+            ]
+        },
+        {
+            "start": 51.994,
+            "end": 53.828,
+            "text": " when you're traveling around San Francisco.",
+            "words": [
+                {
+                    "word": "when",
+                    "start": 51.994,
+                    "end": 52.176,
+                    "score": 0.913
+                },
+                {
+                    "word": "you're",
+                    "start": 52.216,
+                    "end": 52.377,
+                    "score": 0.575
+                },
+                {
+                    "word": "traveling",
+                    "start": 52.397,
+                    "end": 52.8,
+                    "score": 0.666
+                },
+                {
+                    "word": "around",
+                    "start": 52.821,
+                    "end": 53.203,
+                    "score": 0.877
+                },
+                {
+                    "word": "San",
+                    "start": 53.244,
+                    "end": 53.365,
+                    "score": 0.59
+                },
+                {
+                    "word": "Francisco.",
+                    "start": 53.385,
+                    "end": 53.828,
+                    "score": 0.944
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "This",
+            "start": 0.049,
+            "end": 0.249,
+            "score": 0.704
+        },
+        {
+            "word": "week",
+            "start": 0.309,
+            "end": 0.649,
+            "score": 0.887
+        },
+        {
+            "word": "in",
+            "start": 0.79,
+            "end": 0.93,
+            "score": 0.762
+        },
+        {
+            "word": "San",
+            "start": 0.95,
+            "end": 1.11,
+            "score": 0.764
+        },
+        {
+            "word": "Francisco",
+            "start": 1.13,
+            "end": 1.89,
+            "score": 0.912
+        },
+        {
+            "word": "is",
+            "start": 2.01,
+            "end": 2.11,
+            "score": 0.89
+        },
+        {
+            "word": "cloudy.",
+            "start": 2.19,
+            "end": 2.691,
+            "score": 0.924
+        },
+        {
+            "word": "So",
+            "start": 3.111,
+            "end": 3.431,
+            "score": 0.983
+        },
+        {
+            "word": "from",
+            "start": 3.711,
+            "end": 3.912,
+            "score": 0.879
+        },
+        {
+            "word": "Monday",
+            "start": 3.972,
+            "end": 4.412,
+            "score": 0.87
+        },
+        {
+            "word": "to",
+            "start": 4.492,
+            "end": 4.632,
+            "score": 0.87
+        },
+        {
+            "word": "Wednesday,",
+            "start": 4.692,
+            "end": 5.253,
+            "score": 0.657
+        },
+        {
+            "word": "the",
+            "start": 5.553,
+            "end": 5.633,
+            "score": 0.892
+        },
+        {
+            "word": "weather",
+            "start": 5.673,
+            "end": 5.993,
+            "score": 0.865
+        },
+        {
+            "word": "is",
+            "start": 6.113,
+            "end": 6.233,
+            "score": 0.81
+        },
+        {
+            "word": "cloudy.",
+            "start": 6.293,
+            "end": 6.734,
+            "score": 0.889
+        },
+        {
+            "word": "And",
+            "start": 7.134,
+            "end": 7.254,
+            "score": 0.615
+        },
+        {
+            "word": "from",
+            "start": 7.334,
+            "end": 7.574,
+            "score": 0.816
+        },
+        {
+            "word": "Thursday",
+            "start": 7.614,
+            "end": 8.054,
+            "score": 0.875
+        },
+        {
+            "word": "to",
+            "start": 8.074,
+            "end": 8.114,
+            "score": 0.004
+        },
+        {
+            "word": "Friday,",
+            "start": 8.175,
+            "end": 8.655,
+            "score": 0.922
+        },
+        {
+            "word": "it's",
+            "start": 8.675,
+            "end": 9.195,
+            "score": 0.551
+        },
+        {
+            "word": "mostly",
+            "start": 10.236,
+            "end": 10.656,
+            "score": 0.915
+        },
+        {
+            "word": "cloudy",
+            "start": 10.696,
+            "end": 11.137,
+            "score": 0.907
+        },
+        {
+            "word": "with",
+            "start": 11.677,
+            "end": 11.877,
+            "score": 0.645
+        },
+        {
+            "word": "a",
+            "start": 11.937,
+            "end": 11.977,
+            "score": 0.944
+        },
+        {
+            "word": "little",
+            "start": 12.017,
+            "end": 12.217,
+            "score": 0.92
+        },
+        {
+            "word": "bit",
+            "start": 12.237,
+            "end": 12.337,
+            "score": 0.995
+        },
+        {
+            "word": "of",
+            "start": 12.357,
+            "end": 12.397,
+            "score": 0.006
+        },
+        {
+            "word": "sunshine.",
+            "start": 12.417,
+            "end": 12.898,
+            "score": 0.845
+        },
+        {
+            "word": "And",
+            "start": 13.478,
+            "end": 13.598,
+            "score": 0.726
+        },
+        {
+            "word": "the",
+            "start": 13.658,
+            "end": 13.738,
+            "score": 0.723
+        },
+        {
+            "word": "temperature",
+            "start": 13.798,
+            "end": 14.279,
+            "score": 0.814
+        },
+        {
+            "word": "is",
+            "start": 14.359,
+            "end": 14.439,
+            "score": 0.806
+        },
+        {
+            "word": "about",
+            "start": 14.519,
+            "end": 14.779,
+            "score": 0.898
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "degrees",
+            "start": 15.279,
+            "end": 15.74,
+            "score": 0.775
+        },
+        {
+            "word": "Fahrenheit",
+            "start": 16.12,
+            "end": 16.8,
+            "score": 0.66
+        },
+        {
+            "word": "in",
+            "start": 17.341,
+            "end": 17.421,
+            "score": 0.912
+        },
+        {
+            "word": "general.",
+            "start": 17.481,
+            "end": 17.981,
+            "score": 0.899
+        },
+        {
+            "word": "And",
+            "start": 18.582,
+            "end": 18.702,
+            "score": 0.669
+        },
+        {
+            "word": "the",
+            "start": 18.782,
+            "end": 18.862,
+            "score": 0.858
+        },
+        {
+            "word": "humidity",
+            "start": 18.902,
+            "end": 19.402,
+            "score": 0.885
+        },
+        {
+            "word": "is",
+            "start": 19.482,
+            "end": 19.582,
+            "score": 0.772
+        },
+        {
+            "word": "about",
+            "start": 19.642,
+            "end": 19.822,
+            "score": 0.981
+        },
+        {
+            "word": "86%."
+        },
+        {
+            "word": "So",
+            "start": 23.565,
+            "end": 23.945,
+            "score": 0.918
+        },
+        {
+            "word": "compared",
+            "start": 24.526,
+            "end": 25.366,
+            "score": 0.86
+        },
+        {
+            "word": "to",
+            "start": 25.546,
+            "end": 25.787,
+            "score": 0.982
+        },
+        {
+            "word": "other",
+            "start": 25.927,
+            "end": 26.207,
+            "score": 0.716
+        },
+        {
+            "word": "cities,",
+            "start": 26.227,
+            "end": 26.587,
+            "score": 0.739
+        },
+        {
+            "word": "San",
+            "start": 26.647,
+            "end": 26.787,
+            "score": 0.518
+        },
+        {
+            "word": "Francisco",
+            "start": 26.807,
+            "end": 27.408,
+            "score": 0.62
+        },
+        {
+            "word": "is",
+            "start": 27.428,
+            "end": 27.608,
+            "score": 0.76
+        },
+        {
+            "word": "kind",
+            "start": 27.668,
+            "end": 27.948,
+            "score": 0.878
+        },
+        {
+            "word": "of",
+            "start": 28.028,
+            "end": 28.088,
+            "score": 0.986
+        },
+        {
+            "word": "in",
+            "start": 28.208,
+            "end": 28.328,
+            "score": 0.874
+        },
+        {
+            "word": "good",
+            "start": 28.929,
+            "end": 29.169,
+            "score": 0.876
+        },
+        {
+            "word": "weather",
+            "start": 29.489,
+            "end": 29.849,
+            "score": 0.87
+        },
+        {
+            "word": "condition.",
+            "start": 29.949,
+            "end": 30.47,
+            "score": 0.716
+        },
+        {
+            "word": "For",
+            "start": 33.312,
+            "end": 33.712,
+            "score": 0.691
+        },
+        {
+            "word": "people",
+            "start": 34.393,
+            "end": 34.773,
+            "score": 0.882
+        },
+        {
+            "word": "that",
+            "start": 35.093,
+            "end": 35.473,
+            "score": 0.85
+        },
+        {
+            "word": "is",
+            "start": 38.135,
+            "end": 38.295,
+            "score": 0.746
+        },
+        {
+            "word": "afraid",
+            "start": 38.355,
+            "end": 38.616,
+            "score": 0.9
+        },
+        {
+            "word": "of",
+            "start": 38.696,
+            "end": 38.796,
+            "score": 0.95
+        },
+        {
+            "word": "coldness,",
+            "start": 39.396,
+            "end": 40.237,
+            "score": 0.921
+        },
+        {
+            "word": "probably",
+            "start": 41.097,
+            "end": 41.538,
+            "score": 0.903
+        },
+        {
+            "word": "you",
+            "start": 41.958,
+            "end": 42.218,
+            "score": 0.873
+        },
+        {
+            "word": "better",
+            "start": 42.358,
+            "end": 42.719,
+            "score": 0.875
+        },
+        {
+            "word": "to",
+            "start": 42.759,
+            "end": 42.859,
+            "score": 0.992
+        },
+        {
+            "word": "wear",
+            "start": 42.919,
+            "end": 43.199,
+            "score": 0.91
+        },
+        {
+            "word": "some",
+            "start": 43.299,
+            "end": 43.579,
+            "score": 0.852
+        },
+        {
+            "word": "sweater,",
+            "start": 43.799,
+            "end": 44.24,
+            "score": 0.75
+        },
+        {
+            "word": "light",
+            "start": 44.78,
+            "end": 45.02,
+            "score": 0.849
+        },
+        {
+            "word": "sweater",
+            "start": 45.1,
+            "end": 45.561,
+            "score": 0.793
+        },
+        {
+            "word": "or",
+            "start": 45.821,
+            "end": 45.981,
+            "score": 0.736
+        },
+        {
+            "word": "a",
+            "start": 46.001,
+            "end": 46.021,
+            "score": 0.012
+        },
+        {
+            "word": "jacket.",
+            "start": 48.162,
+            "end": 48.523,
+            "score": 0.991
+        },
+        {
+            "word": "when",
+            "start": 51.994,
+            "end": 52.176,
+            "score": 0.913
+        },
+        {
+            "word": "you're",
+            "start": 52.216,
+            "end": 52.377,
+            "score": 0.575
+        },
+        {
+            "word": "traveling",
+            "start": 52.397,
+            "end": 52.8,
+            "score": 0.666
+        },
+        {
+            "word": "around",
+            "start": 52.821,
+            "end": 53.203,
+            "score": 0.877
+        },
+        {
+            "word": "San",
+            "start": 53.244,
+            "end": 53.365,
+            "score": 0.59
+        },
+        {
+            "word": "Francisco.",
+            "start": 53.385,
+            "end": 53.828,
+            "score": 0.944
+        }
+    ]
+}

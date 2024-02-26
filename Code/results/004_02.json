@@ -1,0 +1,860 @@
+{
+    "segments": [
+        {
+            "start": 0.189,
+            "end": 17.386,
+            "text": " If I could go somewhere in the world, I would like to go to extremely natural circumstances that is like desert or Arctic and Antarctic.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.189,
+                    "end": 0.269,
+                    "score": 0.377
+                },
+                {
+                    "word": "I",
+                    "start": 0.369,
+                    "end": 0.51,
+                    "score": 0.646
+                },
+                {
+                    "word": "could",
+                    "start": 0.53,
+                    "end": 0.75,
+                    "score": 0.69
+                },
+                {
+                    "word": "go",
+                    "start": 1.35,
+                    "end": 2.211,
+                    "score": 0.852
+                },
+                {
+                    "word": "somewhere",
+                    "start": 2.291,
+                    "end": 2.732,
+                    "score": 0.642
+                },
+                {
+                    "word": "in",
+                    "start": 2.772,
+                    "end": 2.832,
+                    "score": 0.956
+                },
+                {
+                    "word": "the",
+                    "start": 2.872,
+                    "end": 2.952,
+                    "score": 0.867
+                },
+                {
+                    "word": "world,",
+                    "start": 2.992,
+                    "end": 3.372,
+                    "score": 0.77
+                },
+                {
+                    "word": "I",
+                    "start": 4.133,
+                    "end": 4.193,
+                    "score": 0.729
+                },
+                {
+                    "word": "would",
+                    "start": 4.213,
+                    "end": 4.453,
+                    "score": 0.652
+                },
+                {
+                    "word": "like",
+                    "start": 4.473,
+                    "end": 4.674,
+                    "score": 0.949
+                },
+                {
+                    "word": "to",
+                    "start": 4.714,
+                    "end": 4.794,
+                    "score": 0.922
+                },
+                {
+                    "word": "go",
+                    "start": 4.874,
+                    "end": 5.134,
+                    "score": 0.996
+                },
+                {
+                    "word": "to",
+                    "start": 5.354,
+                    "end": 6.375,
+                    "score": 0.825
+                },
+                {
+                    "word": "extremely",
+                    "start": 6.936,
+                    "end": 7.697,
+                    "score": 0.799
+                },
+                {
+                    "word": "natural",
+                    "start": 8.157,
+                    "end": 9.619,
+                    "score": 0.693
+                },
+                {
+                    "word": "circumstances",
+                    "start": 9.699,
+                    "end": 10.76,
+                    "score": 0.649
+                },
+                {
+                    "word": "that",
+                    "start": 11.921,
+                    "end": 12.081,
+                    "score": 0.773
+                },
+                {
+                    "word": "is",
+                    "start": 12.141,
+                    "end": 12.381,
+                    "score": 0.708
+                },
+                {
+                    "word": "like",
+                    "start": 12.421,
+                    "end": 13.082,
+                    "score": 0.944
+                },
+                {
+                    "word": "desert",
+                    "start": 13.262,
+                    "end": 13.863,
+                    "score": 0.798
+                },
+                {
+                    "word": "or",
+                    "start": 14.103,
+                    "end": 14.383,
+                    "score": 0.676
+                },
+                {
+                    "word": "Arctic",
+                    "start": 15.445,
+                    "end": 15.965,
+                    "score": 0.858
+                },
+                {
+                    "word": "and",
+                    "start": 16.225,
+                    "end": 16.365,
+                    "score": 0.733
+                },
+                {
+                    "word": "Antarctic.",
+                    "start": 16.786,
+                    "end": 17.386,
+                    "score": 0.873
+                }
+            ]
+        },
+        {
+            "start": 18.407,
+            "end": 43.791,
+            "text": " I think I'm sure I'm pretty sure there are something interesting for me like in case of Antarctic or Arctic I wanna experience some ice area and some cold weather and otherwise and when I go to the desert I can see the hot weather",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 18.407,
+                    "end": 18.488,
+                    "score": 0.985
+                },
+                {
+                    "word": "think",
+                    "start": 18.528,
+                    "end": 18.788,
+                    "score": 0.915
+                },
+                {
+                    "word": "I'm",
+                    "start": 19.208,
+                    "end": 19.348,
+                    "score": 0.895
+                },
+                {
+                    "word": "sure",
+                    "start": 19.468,
+                    "end": 19.789,
+                    "score": 0.79
+                },
+                {
+                    "word": "I'm",
+                    "start": 19.929,
+                    "end": 20.029,
+                    "score": 0.876
+                },
+                {
+                    "word": "pretty",
+                    "start": 20.089,
+                    "end": 20.349,
+                    "score": 0.853
+                },
+                {
+                    "word": "sure",
+                    "start": 20.429,
+                    "end": 20.73,
+                    "score": 0.691
+                },
+                {
+                    "word": "there",
+                    "start": 20.83,
+                    "end": 21.07,
+                    "score": 0.89
+                },
+                {
+                    "word": "are",
+                    "start": 21.15,
+                    "end": 21.25,
+                    "score": 0.759
+                },
+                {
+                    "word": "something",
+                    "start": 21.31,
+                    "end": 21.731,
+                    "score": 0.886
+                },
+                {
+                    "word": "interesting",
+                    "start": 21.771,
+                    "end": 22.411,
+                    "score": 0.897
+                },
+                {
+                    "word": "for",
+                    "start": 22.511,
+                    "end": 22.711,
+                    "score": 0.881
+                },
+                {
+                    "word": "me",
+                    "start": 22.751,
+                    "end": 22.932,
+                    "score": 0.874
+                },
+                {
+                    "word": "like",
+                    "start": 23.792,
+                    "end": 24.113,
+                    "score": 0.932
+                },
+                {
+                    "word": "in",
+                    "start": 24.873,
+                    "end": 24.953,
+                    "score": 0.866
+                },
+                {
+                    "word": "case",
+                    "start": 24.994,
+                    "end": 25.254,
+                    "score": 0.925
+                },
+                {
+                    "word": "of",
+                    "start": 25.374,
+                    "end": 25.694,
+                    "score": 0.643
+                },
+                {
+                    "word": "Antarctic",
+                    "start": 26.155,
+                    "end": 26.815,
+                    "score": 0.803
+                },
+                {
+                    "word": "or",
+                    "start": 26.915,
+                    "end": 27.015,
+                    "score": 0.664
+                },
+                {
+                    "word": "Arctic",
+                    "start": 27.115,
+                    "end": 27.536,
+                    "score": 0.94
+                },
+                {
+                    "word": "I",
+                    "start": 28.837,
+                    "end": 28.897,
+                    "score": 0.989
+                },
+                {
+                    "word": "wanna",
+                    "start": 28.937,
+                    "end": 29.318,
+                    "score": 0.595
+                },
+                {
+                    "word": "experience",
+                    "start": 29.998,
+                    "end": 31.7,
+                    "score": 0.896
+                },
+                {
+                    "word": "some",
+                    "start": 31.82,
+                    "end": 32.1,
+                    "score": 0.922
+                },
+                {
+                    "word": "ice",
+                    "start": 32.941,
+                    "end": 33.261,
+                    "score": 0.757
+                },
+                {
+                    "word": "area",
+                    "start": 33.401,
+                    "end": 33.902,
+                    "score": 0.673
+                },
+                {
+                    "word": "and",
+                    "start": 34.202,
+                    "end": 34.342,
+                    "score": 0.689
+                },
+                {
+                    "word": "some",
+                    "start": 34.783,
+                    "end": 35.003,
+                    "score": 0.972
+                },
+                {
+                    "word": "cold",
+                    "start": 35.143,
+                    "end": 36.364,
+                    "score": 0.817
+                },
+                {
+                    "word": "weather",
+                    "start": 36.464,
+                    "end": 36.864,
+                    "score": 0.872
+                },
+                {
+                    "word": "and",
+                    "start": 37.025,
+                    "end": 37.145,
+                    "score": 0.689
+                },
+                {
+                    "word": "otherwise",
+                    "start": 37.465,
+                    "end": 38.306,
+                    "score": 0.855
+                },
+                {
+                    "word": "and",
+                    "start": 38.846,
+                    "end": 39.006,
+                    "score": 0.685
+                },
+                {
+                    "word": "when",
+                    "start": 39.527,
+                    "end": 39.667,
+                    "score": 0.907
+                },
+                {
+                    "word": "I",
+                    "start": 39.807,
+                    "end": 39.967,
+                    "score": 0.735
+                },
+                {
+                    "word": "go",
+                    "start": 40.248,
+                    "end": 40.428,
+                    "score": 0.974
+                },
+                {
+                    "word": "to",
+                    "start": 40.468,
+                    "end": 40.548,
+                    "score": 0.725
+                },
+                {
+                    "word": "the",
+                    "start": 40.588,
+                    "end": 40.788,
+                    "score": 0.871
+                },
+                {
+                    "word": "desert",
+                    "start": 40.848,
+                    "end": 41.489,
+                    "score": 0.708
+                },
+                {
+                    "word": "I",
+                    "start": 41.689,
+                    "end": 41.769,
+                    "score": 0.978
+                },
+                {
+                    "word": "can",
+                    "start": 41.829,
+                    "end": 42.049,
+                    "score": 0.832
+                },
+                {
+                    "word": "see",
+                    "start": 42.109,
+                    "end": 42.61,
+                    "score": 0.735
+                },
+                {
+                    "word": "the",
+                    "start": 42.63,
+                    "end": 42.69,
+                    "score": 0.0
+                },
+                {
+                    "word": "hot",
+                    "start": 43.07,
+                    "end": 43.33,
+                    "score": 0.806
+                },
+                {
+                    "word": "weather",
+                    "start": 43.511,
+                    "end": 43.791,
+                    "score": 0.981
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.189,
+            "end": 0.269,
+            "score": 0.377
+        },
+        {
+            "word": "I",
+            "start": 0.369,
+            "end": 0.51,
+            "score": 0.646
+        },
+        {
+            "word": "could",
+            "start": 0.53,
+            "end": 0.75,
+            "score": 0.69
+        },
+        {
+            "word": "go",
+            "start": 1.35,
+            "end": 2.211,
+            "score": 0.852
+        },
+        {
+            "word": "somewhere",
+            "start": 2.291,
+            "end": 2.732,
+            "score": 0.642
+        },
+        {
+            "word": "in",
+            "start": 2.772,
+            "end": 2.832,
+            "score": 0.956
+        },
+        {
+            "word": "the",
+            "start": 2.872,
+            "end": 2.952,
+            "score": 0.867
+        },
+        {
+            "word": "world,",
+            "start": 2.992,
+            "end": 3.372,
+            "score": 0.77
+        },
+        {
+            "word": "I",
+            "start": 4.133,
+            "end": 4.193,
+            "score": 0.729
+        },
+        {
+            "word": "would",
+            "start": 4.213,
+            "end": 4.453,
+            "score": 0.652
+        },
+        {
+            "word": "like",
+            "start": 4.473,
+            "end": 4.674,
+            "score": 0.949
+        },
+        {
+            "word": "to",
+            "start": 4.714,
+            "end": 4.794,
+            "score": 0.922
+        },
+        {
+            "word": "go",
+            "start": 4.874,
+            "end": 5.134,
+            "score": 0.996
+        },
+        {
+            "word": "to",
+            "start": 5.354,
+            "end": 6.375,
+            "score": 0.825
+        },
+        {
+            "word": "extremely",
+            "start": 6.936,
+            "end": 7.697,
+            "score": 0.799
+        },
+        {
+            "word": "natural",
+            "start": 8.157,
+            "end": 9.619,
+            "score": 0.693
+        },
+        {
+            "word": "circumstances",
+            "start": 9.699,
+            "end": 10.76,
+            "score": 0.649
+        },
+        {
+            "word": "that",
+            "start": 11.921,
+            "end": 12.081,
+            "score": 0.773
+        },
+        {
+            "word": "is",
+            "start": 12.141,
+            "end": 12.381,
+            "score": 0.708
+        },
+        {
+            "word": "like",
+            "start": 12.421,
+            "end": 13.082,
+            "score": 0.944
+        },
+        {
+            "word": "desert",
+            "start": 13.262,
+            "end": 13.863,
+            "score": 0.798
+        },
+        {
+            "word": "or",
+            "start": 14.103,
+            "end": 14.383,
+            "score": 0.676
+        },
+        {
+            "word": "Arctic",
+            "start": 15.445,
+            "end": 15.965,
+            "score": 0.858
+        },
+        {
+            "word": "and",
+            "start": 16.225,
+            "end": 16.365,
+            "score": 0.733
+        },
+        {
+            "word": "Antarctic.",
+            "start": 16.786,
+            "end": 17.386,
+            "score": 0.873
+        },
+        {
+            "word": "I",
+            "start": 18.407,
+            "end": 18.488,
+            "score": 0.985
+        },
+        {
+            "word": "think",
+            "start": 18.528,
+            "end": 18.788,
+            "score": 0.915
+        },
+        {
+            "word": "I'm",
+            "start": 19.208,
+            "end": 19.348,
+            "score": 0.895
+        },
+        {
+            "word": "sure",
+            "start": 19.468,
+            "end": 19.789,
+            "score": 0.79
+        },
+        {
+            "word": "I'm",
+            "start": 19.929,
+            "end": 20.029,
+            "score": 0.876
+        },
+        {
+            "word": "pretty",
+            "start": 20.089,
+            "end": 20.349,
+            "score": 0.853
+        },
+        {
+            "word": "sure",
+            "start": 20.429,
+            "end": 20.73,
+            "score": 0.691
+        },
+        {
+            "word": "there",
+            "start": 20.83,
+            "end": 21.07,
+            "score": 0.89
+        },
+        {
+            "word": "are",
+            "start": 21.15,
+            "end": 21.25,
+            "score": 0.759
+        },
+        {
+            "word": "something",
+            "start": 21.31,
+            "end": 21.731,
+            "score": 0.886
+        },
+        {
+            "word": "interesting",
+            "start": 21.771,
+            "end": 22.411,
+            "score": 0.897
+        },
+        {
+            "word": "for",
+            "start": 22.511,
+            "end": 22.711,
+            "score": 0.881
+        },
+        {
+            "word": "me",
+            "start": 22.751,
+            "end": 22.932,
+            "score": 0.874
+        },
+        {
+            "word": "like",
+            "start": 23.792,
+            "end": 24.113,
+            "score": 0.932
+        },
+        {
+            "word": "in",
+            "start": 24.873,
+            "end": 24.953,
+            "score": 0.866
+        },
+        {
+            "word": "case",
+            "start": 24.994,
+            "end": 25.254,
+            "score": 0.925
+        },
+        {
+            "word": "of",
+            "start": 25.374,
+            "end": 25.694,
+            "score": 0.643
+        },
+        {
+            "word": "Antarctic",
+            "start": 26.155,
+            "end": 26.815,
+            "score": 0.803
+        },
+        {
+            "word": "or",
+            "start": 26.915,
+            "end": 27.015,
+            "score": 0.664
+        },
+        {
+            "word": "Arctic",
+            "start": 27.115,
+            "end": 27.536,
+            "score": 0.94
+        },
+        {
+            "word": "I",
+            "start": 28.837,
+            "end": 28.897,
+            "score": 0.989
+        },
+        {
+            "word": "wanna",
+            "start": 28.937,
+            "end": 29.318,
+            "score": 0.595
+        },
+        {
+            "word": "experience",
+            "start": 29.998,
+            "end": 31.7,
+            "score": 0.896
+        },
+        {
+            "word": "some",
+            "start": 31.82,
+            "end": 32.1,
+            "score": 0.922
+        },
+        {
+            "word": "ice",
+            "start": 32.941,
+            "end": 33.261,
+            "score": 0.757
+        },
+        {
+            "word": "area",
+            "start": 33.401,
+            "end": 33.902,
+            "score": 0.673
+        },
+        {
+            "word": "and",
+            "start": 34.202,
+            "end": 34.342,
+            "score": 0.689
+        },
+        {
+            "word": "some",
+            "start": 34.783,
+            "end": 35.003,
+            "score": 0.972
+        },
+        {
+            "word": "cold",
+            "start": 35.143,
+            "end": 36.364,
+            "score": 0.817
+        },
+        {
+            "word": "weather",
+            "start": 36.464,
+            "end": 36.864,
+            "score": 0.872
+        },
+        {
+            "word": "and",
+            "start": 37.025,
+            "end": 37.145,
+            "score": 0.689
+        },
+        {
+            "word": "otherwise",
+            "start": 37.465,
+            "end": 38.306,
+            "score": 0.855
+        },
+        {
+            "word": "and",
+            "start": 38.846,
+            "end": 39.006,
+            "score": 0.685
+        },
+        {
+            "word": "when",
+            "start": 39.527,
+            "end": 39.667,
+            "score": 0.907
+        },
+        {
+            "word": "I",
+            "start": 39.807,
+            "end": 39.967,
+            "score": 0.735
+        },
+        {
+            "word": "go",
+            "start": 40.248,
+            "end": 40.428,
+            "score": 0.974
+        },
+        {
+            "word": "to",
+            "start": 40.468,
+            "end": 40.548,
+            "score": 0.725
+        },
+        {
+            "word": "the",
+            "start": 40.588,
+            "end": 40.788,
+            "score": 0.871
+        },
+        {
+            "word": "desert",
+            "start": 40.848,
+            "end": 41.489,
+            "score": 0.708
+        },
+        {
+            "word": "I",
+            "start": 41.689,
+            "end": 41.769,
+            "score": 0.978
+        },
+        {
+            "word": "can",
+            "start": 41.829,
+            "end": 42.049,
+            "score": 0.832
+        },
+        {
+            "word": "see",
+            "start": 42.109,
+            "end": 42.61,
+            "score": 0.735
+        },
+        {
+            "word": "the",
+            "start": 42.63,
+            "end": 42.69,
+            "score": 0.0
+        },
+        {
+            "word": "hot",
+            "start": 43.07,
+            "end": 43.33,
+            "score": 0.806
+        },
+        {
+            "word": "weather",
+            "start": 43.511,
+            "end": 43.791,
+            "score": 0.981
+        }
+    ]
+}

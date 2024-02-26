@@ -1,0 +1,1390 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 12.313,
+            "text": " The pollution nowadays have increased a lot since the last years, and some cities want to make no-car zones in the city centers where private cars are prohibited.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 0.089,
+                    "end": 0.389,
+                    "score": 0.936
+                },
+                {
+                    "word": "pollution",
+                    "start": 0.509,
+                    "end": 1.329,
+                    "score": 0.918
+                },
+                {
+                    "word": "nowadays",
+                    "start": 1.41,
+                    "end": 2.05,
+                    "score": 0.853
+                },
+                {
+                    "word": "have",
+                    "start": 2.09,
+                    "end": 2.31,
+                    "score": 0.896
+                },
+                {
+                    "word": "increased",
+                    "start": 2.41,
+                    "end": 3.25,
+                    "score": 0.873
+                },
+                {
+                    "word": "a",
+                    "start": 3.37,
+                    "end": 3.49,
+                    "score": 0.78
+                },
+                {
+                    "word": "lot",
+                    "start": 3.53,
+                    "end": 3.83,
+                    "score": 0.939
+                },
+                {
+                    "word": "since",
+                    "start": 3.91,
+                    "end": 4.171,
+                    "score": 0.983
+                },
+                {
+                    "word": "the",
+                    "start": 4.331,
+                    "end": 4.451,
+                    "score": 0.812
+                },
+                {
+                    "word": "last",
+                    "start": 4.491,
+                    "end": 4.851,
+                    "score": 0.908
+                },
+                {
+                    "word": "years,",
+                    "start": 4.971,
+                    "end": 5.431,
+                    "score": 0.799
+                },
+                {
+                    "word": "and",
+                    "start": 6.351,
+                    "end": 6.511,
+                    "score": 0.771
+                },
+                {
+                    "word": "some",
+                    "start": 6.611,
+                    "end": 6.771,
+                    "score": 0.991
+                },
+                {
+                    "word": "cities",
+                    "start": 6.811,
+                    "end": 7.152,
+                    "score": 0.672
+                },
+                {
+                    "word": "want",
+                    "start": 7.212,
+                    "end": 7.392,
+                    "score": 0.316
+                },
+                {
+                    "word": "to",
+                    "start": 7.432,
+                    "end": 7.572,
+                    "score": 0.778
+                },
+                {
+                    "word": "make",
+                    "start": 7.612,
+                    "end": 7.812,
+                    "score": 0.998
+                },
+                {
+                    "word": "no-car",
+                    "start": 7.872,
+                    "end": 8.372,
+                    "score": 0.896
+                },
+                {
+                    "word": "zones",
+                    "start": 8.472,
+                    "end": 8.812,
+                    "score": 0.674
+                },
+                {
+                    "word": "in",
+                    "start": 8.932,
+                    "end": 9.012,
+                    "score": 0.988
+                },
+                {
+                    "word": "the",
+                    "start": 9.032,
+                    "end": 9.132,
+                    "score": 0.789
+                },
+                {
+                    "word": "city",
+                    "start": 9.172,
+                    "end": 9.472,
+                    "score": 0.721
+                },
+                {
+                    "word": "centers",
+                    "start": 9.492,
+                    "end": 9.993,
+                    "score": 0.805
+                },
+                {
+                    "word": "where",
+                    "start": 10.093,
+                    "end": 10.453,
+                    "score": 0.663
+                },
+                {
+                    "word": "private",
+                    "start": 10.913,
+                    "end": 11.253,
+                    "score": 0.888
+                },
+                {
+                    "word": "cars",
+                    "start": 11.273,
+                    "end": 11.553,
+                    "score": 0.826
+                },
+                {
+                    "word": "are",
+                    "start": 11.633,
+                    "end": 11.753,
+                    "score": 0.848
+                },
+                {
+                    "word": "prohibited.",
+                    "start": 11.793,
+                    "end": 12.313,
+                    "score": 0.894
+                }
+            ]
+        },
+        {
+            "start": 14.974,
+            "end": 16.435,
+            "text": "I agree with this claim.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 14.974,
+                    "end": 15.074,
+                    "score": 0.86
+                },
+                {
+                    "word": "agree",
+                    "start": 15.114,
+                    "end": 15.455,
+                    "score": 0.827
+                },
+                {
+                    "word": "with",
+                    "start": 15.515,
+                    "end": 15.695,
+                    "score": 0.921
+                },
+                {
+                    "word": "this",
+                    "start": 15.755,
+                    "end": 15.935,
+                    "score": 0.825
+                },
+                {
+                    "word": "claim.",
+                    "start": 16.015,
+                    "end": 16.435,
+                    "score": 0.871
+                }
+            ]
+        },
+        {
+            "start": 16.455,
+            "end": 26.879,
+            "text": "I think that people should walk to work or use bicycles, or if they are in no-car zones, they can...",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 16.455,
+                    "end": 16.475,
+                    "score": 0.001
+                },
+                {
+                    "word": "think",
+                    "start": 17.535,
+                    "end": 17.735,
+                    "score": 0.834
+                },
+                {
+                    "word": "that",
+                    "start": 17.775,
+                    "end": 17.935,
+                    "score": 0.842
+                },
+                {
+                    "word": "people",
+                    "start": 17.976,
+                    "end": 18.276,
+                    "score": 0.813
+                },
+                {
+                    "word": "should",
+                    "start": 18.316,
+                    "end": 18.876,
+                    "score": 0.541
+                },
+                {
+                    "word": "walk",
+                    "start": 19.076,
+                    "end": 19.456,
+                    "score": 0.964
+                },
+                {
+                    "word": "to",
+                    "start": 19.556,
+                    "end": 19.856,
+                    "score": 0.826
+                },
+                {
+                    "word": "work",
+                    "start": 20.016,
+                    "end": 20.456,
+                    "score": 0.873
+                },
+                {
+                    "word": "or",
+                    "start": 20.656,
+                    "end": 20.757,
+                    "score": 0.962
+                },
+                {
+                    "word": "use",
+                    "start": 20.937,
+                    "end": 21.097,
+                    "score": 0.759
+                },
+                {
+                    "word": "bicycles,",
+                    "start": 21.177,
+                    "end": 22.017,
+                    "score": 0.851
+                },
+                {
+                    "word": "or",
+                    "start": 23.077,
+                    "end": 23.117,
+                    "score": 0.007
+                },
+                {
+                    "word": "if",
+                    "start": 24.098,
+                    "end": 24.218,
+                    "score": 0.863
+                },
+                {
+                    "word": "they",
+                    "start": 24.278,
+                    "end": 24.458,
+                    "score": 0.951
+                },
+                {
+                    "word": "are",
+                    "start": 24.498,
+                    "end": 24.678,
+                    "score": 0.86
+                },
+                {
+                    "word": "in",
+                    "start": 24.798,
+                    "end": 24.918,
+                    "score": 0.644
+                },
+                {
+                    "word": "no-car",
+                    "start": 24.958,
+                    "end": 25.518,
+                    "score": 0.914
+                },
+                {
+                    "word": "zones,",
+                    "start": 25.558,
+                    "end": 26.138,
+                    "score": 0.883
+                },
+                {
+                    "word": "they",
+                    "start": 26.259,
+                    "end": 26.479,
+                    "score": 0.764
+                },
+                {
+                    "word": "can...",
+                    "start": 26.519,
+                    "end": 26.879,
+                    "score": 0.828
+                }
+            ]
+        },
+        {
+            "start": 28.279,
+            "end": 57.445,
+            "text": " like car zones are only to private cars the ones that are prohibited so they can take the public transport like taxis or buses and this would make like easier for people to breathe and like there would be no more block hubs in the streets for people if they use car no if they don't use cars for work",
+            "words": [
+                {
+                    "word": "like",
+                    "start": 28.279,
+                    "end": 28.459,
+                    "score": 0.893
+                },
+                {
+                    "word": "car",
+                    "start": 28.559,
+                    "end": 28.799,
+                    "score": 0.881
+                },
+                {
+                    "word": "zones",
+                    "start": 28.839,
+                    "end": 29.139,
+                    "score": 0.911
+                },
+                {
+                    "word": "are",
+                    "start": 29.219,
+                    "end": 29.359,
+                    "score": 0.87
+                },
+                {
+                    "word": "only",
+                    "start": 29.499,
+                    "end": 29.819,
+                    "score": 0.667
+                },
+                {
+                    "word": "to",
+                    "start": 29.979,
+                    "end": 30.42,
+                    "score": 0.631
+                },
+                {
+                    "word": "private",
+                    "start": 30.66,
+                    "end": 31.06,
+                    "score": 0.861
+                },
+                {
+                    "word": "cars",
+                    "start": 31.12,
+                    "end": 31.48,
+                    "score": 0.834
+                },
+                {
+                    "word": "the",
+                    "start": 32.06,
+                    "end": 32.26,
+                    "score": 0.837
+                },
+                {
+                    "word": "ones",
+                    "start": 32.32,
+                    "end": 32.44,
+                    "score": 0.6
+                },
+                {
+                    "word": "that",
+                    "start": 32.46,
+                    "end": 32.58,
+                    "score": 0.421
+                },
+                {
+                    "word": "are",
+                    "start": 32.62,
+                    "end": 32.72,
+                    "score": 0.411
+                },
+                {
+                    "word": "prohibited",
+                    "start": 32.76,
+                    "end": 33.2,
+                    "score": 0.855
+                },
+                {
+                    "word": "so",
+                    "start": 33.74,
+                    "end": 34.04,
+                    "score": 0.926
+                },
+                {
+                    "word": "they",
+                    "start": 34.12,
+                    "end": 34.34,
+                    "score": 0.733
+                },
+                {
+                    "word": "can",
+                    "start": 34.38,
+                    "end": 34.6,
+                    "score": 0.903
+                },
+                {
+                    "word": "take",
+                    "start": 34.68,
+                    "end": 35.0,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 35.1,
+                    "end": 35.281,
+                    "score": 0.826
+                },
+                {
+                    "word": "public",
+                    "start": 35.441,
+                    "end": 35.841,
+                    "score": 0.888
+                },
+                {
+                    "word": "transport",
+                    "start": 35.881,
+                    "end": 36.461,
+                    "score": 0.802
+                },
+                {
+                    "word": "like",
+                    "start": 36.501,
+                    "end": 36.701,
+                    "score": 0.879
+                },
+                {
+                    "word": "taxis",
+                    "start": 38.001,
+                    "end": 38.621,
+                    "score": 0.86
+                },
+                {
+                    "word": "or",
+                    "start": 38.781,
+                    "end": 38.901,
+                    "score": 0.644
+                },
+                {
+                    "word": "buses",
+                    "start": 39.021,
+                    "end": 39.601,
+                    "score": 0.833
+                },
+                {
+                    "word": "and",
+                    "start": 41.522,
+                    "end": 41.682,
+                    "score": 0.84
+                },
+                {
+                    "word": "this",
+                    "start": 42.042,
+                    "end": 42.282,
+                    "score": 0.866
+                },
+                {
+                    "word": "would",
+                    "start": 42.342,
+                    "end": 42.542,
+                    "score": 0.838
+                },
+                {
+                    "word": "make",
+                    "start": 42.582,
+                    "end": 42.842,
+                    "score": 0.708
+                },
+                {
+                    "word": "like",
+                    "start": 43.042,
+                    "end": 43.342,
+                    "score": 0.733
+                },
+                {
+                    "word": "easier",
+                    "start": 44.122,
+                    "end": 44.462,
+                    "score": 0.815
+                },
+                {
+                    "word": "for",
+                    "start": 44.502,
+                    "end": 44.622,
+                    "score": 0.977
+                },
+                {
+                    "word": "people",
+                    "start": 44.662,
+                    "end": 44.982,
+                    "score": 0.848
+                },
+                {
+                    "word": "to",
+                    "start": 45.042,
+                    "end": 45.183,
+                    "score": 0.825
+                },
+                {
+                    "word": "breathe",
+                    "start": 45.243,
+                    "end": 45.683,
+                    "score": 0.857
+                },
+                {
+                    "word": "and",
+                    "start": 46.883,
+                    "end": 47.123,
+                    "score": 0.634
+                },
+                {
+                    "word": "like",
+                    "start": 47.783,
+                    "end": 48.163,
+                    "score": 0.977
+                },
+                {
+                    "word": "there",
+                    "start": 49.363,
+                    "end": 49.523,
+                    "score": 0.702
+                },
+                {
+                    "word": "would",
+                    "start": 49.543,
+                    "end": 49.723,
+                    "score": 0.877
+                },
+                {
+                    "word": "be",
+                    "start": 49.763,
+                    "end": 49.863,
+                    "score": 0.876
+                },
+                {
+                    "word": "no",
+                    "start": 49.943,
+                    "end": 50.144,
+                    "score": 0.795
+                },
+                {
+                    "word": "more",
+                    "start": 50.204,
+                    "end": 50.504,
+                    "score": 0.683
+                },
+                {
+                    "word": "block",
+                    "start": 50.644,
+                    "end": 50.964,
+                    "score": 0.921
+                },
+                {
+                    "word": "hubs",
+                    "start": 50.984,
+                    "end": 51.244,
+                    "score": 0.868
+                },
+                {
+                    "word": "in",
+                    "start": 51.324,
+                    "end": 51.444,
+                    "score": 0.735
+                },
+                {
+                    "word": "the",
+                    "start": 51.464,
+                    "end": 51.524,
+                    "score": 0.985
+                },
+                {
+                    "word": "streets",
+                    "start": 51.584,
+                    "end": 52.044,
+                    "score": 0.842
+                },
+                {
+                    "word": "for",
+                    "start": 52.684,
+                    "end": 52.864,
+                    "score": 0.811
+                },
+                {
+                    "word": "people",
+                    "start": 52.944,
+                    "end": 53.284,
+                    "score": 0.79
+                },
+                {
+                    "word": "if",
+                    "start": 53.664,
+                    "end": 53.764,
+                    "score": 0.884
+                },
+                {
+                    "word": "they",
+                    "start": 53.804,
+                    "end": 53.984,
+                    "score": 0.837
+                },
+                {
+                    "word": "use",
+                    "start": 54.124,
+                    "end": 54.324,
+                    "score": 0.837
+                },
+                {
+                    "word": "car",
+                    "start": 55.125,
+                    "end": 55.565,
+                    "score": 0.78
+                },
+                {
+                    "word": "no",
+                    "start": 55.725,
+                    "end": 55.945,
+                    "score": 0.972
+                },
+                {
+                    "word": "if",
+                    "start": 56.105,
+                    "end": 56.165,
+                    "score": 0.961
+                },
+                {
+                    "word": "they",
+                    "start": 56.205,
+                    "end": 56.405,
+                    "score": 0.797
+                },
+                {
+                    "word": "don't",
+                    "start": 56.425,
+                    "end": 56.565,
+                    "score": 0.832
+                },
+                {
+                    "word": "use",
+                    "start": 56.625,
+                    "end": 56.745,
+                    "score": 0.626
+                },
+                {
+                    "word": "cars",
+                    "start": 56.785,
+                    "end": 57.045,
+                    "score": 0.85
+                },
+                {
+                    "word": "for",
+                    "start": 57.105,
+                    "end": 57.265,
+                    "score": 0.872
+                },
+                {
+                    "word": "work",
+                    "start": 57.285,
+                    "end": 57.445,
+                    "score": 0.896
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 0.089,
+            "end": 0.389,
+            "score": 0.936
+        },
+        {
+            "word": "pollution",
+            "start": 0.509,
+            "end": 1.329,
+            "score": 0.918
+        },
+        {
+            "word": "nowadays",
+            "start": 1.41,
+            "end": 2.05,
+            "score": 0.853
+        },
+        {
+            "word": "have",
+            "start": 2.09,
+            "end": 2.31,
+            "score": 0.896
+        },
+        {
+            "word": "increased",
+            "start": 2.41,
+            "end": 3.25,
+            "score": 0.873
+        },
+        {
+            "word": "a",
+            "start": 3.37,
+            "end": 3.49,
+            "score": 0.78
+        },
+        {
+            "word": "lot",
+            "start": 3.53,
+            "end": 3.83,
+            "score": 0.939
+        },
+        {
+            "word": "since",
+            "start": 3.91,
+            "end": 4.171,
+            "score": 0.983
+        },
+        {
+            "word": "the",
+            "start": 4.331,
+            "end": 4.451,
+            "score": 0.812
+        },
+        {
+            "word": "last",
+            "start": 4.491,
+            "end": 4.851,
+            "score": 0.908
+        },
+        {
+            "word": "years,",
+            "start": 4.971,
+            "end": 5.431,
+            "score": 0.799
+        },
+        {
+            "word": "and",
+            "start": 6.351,
+            "end": 6.511,
+            "score": 0.771
+        },
+        {
+            "word": "some",
+            "start": 6.611,
+            "end": 6.771,
+            "score": 0.991
+        },
+        {
+            "word": "cities",
+            "start": 6.811,
+            "end": 7.152,
+            "score": 0.672
+        },
+        {
+            "word": "want",
+            "start": 7.212,
+            "end": 7.392,
+            "score": 0.316
+        },
+        {
+            "word": "to",
+            "start": 7.432,
+            "end": 7.572,
+            "score": 0.778
+        },
+        {
+            "word": "make",
+            "start": 7.612,
+            "end": 7.812,
+            "score": 0.998
+        },
+        {
+            "word": "no-car",
+            "start": 7.872,
+            "end": 8.372,
+            "score": 0.896
+        },
+        {
+            "word": "zones",
+            "start": 8.472,
+            "end": 8.812,
+            "score": 0.674
+        },
+        {
+            "word": "in",
+            "start": 8.932,
+            "end": 9.012,
+            "score": 0.988
+        },
+        {
+            "word": "the",
+            "start": 9.032,
+            "end": 9.132,
+            "score": 0.789
+        },
+        {
+            "word": "city",
+            "start": 9.172,
+            "end": 9.472,
+            "score": 0.721
+        },
+        {
+            "word": "centers",
+            "start": 9.492,
+            "end": 9.993,
+            "score": 0.805
+        },
+        {
+            "word": "where",
+            "start": 10.093,
+            "end": 10.453,
+            "score": 0.663
+        },
+        {
+            "word": "private",
+            "start": 10.913,
+            "end": 11.253,
+            "score": 0.888
+        },
+        {
+            "word": "cars",
+            "start": 11.273,
+            "end": 11.553,
+            "score": 0.826
+        },
+        {
+            "word": "are",
+            "start": 11.633,
+            "end": 11.753,
+            "score": 0.848
+        },
+        {
+            "word": "prohibited.",
+            "start": 11.793,
+            "end": 12.313,
+            "score": 0.894
+        },
+        {
+            "word": "I",
+            "start": 14.974,
+            "end": 15.074,
+            "score": 0.86
+        },
+        {
+            "word": "agree",
+            "start": 15.114,
+            "end": 15.455,
+            "score": 0.827
+        },
+        {
+            "word": "with",
+            "start": 15.515,
+            "end": 15.695,
+            "score": 0.921
+        },
+        {
+            "word": "this",
+            "start": 15.755,
+            "end": 15.935,
+            "score": 0.825
+        },
+        {
+            "word": "claim.",
+            "start": 16.015,
+            "end": 16.435,
+            "score": 0.871
+        },
+        {
+            "word": "I",
+            "start": 16.455,
+            "end": 16.475,
+            "score": 0.001
+        },
+        {
+            "word": "think",
+            "start": 17.535,
+            "end": 17.735,
+            "score": 0.834
+        },
+        {
+            "word": "that",
+            "start": 17.775,
+            "end": 17.935,
+            "score": 0.842
+        },
+        {
+            "word": "people",
+            "start": 17.976,
+            "end": 18.276,
+            "score": 0.813
+        },
+        {
+            "word": "should",
+            "start": 18.316,
+            "end": 18.876,
+            "score": 0.541
+        },
+        {
+            "word": "walk",
+            "start": 19.076,
+            "end": 19.456,
+            "score": 0.964
+        },
+        {
+            "word": "to",
+            "start": 19.556,
+            "end": 19.856,
+            "score": 0.826
+        },
+        {
+            "word": "work",
+            "start": 20.016,
+            "end": 20.456,
+            "score": 0.873
+        },
+        {
+            "word": "or",
+            "start": 20.656,
+            "end": 20.757,
+            "score": 0.962
+        },
+        {
+            "word": "use",
+            "start": 20.937,
+            "end": 21.097,
+            "score": 0.759
+        },
+        {
+            "word": "bicycles,",
+            "start": 21.177,
+            "end": 22.017,
+            "score": 0.851
+        },
+        {
+            "word": "or",
+            "start": 23.077,
+            "end": 23.117,
+            "score": 0.007
+        },
+        {
+            "word": "if",
+            "start": 24.098,
+            "end": 24.218,
+            "score": 0.863
+        },
+        {
+            "word": "they",
+            "start": 24.278,
+            "end": 24.458,
+            "score": 0.951
+        },
+        {
+            "word": "are",
+            "start": 24.498,
+            "end": 24.678,
+            "score": 0.86
+        },
+        {
+            "word": "in",
+            "start": 24.798,
+            "end": 24.918,
+            "score": 0.644
+        },
+        {
+            "word": "no-car",
+            "start": 24.958,
+            "end": 25.518,
+            "score": 0.914
+        },
+        {
+            "word": "zones,",
+            "start": 25.558,
+            "end": 26.138,
+            "score": 0.883
+        },
+        {
+            "word": "they",
+            "start": 26.259,
+            "end": 26.479,
+            "score": 0.764
+        },
+        {
+            "word": "can...",
+            "start": 26.519,
+            "end": 26.879,
+            "score": 0.828
+        },
+        {
+            "word": "like",
+            "start": 28.279,
+            "end": 28.459,
+            "score": 0.893
+        },
+        {
+            "word": "car",
+            "start": 28.559,
+            "end": 28.799,
+            "score": 0.881
+        },
+        {
+            "word": "zones",
+            "start": 28.839,
+            "end": 29.139,
+            "score": 0.911
+        },
+        {
+            "word": "are",
+            "start": 29.219,
+            "end": 29.359,
+            "score": 0.87
+        },
+        {
+            "word": "only",
+            "start": 29.499,
+            "end": 29.819,
+            "score": 0.667
+        },
+        {
+            "word": "to",
+            "start": 29.979,
+            "end": 30.42,
+            "score": 0.631
+        },
+        {
+            "word": "private",
+            "start": 30.66,
+            "end": 31.06,
+            "score": 0.861
+        },
+        {
+            "word": "cars",
+            "start": 31.12,
+            "end": 31.48,
+            "score": 0.834
+        },
+        {
+            "word": "the",
+            "start": 32.06,
+            "end": 32.26,
+            "score": 0.837
+        },
+        {
+            "word": "ones",
+            "start": 32.32,
+            "end": 32.44,
+            "score": 0.6
+        },
+        {
+            "word": "that",
+            "start": 32.46,
+            "end": 32.58,
+            "score": 0.421
+        },
+        {
+            "word": "are",
+            "start": 32.62,
+            "end": 32.72,
+            "score": 0.411
+        },
+        {
+            "word": "prohibited",
+            "start": 32.76,
+            "end": 33.2,
+            "score": 0.855
+        },
+        {
+            "word": "so",
+            "start": 33.74,
+            "end": 34.04,
+            "score": 0.926
+        },
+        {
+            "word": "they",
+            "start": 34.12,
+            "end": 34.34,
+            "score": 0.733
+        },
+        {
+            "word": "can",
+            "start": 34.38,
+            "end": 34.6,
+            "score": 0.903
+        },
+        {
+            "word": "take",
+            "start": 34.68,
+            "end": 35.0,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 35.1,
+            "end": 35.281,
+            "score": 0.826
+        },
+        {
+            "word": "public",
+            "start": 35.441,
+            "end": 35.841,
+            "score": 0.888
+        },
+        {
+            "word": "transport",
+            "start": 35.881,
+            "end": 36.461,
+            "score": 0.802
+        },
+        {
+            "word": "like",
+            "start": 36.501,
+            "end": 36.701,
+            "score": 0.879
+        },
+        {
+            "word": "taxis",
+            "start": 38.001,
+            "end": 38.621,
+            "score": 0.86
+        },
+        {
+            "word": "or",
+            "start": 38.781,
+            "end": 38.901,
+            "score": 0.644
+        },
+        {
+            "word": "buses",
+            "start": 39.021,
+            "end": 39.601,
+            "score": 0.833
+        },
+        {
+            "word": "and",
+            "start": 41.522,
+            "end": 41.682,
+            "score": 0.84
+        },
+        {
+            "word": "this",
+            "start": 42.042,
+            "end": 42.282,
+            "score": 0.866
+        },
+        {
+            "word": "would",
+            "start": 42.342,
+            "end": 42.542,
+            "score": 0.838
+        },
+        {
+            "word": "make",
+            "start": 42.582,
+            "end": 42.842,
+            "score": 0.708
+        },
+        {
+            "word": "like",
+            "start": 43.042,
+            "end": 43.342,
+            "score": 0.733
+        },
+        {
+            "word": "easier",
+            "start": 44.122,
+            "end": 44.462,
+            "score": 0.815
+        },
+        {
+            "word": "for",
+            "start": 44.502,
+            "end": 44.622,
+            "score": 0.977
+        },
+        {
+            "word": "people",
+            "start": 44.662,
+            "end": 44.982,
+            "score": 0.848
+        },
+        {
+            "word": "to",
+            "start": 45.042,
+            "end": 45.183,
+            "score": 0.825
+        },
+        {
+            "word": "breathe",
+            "start": 45.243,
+            "end": 45.683,
+            "score": 0.857
+        },
+        {
+            "word": "and",
+            "start": 46.883,
+            "end": 47.123,
+            "score": 0.634
+        },
+        {
+            "word": "like",
+            "start": 47.783,
+            "end": 48.163,
+            "score": 0.977
+        },
+        {
+            "word": "there",
+            "start": 49.363,
+            "end": 49.523,
+            "score": 0.702
+        },
+        {
+            "word": "would",
+            "start": 49.543,
+            "end": 49.723,
+            "score": 0.877
+        },
+        {
+            "word": "be",
+            "start": 49.763,
+            "end": 49.863,
+            "score": 0.876
+        },
+        {
+            "word": "no",
+            "start": 49.943,
+            "end": 50.144,
+            "score": 0.795
+        },
+        {
+            "word": "more",
+            "start": 50.204,
+            "end": 50.504,
+            "score": 0.683
+        },
+        {
+            "word": "block",
+            "start": 50.644,
+            "end": 50.964,
+            "score": 0.921
+        },
+        {
+            "word": "hubs",
+            "start": 50.984,
+            "end": 51.244,
+            "score": 0.868
+        },
+        {
+            "word": "in",
+            "start": 51.324,
+            "end": 51.444,
+            "score": 0.735
+        },
+        {
+            "word": "the",
+            "start": 51.464,
+            "end": 51.524,
+            "score": 0.985
+        },
+        {
+            "word": "streets",
+            "start": 51.584,
+            "end": 52.044,
+            "score": 0.842
+        },
+        {
+            "word": "for",
+            "start": 52.684,
+            "end": 52.864,
+            "score": 0.811
+        },
+        {
+            "word": "people",
+            "start": 52.944,
+            "end": 53.284,
+            "score": 0.79
+        },
+        {
+            "word": "if",
+            "start": 53.664,
+            "end": 53.764,
+            "score": 0.884
+        },
+        {
+            "word": "they",
+            "start": 53.804,
+            "end": 53.984,
+            "score": 0.837
+        },
+        {
+            "word": "use",
+            "start": 54.124,
+            "end": 54.324,
+            "score": 0.837
+        },
+        {
+            "word": "car",
+            "start": 55.125,
+            "end": 55.565,
+            "score": 0.78
+        },
+        {
+            "word": "no",
+            "start": 55.725,
+            "end": 55.945,
+            "score": 0.972
+        },
+        {
+            "word": "if",
+            "start": 56.105,
+            "end": 56.165,
+            "score": 0.961
+        },
+        {
+            "word": "they",
+            "start": 56.205,
+            "end": 56.405,
+            "score": 0.797
+        },
+        {
+            "word": "don't",
+            "start": 56.425,
+            "end": 56.565,
+            "score": 0.832
+        },
+        {
+            "word": "use",
+            "start": 56.625,
+            "end": 56.745,
+            "score": 0.626
+        },
+        {
+            "word": "cars",
+            "start": 56.785,
+            "end": 57.045,
+            "score": 0.85
+        },
+        {
+            "word": "for",
+            "start": 57.105,
+            "end": 57.265,
+            "score": 0.872
+        },
+        {
+            "word": "work",
+            "start": 57.285,
+            "end": 57.445,
+            "score": 0.896
+        }
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "segments": [
+        {
+            "start": 0.129,
+            "end": 27.133,
+            "text": " I agree with this claim because if there's too many cars and they make a lot of air pollution, if people use public transportation, we can save energy and it makes little air pollution and they don't need parking lot a lot, it makes",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.129,
+                    "end": 0.249,
+                    "score": 0.861
+                },
+                {
+                    "word": "agree",
+                    "start": 0.309,
+                    "end": 0.73,
+                    "score": 0.914
+                },
+                {
+                    "word": "with",
+                    "start": 0.83,
+                    "end": 1.03,
+                    "score": 0.834
+                },
+                {
+                    "word": "this",
+                    "start": 1.13,
+                    "end": 1.35,
+                    "score": 0.837
+                },
+                {
+                    "word": "claim",
+                    "start": 2.071,
+                    "end": 2.411,
+                    "score": 0.887
+                },
+                {
+                    "word": "because",
+                    "start": 2.451,
+                    "end": 2.852,
+                    "score": 0.893
+                },
+                {
+                    "word": "if",
+                    "start": 3.312,
+                    "end": 3.392,
+                    "score": 0.99
+                },
+                {
+                    "word": "there's",
+                    "start": 3.912,
+                    "end": 4.233,
+                    "score": 0.737
+                },
+                {
+                    "word": "too",
+                    "start": 4.313,
+                    "end": 4.473,
+                    "score": 0.987
+                },
+                {
+                    "word": "many",
+                    "start": 4.513,
+                    "end": 4.733,
+                    "score": 0.746
+                },
+                {
+                    "word": "cars",
+                    "start": 4.793,
+                    "end": 5.134,
+                    "score": 0.876
+                },
+                {
+                    "word": "and",
+                    "start": 5.834,
+                    "end": 5.954,
+                    "score": 0.683
+                },
+                {
+                    "word": "they",
+                    "start": 6.154,
+                    "end": 6.355,
+                    "score": 0.726
+                },
+                {
+                    "word": "make",
+                    "start": 6.435,
+                    "end": 6.775,
+                    "score": 0.871
+                },
+                {
+                    "word": "a",
+                    "start": 6.795,
+                    "end": 6.815,
+                    "score": 0.0
+                },
+                {
+                    "word": "lot",
+                    "start": 7.035,
+                    "end": 7.235,
+                    "score": 0.975
+                },
+                {
+                    "word": "of",
+                    "start": 7.275,
+                    "end": 7.376,
+                    "score": 0.818
+                },
+                {
+                    "word": "air",
+                    "start": 7.496,
+                    "end": 7.636,
+                    "score": 0.726
+                },
+                {
+                    "word": "pollution,",
+                    "start": 7.716,
+                    "end": 8.256,
+                    "score": 0.893
+                },
+                {
+                    "word": "if",
+                    "start": 8.957,
+                    "end": 9.057,
+                    "score": 0.869
+                },
+                {
+                    "word": "people",
+                    "start": 9.257,
+                    "end": 9.778,
+                    "score": 0.825
+                },
+                {
+                    "word": "use",
+                    "start": 9.918,
+                    "end": 10.098,
+                    "score": 0.826
+                },
+                {
+                    "word": "public",
+                    "start": 10.518,
+                    "end": 10.899,
+                    "score": 0.928
+                },
+                {
+                    "word": "transportation,",
+                    "start": 10.959,
+                    "end": 12.0,
+                    "score": 0.887
+                },
+                {
+                    "word": "we",
+                    "start": 12.42,
+                    "end": 12.56,
+                    "score": 0.864
+                },
+                {
+                    "word": "can",
+                    "start": 12.6,
+                    "end": 12.82,
+                    "score": 0.825
+                },
+                {
+                    "word": "save",
+                    "start": 12.88,
+                    "end": 13.161,
+                    "score": 0.896
+                },
+                {
+                    "word": "energy",
+                    "start": 13.301,
+                    "end": 13.881,
+                    "score": 0.851
+                },
+                {
+                    "word": "and",
+                    "start": 14.101,
+                    "end": 14.262,
+                    "score": 0.613
+                },
+                {
+                    "word": "it",
+                    "start": 16.343,
+                    "end": 16.423,
+                    "score": 0.922
+                },
+                {
+                    "word": "makes",
+                    "start": 16.524,
+                    "end": 16.804,
+                    "score": 0.913
+                },
+                {
+                    "word": "little",
+                    "start": 17.044,
+                    "end": 17.404,
+                    "score": 0.894
+                },
+                {
+                    "word": "air",
+                    "start": 17.785,
+                    "end": 17.985,
+                    "score": 0.824
+                },
+                {
+                    "word": "pollution",
+                    "start": 18.425,
+                    "end": 18.946,
+                    "score": 0.878
+                },
+                {
+                    "word": "and",
+                    "start": 19.786,
+                    "end": 19.967,
+                    "score": 0.737
+                },
+                {
+                    "word": "they",
+                    "start": 21.208,
+                    "end": 21.388,
+                    "score": 0.742
+                },
+                {
+                    "word": "don't",
+                    "start": 21.428,
+                    "end": 21.788,
+                    "score": 0.572
+                },
+                {
+                    "word": "need",
+                    "start": 22.169,
+                    "end": 22.509,
+                    "score": 0.703
+                },
+                {
+                    "word": "parking",
+                    "start": 24.571,
+                    "end": 25.051,
+                    "score": 0.882
+                },
+                {
+                    "word": "lot",
+                    "start": 25.151,
+                    "end": 25.411,
+                    "score": 0.89
+                },
+                {
+                    "word": "a",
+                    "start": 25.451,
+                    "end": 25.491,
+                    "score": 0.906
+                },
+                {
+                    "word": "lot,",
+                    "start": 25.552,
+                    "end": 25.752,
+                    "score": 0.994
+                },
+                {
+                    "word": "it",
+                    "start": 25.832,
+                    "end": 25.932,
+                    "score": 0.765
+                },
+                {
+                    "word": "makes",
+                    "start": 26.873,
+                    "end": 27.133,
+                    "score": 0.97
+                }
+            ]
+        },
+        {
+            "start": 32.961,
+            "end": 46.456,
+            "text": " It can save money and so I think this is a good idea.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 32.961,
+                    "end": 34.082,
+                    "score": 0.745
+                },
+                {
+                    "word": "can",
+                    "start": 34.102,
+                    "end": 34.323,
+                    "score": 0.908
+                },
+                {
+                    "word": "save",
+                    "start": 34.383,
+                    "end": 34.783,
+                    "score": 0.822
+                },
+                {
+                    "word": "money",
+                    "start": 36.065,
+                    "end": 36.385,
+                    "score": 0.834
+                },
+                {
+                    "word": "and",
+                    "start": 37.066,
+                    "end": 37.286,
+                    "score": 0.491
+                },
+                {
+                    "word": "so",
+                    "start": 39.929,
+                    "end": 40.329,
+                    "score": 0.914
+                },
+                {
+                    "word": "I",
+                    "start": 40.57,
+                    "end": 40.69,
+                    "score": 0.798
+                },
+                {
+                    "word": "think",
+                    "start": 40.87,
+                    "end": 41.21,
+                    "score": 0.879
+                },
+                {
+                    "word": "this",
+                    "start": 43.733,
+                    "end": 44.014,
+                    "score": 0.841
+                },
+                {
+                    "word": "is",
+                    "start": 44.935,
+                    "end": 45.075,
+                    "score": 0.906
+                },
+                {
+                    "word": "a",
+                    "start": 45.455,
+                    "end": 45.495,
+                    "score": 0.489
+                },
+                {
+                    "word": "good",
+                    "start": 45.575,
+                    "end": 45.816,
+                    "score": 0.399
+                },
+                {
+                    "word": "idea.",
+                    "start": 46.196,
+                    "end": 46.456,
+                    "score": 0.97
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.129,
+            "end": 0.249,
+            "score": 0.861
+        },
+        {
+            "word": "agree",
+            "start": 0.309,
+            "end": 0.73,
+            "score": 0.914
+        },
+        {
+            "word": "with",
+            "start": 0.83,
+            "end": 1.03,
+            "score": 0.834
+        },
+        {
+            "word": "this",
+            "start": 1.13,
+            "end": 1.35,
+            "score": 0.837
+        },
+        {
+            "word": "claim",
+            "start": 2.071,
+            "end": 2.411,
+            "score": 0.887
+        },
+        {
+            "word": "because",
+            "start": 2.451,
+            "end": 2.852,
+            "score": 0.893
+        },
+        {
+            "word": "if",
+            "start": 3.312,
+            "end": 3.392,
+            "score": 0.99
+        },
+        {
+            "word": "there's",
+            "start": 3.912,
+            "end": 4.233,
+            "score": 0.737
+        },
+        {
+            "word": "too",
+            "start": 4.313,
+            "end": 4.473,
+            "score": 0.987
+        },
+        {
+            "word": "many",
+            "start": 4.513,
+            "end": 4.733,
+            "score": 0.746
+        },
+        {
+            "word": "cars",
+            "start": 4.793,
+            "end": 5.134,
+            "score": 0.876
+        },
+        {
+            "word": "and",
+            "start": 5.834,
+            "end": 5.954,
+            "score": 0.683
+        },
+        {
+            "word": "they",
+            "start": 6.154,
+            "end": 6.355,
+            "score": 0.726
+        },
+        {
+            "word": "make",
+            "start": 6.435,
+            "end": 6.775,
+            "score": 0.871
+        },
+        {
+            "word": "a",
+            "start": 6.795,
+            "end": 6.815,
+            "score": 0.0
+        },
+        {
+            "word": "lot",
+            "start": 7.035,
+            "end": 7.235,
+            "score": 0.975
+        },
+        {
+            "word": "of",
+            "start": 7.275,
+            "end": 7.376,
+            "score": 0.818
+        },
+        {
+            "word": "air",
+            "start": 7.496,
+            "end": 7.636,
+            "score": 0.726
+        },
+        {
+            "word": "pollution,",
+            "start": 7.716,
+            "end": 8.256,
+            "score": 0.893
+        },
+        {
+            "word": "if",
+            "start": 8.957,
+            "end": 9.057,
+            "score": 0.869
+        },
+        {
+            "word": "people",
+            "start": 9.257,
+            "end": 9.778,
+            "score": 0.825
+        },
+        {
+            "word": "use",
+            "start": 9.918,
+            "end": 10.098,
+            "score": 0.826
+        },
+        {
+            "word": "public",
+            "start": 10.518,
+            "end": 10.899,
+            "score": 0.928
+        },
+        {
+            "word": "transportation,",
+            "start": 10.959,
+            "end": 12.0,
+            "score": 0.887
+        },
+        {
+            "word": "we",
+            "start": 12.42,
+            "end": 12.56,
+            "score": 0.864
+        },
+        {
+            "word": "can",
+            "start": 12.6,
+            "end": 12.82,
+            "score": 0.825
+        },
+        {
+            "word": "save",
+            "start": 12.88,
+            "end": 13.161,
+            "score": 0.896
+        },
+        {
+            "word": "energy",
+            "start": 13.301,
+            "end": 13.881,
+            "score": 0.851
+        },
+        {
+            "word": "and",
+            "start": 14.101,
+            "end": 14.262,
+            "score": 0.613
+        },
+        {
+            "word": "it",
+            "start": 16.343,
+            "end": 16.423,
+            "score": 0.922
+        },
+        {
+            "word": "makes",
+            "start": 16.524,
+            "end": 16.804,
+            "score": 0.913
+        },
+        {
+            "word": "little",
+            "start": 17.044,
+            "end": 17.404,
+            "score": 0.894
+        },
+        {
+            "word": "air",
+            "start": 17.785,
+            "end": 17.985,
+            "score": 0.824
+        },
+        {
+            "word": "pollution",
+            "start": 18.425,
+            "end": 18.946,
+            "score": 0.878
+        },
+        {
+            "word": "and",
+            "start": 19.786,
+            "end": 19.967,
+            "score": 0.737
+        },
+        {
+            "word": "they",
+            "start": 21.208,
+            "end": 21.388,
+            "score": 0.742
+        },
+        {
+            "word": "don't",
+            "start": 21.428,
+            "end": 21.788,
+            "score": 0.572
+        },
+        {
+            "word": "need",
+            "start": 22.169,
+            "end": 22.509,
+            "score": 0.703
+        },
+        {
+            "word": "parking",
+            "start": 24.571,
+            "end": 25.051,
+            "score": 0.882
+        },
+        {
+            "word": "lot",
+            "start": 25.151,
+            "end": 25.411,
+            "score": 0.89
+        },
+        {
+            "word": "a",
+            "start": 25.451,
+            "end": 25.491,
+            "score": 0.906
+        },
+        {
+            "word": "lot,",
+            "start": 25.552,
+            "end": 25.752,
+            "score": 0.994
+        },
+        {
+            "word": "it",
+            "start": 25.832,
+            "end": 25.932,
+            "score": 0.765
+        },
+        {
+            "word": "makes",
+            "start": 26.873,
+            "end": 27.133,
+            "score": 0.97
+        },
+        {
+            "word": "It",
+            "start": 32.961,
+            "end": 34.082,
+            "score": 0.745
+        },
+        {
+            "word": "can",
+            "start": 34.102,
+            "end": 34.323,
+            "score": 0.908
+        },
+        {
+            "word": "save",
+            "start": 34.383,
+            "end": 34.783,
+            "score": 0.822
+        },
+        {
+            "word": "money",
+            "start": 36.065,
+            "end": 36.385,
+            "score": 0.834
+        },
+        {
+            "word": "and",
+            "start": 37.066,
+            "end": 37.286,
+            "score": 0.491
+        },
+        {
+            "word": "so",
+            "start": 39.929,
+            "end": 40.329,
+            "score": 0.914
+        },
+        {
+            "word": "I",
+            "start": 40.57,
+            "end": 40.69,
+            "score": 0.798
+        },
+        {
+            "word": "think",
+            "start": 40.87,
+            "end": 41.21,
+            "score": 0.879
+        },
+        {
+            "word": "this",
+            "start": 43.733,
+            "end": 44.014,
+            "score": 0.841
+        },
+        {
+            "word": "is",
+            "start": 44.935,
+            "end": 45.075,
+            "score": 0.906
+        },
+        {
+            "word": "a",
+            "start": 45.455,
+            "end": 45.495,
+            "score": 0.489
+        },
+        {
+            "word": "good",
+            "start": 45.575,
+            "end": 45.816,
+            "score": 0.399
+        },
+        {
+            "word": "idea.",
+            "start": 46.196,
+            "end": 46.456,
+            "score": 0.97
+        }
+    ]
+}

@@ -1,0 +1,565 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 24.228,
+            "text": " You can go from Paradise Hotel through Page Street and then go down to Kilmer Avenue and you pass California Street and then you make a left cross to Beach Street and if you follow it to the end, it's gonna take you to Limelight Disco.",
+            "words": [
+                {
+                    "word": "You",
+                    "start": 0.049,
+                    "end": 0.209,
+                    "score": 0.924
+                },
+                {
+                    "word": "can",
+                    "start": 0.229,
+                    "end": 0.429,
+                    "score": 0.872
+                },
+                {
+                    "word": "go",
+                    "start": 0.489,
+                    "end": 0.89,
+                    "score": 0.764
+                },
+                {
+                    "word": "from",
+                    "start": 1.23,
+                    "end": 1.85,
+                    "score": 0.797
+                },
+                {
+                    "word": "Paradise",
+                    "start": 2.471,
+                    "end": 3.211,
+                    "score": 0.831
+                },
+                {
+                    "word": "Hotel",
+                    "start": 3.292,
+                    "end": 3.972,
+                    "score": 0.841
+                },
+                {
+                    "word": "through",
+                    "start": 4.833,
+                    "end": 5.293,
+                    "score": 0.679
+                },
+                {
+                    "word": "Page",
+                    "start": 5.513,
+                    "end": 5.914,
+                    "score": 0.951
+                },
+                {
+                    "word": "Street",
+                    "start": 5.994,
+                    "end": 6.374,
+                    "score": 0.789
+                },
+                {
+                    "word": "and",
+                    "start": 7.115,
+                    "end": 7.235,
+                    "score": 0.634
+                },
+                {
+                    "word": "then",
+                    "start": 7.275,
+                    "end": 7.535,
+                    "score": 0.946
+                },
+                {
+                    "word": "go",
+                    "start": 7.635,
+                    "end": 7.815,
+                    "score": 0.834
+                },
+                {
+                    "word": "down",
+                    "start": 7.895,
+                    "end": 8.195,
+                    "score": 0.942
+                },
+                {
+                    "word": "to",
+                    "start": 8.315,
+                    "end": 8.516,
+                    "score": 0.902
+                },
+                {
+                    "word": "Kilmer",
+                    "start": 8.576,
+                    "end": 9.056,
+                    "score": 0.859
+                },
+                {
+                    "word": "Avenue",
+                    "start": 9.256,
+                    "end": 9.697,
+                    "score": 0.741
+                },
+                {
+                    "word": "and",
+                    "start": 10.677,
+                    "end": 10.837,
+                    "score": 0.363
+                },
+                {
+                    "word": "you",
+                    "start": 10.958,
+                    "end": 11.318,
+                    "score": 0.712
+                },
+                {
+                    "word": "pass",
+                    "start": 11.398,
+                    "end": 11.778,
+                    "score": 0.923
+                },
+                {
+                    "word": "California",
+                    "start": 11.798,
+                    "end": 12.459,
+                    "score": 0.649
+                },
+                {
+                    "word": "Street",
+                    "start": 12.499,
+                    "end": 12.879,
+                    "score": 0.885
+                },
+                {
+                    "word": "and",
+                    "start": 13.059,
+                    "end": 13.159,
+                    "score": 0.676
+                },
+                {
+                    "word": "then",
+                    "start": 13.199,
+                    "end": 13.419,
+                    "score": 0.836
+                },
+                {
+                    "word": "you",
+                    "start": 13.52,
+                    "end": 13.86,
+                    "score": 0.789
+                },
+                {
+                    "word": "make",
+                    "start": 14.1,
+                    "end": 14.5,
+                    "score": 0.88
+                },
+                {
+                    "word": "a",
+                    "start": 15.961,
+                    "end": 16.102,
+                    "score": 0.924
+                },
+                {
+                    "word": "left",
+                    "start": 16.542,
+                    "end": 16.822,
+                    "score": 0.954
+                },
+                {
+                    "word": "cross",
+                    "start": 16.942,
+                    "end": 17.483,
+                    "score": 0.925
+                },
+                {
+                    "word": "to",
+                    "start": 18.063,
+                    "end": 18.423,
+                    "score": 0.876
+                },
+                {
+                    "word": "Beach",
+                    "start": 18.583,
+                    "end": 18.864,
+                    "score": 0.571
+                },
+                {
+                    "word": "Street",
+                    "start": 18.944,
+                    "end": 19.364,
+                    "score": 0.681
+                },
+                {
+                    "word": "and",
+                    "start": 20.025,
+                    "end": 20.125,
+                    "score": 0.837
+                },
+                {
+                    "word": "if",
+                    "start": 20.185,
+                    "end": 20.265,
+                    "score": 0.978
+                },
+                {
+                    "word": "you",
+                    "start": 20.305,
+                    "end": 20.485,
+                    "score": 0.934
+                },
+                {
+                    "word": "follow",
+                    "start": 20.505,
+                    "end": 20.865,
+                    "score": 0.88
+                },
+                {
+                    "word": "it",
+                    "start": 20.925,
+                    "end": 20.985,
+                    "score": 0.748
+                },
+                {
+                    "word": "to",
+                    "start": 21.085,
+                    "end": 21.226,
+                    "score": 0.977
+                },
+                {
+                    "word": "the",
+                    "start": 21.266,
+                    "end": 21.366,
+                    "score": 0.874
+                },
+                {
+                    "word": "end,",
+                    "start": 21.466,
+                    "end": 21.646,
+                    "score": 0.837
+                },
+                {
+                    "word": "it's",
+                    "start": 22.166,
+                    "end": 22.306,
+                    "score": 0.865
+                },
+                {
+                    "word": "gonna",
+                    "start": 22.326,
+                    "end": 22.547,
+                    "score": 0.41
+                },
+                {
+                    "word": "take",
+                    "start": 22.587,
+                    "end": 22.807,
+                    "score": 0.942
+                },
+                {
+                    "word": "you",
+                    "start": 22.887,
+                    "end": 23.327,
+                    "score": 0.845
+                },
+                {
+                    "word": "to",
+                    "start": 23.347,
+                    "end": 23.387,
+                    "score": 0.002
+                },
+                {
+                    "word": "Limelight",
+                    "start": 23.487,
+                    "end": 23.888,
+                    "score": 0.711
+                },
+                {
+                    "word": "Disco.",
+                    "start": 23.928,
+                    "end": 24.228,
+                    "score": 0.774
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "You",
+            "start": 0.049,
+            "end": 0.209,
+            "score": 0.924
+        },
+        {
+            "word": "can",
+            "start": 0.229,
+            "end": 0.429,
+            "score": 0.872
+        },
+        {
+            "word": "go",
+            "start": 0.489,
+            "end": 0.89,
+            "score": 0.764
+        },
+        {
+            "word": "from",
+            "start": 1.23,
+            "end": 1.85,
+            "score": 0.797
+        },
+        {
+            "word": "Paradise",
+            "start": 2.471,
+            "end": 3.211,
+            "score": 0.831
+        },
+        {
+            "word": "Hotel",
+            "start": 3.292,
+            "end": 3.972,
+            "score": 0.841
+        },
+        {
+            "word": "through",
+            "start": 4.833,
+            "end": 5.293,
+            "score": 0.679
+        },
+        {
+            "word": "Page",
+            "start": 5.513,
+            "end": 5.914,
+            "score": 0.951
+        },
+        {
+            "word": "Street",
+            "start": 5.994,
+            "end": 6.374,
+            "score": 0.789
+        },
+        {
+            "word": "and",
+            "start": 7.115,
+            "end": 7.235,
+            "score": 0.634
+        },
+        {
+            "word": "then",
+            "start": 7.275,
+            "end": 7.535,
+            "score": 0.946
+        },
+        {
+            "word": "go",
+            "start": 7.635,
+            "end": 7.815,
+            "score": 0.834
+        },
+        {
+            "word": "down",
+            "start": 7.895,
+            "end": 8.195,
+            "score": 0.942
+        },
+        {
+            "word": "to",
+            "start": 8.315,
+            "end": 8.516,
+            "score": 0.902
+        },
+        {
+            "word": "Kilmer",
+            "start": 8.576,
+            "end": 9.056,
+            "score": 0.859
+        },
+        {
+            "word": "Avenue",
+            "start": 9.256,
+            "end": 9.697,
+            "score": 0.741
+        },
+        {
+            "word": "and",
+            "start": 10.677,
+            "end": 10.837,
+            "score": 0.363
+        },
+        {
+            "word": "you",
+            "start": 10.958,
+            "end": 11.318,
+            "score": 0.712
+        },
+        {
+            "word": "pass",
+            "start": 11.398,
+            "end": 11.778,
+            "score": 0.923
+        },
+        {
+            "word": "California",
+            "start": 11.798,
+            "end": 12.459,
+            "score": 0.649
+        },
+        {
+            "word": "Street",
+            "start": 12.499,
+            "end": 12.879,
+            "score": 0.885
+        },
+        {
+            "word": "and",
+            "start": 13.059,
+            "end": 13.159,
+            "score": 0.676
+        },
+        {
+            "word": "then",
+            "start": 13.199,
+            "end": 13.419,
+            "score": 0.836
+        },
+        {
+            "word": "you",
+            "start": 13.52,
+            "end": 13.86,
+            "score": 0.789
+        },
+        {
+            "word": "make",
+            "start": 14.1,
+            "end": 14.5,
+            "score": 0.88
+        },
+        {
+            "word": "a",
+            "start": 15.961,
+            "end": 16.102,
+            "score": 0.924
+        },
+        {
+            "word": "left",
+            "start": 16.542,
+            "end": 16.822,
+            "score": 0.954
+        },
+        {
+            "word": "cross",
+            "start": 16.942,
+            "end": 17.483,
+            "score": 0.925
+        },
+        {
+            "word": "to",
+            "start": 18.063,
+            "end": 18.423,
+            "score": 0.876
+        },
+        {
+            "word": "Beach",
+            "start": 18.583,
+            "end": 18.864,
+            "score": 0.571
+        },
+        {
+            "word": "Street",
+            "start": 18.944,
+            "end": 19.364,
+            "score": 0.681
+        },
+        {
+            "word": "and",
+            "start": 20.025,
+            "end": 20.125,
+            "score": 0.837
+        },
+        {
+            "word": "if",
+            "start": 20.185,
+            "end": 20.265,
+            "score": 0.978
+        },
+        {
+            "word": "you",
+            "start": 20.305,
+            "end": 20.485,
+            "score": 0.934
+        },
+        {
+            "word": "follow",
+            "start": 20.505,
+            "end": 20.865,
+            "score": 0.88
+        },
+        {
+            "word": "it",
+            "start": 20.925,
+            "end": 20.985,
+            "score": 0.748
+        },
+        {
+            "word": "to",
+            "start": 21.085,
+            "end": 21.226,
+            "score": 0.977
+        },
+        {
+            "word": "the",
+            "start": 21.266,
+            "end": 21.366,
+            "score": 0.874
+        },
+        {
+            "word": "end,",
+            "start": 21.466,
+            "end": 21.646,
+            "score": 0.837
+        },
+        {
+            "word": "it's",
+            "start": 22.166,
+            "end": 22.306,
+            "score": 0.865
+        },
+        {
+            "word": "gonna",
+            "start": 22.326,
+            "end": 22.547,
+            "score": 0.41
+        },
+        {
+            "word": "take",
+            "start": 22.587,
+            "end": 22.807,
+            "score": 0.942
+        },
+        {
+            "word": "you",
+            "start": 22.887,
+            "end": 23.327,
+            "score": 0.845
+        },
+        {
+            "word": "to",
+            "start": 23.347,
+            "end": 23.387,
+            "score": 0.002
+        },
+        {
+            "word": "Limelight",
+            "start": 23.487,
+            "end": 23.888,
+            "score": 0.711
+        },
+        {
+            "word": "Disco.",
+            "start": 23.928,
+            "end": 24.228,
+            "score": 0.774
+        }
+    ]
+}

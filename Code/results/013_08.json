@@ -1,0 +1,720 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 4.391,
+            "text": " Well, if you're going to go to the park, you have to go straight to the South Avenue.",
+            "words": [
+                {
+                    "word": "Well,",
+                    "start": 0.109,
+                    "end": 0.369,
+                    "score": 0.992
+                },
+                {
+                    "word": "if",
+                    "start": 0.509,
+                    "end": 0.569,
+                    "score": 1.0
+                },
+                {
+                    "word": "you're",
+                    "start": 0.609,
+                    "end": 0.729,
+                    "score": 0.18
+                },
+                {
+                    "word": "going",
+                    "start": 0.749,
+                    "end": 0.849,
+                    "score": 0.026
+                },
+                {
+                    "word": "to",
+                    "start": 0.869,
+                    "end": 0.949,
+                    "score": 0.257
+                },
+                {
+                    "word": "go",
+                    "start": 0.989,
+                    "end": 1.19,
+                    "score": 0.88
+                },
+                {
+                    "word": "to",
+                    "start": 1.23,
+                    "end": 1.33,
+                    "score": 0.832
+                },
+                {
+                    "word": "the",
+                    "start": 1.37,
+                    "end": 1.45,
+                    "score": 0.828
+                },
+                {
+                    "word": "park,",
+                    "start": 1.51,
+                    "end": 1.83,
+                    "score": 0.909
+                },
+                {
+                    "word": "you",
+                    "start": 1.93,
+                    "end": 2.09,
+                    "score": 0.959
+                },
+                {
+                    "word": "have",
+                    "start": 2.13,
+                    "end": 2.25,
+                    "score": 0.995
+                },
+                {
+                    "word": "to",
+                    "start": 2.29,
+                    "end": 2.39,
+                    "score": 0.978
+                },
+                {
+                    "word": "go",
+                    "start": 2.43,
+                    "end": 2.67,
+                    "score": 0.833
+                },
+                {
+                    "word": "straight",
+                    "start": 2.77,
+                    "end": 3.15,
+                    "score": 0.77
+                },
+                {
+                    "word": "to",
+                    "start": 3.17,
+                    "end": 3.251,
+                    "score": 0.284
+                },
+                {
+                    "word": "the",
+                    "start": 3.331,
+                    "end": 3.411,
+                    "score": 0.989
+                },
+                {
+                    "word": "South",
+                    "start": 3.471,
+                    "end": 3.771,
+                    "score": 0.783
+                },
+                {
+                    "word": "Avenue.",
+                    "start": 3.931,
+                    "end": 4.391,
+                    "score": 0.691
+                }
+            ]
+        },
+        {
+            "start": 5.812,
+            "end": 11.975,
+            "text": "Between South Avenue and North Avenue from your hotel.",
+            "words": [
+                {
+                    "word": "Between",
+                    "start": 5.812,
+                    "end": 6.232,
+                    "score": 0.843
+                },
+                {
+                    "word": "South",
+                    "start": 6.332,
+                    "end": 6.552,
+                    "score": 0.653
+                },
+                {
+                    "word": "Avenue",
+                    "start": 6.652,
+                    "end": 7.172,
+                    "score": 0.662
+                },
+                {
+                    "word": "and",
+                    "start": 7.613,
+                    "end": 7.753,
+                    "score": 0.736
+                },
+                {
+                    "word": "North",
+                    "start": 7.853,
+                    "end": 8.193,
+                    "score": 0.911
+                },
+                {
+                    "word": "Avenue",
+                    "start": 8.353,
+                    "end": 8.773,
+                    "score": 0.663
+                },
+                {
+                    "word": "from",
+                    "start": 10.734,
+                    "end": 11.054,
+                    "score": 0.798
+                },
+                {
+                    "word": "your",
+                    "start": 11.154,
+                    "end": 11.414,
+                    "score": 0.736
+                },
+                {
+                    "word": "hotel.",
+                    "start": 11.474,
+                    "end": 11.975,
+                    "score": 0.825
+                }
+            ]
+        },
+        {
+            "start": 12.155,
+            "end": 14.056,
+            "text": "So, that's directly.",
+            "words": [
+                {
+                    "word": "So,",
+                    "start": 12.155,
+                    "end": 12.495,
+                    "score": 0.842
+                },
+                {
+                    "word": "that's",
+                    "start": 13.215,
+                    "end": 13.435,
+                    "score": 0.758
+                },
+                {
+                    "word": "directly.",
+                    "start": 13.475,
+                    "end": 14.056,
+                    "score": 0.929
+                }
+            ]
+        },
+        {
+            "start": 14.696,
+            "end": 19.738,
+            "text": "Remember, the South Avenue is converting in North Avenue in diagonal point.",
+            "words": [
+                {
+                    "word": "Remember,",
+                    "start": 14.696,
+                    "end": 15.176,
+                    "score": 0.865
+                },
+                {
+                    "word": "the",
+                    "start": 15.256,
+                    "end": 15.376,
+                    "score": 0.948
+                },
+                {
+                    "word": "South",
+                    "start": 15.416,
+                    "end": 15.676,
+                    "score": 0.629
+                },
+                {
+                    "word": "Avenue",
+                    "start": 15.776,
+                    "end": 16.197,
+                    "score": 0.843
+                },
+                {
+                    "word": "is",
+                    "start": 16.757,
+                    "end": 16.857,
+                    "score": 0.806
+                },
+                {
+                    "word": "converting",
+                    "start": 16.917,
+                    "end": 17.457,
+                    "score": 0.92
+                },
+                {
+                    "word": "in",
+                    "start": 17.517,
+                    "end": 17.617,
+                    "score": 0.79
+                },
+                {
+                    "word": "North",
+                    "start": 17.677,
+                    "end": 17.917,
+                    "score": 0.908
+                },
+                {
+                    "word": "Avenue",
+                    "start": 18.037,
+                    "end": 18.438,
+                    "score": 0.802
+                },
+                {
+                    "word": "in",
+                    "start": 18.518,
+                    "end": 18.578,
+                    "score": 0.948
+                },
+                {
+                    "word": "diagonal",
+                    "start": 18.638,
+                    "end": 19.318,
+                    "score": 0.861
+                },
+                {
+                    "word": "point.",
+                    "start": 19.378,
+                    "end": 19.738,
+                    "score": 0.861
+                }
+            ]
+        },
+        {
+            "start": 21.239,
+            "end": 22.76,
+            "text": "From the south to the north.",
+            "words": [
+                {
+                    "word": "From",
+                    "start": 21.239,
+                    "end": 21.419,
+                    "score": 0.893
+                },
+                {
+                    "word": "the",
+                    "start": 21.459,
+                    "end": 21.639,
+                    "score": 0.88
+                },
+                {
+                    "word": "south",
+                    "start": 21.779,
+                    "end": 22.099,
+                    "score": 0.664
+                },
+                {
+                    "word": "to",
+                    "start": 22.139,
+                    "end": 22.279,
+                    "score": 0.834
+                },
+                {
+                    "word": "the",
+                    "start": 22.319,
+                    "end": 22.419,
+                    "score": 0.751
+                },
+                {
+                    "word": "north.",
+                    "start": 22.48,
+                    "end": 22.76,
+                    "score": 0.918
+                }
+            ]
+        },
+        {
+            "start": 23.8,
+            "end": 29.683,
+            "text": "Or, no, from the west-south to the north.",
+            "words": [
+                {
+                    "word": "Or,",
+                    "start": 23.8,
+                    "end": 23.9,
+                    "score": 0.744
+                },
+                {
+                    "word": "no,",
+                    "start": 24.0,
+                    "end": 24.26,
+                    "score": 0.816
+                },
+                {
+                    "word": "from",
+                    "start": 24.34,
+                    "end": 24.5,
+                    "score": 0.877
+                },
+                {
+                    "word": "the",
+                    "start": 24.56,
+                    "end": 24.801,
+                    "score": 0.865
+                },
+                {
+                    "word": "west-south",
+                    "start": 25.901,
+                    "end": 28.202,
+                    "score": 0.914
+                },
+                {
+                    "word": "to",
+                    "start": 29.043,
+                    "end": 29.183,
+                    "score": 0.748
+                },
+                {
+                    "word": "the",
+                    "start": 29.223,
+                    "end": 29.323,
+                    "score": 0.897
+                },
+                {
+                    "word": "north.",
+                    "start": 29.403,
+                    "end": 29.683,
+                    "score": 0.865
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Well,",
+            "start": 0.109,
+            "end": 0.369,
+            "score": 0.992
+        },
+        {
+            "word": "if",
+            "start": 0.509,
+            "end": 0.569,
+            "score": 1.0
+        },
+        {
+            "word": "you're",
+            "start": 0.609,
+            "end": 0.729,
+            "score": 0.18
+        },
+        {
+            "word": "going",
+            "start": 0.749,
+            "end": 0.849,
+            "score": 0.026
+        },
+        {
+            "word": "to",
+            "start": 0.869,
+            "end": 0.949,
+            "score": 0.257
+        },
+        {
+            "word": "go",
+            "start": 0.989,
+            "end": 1.19,
+            "score": 0.88
+        },
+        {
+            "word": "to",
+            "start": 1.23,
+            "end": 1.33,
+            "score": 0.832
+        },
+        {
+            "word": "the",
+            "start": 1.37,
+            "end": 1.45,
+            "score": 0.828
+        },
+        {
+            "word": "park,",
+            "start": 1.51,
+            "end": 1.83,
+            "score": 0.909
+        },
+        {
+            "word": "you",
+            "start": 1.93,
+            "end": 2.09,
+            "score": 0.959
+        },
+        {
+            "word": "have",
+            "start": 2.13,
+            "end": 2.25,
+            "score": 0.995
+        },
+        {
+            "word": "to",
+            "start": 2.29,
+            "end": 2.39,
+            "score": 0.978
+        },
+        {
+            "word": "go",
+            "start": 2.43,
+            "end": 2.67,
+            "score": 0.833
+        },
+        {
+            "word": "straight",
+            "start": 2.77,
+            "end": 3.15,
+            "score": 0.77
+        },
+        {
+            "word": "to",
+            "start": 3.17,
+            "end": 3.251,
+            "score": 0.284
+        },
+        {
+            "word": "the",
+            "start": 3.331,
+            "end": 3.411,
+            "score": 0.989
+        },
+        {
+            "word": "South",
+            "start": 3.471,
+            "end": 3.771,
+            "score": 0.783
+        },
+        {
+            "word": "Avenue.",
+            "start": 3.931,
+            "end": 4.391,
+            "score": 0.691
+        },
+        {
+            "word": "Between",
+            "start": 5.812,
+            "end": 6.232,
+            "score": 0.843
+        },
+        {
+            "word": "South",
+            "start": 6.332,
+            "end": 6.552,
+            "score": 0.653
+        },
+        {
+            "word": "Avenue",
+            "start": 6.652,
+            "end": 7.172,
+            "score": 0.662
+        },
+        {
+            "word": "and",
+            "start": 7.613,
+            "end": 7.753,
+            "score": 0.736
+        },
+        {
+            "word": "North",
+            "start": 7.853,
+            "end": 8.193,
+            "score": 0.911
+        },
+        {
+            "word": "Avenue",
+            "start": 8.353,
+            "end": 8.773,
+            "score": 0.663
+        },
+        {
+            "word": "from",
+            "start": 10.734,
+            "end": 11.054,
+            "score": 0.798
+        },
+        {
+            "word": "your",
+            "start": 11.154,
+            "end": 11.414,
+            "score": 0.736
+        },
+        {
+            "word": "hotel.",
+            "start": 11.474,
+            "end": 11.975,
+            "score": 0.825
+        },
+        {
+            "word": "So,",
+            "start": 12.155,
+            "end": 12.495,
+            "score": 0.842
+        },
+        {
+            "word": "that's",
+            "start": 13.215,
+            "end": 13.435,
+            "score": 0.758
+        },
+        {
+            "word": "directly.",
+            "start": 13.475,
+            "end": 14.056,
+            "score": 0.929
+        },
+        {
+            "word": "Remember,",
+            "start": 14.696,
+            "end": 15.176,
+            "score": 0.865
+        },
+        {
+            "word": "the",
+            "start": 15.256,
+            "end": 15.376,
+            "score": 0.948
+        },
+        {
+            "word": "South",
+            "start": 15.416,
+            "end": 15.676,
+            "score": 0.629
+        },
+        {
+            "word": "Avenue",
+            "start": 15.776,
+            "end": 16.197,
+            "score": 0.843
+        },
+        {
+            "word": "is",
+            "start": 16.757,
+            "end": 16.857,
+            "score": 0.806
+        },
+        {
+            "word": "converting",
+            "start": 16.917,
+            "end": 17.457,
+            "score": 0.92
+        },
+        {
+            "word": "in",
+            "start": 17.517,
+            "end": 17.617,
+            "score": 0.79
+        },
+        {
+            "word": "North",
+            "start": 17.677,
+            "end": 17.917,
+            "score": 0.908
+        },
+        {
+            "word": "Avenue",
+            "start": 18.037,
+            "end": 18.438,
+            "score": 0.802
+        },
+        {
+            "word": "in",
+            "start": 18.518,
+            "end": 18.578,
+            "score": 0.948
+        },
+        {
+            "word": "diagonal",
+            "start": 18.638,
+            "end": 19.318,
+            "score": 0.861
+        },
+        {
+            "word": "point.",
+            "start": 19.378,
+            "end": 19.738,
+            "score": 0.861
+        },
+        {
+            "word": "From",
+            "start": 21.239,
+            "end": 21.419,
+            "score": 0.893
+        },
+        {
+            "word": "the",
+            "start": 21.459,
+            "end": 21.639,
+            "score": 0.88
+        },
+        {
+            "word": "south",
+            "start": 21.779,
+            "end": 22.099,
+            "score": 0.664
+        },
+        {
+            "word": "to",
+            "start": 22.139,
+            "end": 22.279,
+            "score": 0.834
+        },
+        {
+            "word": "the",
+            "start": 22.319,
+            "end": 22.419,
+            "score": 0.751
+        },
+        {
+            "word": "north.",
+            "start": 22.48,
+            "end": 22.76,
+            "score": 0.918
+        },
+        {
+            "word": "Or,",
+            "start": 23.8,
+            "end": 23.9,
+            "score": 0.744
+        },
+        {
+            "word": "no,",
+            "start": 24.0,
+            "end": 24.26,
+            "score": 0.816
+        },
+        {
+            "word": "from",
+            "start": 24.34,
+            "end": 24.5,
+            "score": 0.877
+        },
+        {
+            "word": "the",
+            "start": 24.56,
+            "end": 24.801,
+            "score": 0.865
+        },
+        {
+            "word": "west-south",
+            "start": 25.901,
+            "end": 28.202,
+            "score": 0.914
+        },
+        {
+            "word": "to",
+            "start": 29.043,
+            "end": 29.183,
+            "score": 0.748
+        },
+        {
+            "word": "the",
+            "start": 29.223,
+            "end": 29.323,
+            "score": 0.897
+        },
+        {
+            "word": "north.",
+            "start": 29.403,
+            "end": 29.683,
+            "score": 0.865
+        }
+    ]
+}

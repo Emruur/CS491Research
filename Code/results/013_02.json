@@ -1,0 +1,1010 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 9.457,
+            "text": " One of my favorite place for to go or I would like to go is in Australia, especially for the native people.",
+            "words": [
+                {
+                    "word": "One",
+                    "start": 0.089,
+                    "end": 0.209,
+                    "score": 0.693
+                },
+                {
+                    "word": "of",
+                    "start": 0.249,
+                    "end": 0.349,
+                    "score": 0.675
+                },
+                {
+                    "word": "my",
+                    "start": 0.409,
+                    "end": 0.549,
+                    "score": 0.876
+                },
+                {
+                    "word": "favorite",
+                    "start": 0.65,
+                    "end": 1.13,
+                    "score": 0.77
+                },
+                {
+                    "word": "place",
+                    "start": 1.21,
+                    "end": 1.57,
+                    "score": 0.8
+                },
+                {
+                    "word": "for",
+                    "start": 1.63,
+                    "end": 1.851,
+                    "score": 0.96
+                },
+                {
+                    "word": "to",
+                    "start": 2.491,
+                    "end": 2.611,
+                    "score": 0.996
+                },
+                {
+                    "word": "go",
+                    "start": 2.671,
+                    "end": 2.951,
+                    "score": 0.854
+                },
+                {
+                    "word": "or",
+                    "start": 2.972,
+                    "end": 3.012,
+                    "score": 0.002
+                },
+                {
+                    "word": "I",
+                    "start": 3.552,
+                    "end": 3.592,
+                    "score": 0.994
+                },
+                {
+                    "word": "would",
+                    "start": 3.632,
+                    "end": 3.792,
+                    "score": 0.835
+                },
+                {
+                    "word": "like",
+                    "start": 3.832,
+                    "end": 4.012,
+                    "score": 0.956
+                },
+                {
+                    "word": "to",
+                    "start": 4.072,
+                    "end": 4.173,
+                    "score": 1.0
+                },
+                {
+                    "word": "go",
+                    "start": 4.213,
+                    "end": 4.453,
+                    "score": 0.946
+                },
+                {
+                    "word": "is",
+                    "start": 4.613,
+                    "end": 4.733,
+                    "score": 0.792
+                },
+                {
+                    "word": "in",
+                    "start": 4.793,
+                    "end": 4.933,
+                    "score": 0.822
+                },
+                {
+                    "word": "Australia,",
+                    "start": 5.093,
+                    "end": 5.674,
+                    "score": 0.922
+                },
+                {
+                    "word": "especially",
+                    "start": 5.914,
+                    "end": 6.494,
+                    "score": 0.838
+                },
+                {
+                    "word": "for",
+                    "start": 6.595,
+                    "end": 6.935,
+                    "score": 0.664
+                },
+                {
+                    "word": "the",
+                    "start": 6.955,
+                    "end": 7.015,
+                    "score": 0.001
+                },
+                {
+                    "word": "native",
+                    "start": 8.296,
+                    "end": 8.816,
+                    "score": 0.842
+                },
+                {
+                    "word": "people.",
+                    "start": 9.017,
+                    "end": 9.457,
+                    "score": 0.88
+                }
+            ]
+        },
+        {
+            "start": 9.997,
+            "end": 27.953,
+            "text": "I want to know the native people over there, check what they think about the planet, their conservation greens or things like, no, no, what's the word for that?",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 9.997,
+                    "end": 10.078,
+                    "score": 0.909
+                },
+                {
+                    "word": "want",
+                    "start": 10.318,
+                    "end": 10.538,
+                    "score": 0.577
+                },
+                {
+                    "word": "to",
+                    "start": 10.578,
+                    "end": 10.718,
+                    "score": 0.996
+                },
+                {
+                    "word": "know",
+                    "start": 10.778,
+                    "end": 11.078,
+                    "score": 0.779
+                },
+                {
+                    "word": "the",
+                    "start": 11.138,
+                    "end": 11.299,
+                    "score": 0.949
+                },
+                {
+                    "word": "native",
+                    "start": 11.439,
+                    "end": 11.759,
+                    "score": 0.756
+                },
+                {
+                    "word": "people",
+                    "start": 11.799,
+                    "end": 12.219,
+                    "score": 0.798
+                },
+                {
+                    "word": "over",
+                    "start": 12.339,
+                    "end": 12.52,
+                    "score": 0.954
+                },
+                {
+                    "word": "there,",
+                    "start": 12.58,
+                    "end": 12.86,
+                    "score": 0.662
+                },
+                {
+                    "word": "check",
+                    "start": 14.461,
+                    "end": 14.822,
+                    "score": 0.922
+                },
+                {
+                    "word": "what",
+                    "start": 15.142,
+                    "end": 15.322,
+                    "score": 0.929
+                },
+                {
+                    "word": "they",
+                    "start": 15.422,
+                    "end": 15.642,
+                    "score": 0.853
+                },
+                {
+                    "word": "think",
+                    "start": 15.702,
+                    "end": 15.983,
+                    "score": 0.896
+                },
+                {
+                    "word": "about",
+                    "start": 16.143,
+                    "end": 16.423,
+                    "score": 0.849
+                },
+                {
+                    "word": "the",
+                    "start": 16.463,
+                    "end": 16.563,
+                    "score": 0.841
+                },
+                {
+                    "word": "planet,",
+                    "start": 16.603,
+                    "end": 17.144,
+                    "score": 0.848
+                },
+                {
+                    "word": "their",
+                    "start": 18.365,
+                    "end": 18.785,
+                    "score": 0.458
+                },
+                {
+                    "word": "conservation",
+                    "start": 19.646,
+                    "end": 20.687,
+                    "score": 0.74
+                },
+                {
+                    "word": "greens",
+                    "start": 20.787,
+                    "end": 21.187,
+                    "score": 0.734
+                },
+                {
+                    "word": "or",
+                    "start": 21.307,
+                    "end": 21.447,
+                    "score": 0.724
+                },
+                {
+                    "word": "things",
+                    "start": 23.489,
+                    "end": 23.789,
+                    "score": 0.858
+                },
+                {
+                    "word": "like,",
+                    "start": 23.869,
+                    "end": 26.071,
+                    "score": 0.862
+                },
+                {
+                    "word": "no,",
+                    "start": 26.331,
+                    "end": 26.471,
+                    "score": 0.724
+                },
+                {
+                    "word": "no,",
+                    "start": 26.491,
+                    "end": 26.652,
+                    "score": 0.816
+                },
+                {
+                    "word": "what's",
+                    "start": 26.992,
+                    "end": 27.152,
+                    "score": 0.573
+                },
+                {
+                    "word": "the",
+                    "start": 27.172,
+                    "end": 27.292,
+                    "score": 0.493
+                },
+                {
+                    "word": "word",
+                    "start": 27.352,
+                    "end": 27.552,
+                    "score": 0.617
+                },
+                {
+                    "word": "for",
+                    "start": 27.592,
+                    "end": 27.712,
+                    "score": 0.797
+                },
+                {
+                    "word": "that?",
+                    "start": 27.752,
+                    "end": 27.953,
+                    "score": 0.994
+                }
+            ]
+        },
+        {
+            "start": 29.201,
+            "end": 34.686,
+            "text": " Well, but it's really interesting to me because it's a really strange place.",
+            "words": [
+                {
+                    "word": "Well,",
+                    "start": 29.201,
+                    "end": 29.461,
+                    "score": 0.882
+                },
+                {
+                    "word": "but",
+                    "start": 30.142,
+                    "end": 30.262,
+                    "score": 0.997
+                },
+                {
+                    "word": "it's",
+                    "start": 30.342,
+                    "end": 30.442,
+                    "score": 0.793
+                },
+                {
+                    "word": "really",
+                    "start": 30.622,
+                    "end": 30.903,
+                    "score": 0.731
+                },
+                {
+                    "word": "interesting",
+                    "start": 31.023,
+                    "end": 31.483,
+                    "score": 0.927
+                },
+                {
+                    "word": "to",
+                    "start": 31.523,
+                    "end": 31.623,
+                    "score": 0.959
+                },
+                {
+                    "word": "me",
+                    "start": 31.663,
+                    "end": 31.884,
+                    "score": 0.832
+                },
+                {
+                    "word": "because",
+                    "start": 31.984,
+                    "end": 32.404,
+                    "score": 0.838
+                },
+                {
+                    "word": "it's",
+                    "start": 32.484,
+                    "end": 32.604,
+                    "score": 0.696
+                },
+                {
+                    "word": "a",
+                    "start": 32.704,
+                    "end": 32.805,
+                    "score": 0.494
+                },
+                {
+                    "word": "really",
+                    "start": 32.845,
+                    "end": 33.205,
+                    "score": 0.676
+                },
+                {
+                    "word": "strange",
+                    "start": 33.405,
+                    "end": 33.966,
+                    "score": 0.758
+                },
+                {
+                    "word": "place.",
+                    "start": 34.146,
+                    "end": 34.686,
+                    "score": 0.946
+                }
+            ]
+        },
+        {
+            "start": 35.968,
+            "end": 36.648,
+            "text": "The desert.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 35.968,
+                    "end": 36.068,
+                    "score": 0.979
+                },
+                {
+                    "word": "desert.",
+                    "start": 36.108,
+                    "end": 36.648,
+                    "score": 0.925
+                }
+            ]
+        },
+        {
+            "start": 37.889,
+            "end": 38.47,
+            "text": "The desert.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 37.889,
+                    "end": 37.99,
+                    "score": 0.994
+                },
+                {
+                    "word": "desert.",
+                    "start": 38.03,
+                    "end": 38.47,
+                    "score": 0.957
+                }
+            ]
+        },
+        {
+            "start": 38.79,
+            "end": 39.131,
+            "text": "Sorry.",
+            "words": [
+                {
+                    "word": "Sorry.",
+                    "start": 38.79,
+                    "end": 39.131,
+                    "score": 0.972
+                }
+            ]
+        },
+        {
+            "start": 41.533,
+            "end": 44.496,
+            "text": "Well, it's one of my favorite places.",
+            "words": [
+                {
+                    "word": "Well,",
+                    "start": 41.533,
+                    "end": 41.773,
+                    "score": 0.78
+                },
+                {
+                    "word": "it's",
+                    "start": 43.034,
+                    "end": 43.155,
+                    "score": 0.506
+                },
+                {
+                    "word": "one",
+                    "start": 43.235,
+                    "end": 43.355,
+                    "score": 0.541
+                },
+                {
+                    "word": "of",
+                    "start": 43.395,
+                    "end": 43.475,
+                    "score": 0.905
+                },
+                {
+                    "word": "my",
+                    "start": 43.535,
+                    "end": 43.655,
+                    "score": 0.843
+                },
+                {
+                    "word": "favorite",
+                    "start": 43.715,
+                    "end": 44.095,
+                    "score": 0.764
+                },
+                {
+                    "word": "places.",
+                    "start": 44.156,
+                    "end": 44.496,
+                    "score": 0.741
+                }
+            ]
+        },
+        {
+            "start": 44.996,
+            "end": 45.517,
+            "text": "That's the reason.",
+            "words": [
+                {
+                    "word": "That's",
+                    "start": 44.996,
+                    "end": 45.157,
+                    "score": 0.382
+                },
+                {
+                    "word": "the",
+                    "start": 45.177,
+                    "end": 45.257,
+                    "score": 0.361
+                },
+                {
+                    "word": "reason.",
+                    "start": 45.297,
+                    "end": 45.517,
+                    "score": 0.897
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "One",
+            "start": 0.089,
+            "end": 0.209,
+            "score": 0.693
+        },
+        {
+            "word": "of",
+            "start": 0.249,
+            "end": 0.349,
+            "score": 0.675
+        },
+        {
+            "word": "my",
+            "start": 0.409,
+            "end": 0.549,
+            "score": 0.876
+        },
+        {
+            "word": "favorite",
+            "start": 0.65,
+            "end": 1.13,
+            "score": 0.77
+        },
+        {
+            "word": "place",
+            "start": 1.21,
+            "end": 1.57,
+            "score": 0.8
+        },
+        {
+            "word": "for",
+            "start": 1.63,
+            "end": 1.851,
+            "score": 0.96
+        },
+        {
+            "word": "to",
+            "start": 2.491,
+            "end": 2.611,
+            "score": 0.996
+        },
+        {
+            "word": "go",
+            "start": 2.671,
+            "end": 2.951,
+            "score": 0.854
+        },
+        {
+            "word": "or",
+            "start": 2.972,
+            "end": 3.012,
+            "score": 0.002
+        },
+        {
+            "word": "I",
+            "start": 3.552,
+            "end": 3.592,
+            "score": 0.994
+        },
+        {
+            "word": "would",
+            "start": 3.632,
+            "end": 3.792,
+            "score": 0.835
+        },
+        {
+            "word": "like",
+            "start": 3.832,
+            "end": 4.012,
+            "score": 0.956
+        },
+        {
+            "word": "to",
+            "start": 4.072,
+            "end": 4.173,
+            "score": 1.0
+        },
+        {
+            "word": "go",
+            "start": 4.213,
+            "end": 4.453,
+            "score": 0.946
+        },
+        {
+            "word": "is",
+            "start": 4.613,
+            "end": 4.733,
+            "score": 0.792
+        },
+        {
+            "word": "in",
+            "start": 4.793,
+            "end": 4.933,
+            "score": 0.822
+        },
+        {
+            "word": "Australia,",
+            "start": 5.093,
+            "end": 5.674,
+            "score": 0.922
+        },
+        {
+            "word": "especially",
+            "start": 5.914,
+            "end": 6.494,
+            "score": 0.838
+        },
+        {
+            "word": "for",
+            "start": 6.595,
+            "end": 6.935,
+            "score": 0.664
+        },
+        {
+            "word": "the",
+            "start": 6.955,
+            "end": 7.015,
+            "score": 0.001
+        },
+        {
+            "word": "native",
+            "start": 8.296,
+            "end": 8.816,
+            "score": 0.842
+        },
+        {
+            "word": "people.",
+            "start": 9.017,
+            "end": 9.457,
+            "score": 0.88
+        },
+        {
+            "word": "I",
+            "start": 9.997,
+            "end": 10.078,
+            "score": 0.909
+        },
+        {
+            "word": "want",
+            "start": 10.318,
+            "end": 10.538,
+            "score": 0.577
+        },
+        {
+            "word": "to",
+            "start": 10.578,
+            "end": 10.718,
+            "score": 0.996
+        },
+        {
+            "word": "know",
+            "start": 10.778,
+            "end": 11.078,
+            "score": 0.779
+        },
+        {
+            "word": "the",
+            "start": 11.138,
+            "end": 11.299,
+            "score": 0.949
+        },
+        {
+            "word": "native",
+            "start": 11.439,
+            "end": 11.759,
+            "score": 0.756
+        },
+        {
+            "word": "people",
+            "start": 11.799,
+            "end": 12.219,
+            "score": 0.798
+        },
+        {
+            "word": "over",
+            "start": 12.339,
+            "end": 12.52,
+            "score": 0.954
+        },
+        {
+            "word": "there,",
+            "start": 12.58,
+            "end": 12.86,
+            "score": 0.662
+        },
+        {
+            "word": "check",
+            "start": 14.461,
+            "end": 14.822,
+            "score": 0.922
+        },
+        {
+            "word": "what",
+            "start": 15.142,
+            "end": 15.322,
+            "score": 0.929
+        },
+        {
+            "word": "they",
+            "start": 15.422,
+            "end": 15.642,
+            "score": 0.853
+        },
+        {
+            "word": "think",
+            "start": 15.702,
+            "end": 15.983,
+            "score": 0.896
+        },
+        {
+            "word": "about",
+            "start": 16.143,
+            "end": 16.423,
+            "score": 0.849
+        },
+        {
+            "word": "the",
+            "start": 16.463,
+            "end": 16.563,
+            "score": 0.841
+        },
+        {
+            "word": "planet,",
+            "start": 16.603,
+            "end": 17.144,
+            "score": 0.848
+        },
+        {
+            "word": "their",
+            "start": 18.365,
+            "end": 18.785,
+            "score": 0.458
+        },
+        {
+            "word": "conservation",
+            "start": 19.646,
+            "end": 20.687,
+            "score": 0.74
+        },
+        {
+            "word": "greens",
+            "start": 20.787,
+            "end": 21.187,
+            "score": 0.734
+        },
+        {
+            "word": "or",
+            "start": 21.307,
+            "end": 21.447,
+            "score": 0.724
+        },
+        {
+            "word": "things",
+            "start": 23.489,
+            "end": 23.789,
+            "score": 0.858
+        },
+        {
+            "word": "like,",
+            "start": 23.869,
+            "end": 26.071,
+            "score": 0.862
+        },
+        {
+            "word": "no,",
+            "start": 26.331,
+            "end": 26.471,
+            "score": 0.724
+        },
+        {
+            "word": "no,",
+            "start": 26.491,
+            "end": 26.652,
+            "score": 0.816
+        },
+        {
+            "word": "what's",
+            "start": 26.992,
+            "end": 27.152,
+            "score": 0.573
+        },
+        {
+            "word": "the",
+            "start": 27.172,
+            "end": 27.292,
+            "score": 0.493
+        },
+        {
+            "word": "word",
+            "start": 27.352,
+            "end": 27.552,
+            "score": 0.617
+        },
+        {
+            "word": "for",
+            "start": 27.592,
+            "end": 27.712,
+            "score": 0.797
+        },
+        {
+            "word": "that?",
+            "start": 27.752,
+            "end": 27.953,
+            "score": 0.994
+        },
+        {
+            "word": "Well,",
+            "start": 29.201,
+            "end": 29.461,
+            "score": 0.882
+        },
+        {
+            "word": "but",
+            "start": 30.142,
+            "end": 30.262,
+            "score": 0.997
+        },
+        {
+            "word": "it's",
+            "start": 30.342,
+            "end": 30.442,
+            "score": 0.793
+        },
+        {
+            "word": "really",
+            "start": 30.622,
+            "end": 30.903,
+            "score": 0.731
+        },
+        {
+            "word": "interesting",
+            "start": 31.023,
+            "end": 31.483,
+            "score": 0.927
+        },
+        {
+            "word": "to",
+            "start": 31.523,
+            "end": 31.623,
+            "score": 0.959
+        },
+        {
+            "word": "me",
+            "start": 31.663,
+            "end": 31.884,
+            "score": 0.832
+        },
+        {
+            "word": "because",
+            "start": 31.984,
+            "end": 32.404,
+            "score": 0.838
+        },
+        {
+            "word": "it's",
+            "start": 32.484,
+            "end": 32.604,
+            "score": 0.696
+        },
+        {
+            "word": "a",
+            "start": 32.704,
+            "end": 32.805,
+            "score": 0.494
+        },
+        {
+            "word": "really",
+            "start": 32.845,
+            "end": 33.205,
+            "score": 0.676
+        },
+        {
+            "word": "strange",
+            "start": 33.405,
+            "end": 33.966,
+            "score": 0.758
+        },
+        {
+            "word": "place.",
+            "start": 34.146,
+            "end": 34.686,
+            "score": 0.946
+        },
+        {
+            "word": "The",
+            "start": 35.968,
+            "end": 36.068,
+            "score": 0.979
+        },
+        {
+            "word": "desert.",
+            "start": 36.108,
+            "end": 36.648,
+            "score": 0.925
+        },
+        {
+            "word": "The",
+            "start": 37.889,
+            "end": 37.99,
+            "score": 0.994
+        },
+        {
+            "word": "desert.",
+            "start": 38.03,
+            "end": 38.47,
+            "score": 0.957
+        },
+        {
+            "word": "Sorry.",
+            "start": 38.79,
+            "end": 39.131,
+            "score": 0.972
+        },
+        {
+            "word": "Well,",
+            "start": 41.533,
+            "end": 41.773,
+            "score": 0.78
+        },
+        {
+            "word": "it's",
+            "start": 43.034,
+            "end": 43.155,
+            "score": 0.506
+        },
+        {
+            "word": "one",
+            "start": 43.235,
+            "end": 43.355,
+            "score": 0.541
+        },
+        {
+            "word": "of",
+            "start": 43.395,
+            "end": 43.475,
+            "score": 0.905
+        },
+        {
+            "word": "my",
+            "start": 43.535,
+            "end": 43.655,
+            "score": 0.843
+        },
+        {
+            "word": "favorite",
+            "start": 43.715,
+            "end": 44.095,
+            "score": 0.764
+        },
+        {
+            "word": "places.",
+            "start": 44.156,
+            "end": 44.496,
+            "score": 0.741
+        },
+        {
+            "word": "That's",
+            "start": 44.996,
+            "end": 45.157,
+            "score": 0.382
+        },
+        {
+            "word": "the",
+            "start": 45.177,
+            "end": 45.257,
+            "score": 0.361
+        },
+        {
+            "word": "reason.",
+            "start": 45.297,
+            "end": 45.517,
+            "score": 0.897
+        }
+    ]
+}

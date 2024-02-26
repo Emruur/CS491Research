@@ -1,0 +1,1039 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 5.912,
+            "text": " If I could go anywhere in the world, I would like to go to America.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.049,
+                    "end": 0.129,
+                    "score": 0.938
+                },
+                {
+                    "word": "I",
+                    "start": 0.349,
+                    "end": 0.469,
+                    "score": 0.902
+                },
+                {
+                    "word": "could",
+                    "start": 0.689,
+                    "end": 0.889,
+                    "score": 0.928
+                },
+                {
+                    "word": "go",
+                    "start": 0.949,
+                    "end": 1.15,
+                    "score": 0.948
+                },
+                {
+                    "word": "anywhere",
+                    "start": 1.65,
+                    "end": 1.99,
+                    "score": 0.935
+                },
+                {
+                    "word": "in",
+                    "start": 2.07,
+                    "end": 2.15,
+                    "score": 0.75
+                },
+                {
+                    "word": "the",
+                    "start": 2.19,
+                    "end": 2.31,
+                    "score": 0.882
+                },
+                {
+                    "word": "world,",
+                    "start": 2.35,
+                    "end": 2.61,
+                    "score": 0.681
+                },
+                {
+                    "word": "I",
+                    "start": 3.07,
+                    "end": 3.09,
+                    "score": 0.995
+                },
+                {
+                    "word": "would",
+                    "start": 3.13,
+                    "end": 3.25,
+                    "score": 0.112
+                },
+                {
+                    "word": "like",
+                    "start": 3.33,
+                    "end": 3.571,
+                    "score": 0.93
+                },
+                {
+                    "word": "to",
+                    "start": 3.631,
+                    "end": 3.771,
+                    "score": 0.996
+                },
+                {
+                    "word": "go",
+                    "start": 3.831,
+                    "end": 4.051,
+                    "score": 0.908
+                },
+                {
+                    "word": "to",
+                    "start": 4.431,
+                    "end": 4.611,
+                    "score": 0.658
+                },
+                {
+                    "word": "America.",
+                    "start": 5.451,
+                    "end": 5.912,
+                    "score": 0.84
+                }
+            ]
+        },
+        {
+            "start": 6.352,
+            "end": 7.692,
+            "text": "There are two reasons.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 6.352,
+                    "end": 6.512,
+                    "score": 0.607
+                },
+                {
+                    "word": "are",
+                    "start": 6.612,
+                    "end": 6.752,
+                    "score": 0.533
+                },
+                {
+                    "word": "two",
+                    "start": 7.152,
+                    "end": 7.312,
+                    "score": 0.817
+                },
+                {
+                    "word": "reasons.",
+                    "start": 7.372,
+                    "end": 7.692,
+                    "score": 0.894
+                }
+            ]
+        },
+        {
+            "start": 7.813,
+            "end": 10.434,
+            "text": "First, I like sports.",
+            "words": [
+                {
+                    "word": "First,",
+                    "start": 7.813,
+                    "end": 8.113,
+                    "score": 0.775
+                },
+                {
+                    "word": "I",
+                    "start": 8.733,
+                    "end": 8.813,
+                    "score": 0.966
+                },
+                {
+                    "word": "like",
+                    "start": 8.873,
+                    "end": 9.133,
+                    "score": 0.892
+                },
+                {
+                    "word": "sports.",
+                    "start": 10.034,
+                    "end": 10.434,
+                    "score": 0.874
+                }
+            ]
+        },
+        {
+            "start": 11.314,
+            "end": 21.199,
+            "text": "For example, when I go to the US, I will be able to see some kinds of sports games.",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 11.314,
+                    "end": 11.434,
+                    "score": 0.993
+                },
+                {
+                    "word": "example,",
+                    "start": 11.474,
+                    "end": 11.894,
+                    "score": 0.93
+                },
+                {
+                    "word": "when",
+                    "start": 11.914,
+                    "end": 12.455,
+                    "score": 0.502
+                },
+                {
+                    "word": "I",
+                    "start": 12.595,
+                    "end": 12.715,
+                    "score": 0.599
+                },
+                {
+                    "word": "go",
+                    "start": 13.035,
+                    "end": 13.195,
+                    "score": 0.83
+                },
+                {
+                    "word": "to",
+                    "start": 13.255,
+                    "end": 13.395,
+                    "score": 0.996
+                },
+                {
+                    "word": "the",
+                    "start": 13.435,
+                    "end": 13.595,
+                    "score": 0.769
+                },
+                {
+                    "word": "US,",
+                    "start": 14.295,
+                    "end": 14.956,
+                    "score": 0.77
+                },
+                {
+                    "word": "I",
+                    "start": 16.116,
+                    "end": 16.176,
+                    "score": 0.973
+                },
+                {
+                    "word": "will",
+                    "start": 16.216,
+                    "end": 16.396,
+                    "score": 0.695
+                },
+                {
+                    "word": "be",
+                    "start": 16.416,
+                    "end": 16.496,
+                    "score": 0.95
+                },
+                {
+                    "word": "able",
+                    "start": 16.616,
+                    "end": 16.837,
+                    "score": 0.782
+                },
+                {
+                    "word": "to",
+                    "start": 16.937,
+                    "end": 17.077,
+                    "score": 0.84
+                },
+                {
+                    "word": "see",
+                    "start": 17.157,
+                    "end": 17.377,
+                    "score": 0.887
+                },
+                {
+                    "word": "some",
+                    "start": 19.058,
+                    "end": 19.218,
+                    "score": 0.99
+                },
+                {
+                    "word": "kinds",
+                    "start": 19.278,
+                    "end": 19.578,
+                    "score": 0.84
+                },
+                {
+                    "word": "of",
+                    "start": 19.758,
+                    "end": 19.858,
+                    "score": 0.762
+                },
+                {
+                    "word": "sports",
+                    "start": 20.538,
+                    "end": 20.878,
+                    "score": 0.93
+                },
+                {
+                    "word": "games.",
+                    "start": 20.938,
+                    "end": 21.199,
+                    "score": 0.783
+                }
+            ]
+        },
+        {
+            "start": 21.759,
+            "end": 25.5,
+            "text": "For example, baseball, basketball, and football.",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 21.759,
+                    "end": 21.859,
+                    "score": 0.971
+                },
+                {
+                    "word": "example,",
+                    "start": 21.899,
+                    "end": 22.379,
+                    "score": 0.847
+                },
+                {
+                    "word": "baseball,",
+                    "start": 22.879,
+                    "end": 23.36,
+                    "score": 0.826
+                },
+                {
+                    "word": "basketball,",
+                    "start": 23.76,
+                    "end": 24.34,
+                    "score": 0.772
+                },
+                {
+                    "word": "and",
+                    "start": 24.8,
+                    "end": 24.92,
+                    "score": 0.748
+                },
+                {
+                    "word": "football.",
+                    "start": 25.04,
+                    "end": 25.5,
+                    "score": 0.968
+                }
+            ]
+        },
+        {
+            "start": 26.841,
+            "end": 39.286,
+            "text": " And second, if I go to the U.S., we will be able to see a lot of beautiful places and visit some kinds of places.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 26.841,
+                    "end": 26.921,
+                    "score": 0.922
+                },
+                {
+                    "word": "second,",
+                    "start": 26.961,
+                    "end": 27.401,
+                    "score": 0.893
+                },
+                {
+                    "word": "if",
+                    "start": 28.162,
+                    "end": 28.262,
+                    "score": 0.878
+                },
+                {
+                    "word": "I",
+                    "start": 28.402,
+                    "end": 28.542,
+                    "score": 0.888
+                },
+                {
+                    "word": "go",
+                    "start": 28.582,
+                    "end": 28.722,
+                    "score": 0.97
+                },
+                {
+                    "word": "to",
+                    "start": 28.762,
+                    "end": 28.922,
+                    "score": 0.994
+                },
+                {
+                    "word": "the",
+                    "start": 28.942,
+                    "end": 29.002,
+                    "score": 0.004
+                },
+                {
+                    "word": "U.S.,",
+                    "start": 29.942,
+                    "end": 30.302,
+                    "score": 0.762
+                },
+                {
+                    "word": "we",
+                    "start": 31.683,
+                    "end": 31.783,
+                    "score": 0.877
+                },
+                {
+                    "word": "will",
+                    "start": 31.823,
+                    "end": 31.983,
+                    "score": 0.45
+                },
+                {
+                    "word": "be",
+                    "start": 32.003,
+                    "end": 32.083,
+                    "score": 0.967
+                },
+                {
+                    "word": "able",
+                    "start": 32.243,
+                    "end": 32.463,
+                    "score": 0.84
+                },
+                {
+                    "word": "to",
+                    "start": 32.543,
+                    "end": 32.663,
+                    "score": 0.802
+                },
+                {
+                    "word": "see",
+                    "start": 32.723,
+                    "end": 32.904,
+                    "score": 0.911
+                },
+                {
+                    "word": "a",
+                    "start": 32.924,
+                    "end": 32.944,
+                    "score": 0.001
+                },
+                {
+                    "word": "lot",
+                    "start": 33.464,
+                    "end": 33.704,
+                    "score": 0.799
+                },
+                {
+                    "word": "of",
+                    "start": 33.824,
+                    "end": 33.984,
+                    "score": 0.763
+                },
+                {
+                    "word": "beautiful",
+                    "start": 34.284,
+                    "end": 34.684,
+                    "score": 0.555
+                },
+                {
+                    "word": "places",
+                    "start": 34.744,
+                    "end": 35.225,
+                    "score": 0.744
+                },
+                {
+                    "word": "and",
+                    "start": 36.045,
+                    "end": 36.185,
+                    "score": 0.618
+                },
+                {
+                    "word": "visit",
+                    "start": 36.565,
+                    "end": 36.865,
+                    "score": 0.791
+                },
+                {
+                    "word": "some",
+                    "start": 38.126,
+                    "end": 38.306,
+                    "score": 0.931
+                },
+                {
+                    "word": "kinds",
+                    "start": 38.366,
+                    "end": 38.646,
+                    "score": 0.727
+                },
+                {
+                    "word": "of",
+                    "start": 38.766,
+                    "end": 38.886,
+                    "score": 0.769
+                },
+                {
+                    "word": "places.",
+                    "start": 38.946,
+                    "end": 39.286,
+                    "score": 0.583
+                }
+            ]
+        },
+        {
+            "start": 40.407,
+            "end": 45.629,
+            "text": "So I would like to go to the U.S.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 40.407,
+                    "end": 40.667,
+                    "score": 0.832
+                },
+                {
+                    "word": "I",
+                    "start": 42.247,
+                    "end": 42.347,
+                    "score": 0.884
+                },
+                {
+                    "word": "would",
+                    "start": 42.367,
+                    "end": 43.228,
+                    "score": 0.604
+                },
+                {
+                    "word": "like",
+                    "start": 43.288,
+                    "end": 43.508,
+                    "score": 0.651
+                },
+                {
+                    "word": "to",
+                    "start": 43.548,
+                    "end": 43.708,
+                    "score": 0.796
+                },
+                {
+                    "word": "go",
+                    "start": 43.748,
+                    "end": 43.928,
+                    "score": 0.662
+                },
+                {
+                    "word": "to",
+                    "start": 44.788,
+                    "end": 44.969,
+                    "score": 0.994
+                },
+                {
+                    "word": "the",
+                    "start": 45.029,
+                    "end": 45.169,
+                    "score": 0.83
+                },
+                {
+                    "word": "U.S.",
+                    "start": 45.389,
+                    "end": 45.629,
+                    "score": 0.616
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.049,
+            "end": 0.129,
+            "score": 0.938
+        },
+        {
+            "word": "I",
+            "start": 0.349,
+            "end": 0.469,
+            "score": 0.902
+        },
+        {
+            "word": "could",
+            "start": 0.689,
+            "end": 0.889,
+            "score": 0.928
+        },
+        {
+            "word": "go",
+            "start": 0.949,
+            "end": 1.15,
+            "score": 0.948
+        },
+        {
+            "word": "anywhere",
+            "start": 1.65,
+            "end": 1.99,
+            "score": 0.935
+        },
+        {
+            "word": "in",
+            "start": 2.07,
+            "end": 2.15,
+            "score": 0.75
+        },
+        {
+            "word": "the",
+            "start": 2.19,
+            "end": 2.31,
+            "score": 0.882
+        },
+        {
+            "word": "world,",
+            "start": 2.35,
+            "end": 2.61,
+            "score": 0.681
+        },
+        {
+            "word": "I",
+            "start": 3.07,
+            "end": 3.09,
+            "score": 0.995
+        },
+        {
+            "word": "would",
+            "start": 3.13,
+            "end": 3.25,
+            "score": 0.112
+        },
+        {
+            "word": "like",
+            "start": 3.33,
+            "end": 3.571,
+            "score": 0.93
+        },
+        {
+            "word": "to",
+            "start": 3.631,
+            "end": 3.771,
+            "score": 0.996
+        },
+        {
+            "word": "go",
+            "start": 3.831,
+            "end": 4.051,
+            "score": 0.908
+        },
+        {
+            "word": "to",
+            "start": 4.431,
+            "end": 4.611,
+            "score": 0.658
+        },
+        {
+            "word": "America.",
+            "start": 5.451,
+            "end": 5.912,
+            "score": 0.84
+        },
+        {
+            "word": "There",
+            "start": 6.352,
+            "end": 6.512,
+            "score": 0.607
+        },
+        {
+            "word": "are",
+            "start": 6.612,
+            "end": 6.752,
+            "score": 0.533
+        },
+        {
+            "word": "two",
+            "start": 7.152,
+            "end": 7.312,
+            "score": 0.817
+        },
+        {
+            "word": "reasons.",
+            "start": 7.372,
+            "end": 7.692,
+            "score": 0.894
+        },
+        {
+            "word": "First,",
+            "start": 7.813,
+            "end": 8.113,
+            "score": 0.775
+        },
+        {
+            "word": "I",
+            "start": 8.733,
+            "end": 8.813,
+            "score": 0.966
+        },
+        {
+            "word": "like",
+            "start": 8.873,
+            "end": 9.133,
+            "score": 0.892
+        },
+        {
+            "word": "sports.",
+            "start": 10.034,
+            "end": 10.434,
+            "score": 0.874
+        },
+        {
+            "word": "For",
+            "start": 11.314,
+            "end": 11.434,
+            "score": 0.993
+        },
+        {
+            "word": "example,",
+            "start": 11.474,
+            "end": 11.894,
+            "score": 0.93
+        },
+        {
+            "word": "when",
+            "start": 11.914,
+            "end": 12.455,
+            "score": 0.502
+        },
+        {
+            "word": "I",
+            "start": 12.595,
+            "end": 12.715,
+            "score": 0.599
+        },
+        {
+            "word": "go",
+            "start": 13.035,
+            "end": 13.195,
+            "score": 0.83
+        },
+        {
+            "word": "to",
+            "start": 13.255,
+            "end": 13.395,
+            "score": 0.996
+        },
+        {
+            "word": "the",
+            "start": 13.435,
+            "end": 13.595,
+            "score": 0.769
+        },
+        {
+            "word": "US,",
+            "start": 14.295,
+            "end": 14.956,
+            "score": 0.77
+        },
+        {
+            "word": "I",
+            "start": 16.116,
+            "end": 16.176,
+            "score": 0.973
+        },
+        {
+            "word": "will",
+            "start": 16.216,
+            "end": 16.396,
+            "score": 0.695
+        },
+        {
+            "word": "be",
+            "start": 16.416,
+            "end": 16.496,
+            "score": 0.95
+        },
+        {
+            "word": "able",
+            "start": 16.616,
+            "end": 16.837,
+            "score": 0.782
+        },
+        {
+            "word": "to",
+            "start": 16.937,
+            "end": 17.077,
+            "score": 0.84
+        },
+        {
+            "word": "see",
+            "start": 17.157,
+            "end": 17.377,
+            "score": 0.887
+        },
+        {
+            "word": "some",
+            "start": 19.058,
+            "end": 19.218,
+            "score": 0.99
+        },
+        {
+            "word": "kinds",
+            "start": 19.278,
+            "end": 19.578,
+            "score": 0.84
+        },
+        {
+            "word": "of",
+            "start": 19.758,
+            "end": 19.858,
+            "score": 0.762
+        },
+        {
+            "word": "sports",
+            "start": 20.538,
+            "end": 20.878,
+            "score": 0.93
+        },
+        {
+            "word": "games.",
+            "start": 20.938,
+            "end": 21.199,
+            "score": 0.783
+        },
+        {
+            "word": "For",
+            "start": 21.759,
+            "end": 21.859,
+            "score": 0.971
+        },
+        {
+            "word": "example,",
+            "start": 21.899,
+            "end": 22.379,
+            "score": 0.847
+        },
+        {
+            "word": "baseball,",
+            "start": 22.879,
+            "end": 23.36,
+            "score": 0.826
+        },
+        {
+            "word": "basketball,",
+            "start": 23.76,
+            "end": 24.34,
+            "score": 0.772
+        },
+        {
+            "word": "and",
+            "start": 24.8,
+            "end": 24.92,
+            "score": 0.748
+        },
+        {
+            "word": "football.",
+            "start": 25.04,
+            "end": 25.5,
+            "score": 0.968
+        },
+        {
+            "word": "And",
+            "start": 26.841,
+            "end": 26.921,
+            "score": 0.922
+        },
+        {
+            "word": "second,",
+            "start": 26.961,
+            "end": 27.401,
+            "score": 0.893
+        },
+        {
+            "word": "if",
+            "start": 28.162,
+            "end": 28.262,
+            "score": 0.878
+        },
+        {
+            "word": "I",
+            "start": 28.402,
+            "end": 28.542,
+            "score": 0.888
+        },
+        {
+            "word": "go",
+            "start": 28.582,
+            "end": 28.722,
+            "score": 0.97
+        },
+        {
+            "word": "to",
+            "start": 28.762,
+            "end": 28.922,
+            "score": 0.994
+        },
+        {
+            "word": "the",
+            "start": 28.942,
+            "end": 29.002,
+            "score": 0.004
+        },
+        {
+            "word": "U.S.,",
+            "start": 29.942,
+            "end": 30.302,
+            "score": 0.762
+        },
+        {
+            "word": "we",
+            "start": 31.683,
+            "end": 31.783,
+            "score": 0.877
+        },
+        {
+            "word": "will",
+            "start": 31.823,
+            "end": 31.983,
+            "score": 0.45
+        },
+        {
+            "word": "be",
+            "start": 32.003,
+            "end": 32.083,
+            "score": 0.967
+        },
+        {
+            "word": "able",
+            "start": 32.243,
+            "end": 32.463,
+            "score": 0.84
+        },
+        {
+            "word": "to",
+            "start": 32.543,
+            "end": 32.663,
+            "score": 0.802
+        },
+        {
+            "word": "see",
+            "start": 32.723,
+            "end": 32.904,
+            "score": 0.911
+        },
+        {
+            "word": "a",
+            "start": 32.924,
+            "end": 32.944,
+            "score": 0.001
+        },
+        {
+            "word": "lot",
+            "start": 33.464,
+            "end": 33.704,
+            "score": 0.799
+        },
+        {
+            "word": "of",
+            "start": 33.824,
+            "end": 33.984,
+            "score": 0.763
+        },
+        {
+            "word": "beautiful",
+            "start": 34.284,
+            "end": 34.684,
+            "score": 0.555
+        },
+        {
+            "word": "places",
+            "start": 34.744,
+            "end": 35.225,
+            "score": 0.744
+        },
+        {
+            "word": "and",
+            "start": 36.045,
+            "end": 36.185,
+            "score": 0.618
+        },
+        {
+            "word": "visit",
+            "start": 36.565,
+            "end": 36.865,
+            "score": 0.791
+        },
+        {
+            "word": "some",
+            "start": 38.126,
+            "end": 38.306,
+            "score": 0.931
+        },
+        {
+            "word": "kinds",
+            "start": 38.366,
+            "end": 38.646,
+            "score": 0.727
+        },
+        {
+            "word": "of",
+            "start": 38.766,
+            "end": 38.886,
+            "score": 0.769
+        },
+        {
+            "word": "places.",
+            "start": 38.946,
+            "end": 39.286,
+            "score": 0.583
+        },
+        {
+            "word": "So",
+            "start": 40.407,
+            "end": 40.667,
+            "score": 0.832
+        },
+        {
+            "word": "I",
+            "start": 42.247,
+            "end": 42.347,
+            "score": 0.884
+        },
+        {
+            "word": "would",
+            "start": 42.367,
+            "end": 43.228,
+            "score": 0.604
+        },
+        {
+            "word": "like",
+            "start": 43.288,
+            "end": 43.508,
+            "score": 0.651
+        },
+        {
+            "word": "to",
+            "start": 43.548,
+            "end": 43.708,
+            "score": 0.796
+        },
+        {
+            "word": "go",
+            "start": 43.748,
+            "end": 43.928,
+            "score": 0.662
+        },
+        {
+            "word": "to",
+            "start": 44.788,
+            "end": 44.969,
+            "score": 0.994
+        },
+        {
+            "word": "the",
+            "start": 45.029,
+            "end": 45.169,
+            "score": 0.83
+        },
+        {
+            "word": "U.S.",
+            "start": 45.389,
+            "end": 45.629,
+            "score": 0.616
+        }
+    ]
+}

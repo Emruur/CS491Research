@@ -1,0 +1,680 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 27.775,
+            "text": " if I can go anywhere in the world I want to go to the pyramid in Egypt because there I think there maybe are lots of treasures and I think I can feel the history about many years ago and like in the movie I think I can I can make",
+            "words": [
+                {
+                    "word": "if",
+                    "start": 0.089,
+                    "end": 0.169,
+                    "score": 0.97
+                },
+                {
+                    "word": "I",
+                    "start": 0.289,
+                    "end": 0.389,
+                    "score": 0.974
+                },
+                {
+                    "word": "can",
+                    "start": 0.849,
+                    "end": 1.129,
+                    "score": 0.841
+                },
+                {
+                    "word": "go",
+                    "start": 1.169,
+                    "end": 1.309,
+                    "score": 1.0
+                },
+                {
+                    "word": "anywhere",
+                    "start": 1.409,
+                    "end": 1.809,
+                    "score": 0.789
+                },
+                {
+                    "word": "in",
+                    "start": 1.889,
+                    "end": 1.969,
+                    "score": 0.909
+                },
+                {
+                    "word": "the",
+                    "start": 2.009,
+                    "end": 2.109,
+                    "score": 0.98
+                },
+                {
+                    "word": "world",
+                    "start": 2.149,
+                    "end": 2.37,
+                    "score": 0.826
+                },
+                {
+                    "word": "I",
+                    "start": 2.57,
+                    "end": 2.61,
+                    "score": 0.999
+                },
+                {
+                    "word": "want",
+                    "start": 2.65,
+                    "end": 2.83,
+                    "score": 0.634
+                },
+                {
+                    "word": "to",
+                    "start": 2.87,
+                    "end": 2.97,
+                    "score": 0.818
+                },
+                {
+                    "word": "go",
+                    "start": 3.01,
+                    "end": 3.29,
+                    "score": 0.764
+                },
+                {
+                    "word": "to",
+                    "start": 4.07,
+                    "end": 4.39,
+                    "score": 0.938
+                },
+                {
+                    "word": "the",
+                    "start": 4.63,
+                    "end": 4.75,
+                    "score": 0.937
+                },
+                {
+                    "word": "pyramid",
+                    "start": 4.91,
+                    "end": 5.45,
+                    "score": 0.882
+                },
+                {
+                    "word": "in",
+                    "start": 5.67,
+                    "end": 5.81,
+                    "score": 0.534
+                },
+                {
+                    "word": "Egypt",
+                    "start": 6.19,
+                    "end": 6.55,
+                    "score": 0.94
+                },
+                {
+                    "word": "because",
+                    "start": 7.051,
+                    "end": 7.391,
+                    "score": 0.857
+                },
+                {
+                    "word": "there",
+                    "start": 7.411,
+                    "end": 8.391,
+                    "score": 0.76
+                },
+                {
+                    "word": "I",
+                    "start": 8.411,
+                    "end": 8.431,
+                    "score": 0.001
+                },
+                {
+                    "word": "think",
+                    "start": 8.951,
+                    "end": 9.231,
+                    "score": 0.925
+                },
+                {
+                    "word": "there",
+                    "start": 9.931,
+                    "end": 10.131,
+                    "score": 0.835
+                },
+                {
+                    "word": "maybe",
+                    "start": 10.151,
+                    "end": 10.891,
+                    "score": 0.837
+                },
+                {
+                    "word": "are",
+                    "start": 10.911,
+                    "end": 10.971,
+                    "score": 0.002
+                },
+                {
+                    "word": "lots",
+                    "start": 11.071,
+                    "end": 11.351,
+                    "score": 0.815
+                },
+                {
+                    "word": "of",
+                    "start": 11.451,
+                    "end": 11.531,
+                    "score": 0.83
+                },
+                {
+                    "word": "treasures",
+                    "start": 11.812,
+                    "end": 12.392,
+                    "score": 0.831
+                },
+                {
+                    "word": "and",
+                    "start": 13.572,
+                    "end": 13.752,
+                    "score": 0.805
+                },
+                {
+                    "word": "I",
+                    "start": 13.772,
+                    "end": 13.792,
+                    "score": 0.001
+                },
+                {
+                    "word": "think",
+                    "start": 14.592,
+                    "end": 14.852,
+                    "score": 0.907
+                },
+                {
+                    "word": "I",
+                    "start": 15.412,
+                    "end": 15.452,
+                    "score": 0.996
+                },
+                {
+                    "word": "can",
+                    "start": 15.492,
+                    "end": 15.672,
+                    "score": 0.87
+                },
+                {
+                    "word": "feel",
+                    "start": 15.712,
+                    "end": 15.972,
+                    "score": 0.918
+                },
+                {
+                    "word": "the",
+                    "start": 15.992,
+                    "end": 16.052,
+                    "score": 0.021
+                },
+                {
+                    "word": "history",
+                    "start": 16.913,
+                    "end": 17.553,
+                    "score": 0.763
+                },
+                {
+                    "word": "about",
+                    "start": 17.653,
+                    "end": 18.033,
+                    "score": 0.909
+                },
+                {
+                    "word": "many",
+                    "start": 18.353,
+                    "end": 18.593,
+                    "score": 0.798
+                },
+                {
+                    "word": "years",
+                    "start": 18.633,
+                    "end": 18.933,
+                    "score": 0.664
+                },
+                {
+                    "word": "ago",
+                    "start": 19.053,
+                    "end": 19.353,
+                    "score": 0.915
+                },
+                {
+                    "word": "and",
+                    "start": 19.373,
+                    "end": 19.433,
+                    "score": 0.0
+                },
+                {
+                    "word": "like",
+                    "start": 20.773,
+                    "end": 21.014,
+                    "score": 0.77
+                },
+                {
+                    "word": "in",
+                    "start": 21.674,
+                    "end": 21.774,
+                    "score": 0.878
+                },
+                {
+                    "word": "the",
+                    "start": 21.814,
+                    "end": 21.914,
+                    "score": 0.802
+                },
+                {
+                    "word": "movie",
+                    "start": 21.974,
+                    "end": 22.414,
+                    "score": 0.842
+                },
+                {
+                    "word": "I",
+                    "start": 23.434,
+                    "end": 23.494,
+                    "score": 0.995
+                },
+                {
+                    "word": "think",
+                    "start": 23.554,
+                    "end": 23.814,
+                    "score": 0.849
+                },
+                {
+                    "word": "I",
+                    "start": 23.914,
+                    "end": 23.974,
+                    "score": 0.724
+                },
+                {
+                    "word": "can",
+                    "start": 24.014,
+                    "end": 24.274,
+                    "score": 0.938
+                },
+                {
+                    "word": "I",
+                    "start": 27.255,
+                    "end": 27.315,
+                    "score": 0.884
+                },
+                {
+                    "word": "can",
+                    "start": 27.355,
+                    "end": 27.535,
+                    "score": 0.921
+                },
+                {
+                    "word": "make",
+                    "start": 27.575,
+                    "end": 27.775,
+                    "score": 0.996
+                }
+            ]
+        },
+        {
+            "start": 33.554,
+            "end": 34.275,
+            "text": " I can feel more...",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 33.554,
+                    "end": 33.634,
+                    "score": 0.965
+                },
+                {
+                    "word": "can",
+                    "start": 33.674,
+                    "end": 33.814,
+                    "score": 0.82
+                },
+                {
+                    "word": "feel",
+                    "start": 33.854,
+                    "end": 34.175,
+                    "score": 0.911
+                },
+                {
+                    "word": "more...",
+                    "start": 34.195,
+                    "end": 34.275,
+                    "score": 0.003
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "if",
+            "start": 0.089,
+            "end": 0.169,
+            "score": 0.97
+        },
+        {
+            "word": "I",
+            "start": 0.289,
+            "end": 0.389,
+            "score": 0.974
+        },
+        {
+            "word": "can",
+            "start": 0.849,
+            "end": 1.129,
+            "score": 0.841
+        },
+        {
+            "word": "go",
+            "start": 1.169,
+            "end": 1.309,
+            "score": 1.0
+        },
+        {
+            "word": "anywhere",
+            "start": 1.409,
+            "end": 1.809,
+            "score": 0.789
+        },
+        {
+            "word": "in",
+            "start": 1.889,
+            "end": 1.969,
+            "score": 0.909
+        },
+        {
+            "word": "the",
+            "start": 2.009,
+            "end": 2.109,
+            "score": 0.98
+        },
+        {
+            "word": "world",
+            "start": 2.149,
+            "end": 2.37,
+            "score": 0.826
+        },
+        {
+            "word": "I",
+            "start": 2.57,
+            "end": 2.61,
+            "score": 0.999
+        },
+        {
+            "word": "want",
+            "start": 2.65,
+            "end": 2.83,
+            "score": 0.634
+        },
+        {
+            "word": "to",
+            "start": 2.87,
+            "end": 2.97,
+            "score": 0.818
+        },
+        {
+            "word": "go",
+            "start": 3.01,
+            "end": 3.29,
+            "score": 0.764
+        },
+        {
+            "word": "to",
+            "start": 4.07,
+            "end": 4.39,
+            "score": 0.938
+        },
+        {
+            "word": "the",
+            "start": 4.63,
+            "end": 4.75,
+            "score": 0.937
+        },
+        {
+            "word": "pyramid",
+            "start": 4.91,
+            "end": 5.45,
+            "score": 0.882
+        },
+        {
+            "word": "in",
+            "start": 5.67,
+            "end": 5.81,
+            "score": 0.534
+        },
+        {
+            "word": "Egypt",
+            "start": 6.19,
+            "end": 6.55,
+            "score": 0.94
+        },
+        {
+            "word": "because",
+            "start": 7.051,
+            "end": 7.391,
+            "score": 0.857
+        },
+        {
+            "word": "there",
+            "start": 7.411,
+            "end": 8.391,
+            "score": 0.76
+        },
+        {
+            "word": "I",
+            "start": 8.411,
+            "end": 8.431,
+            "score": 0.001
+        },
+        {
+            "word": "think",
+            "start": 8.951,
+            "end": 9.231,
+            "score": 0.925
+        },
+        {
+            "word": "there",
+            "start": 9.931,
+            "end": 10.131,
+            "score": 0.835
+        },
+        {
+            "word": "maybe",
+            "start": 10.151,
+            "end": 10.891,
+            "score": 0.837
+        },
+        {
+            "word": "are",
+            "start": 10.911,
+            "end": 10.971,
+            "score": 0.002
+        },
+        {
+            "word": "lots",
+            "start": 11.071,
+            "end": 11.351,
+            "score": 0.815
+        },
+        {
+            "word": "of",
+            "start": 11.451,
+            "end": 11.531,
+            "score": 0.83
+        },
+        {
+            "word": "treasures",
+            "start": 11.812,
+            "end": 12.392,
+            "score": 0.831
+        },
+        {
+            "word": "and",
+            "start": 13.572,
+            "end": 13.752,
+            "score": 0.805
+        },
+        {
+            "word": "I",
+            "start": 13.772,
+            "end": 13.792,
+            "score": 0.001
+        },
+        {
+            "word": "think",
+            "start": 14.592,
+            "end": 14.852,
+            "score": 0.907
+        },
+        {
+            "word": "I",
+            "start": 15.412,
+            "end": 15.452,
+            "score": 0.996
+        },
+        {
+            "word": "can",
+            "start": 15.492,
+            "end": 15.672,
+            "score": 0.87
+        },
+        {
+            "word": "feel",
+            "start": 15.712,
+            "end": 15.972,
+            "score": 0.918
+        },
+        {
+            "word": "the",
+            "start": 15.992,
+            "end": 16.052,
+            "score": 0.021
+        },
+        {
+            "word": "history",
+            "start": 16.913,
+            "end": 17.553,
+            "score": 0.763
+        },
+        {
+            "word": "about",
+            "start": 17.653,
+            "end": 18.033,
+            "score": 0.909
+        },
+        {
+            "word": "many",
+            "start": 18.353,
+            "end": 18.593,
+            "score": 0.798
+        },
+        {
+            "word": "years",
+            "start": 18.633,
+            "end": 18.933,
+            "score": 0.664
+        },
+        {
+            "word": "ago",
+            "start": 19.053,
+            "end": 19.353,
+            "score": 0.915
+        },
+        {
+            "word": "and",
+            "start": 19.373,
+            "end": 19.433,
+            "score": 0.0
+        },
+        {
+            "word": "like",
+            "start": 20.773,
+            "end": 21.014,
+            "score": 0.77
+        },
+        {
+            "word": "in",
+            "start": 21.674,
+            "end": 21.774,
+            "score": 0.878
+        },
+        {
+            "word": "the",
+            "start": 21.814,
+            "end": 21.914,
+            "score": 0.802
+        },
+        {
+            "word": "movie",
+            "start": 21.974,
+            "end": 22.414,
+            "score": 0.842
+        },
+        {
+            "word": "I",
+            "start": 23.434,
+            "end": 23.494,
+            "score": 0.995
+        },
+        {
+            "word": "think",
+            "start": 23.554,
+            "end": 23.814,
+            "score": 0.849
+        },
+        {
+            "word": "I",
+            "start": 23.914,
+            "end": 23.974,
+            "score": 0.724
+        },
+        {
+            "word": "can",
+            "start": 24.014,
+            "end": 24.274,
+            "score": 0.938
+        },
+        {
+            "word": "I",
+            "start": 27.255,
+            "end": 27.315,
+            "score": 0.884
+        },
+        {
+            "word": "can",
+            "start": 27.355,
+            "end": 27.535,
+            "score": 0.921
+        },
+        {
+            "word": "make",
+            "start": 27.575,
+            "end": 27.775,
+            "score": 0.996
+        },
+        {
+            "word": "I",
+            "start": 33.554,
+            "end": 33.634,
+            "score": 0.965
+        },
+        {
+            "word": "can",
+            "start": 33.674,
+            "end": 33.814,
+            "score": 0.82
+        },
+        {
+            "word": "feel",
+            "start": 33.854,
+            "end": 34.175,
+            "score": 0.911
+        },
+        {
+            "word": "more...",
+            "start": 34.195,
+            "end": 34.275,
+            "score": 0.003
+        }
+    ]
+}

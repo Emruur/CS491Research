@@ -1,0 +1,992 @@
+{
+    "segments": [
+        {
+            "start": 0.369,
+            "end": 25.845,
+            "text": " if I could go anywhere in the world I would like to go to Barcelona Barcelona is a city in Spain the reason that I want to go there because of there are a lot of many goddess works I have studied about goddess architectures and it is amazing and",
+            "words": [
+                {
+                    "word": "if",
+                    "start": 0.369,
+                    "end": 0.449,
+                    "score": 0.836
+                },
+                {
+                    "word": "I",
+                    "start": 0.609,
+                    "end": 0.689,
+                    "score": 0.787
+                },
+                {
+                    "word": "could",
+                    "start": 0.749,
+                    "end": 0.97,
+                    "score": 0.872
+                },
+                {
+                    "word": "go",
+                    "start": 1.01,
+                    "end": 1.17,
+                    "score": 0.999
+                },
+                {
+                    "word": "anywhere",
+                    "start": 1.29,
+                    "end": 1.71,
+                    "score": 0.851
+                },
+                {
+                    "word": "in",
+                    "start": 1.83,
+                    "end": 1.89,
+                    "score": 0.994
+                },
+                {
+                    "word": "the",
+                    "start": 1.93,
+                    "end": 1.99,
+                    "score": 0.962
+                },
+                {
+                    "word": "world",
+                    "start": 2.05,
+                    "end": 2.29,
+                    "score": 0.463
+                },
+                {
+                    "word": "I",
+                    "start": 2.831,
+                    "end": 2.871,
+                    "score": 1.0
+                },
+                {
+                    "word": "would",
+                    "start": 2.911,
+                    "end": 3.071,
+                    "score": 0.958
+                },
+                {
+                    "word": "like",
+                    "start": 3.111,
+                    "end": 3.271,
+                    "score": 0.902
+                },
+                {
+                    "word": "to",
+                    "start": 3.311,
+                    "end": 3.411,
+                    "score": 0.833
+                },
+                {
+                    "word": "go",
+                    "start": 3.471,
+                    "end": 3.611,
+                    "score": 1.0
+                },
+                {
+                    "word": "to",
+                    "start": 3.691,
+                    "end": 3.851,
+                    "score": 0.865
+                },
+                {
+                    "word": "Barcelona",
+                    "start": 3.951,
+                    "end": 4.752,
+                    "score": 0.848
+                },
+                {
+                    "word": "Barcelona",
+                    "start": 5.312,
+                    "end": 6.033,
+                    "score": 0.867
+                },
+                {
+                    "word": "is",
+                    "start": 6.193,
+                    "end": 6.413,
+                    "score": 0.693
+                },
+                {
+                    "word": "a",
+                    "start": 6.533,
+                    "end": 6.633,
+                    "score": 0.779
+                },
+                {
+                    "word": "city",
+                    "start": 6.693,
+                    "end": 7.093,
+                    "score": 0.986
+                },
+                {
+                    "word": "in",
+                    "start": 7.313,
+                    "end": 7.433,
+                    "score": 0.979
+                },
+                {
+                    "word": "Spain",
+                    "start": 7.794,
+                    "end": 8.094,
+                    "score": 0.575
+                },
+                {
+                    "word": "the",
+                    "start": 8.854,
+                    "end": 8.954,
+                    "score": 0.995
+                },
+                {
+                    "word": "reason",
+                    "start": 9.014,
+                    "end": 9.415,
+                    "score": 0.9
+                },
+                {
+                    "word": "that",
+                    "start": 9.475,
+                    "end": 9.675,
+                    "score": 0.91
+                },
+                {
+                    "word": "I",
+                    "start": 9.795,
+                    "end": 9.855,
+                    "score": 0.808
+                },
+                {
+                    "word": "want",
+                    "start": 9.895,
+                    "end": 10.135,
+                    "score": 0.851
+                },
+                {
+                    "word": "to",
+                    "start": 10.195,
+                    "end": 10.475,
+                    "score": 0.894
+                },
+                {
+                    "word": "go",
+                    "start": 10.796,
+                    "end": 10.956,
+                    "score": 0.912
+                },
+                {
+                    "word": "there",
+                    "start": 10.976,
+                    "end": 11.216,
+                    "score": 0.791
+                },
+                {
+                    "word": "because",
+                    "start": 11.256,
+                    "end": 11.676,
+                    "score": 0.978
+                },
+                {
+                    "word": "of",
+                    "start": 11.956,
+                    "end": 12.056,
+                    "score": 0.914
+                },
+                {
+                    "word": "there",
+                    "start": 12.817,
+                    "end": 13.137,
+                    "score": 0.83
+                },
+                {
+                    "word": "are",
+                    "start": 13.257,
+                    "end": 13.357,
+                    "score": 0.67
+                },
+                {
+                    "word": "a",
+                    "start": 13.437,
+                    "end": 13.457,
+                    "score": 0.994
+                },
+                {
+                    "word": "lot",
+                    "start": 13.537,
+                    "end": 13.837,
+                    "score": 0.944
+                },
+                {
+                    "word": "of",
+                    "start": 13.937,
+                    "end": 14.037,
+                    "score": 0.736
+                },
+                {
+                    "word": "many",
+                    "start": 14.238,
+                    "end": 14.578,
+                    "score": 0.899
+                },
+                {
+                    "word": "goddess",
+                    "start": 14.858,
+                    "end": 15.318,
+                    "score": 0.721
+                },
+                {
+                    "word": "works",
+                    "start": 15.398,
+                    "end": 16.859,
+                    "score": 0.931
+                },
+                {
+                    "word": "I",
+                    "start": 17.38,
+                    "end": 17.48,
+                    "score": 0.993
+                },
+                {
+                    "word": "have",
+                    "start": 17.56,
+                    "end": 17.82,
+                    "score": 0.877
+                },
+                {
+                    "word": "studied",
+                    "start": 18.3,
+                    "end": 18.74,
+                    "score": 0.613
+                },
+                {
+                    "word": "about",
+                    "start": 18.82,
+                    "end": 19.141,
+                    "score": 0.994
+                },
+                {
+                    "word": "goddess",
+                    "start": 19.181,
+                    "end": 19.661,
+                    "score": 0.748
+                },
+                {
+                    "word": "architectures",
+                    "start": 20.021,
+                    "end": 23.263,
+                    "score": 0.871
+                },
+                {
+                    "word": "and",
+                    "start": 23.783,
+                    "end": 23.903,
+                    "score": 0.738
+                },
+                {
+                    "word": "it",
+                    "start": 24.184,
+                    "end": 24.304,
+                    "score": 0.98
+                },
+                {
+                    "word": "is",
+                    "start": 24.564,
+                    "end": 24.704,
+                    "score": 0.769
+                },
+                {
+                    "word": "amazing",
+                    "start": 24.864,
+                    "end": 25.504,
+                    "score": 0.961
+                },
+                {
+                    "word": "and",
+                    "start": 25.745,
+                    "end": 25.845,
+                    "score": 0.366
+                }
+            ]
+        },
+        {
+            "start": 26.965,
+            "end": 43.313,
+            "text": " exciting, so I want to go there to see Gaud\u00ed's work, for example, La Sagrada Familia or La Casa Pay\u00f3 or others, and I hope one day I can go there.",
+            "words": [
+                {
+                    "word": "exciting,",
+                    "start": 26.965,
+                    "end": 27.586,
+                    "score": 0.897
+                },
+                {
+                    "word": "so",
+                    "start": 27.926,
+                    "end": 28.146,
+                    "score": 0.897
+                },
+                {
+                    "word": "I",
+                    "start": 28.266,
+                    "end": 28.326,
+                    "score": 0.993
+                },
+                {
+                    "word": "want",
+                    "start": 28.366,
+                    "end": 28.566,
+                    "score": 0.817
+                },
+                {
+                    "word": "to",
+                    "start": 28.586,
+                    "end": 28.686,
+                    "score": 0.869
+                },
+                {
+                    "word": "go",
+                    "start": 28.746,
+                    "end": 28.926,
+                    "score": 0.994
+                },
+                {
+                    "word": "there",
+                    "start": 28.966,
+                    "end": 29.326,
+                    "score": 0.874
+                },
+                {
+                    "word": "to",
+                    "start": 29.707,
+                    "end": 29.887,
+                    "score": 0.99
+                },
+                {
+                    "word": "see",
+                    "start": 29.967,
+                    "end": 30.247,
+                    "score": 0.922
+                },
+                {
+                    "word": "Gaud\u00ed's",
+                    "start": 30.807,
+                    "end": 31.287,
+                    "score": 0.62
+                },
+                {
+                    "word": "work,",
+                    "start": 31.427,
+                    "end": 31.707,
+                    "score": 0.903
+                },
+                {
+                    "word": "for",
+                    "start": 31.788,
+                    "end": 31.968,
+                    "score": 0.747
+                },
+                {
+                    "word": "example,",
+                    "start": 31.988,
+                    "end": 32.528,
+                    "score": 0.767
+                },
+                {
+                    "word": "La",
+                    "start": 33.708,
+                    "end": 34.109,
+                    "score": 0.855
+                },
+                {
+                    "word": "Sagrada",
+                    "start": 34.589,
+                    "end": 35.249,
+                    "score": 0.847
+                },
+                {
+                    "word": "Familia",
+                    "start": 35.289,
+                    "end": 36.009,
+                    "score": 0.925
+                },
+                {
+                    "word": "or",
+                    "start": 36.37,
+                    "end": 36.71,
+                    "score": 0.898
+                },
+                {
+                    "word": "La",
+                    "start": 37.03,
+                    "end": 37.25,
+                    "score": 0.951
+                },
+                {
+                    "word": "Casa",
+                    "start": 37.33,
+                    "end": 37.61,
+                    "score": 0.7
+                },
+                {
+                    "word": "Pay\u00f3",
+                    "start": 37.63,
+                    "end": 38.251,
+                    "score": 0.758
+                },
+                {
+                    "word": "or",
+                    "start": 38.511,
+                    "end": 38.991,
+                    "score": 0.828
+                },
+                {
+                    "word": "others,",
+                    "start": 39.291,
+                    "end": 39.671,
+                    "score": 0.572
+                },
+                {
+                    "word": "and",
+                    "start": 40.231,
+                    "end": 40.732,
+                    "score": 0.697
+                },
+                {
+                    "word": "I",
+                    "start": 41.692,
+                    "end": 41.772,
+                    "score": 0.772
+                },
+                {
+                    "word": "hope",
+                    "start": 41.832,
+                    "end": 42.032,
+                    "score": 0.866
+                },
+                {
+                    "word": "one",
+                    "start": 42.212,
+                    "end": 42.312,
+                    "score": 0.888
+                },
+                {
+                    "word": "day",
+                    "start": 42.332,
+                    "end": 42.493,
+                    "score": 0.827
+                },
+                {
+                    "word": "I",
+                    "start": 42.553,
+                    "end": 42.633,
+                    "score": 0.968
+                },
+                {
+                    "word": "can",
+                    "start": 42.673,
+                    "end": 42.893,
+                    "score": 0.729
+                },
+                {
+                    "word": "go",
+                    "start": 42.913,
+                    "end": 43.073,
+                    "score": 0.984
+                },
+                {
+                    "word": "there.",
+                    "start": 43.133,
+                    "end": 43.313,
+                    "score": 0.926
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "if",
+            "start": 0.369,
+            "end": 0.449,
+            "score": 0.836
+        },
+        {
+            "word": "I",
+            "start": 0.609,
+            "end": 0.689,
+            "score": 0.787
+        },
+        {
+            "word": "could",
+            "start": 0.749,
+            "end": 0.97,
+            "score": 0.872
+        },
+        {
+            "word": "go",
+            "start": 1.01,
+            "end": 1.17,
+            "score": 0.999
+        },
+        {
+            "word": "anywhere",
+            "start": 1.29,
+            "end": 1.71,
+            "score": 0.851
+        },
+        {
+            "word": "in",
+            "start": 1.83,
+            "end": 1.89,
+            "score": 0.994
+        },
+        {
+            "word": "the",
+            "start": 1.93,
+            "end": 1.99,
+            "score": 0.962
+        },
+        {
+            "word": "world",
+            "start": 2.05,
+            "end": 2.29,
+            "score": 0.463
+        },
+        {
+            "word": "I",
+            "start": 2.831,
+            "end": 2.871,
+            "score": 1.0
+        },
+        {
+            "word": "would",
+            "start": 2.911,
+            "end": 3.071,
+            "score": 0.958
+        },
+        {
+            "word": "like",
+            "start": 3.111,
+            "end": 3.271,
+            "score": 0.902
+        },
+        {
+            "word": "to",
+            "start": 3.311,
+            "end": 3.411,
+            "score": 0.833
+        },
+        {
+            "word": "go",
+            "start": 3.471,
+            "end": 3.611,
+            "score": 1.0
+        },
+        {
+            "word": "to",
+            "start": 3.691,
+            "end": 3.851,
+            "score": 0.865
+        },
+        {
+            "word": "Barcelona",
+            "start": 3.951,
+            "end": 4.752,
+            "score": 0.848
+        },
+        {
+            "word": "Barcelona",
+            "start": 5.312,
+            "end": 6.033,
+            "score": 0.867
+        },
+        {
+            "word": "is",
+            "start": 6.193,
+            "end": 6.413,
+            "score": 0.693
+        },
+        {
+            "word": "a",
+            "start": 6.533,
+            "end": 6.633,
+            "score": 0.779
+        },
+        {
+            "word": "city",
+            "start": 6.693,
+            "end": 7.093,
+            "score": 0.986
+        },
+        {
+            "word": "in",
+            "start": 7.313,
+            "end": 7.433,
+            "score": 0.979
+        },
+        {
+            "word": "Spain",
+            "start": 7.794,
+            "end": 8.094,
+            "score": 0.575
+        },
+        {
+            "word": "the",
+            "start": 8.854,
+            "end": 8.954,
+            "score": 0.995
+        },
+        {
+            "word": "reason",
+            "start": 9.014,
+            "end": 9.415,
+            "score": 0.9
+        },
+        {
+            "word": "that",
+            "start": 9.475,
+            "end": 9.675,
+            "score": 0.91
+        },
+        {
+            "word": "I",
+            "start": 9.795,
+            "end": 9.855,
+            "score": 0.808
+        },
+        {
+            "word": "want",
+            "start": 9.895,
+            "end": 10.135,
+            "score": 0.851
+        },
+        {
+            "word": "to",
+            "start": 10.195,
+            "end": 10.475,
+            "score": 0.894
+        },
+        {
+            "word": "go",
+            "start": 10.796,
+            "end": 10.956,
+            "score": 0.912
+        },
+        {
+            "word": "there",
+            "start": 10.976,
+            "end": 11.216,
+            "score": 0.791
+        },
+        {
+            "word": "because",
+            "start": 11.256,
+            "end": 11.676,
+            "score": 0.978
+        },
+        {
+            "word": "of",
+            "start": 11.956,
+            "end": 12.056,
+            "score": 0.914
+        },
+        {
+            "word": "there",
+            "start": 12.817,
+            "end": 13.137,
+            "score": 0.83
+        },
+        {
+            "word": "are",
+            "start": 13.257,
+            "end": 13.357,
+            "score": 0.67
+        },
+        {
+            "word": "a",
+            "start": 13.437,
+            "end": 13.457,
+            "score": 0.994
+        },
+        {
+            "word": "lot",
+            "start": 13.537,
+            "end": 13.837,
+            "score": 0.944
+        },
+        {
+            "word": "of",
+            "start": 13.937,
+            "end": 14.037,
+            "score": 0.736
+        },
+        {
+            "word": "many",
+            "start": 14.238,
+            "end": 14.578,
+            "score": 0.899
+        },
+        {
+            "word": "goddess",
+            "start": 14.858,
+            "end": 15.318,
+            "score": 0.721
+        },
+        {
+            "word": "works",
+            "start": 15.398,
+            "end": 16.859,
+            "score": 0.931
+        },
+        {
+            "word": "I",
+            "start": 17.38,
+            "end": 17.48,
+            "score": 0.993
+        },
+        {
+            "word": "have",
+            "start": 17.56,
+            "end": 17.82,
+            "score": 0.877
+        },
+        {
+            "word": "studied",
+            "start": 18.3,
+            "end": 18.74,
+            "score": 0.613
+        },
+        {
+            "word": "about",
+            "start": 18.82,
+            "end": 19.141,
+            "score": 0.994
+        },
+        {
+            "word": "goddess",
+            "start": 19.181,
+            "end": 19.661,
+            "score": 0.748
+        },
+        {
+            "word": "architectures",
+            "start": 20.021,
+            "end": 23.263,
+            "score": 0.871
+        },
+        {
+            "word": "and",
+            "start": 23.783,
+            "end": 23.903,
+            "score": 0.738
+        },
+        {
+            "word": "it",
+            "start": 24.184,
+            "end": 24.304,
+            "score": 0.98
+        },
+        {
+            "word": "is",
+            "start": 24.564,
+            "end": 24.704,
+            "score": 0.769
+        },
+        {
+            "word": "amazing",
+            "start": 24.864,
+            "end": 25.504,
+            "score": 0.961
+        },
+        {
+            "word": "and",
+            "start": 25.745,
+            "end": 25.845,
+            "score": 0.366
+        },
+        {
+            "word": "exciting,",
+            "start": 26.965,
+            "end": 27.586,
+            "score": 0.897
+        },
+        {
+            "word": "so",
+            "start": 27.926,
+            "end": 28.146,
+            "score": 0.897
+        },
+        {
+            "word": "I",
+            "start": 28.266,
+            "end": 28.326,
+            "score": 0.993
+        },
+        {
+            "word": "want",
+            "start": 28.366,
+            "end": 28.566,
+            "score": 0.817
+        },
+        {
+            "word": "to",
+            "start": 28.586,
+            "end": 28.686,
+            "score": 0.869
+        },
+        {
+            "word": "go",
+            "start": 28.746,
+            "end": 28.926,
+            "score": 0.994
+        },
+        {
+            "word": "there",
+            "start": 28.966,
+            "end": 29.326,
+            "score": 0.874
+        },
+        {
+            "word": "to",
+            "start": 29.707,
+            "end": 29.887,
+            "score": 0.99
+        },
+        {
+            "word": "see",
+            "start": 29.967,
+            "end": 30.247,
+            "score": 0.922
+        },
+        {
+            "word": "Gaud\u00ed's",
+            "start": 30.807,
+            "end": 31.287,
+            "score": 0.62
+        },
+        {
+            "word": "work,",
+            "start": 31.427,
+            "end": 31.707,
+            "score": 0.903
+        },
+        {
+            "word": "for",
+            "start": 31.788,
+            "end": 31.968,
+            "score": 0.747
+        },
+        {
+            "word": "example,",
+            "start": 31.988,
+            "end": 32.528,
+            "score": 0.767
+        },
+        {
+            "word": "La",
+            "start": 33.708,
+            "end": 34.109,
+            "score": 0.855
+        },
+        {
+            "word": "Sagrada",
+            "start": 34.589,
+            "end": 35.249,
+            "score": 0.847
+        },
+        {
+            "word": "Familia",
+            "start": 35.289,
+            "end": 36.009,
+            "score": 0.925
+        },
+        {
+            "word": "or",
+            "start": 36.37,
+            "end": 36.71,
+            "score": 0.898
+        },
+        {
+            "word": "La",
+            "start": 37.03,
+            "end": 37.25,
+            "score": 0.951
+        },
+        {
+            "word": "Casa",
+            "start": 37.33,
+            "end": 37.61,
+            "score": 0.7
+        },
+        {
+            "word": "Pay\u00f3",
+            "start": 37.63,
+            "end": 38.251,
+            "score": 0.758
+        },
+        {
+            "word": "or",
+            "start": 38.511,
+            "end": 38.991,
+            "score": 0.828
+        },
+        {
+            "word": "others,",
+            "start": 39.291,
+            "end": 39.671,
+            "score": 0.572
+        },
+        {
+            "word": "and",
+            "start": 40.231,
+            "end": 40.732,
+            "score": 0.697
+        },
+        {
+            "word": "I",
+            "start": 41.692,
+            "end": 41.772,
+            "score": 0.772
+        },
+        {
+            "word": "hope",
+            "start": 41.832,
+            "end": 42.032,
+            "score": 0.866
+        },
+        {
+            "word": "one",
+            "start": 42.212,
+            "end": 42.312,
+            "score": 0.888
+        },
+        {
+            "word": "day",
+            "start": 42.332,
+            "end": 42.493,
+            "score": 0.827
+        },
+        {
+            "word": "I",
+            "start": 42.553,
+            "end": 42.633,
+            "score": 0.968
+        },
+        {
+            "word": "can",
+            "start": 42.673,
+            "end": 42.893,
+            "score": 0.729
+        },
+        {
+            "word": "go",
+            "start": 42.913,
+            "end": 43.073,
+            "score": 0.984
+        },
+        {
+            "word": "there.",
+            "start": 43.133,
+            "end": 43.313,
+            "score": 0.926
+        }
+    ]
+}

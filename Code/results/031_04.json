@@ -1,0 +1,1574 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 3.772,
+            "text": " The weather in San Francisco this week will be very pleasant.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 0.089,
+                    "end": 0.209,
+                    "score": 0.931
+                },
+                {
+                    "word": "weather",
+                    "start": 0.249,
+                    "end": 0.549,
+                    "score": 0.923
+                },
+                {
+                    "word": "in",
+                    "start": 0.629,
+                    "end": 0.709,
+                    "score": 0.916
+                },
+                {
+                    "word": "San",
+                    "start": 0.79,
+                    "end": 0.99,
+                    "score": 0.796
+                },
+                {
+                    "word": "Francisco",
+                    "start": 1.03,
+                    "end": 1.71,
+                    "score": 0.916
+                },
+                {
+                    "word": "this",
+                    "start": 1.77,
+                    "end": 1.95,
+                    "score": 0.83
+                },
+                {
+                    "word": "week",
+                    "start": 2.01,
+                    "end": 2.251,
+                    "score": 0.932
+                },
+                {
+                    "word": "will",
+                    "start": 2.371,
+                    "end": 2.611,
+                    "score": 0.795
+                },
+                {
+                    "word": "be",
+                    "start": 2.651,
+                    "end": 2.791,
+                    "score": 0.574
+                },
+                {
+                    "word": "very",
+                    "start": 2.871,
+                    "end": 3.131,
+                    "score": 0.716
+                },
+                {
+                    "word": "pleasant.",
+                    "start": 3.271,
+                    "end": 3.772,
+                    "score": 0.792
+                }
+            ]
+        },
+        {
+            "start": 4.512,
+            "end": 16.801,
+            "text": "On Monday, there will be cloudy weather, but there will be sunshine, although it's just a little bit, but there will be no rain on Monday.",
+            "words": [
+                {
+                    "word": "On",
+                    "start": 4.512,
+                    "end": 4.592,
+                    "score": 0.834
+                },
+                {
+                    "word": "Monday,",
+                    "start": 4.672,
+                    "end": 5.273,
+                    "score": 0.669
+                },
+                {
+                    "word": "there",
+                    "start": 5.413,
+                    "end": 5.613,
+                    "score": 0.839
+                },
+                {
+                    "word": "will",
+                    "start": 5.653,
+                    "end": 5.853,
+                    "score": 0.782
+                },
+                {
+                    "word": "be",
+                    "start": 5.893,
+                    "end": 6.033,
+                    "score": 0.749
+                },
+                {
+                    "word": "cloudy",
+                    "start": 6.894,
+                    "end": 7.434,
+                    "score": 0.833
+                },
+                {
+                    "word": "weather,",
+                    "start": 7.694,
+                    "end": 8.055,
+                    "score": 0.872
+                },
+                {
+                    "word": "but",
+                    "start": 8.695,
+                    "end": 9.015,
+                    "score": 0.891
+                },
+                {
+                    "word": "there",
+                    "start": 9.716,
+                    "end": 9.896,
+                    "score": 0.781
+                },
+                {
+                    "word": "will",
+                    "start": 9.916,
+                    "end": 10.136,
+                    "score": 0.729
+                },
+                {
+                    "word": "be",
+                    "start": 10.156,
+                    "end": 10.296,
+                    "score": 0.63
+                },
+                {
+                    "word": "sunshine,",
+                    "start": 12.018,
+                    "end": 12.658,
+                    "score": 0.861
+                },
+                {
+                    "word": "although",
+                    "start": 12.678,
+                    "end": 13.298,
+                    "score": 0.423
+                },
+                {
+                    "word": "it's",
+                    "start": 13.318,
+                    "end": 13.519,
+                    "score": 0.403
+                },
+                {
+                    "word": "just",
+                    "start": 13.639,
+                    "end": 13.919,
+                    "score": 0.833
+                },
+                {
+                    "word": "a",
+                    "start": 13.979,
+                    "end": 13.999,
+                    "score": 0.998
+                },
+                {
+                    "word": "little",
+                    "start": 14.059,
+                    "end": 14.299,
+                    "score": 0.801
+                },
+                {
+                    "word": "bit,",
+                    "start": 14.319,
+                    "end": 14.499,
+                    "score": 0.967
+                },
+                {
+                    "word": "but",
+                    "start": 14.84,
+                    "end": 14.96,
+                    "score": 0.974
+                },
+                {
+                    "word": "there",
+                    "start": 15.0,
+                    "end": 15.18,
+                    "score": 0.779
+                },
+                {
+                    "word": "will",
+                    "start": 15.2,
+                    "end": 15.38,
+                    "score": 0.71
+                },
+                {
+                    "word": "be",
+                    "start": 15.42,
+                    "end": 15.5,
+                    "score": 0.904
+                },
+                {
+                    "word": "no",
+                    "start": 15.56,
+                    "end": 15.74,
+                    "score": 0.818
+                },
+                {
+                    "word": "rain",
+                    "start": 15.84,
+                    "end": 16.1,
+                    "score": 0.755
+                },
+                {
+                    "word": "on",
+                    "start": 16.241,
+                    "end": 16.321,
+                    "score": 0.824
+                },
+                {
+                    "word": "Monday.",
+                    "start": 16.381,
+                    "end": 16.801,
+                    "score": 0.82
+                }
+            ]
+        },
+        {
+            "start": 16.821,
+            "end": 20.544,
+            "text": "And Tuesday will be the same situation as Monday.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 16.821,
+                    "end": 17.341,
+                    "score": 0.715
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 17.401,
+                    "end": 18.042,
+                    "score": 0.711
+                },
+                {
+                    "word": "will",
+                    "start": 18.062,
+                    "end": 18.522,
+                    "score": 0.594
+                },
+                {
+                    "word": "be",
+                    "start": 18.582,
+                    "end": 18.662,
+                    "score": 0.834
+                },
+                {
+                    "word": "the",
+                    "start": 18.722,
+                    "end": 18.822,
+                    "score": 0.836
+                },
+                {
+                    "word": "same",
+                    "start": 18.842,
+                    "end": 19.063,
+                    "score": 0.839
+                },
+                {
+                    "word": "situation",
+                    "start": 19.103,
+                    "end": 19.763,
+                    "score": 0.928
+                },
+                {
+                    "word": "as",
+                    "start": 19.903,
+                    "end": 20.003,
+                    "score": 0.872
+                },
+                {
+                    "word": "Monday.",
+                    "start": 20.103,
+                    "end": 20.544,
+                    "score": 0.89
+                }
+            ]
+        },
+        {
+            "start": 20.564,
+            "end": 24.907,
+            "text": "It'll be a cloud with just a little bit of sunshine.",
+            "words": [
+                {
+                    "word": "It'll",
+                    "start": 20.564,
+                    "end": 21.144,
+                    "score": 0.809
+                },
+                {
+                    "word": "be",
+                    "start": 21.184,
+                    "end": 21.244,
+                    "score": 0.752
+                },
+                {
+                    "word": "a",
+                    "start": 21.264,
+                    "end": 21.284,
+                    "score": 0.475
+                },
+                {
+                    "word": "cloud",
+                    "start": 21.364,
+                    "end": 21.885,
+                    "score": 0.895
+                },
+                {
+                    "word": "with",
+                    "start": 22.485,
+                    "end": 22.645,
+                    "score": 0.463
+                },
+                {
+                    "word": "just",
+                    "start": 22.985,
+                    "end": 23.226,
+                    "score": 0.953
+                },
+                {
+                    "word": "a",
+                    "start": 23.446,
+                    "end": 23.486,
+                    "score": 0.915
+                },
+                {
+                    "word": "little",
+                    "start": 23.546,
+                    "end": 23.766,
+                    "score": 0.984
+                },
+                {
+                    "word": "bit",
+                    "start": 23.786,
+                    "end": 23.966,
+                    "score": 0.893
+                },
+                {
+                    "word": "of",
+                    "start": 24.146,
+                    "end": 24.226,
+                    "score": 0.832
+                },
+                {
+                    "word": "sunshine.",
+                    "start": 24.326,
+                    "end": 24.907,
+                    "score": 0.982
+                }
+            ]
+        },
+        {
+            "start": 25.467,
+            "end": 33.254,
+            "text": " Wednesday will remain the same as Monday and Tuesday, but things will be getting better on Thursday and Friday.",
+            "words": [
+                {
+                    "word": "Wednesday",
+                    "start": 25.467,
+                    "end": 25.928,
+                    "score": 0.772
+                },
+                {
+                    "word": "will",
+                    "start": 26.048,
+                    "end": 26.288,
+                    "score": 0.809
+                },
+                {
+                    "word": "remain",
+                    "start": 26.348,
+                    "end": 26.768,
+                    "score": 0.732
+                },
+                {
+                    "word": "the",
+                    "start": 26.828,
+                    "end": 26.928,
+                    "score": 0.73
+                },
+                {
+                    "word": "same",
+                    "start": 26.968,
+                    "end": 27.269,
+                    "score": 0.675
+                },
+                {
+                    "word": "as",
+                    "start": 27.409,
+                    "end": 27.489,
+                    "score": 0.83
+                },
+                {
+                    "word": "Monday",
+                    "start": 27.549,
+                    "end": 28.029,
+                    "score": 0.855
+                },
+                {
+                    "word": "and",
+                    "start": 28.129,
+                    "end": 28.249,
+                    "score": 0.702
+                },
+                {
+                    "word": "Tuesday,",
+                    "start": 28.33,
+                    "end": 28.93,
+                    "score": 0.76
+                },
+                {
+                    "word": "but",
+                    "start": 29.33,
+                    "end": 29.47,
+                    "score": 0.813
+                },
+                {
+                    "word": "things",
+                    "start": 29.551,
+                    "end": 29.891,
+                    "score": 0.832
+                },
+                {
+                    "word": "will",
+                    "start": 29.971,
+                    "end": 30.271,
+                    "score": 0.798
+                },
+                {
+                    "word": "be",
+                    "start": 30.331,
+                    "end": 30.691,
+                    "score": 0.876
+                },
+                {
+                    "word": "getting",
+                    "start": 30.792,
+                    "end": 31.072,
+                    "score": 0.839
+                },
+                {
+                    "word": "better",
+                    "start": 31.132,
+                    "end": 31.432,
+                    "score": 0.911
+                },
+                {
+                    "word": "on",
+                    "start": 31.772,
+                    "end": 31.852,
+                    "score": 0.84
+                },
+                {
+                    "word": "Thursday",
+                    "start": 31.912,
+                    "end": 32.413,
+                    "score": 0.774
+                },
+                {
+                    "word": "and",
+                    "start": 32.473,
+                    "end": 32.593,
+                    "score": 0.751
+                },
+                {
+                    "word": "Friday.",
+                    "start": 32.673,
+                    "end": 33.254,
+                    "score": 0.797
+                }
+            ]
+        },
+        {
+            "start": 33.754,
+            "end": 43.962,
+            "text": "On Thursday, there will be lots of sunshine, just a little bit of cloudiness, and the Friday will be another gorgeous day like Thursday.",
+            "words": [
+                {
+                    "word": "On",
+                    "start": 33.754,
+                    "end": 33.834,
+                    "score": 0.85
+                },
+                {
+                    "word": "Thursday,",
+                    "start": 33.874,
+                    "end": 34.415,
+                    "score": 0.714
+                },
+                {
+                    "word": "there",
+                    "start": 34.515,
+                    "end": 34.655,
+                    "score": 0.923
+                },
+                {
+                    "word": "will",
+                    "start": 34.695,
+                    "end": 34.855,
+                    "score": 0.9
+                },
+                {
+                    "word": "be",
+                    "start": 34.895,
+                    "end": 35.015,
+                    "score": 0.697
+                },
+                {
+                    "word": "lots",
+                    "start": 35.235,
+                    "end": 35.535,
+                    "score": 0.668
+                },
+                {
+                    "word": "of",
+                    "start": 35.576,
+                    "end": 35.656,
+                    "score": 0.69
+                },
+                {
+                    "word": "sunshine,",
+                    "start": 35.736,
+                    "end": 36.436,
+                    "score": 0.784
+                },
+                {
+                    "word": "just",
+                    "start": 36.656,
+                    "end": 36.897,
+                    "score": 0.856
+                },
+                {
+                    "word": "a",
+                    "start": 36.957,
+                    "end": 36.977,
+                    "score": 0.998
+                },
+                {
+                    "word": "little",
+                    "start": 37.017,
+                    "end": 37.237,
+                    "score": 0.875
+                },
+                {
+                    "word": "bit",
+                    "start": 37.257,
+                    "end": 37.417,
+                    "score": 0.877
+                },
+                {
+                    "word": "of",
+                    "start": 37.437,
+                    "end": 37.497,
+                    "score": 0.744
+                },
+                {
+                    "word": "cloudiness,",
+                    "start": 38.438,
+                    "end": 39.199,
+                    "score": 0.897
+                },
+                {
+                    "word": "and",
+                    "start": 39.779,
+                    "end": 39.899,
+                    "score": 0.616
+                },
+                {
+                    "word": "the",
+                    "start": 39.939,
+                    "end": 40.039,
+                    "score": 0.693
+                },
+                {
+                    "word": "Friday",
+                    "start": 40.119,
+                    "end": 40.86,
+                    "score": 0.67
+                },
+                {
+                    "word": "will",
+                    "start": 40.98,
+                    "end": 41.2,
+                    "score": 0.92
+                },
+                {
+                    "word": "be",
+                    "start": 41.24,
+                    "end": 41.4,
+                    "score": 0.742
+                },
+                {
+                    "word": "another",
+                    "start": 41.52,
+                    "end": 41.861,
+                    "score": 0.585
+                },
+                {
+                    "word": "gorgeous",
+                    "start": 42.141,
+                    "end": 42.561,
+                    "score": 0.874
+                },
+                {
+                    "word": "day",
+                    "start": 42.641,
+                    "end": 42.902,
+                    "score": 0.776
+                },
+                {
+                    "word": "like",
+                    "start": 42.982,
+                    "end": 43.182,
+                    "score": 0.931
+                },
+                {
+                    "word": "Thursday.",
+                    "start": 43.282,
+                    "end": 43.962,
+                    "score": 0.755
+                }
+            ]
+        },
+        {
+            "start": 44.483,
+            "end": 50.047,
+            "text": "There will be plenty of sunshine and just a little bit cloud.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 44.483,
+                    "end": 44.663,
+                    "score": 0.862
+                },
+                {
+                    "word": "will",
+                    "start": 44.703,
+                    "end": 44.883,
+                    "score": 0.873
+                },
+                {
+                    "word": "be",
+                    "start": 44.903,
+                    "end": 45.003,
+                    "score": 0.479
+                },
+                {
+                    "word": "plenty",
+                    "start": 45.083,
+                    "end": 45.404,
+                    "score": 0.829
+                },
+                {
+                    "word": "of",
+                    "start": 45.444,
+                    "end": 45.504,
+                    "score": 0.75
+                },
+                {
+                    "word": "sunshine",
+                    "start": 45.584,
+                    "end": 46.204,
+                    "score": 0.805
+                },
+                {
+                    "word": "and",
+                    "start": 46.525,
+                    "end": 46.705,
+                    "score": 0.628
+                },
+                {
+                    "word": "just",
+                    "start": 48.126,
+                    "end": 48.366,
+                    "score": 0.927
+                },
+                {
+                    "word": "a",
+                    "start": 48.566,
+                    "end": 48.626,
+                    "score": 0.595
+                },
+                {
+                    "word": "little",
+                    "start": 49.007,
+                    "end": 49.247,
+                    "score": 0.862
+                },
+                {
+                    "word": "bit",
+                    "start": 49.267,
+                    "end": 49.427,
+                    "score": 0.878
+                },
+                {
+                    "word": "cloud.",
+                    "start": 49.647,
+                    "end": 50.047,
+                    "score": 0.926
+                }
+            ]
+        },
+        {
+            "start": 50.988,
+            "end": 58.917,
+            "text": " So, overall, the 5-day forecast in San Francisco will be very mild and pleasant.",
+            "words": [
+                {
+                    "word": "So,",
+                    "start": 50.988,
+                    "end": 51.249,
+                    "score": 0.989
+                },
+                {
+                    "word": "overall,",
+                    "start": 51.409,
+                    "end": 51.969,
+                    "score": 0.773
+                },
+                {
+                    "word": "the",
+                    "start": 52.911,
+                    "end": 53.391,
+                    "score": 0.802
+                },
+                {
+                    "word": "5-day",
+                    "start": 53.411,
+                    "end": 53.631,
+                    "score": 0.715
+                },
+                {
+                    "word": "forecast",
+                    "start": 53.671,
+                    "end": 54.232,
+                    "score": 0.702
+                },
+                {
+                    "word": "in",
+                    "start": 54.292,
+                    "end": 54.372,
+                    "score": 0.759
+                },
+                {
+                    "word": "San",
+                    "start": 54.412,
+                    "end": 54.572,
+                    "score": 0.884
+                },
+                {
+                    "word": "Francisco",
+                    "start": 54.612,
+                    "end": 55.353,
+                    "score": 0.879
+                },
+                {
+                    "word": "will",
+                    "start": 55.874,
+                    "end": 56.154,
+                    "score": 0.957
+                },
+                {
+                    "word": "be",
+                    "start": 56.214,
+                    "end": 56.455,
+                    "score": 0.8
+                },
+                {
+                    "word": "very",
+                    "start": 57.135,
+                    "end": 57.376,
+                    "score": 0.759
+                },
+                {
+                    "word": "mild",
+                    "start": 57.436,
+                    "end": 57.936,
+                    "score": 0.83
+                },
+                {
+                    "word": "and",
+                    "start": 58.177,
+                    "end": 58.297,
+                    "score": 0.693
+                },
+                {
+                    "word": "pleasant.",
+                    "start": 58.497,
+                    "end": 58.917,
+                    "score": 0.82
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 0.089,
+            "end": 0.209,
+            "score": 0.931
+        },
+        {
+            "word": "weather",
+            "start": 0.249,
+            "end": 0.549,
+            "score": 0.923
+        },
+        {
+            "word": "in",
+            "start": 0.629,
+            "end": 0.709,
+            "score": 0.916
+        },
+        {
+            "word": "San",
+            "start": 0.79,
+            "end": 0.99,
+            "score": 0.796
+        },
+        {
+            "word": "Francisco",
+            "start": 1.03,
+            "end": 1.71,
+            "score": 0.916
+        },
+        {
+            "word": "this",
+            "start": 1.77,
+            "end": 1.95,
+            "score": 0.83
+        },
+        {
+            "word": "week",
+            "start": 2.01,
+            "end": 2.251,
+            "score": 0.932
+        },
+        {
+            "word": "will",
+            "start": 2.371,
+            "end": 2.611,
+            "score": 0.795
+        },
+        {
+            "word": "be",
+            "start": 2.651,
+            "end": 2.791,
+            "score": 0.574
+        },
+        {
+            "word": "very",
+            "start": 2.871,
+            "end": 3.131,
+            "score": 0.716
+        },
+        {
+            "word": "pleasant.",
+            "start": 3.271,
+            "end": 3.772,
+            "score": 0.792
+        },
+        {
+            "word": "On",
+            "start": 4.512,
+            "end": 4.592,
+            "score": 0.834
+        },
+        {
+            "word": "Monday,",
+            "start": 4.672,
+            "end": 5.273,
+            "score": 0.669
+        },
+        {
+            "word": "there",
+            "start": 5.413,
+            "end": 5.613,
+            "score": 0.839
+        },
+        {
+            "word": "will",
+            "start": 5.653,
+            "end": 5.853,
+            "score": 0.782
+        },
+        {
+            "word": "be",
+            "start": 5.893,
+            "end": 6.033,
+            "score": 0.749
+        },
+        {
+            "word": "cloudy",
+            "start": 6.894,
+            "end": 7.434,
+            "score": 0.833
+        },
+        {
+            "word": "weather,",
+            "start": 7.694,
+            "end": 8.055,
+            "score": 0.872
+        },
+        {
+            "word": "but",
+            "start": 8.695,
+            "end": 9.015,
+            "score": 0.891
+        },
+        {
+            "word": "there",
+            "start": 9.716,
+            "end": 9.896,
+            "score": 0.781
+        },
+        {
+            "word": "will",
+            "start": 9.916,
+            "end": 10.136,
+            "score": 0.729
+        },
+        {
+            "word": "be",
+            "start": 10.156,
+            "end": 10.296,
+            "score": 0.63
+        },
+        {
+            "word": "sunshine,",
+            "start": 12.018,
+            "end": 12.658,
+            "score": 0.861
+        },
+        {
+            "word": "although",
+            "start": 12.678,
+            "end": 13.298,
+            "score": 0.423
+        },
+        {
+            "word": "it's",
+            "start": 13.318,
+            "end": 13.519,
+            "score": 0.403
+        },
+        {
+            "word": "just",
+            "start": 13.639,
+            "end": 13.919,
+            "score": 0.833
+        },
+        {
+            "word": "a",
+            "start": 13.979,
+            "end": 13.999,
+            "score": 0.998
+        },
+        {
+            "word": "little",
+            "start": 14.059,
+            "end": 14.299,
+            "score": 0.801
+        },
+        {
+            "word": "bit,",
+            "start": 14.319,
+            "end": 14.499,
+            "score": 0.967
+        },
+        {
+            "word": "but",
+            "start": 14.84,
+            "end": 14.96,
+            "score": 0.974
+        },
+        {
+            "word": "there",
+            "start": 15.0,
+            "end": 15.18,
+            "score": 0.779
+        },
+        {
+            "word": "will",
+            "start": 15.2,
+            "end": 15.38,
+            "score": 0.71
+        },
+        {
+            "word": "be",
+            "start": 15.42,
+            "end": 15.5,
+            "score": 0.904
+        },
+        {
+            "word": "no",
+            "start": 15.56,
+            "end": 15.74,
+            "score": 0.818
+        },
+        {
+            "word": "rain",
+            "start": 15.84,
+            "end": 16.1,
+            "score": 0.755
+        },
+        {
+            "word": "on",
+            "start": 16.241,
+            "end": 16.321,
+            "score": 0.824
+        },
+        {
+            "word": "Monday.",
+            "start": 16.381,
+            "end": 16.801,
+            "score": 0.82
+        },
+        {
+            "word": "And",
+            "start": 16.821,
+            "end": 17.341,
+            "score": 0.715
+        },
+        {
+            "word": "Tuesday",
+            "start": 17.401,
+            "end": 18.042,
+            "score": 0.711
+        },
+        {
+            "word": "will",
+            "start": 18.062,
+            "end": 18.522,
+            "score": 0.594
+        },
+        {
+            "word": "be",
+            "start": 18.582,
+            "end": 18.662,
+            "score": 0.834
+        },
+        {
+            "word": "the",
+            "start": 18.722,
+            "end": 18.822,
+            "score": 0.836
+        },
+        {
+            "word": "same",
+            "start": 18.842,
+            "end": 19.063,
+            "score": 0.839
+        },
+        {
+            "word": "situation",
+            "start": 19.103,
+            "end": 19.763,
+            "score": 0.928
+        },
+        {
+            "word": "as",
+            "start": 19.903,
+            "end": 20.003,
+            "score": 0.872
+        },
+        {
+            "word": "Monday.",
+            "start": 20.103,
+            "end": 20.544,
+            "score": 0.89
+        },
+        {
+            "word": "It'll",
+            "start": 20.564,
+            "end": 21.144,
+            "score": 0.809
+        },
+        {
+            "word": "be",
+            "start": 21.184,
+            "end": 21.244,
+            "score": 0.752
+        },
+        {
+            "word": "a",
+            "start": 21.264,
+            "end": 21.284,
+            "score": 0.475
+        },
+        {
+            "word": "cloud",
+            "start": 21.364,
+            "end": 21.885,
+            "score": 0.895
+        },
+        {
+            "word": "with",
+            "start": 22.485,
+            "end": 22.645,
+            "score": 0.463
+        },
+        {
+            "word": "just",
+            "start": 22.985,
+            "end": 23.226,
+            "score": 0.953
+        },
+        {
+            "word": "a",
+            "start": 23.446,
+            "end": 23.486,
+            "score": 0.915
+        },
+        {
+            "word": "little",
+            "start": 23.546,
+            "end": 23.766,
+            "score": 0.984
+        },
+        {
+            "word": "bit",
+            "start": 23.786,
+            "end": 23.966,
+            "score": 0.893
+        },
+        {
+            "word": "of",
+            "start": 24.146,
+            "end": 24.226,
+            "score": 0.832
+        },
+        {
+            "word": "sunshine.",
+            "start": 24.326,
+            "end": 24.907,
+            "score": 0.982
+        },
+        {
+            "word": "Wednesday",
+            "start": 25.467,
+            "end": 25.928,
+            "score": 0.772
+        },
+        {
+            "word": "will",
+            "start": 26.048,
+            "end": 26.288,
+            "score": 0.809
+        },
+        {
+            "word": "remain",
+            "start": 26.348,
+            "end": 26.768,
+            "score": 0.732
+        },
+        {
+            "word": "the",
+            "start": 26.828,
+            "end": 26.928,
+            "score": 0.73
+        },
+        {
+            "word": "same",
+            "start": 26.968,
+            "end": 27.269,
+            "score": 0.675
+        },
+        {
+            "word": "as",
+            "start": 27.409,
+            "end": 27.489,
+            "score": 0.83
+        },
+        {
+            "word": "Monday",
+            "start": 27.549,
+            "end": 28.029,
+            "score": 0.855
+        },
+        {
+            "word": "and",
+            "start": 28.129,
+            "end": 28.249,
+            "score": 0.702
+        },
+        {
+            "word": "Tuesday,",
+            "start": 28.33,
+            "end": 28.93,
+            "score": 0.76
+        },
+        {
+            "word": "but",
+            "start": 29.33,
+            "end": 29.47,
+            "score": 0.813
+        },
+        {
+            "word": "things",
+            "start": 29.551,
+            "end": 29.891,
+            "score": 0.832
+        },
+        {
+            "word": "will",
+            "start": 29.971,
+            "end": 30.271,
+            "score": 0.798
+        },
+        {
+            "word": "be",
+            "start": 30.331,
+            "end": 30.691,
+            "score": 0.876
+        },
+        {
+            "word": "getting",
+            "start": 30.792,
+            "end": 31.072,
+            "score": 0.839
+        },
+        {
+            "word": "better",
+            "start": 31.132,
+            "end": 31.432,
+            "score": 0.911
+        },
+        {
+            "word": "on",
+            "start": 31.772,
+            "end": 31.852,
+            "score": 0.84
+        },
+        {
+            "word": "Thursday",
+            "start": 31.912,
+            "end": 32.413,
+            "score": 0.774
+        },
+        {
+            "word": "and",
+            "start": 32.473,
+            "end": 32.593,
+            "score": 0.751
+        },
+        {
+            "word": "Friday.",
+            "start": 32.673,
+            "end": 33.254,
+            "score": 0.797
+        },
+        {
+            "word": "On",
+            "start": 33.754,
+            "end": 33.834,
+            "score": 0.85
+        },
+        {
+            "word": "Thursday,",
+            "start": 33.874,
+            "end": 34.415,
+            "score": 0.714
+        },
+        {
+            "word": "there",
+            "start": 34.515,
+            "end": 34.655,
+            "score": 0.923
+        },
+        {
+            "word": "will",
+            "start": 34.695,
+            "end": 34.855,
+            "score": 0.9
+        },
+        {
+            "word": "be",
+            "start": 34.895,
+            "end": 35.015,
+            "score": 0.697
+        },
+        {
+            "word": "lots",
+            "start": 35.235,
+            "end": 35.535,
+            "score": 0.668
+        },
+        {
+            "word": "of",
+            "start": 35.576,
+            "end": 35.656,
+            "score": 0.69
+        },
+        {
+            "word": "sunshine,",
+            "start": 35.736,
+            "end": 36.436,
+            "score": 0.784
+        },
+        {
+            "word": "just",
+            "start": 36.656,
+            "end": 36.897,
+            "score": 0.856
+        },
+        {
+            "word": "a",
+            "start": 36.957,
+            "end": 36.977,
+            "score": 0.998
+        },
+        {
+            "word": "little",
+            "start": 37.017,
+            "end": 37.237,
+            "score": 0.875
+        },
+        {
+            "word": "bit",
+            "start": 37.257,
+            "end": 37.417,
+            "score": 0.877
+        },
+        {
+            "word": "of",
+            "start": 37.437,
+            "end": 37.497,
+            "score": 0.744
+        },
+        {
+            "word": "cloudiness,",
+            "start": 38.438,
+            "end": 39.199,
+            "score": 0.897
+        },
+        {
+            "word": "and",
+            "start": 39.779,
+            "end": 39.899,
+            "score": 0.616
+        },
+        {
+            "word": "the",
+            "start": 39.939,
+            "end": 40.039,
+            "score": 0.693
+        },
+        {
+            "word": "Friday",
+            "start": 40.119,
+            "end": 40.86,
+            "score": 0.67
+        },
+        {
+            "word": "will",
+            "start": 40.98,
+            "end": 41.2,
+            "score": 0.92
+        },
+        {
+            "word": "be",
+            "start": 41.24,
+            "end": 41.4,
+            "score": 0.742
+        },
+        {
+            "word": "another",
+            "start": 41.52,
+            "end": 41.861,
+            "score": 0.585
+        },
+        {
+            "word": "gorgeous",
+            "start": 42.141,
+            "end": 42.561,
+            "score": 0.874
+        },
+        {
+            "word": "day",
+            "start": 42.641,
+            "end": 42.902,
+            "score": 0.776
+        },
+        {
+            "word": "like",
+            "start": 42.982,
+            "end": 43.182,
+            "score": 0.931
+        },
+        {
+            "word": "Thursday.",
+            "start": 43.282,
+            "end": 43.962,
+            "score": 0.755
+        },
+        {
+            "word": "There",
+            "start": 44.483,
+            "end": 44.663,
+            "score": 0.862
+        },
+        {
+            "word": "will",
+            "start": 44.703,
+            "end": 44.883,
+            "score": 0.873
+        },
+        {
+            "word": "be",
+            "start": 44.903,
+            "end": 45.003,
+            "score": 0.479
+        },
+        {
+            "word": "plenty",
+            "start": 45.083,
+            "end": 45.404,
+            "score": 0.829
+        },
+        {
+            "word": "of",
+            "start": 45.444,
+            "end": 45.504,
+            "score": 0.75
+        },
+        {
+            "word": "sunshine",
+            "start": 45.584,
+            "end": 46.204,
+            "score": 0.805
+        },
+        {
+            "word": "and",
+            "start": 46.525,
+            "end": 46.705,
+            "score": 0.628
+        },
+        {
+            "word": "just",
+            "start": 48.126,
+            "end": 48.366,
+            "score": 0.927
+        },
+        {
+            "word": "a",
+            "start": 48.566,
+            "end": 48.626,
+            "score": 0.595
+        },
+        {
+            "word": "little",
+            "start": 49.007,
+            "end": 49.247,
+            "score": 0.862
+        },
+        {
+            "word": "bit",
+            "start": 49.267,
+            "end": 49.427,
+            "score": 0.878
+        },
+        {
+            "word": "cloud.",
+            "start": 49.647,
+            "end": 50.047,
+            "score": 0.926
+        },
+        {
+            "word": "So,",
+            "start": 50.988,
+            "end": 51.249,
+            "score": 0.989
+        },
+        {
+            "word": "overall,",
+            "start": 51.409,
+            "end": 51.969,
+            "score": 0.773
+        },
+        {
+            "word": "the",
+            "start": 52.911,
+            "end": 53.391,
+            "score": 0.802
+        },
+        {
+            "word": "5-day",
+            "start": 53.411,
+            "end": 53.631,
+            "score": 0.715
+        },
+        {
+            "word": "forecast",
+            "start": 53.671,
+            "end": 54.232,
+            "score": 0.702
+        },
+        {
+            "word": "in",
+            "start": 54.292,
+            "end": 54.372,
+            "score": 0.759
+        },
+        {
+            "word": "San",
+            "start": 54.412,
+            "end": 54.572,
+            "score": 0.884
+        },
+        {
+            "word": "Francisco",
+            "start": 54.612,
+            "end": 55.353,
+            "score": 0.879
+        },
+        {
+            "word": "will",
+            "start": 55.874,
+            "end": 56.154,
+            "score": 0.957
+        },
+        {
+            "word": "be",
+            "start": 56.214,
+            "end": 56.455,
+            "score": 0.8
+        },
+        {
+            "word": "very",
+            "start": 57.135,
+            "end": 57.376,
+            "score": 0.759
+        },
+        {
+            "word": "mild",
+            "start": 57.436,
+            "end": 57.936,
+            "score": 0.83
+        },
+        {
+            "word": "and",
+            "start": 58.177,
+            "end": 58.297,
+            "score": 0.693
+        },
+        {
+            "word": "pleasant.",
+            "start": 58.497,
+            "end": 58.917,
+            "score": 0.82
+        }
+    ]
+}

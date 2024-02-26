@@ -1,0 +1,675 @@
+{
+    "segments": [
+        {
+            "start": 0.569,
+            "end": 7.114,
+            "text": " Now I'm in Franklin Hotel, and also I would like to go to the Limelight Disco.",
+            "words": [
+                {
+                    "word": "Now",
+                    "start": 0.569,
+                    "end": 0.79,
+                    "score": 0.971
+                },
+                {
+                    "word": "I'm",
+                    "start": 0.99,
+                    "end": 1.19,
+                    "score": 0.762
+                },
+                {
+                    "word": "in",
+                    "start": 1.27,
+                    "end": 1.41,
+                    "score": 0.558
+                },
+                {
+                    "word": "Franklin",
+                    "start": 1.79,
+                    "end": 2.251,
+                    "score": 0.739
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 2.271,
+                    "end": 2.651,
+                    "score": 0.599
+                },
+                {
+                    "word": "and",
+                    "start": 3.031,
+                    "end": 3.151,
+                    "score": 0.887
+                },
+                {
+                    "word": "also",
+                    "start": 3.251,
+                    "end": 3.351,
+                    "score": 0.438
+                },
+                {
+                    "word": "I",
+                    "start": 3.471,
+                    "end": 3.571,
+                    "score": 0.689
+                },
+                {
+                    "word": "would",
+                    "start": 3.892,
+                    "end": 4.092,
+                    "score": 0.548
+                },
+                {
+                    "word": "like",
+                    "start": 4.132,
+                    "end": 4.232,
+                    "score": 0.383
+                },
+                {
+                    "word": "to",
+                    "start": 4.252,
+                    "end": 4.312,
+                    "score": 0.48
+                },
+                {
+                    "word": "go",
+                    "start": 4.372,
+                    "end": 4.532,
+                    "score": 0.746
+                },
+                {
+                    "word": "to",
+                    "start": 4.552,
+                    "end": 4.632,
+                    "score": 0.641
+                },
+                {
+                    "word": "the",
+                    "start": 4.672,
+                    "end": 4.812,
+                    "score": 0.77
+                },
+                {
+                    "word": "Limelight",
+                    "start": 5.793,
+                    "end": 6.473,
+                    "score": 0.886
+                },
+                {
+                    "word": "Disco.",
+                    "start": 6.614,
+                    "end": 7.114,
+                    "score": 0.894
+                }
+            ]
+        },
+        {
+            "start": 7.774,
+            "end": 18.462,
+            "text": "So first, I should go to Stray until the Harrison Avenue and turn right one block.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 7.774,
+                    "end": 7.954,
+                    "score": 0.849
+                },
+                {
+                    "word": "first,",
+                    "start": 8.014,
+                    "end": 8.375,
+                    "score": 0.716
+                },
+                {
+                    "word": "I",
+                    "start": 9.435,
+                    "end": 9.495,
+                    "score": 0.788
+                },
+                {
+                    "word": "should",
+                    "start": 9.536,
+                    "end": 9.756,
+                    "score": 0.839
+                },
+                {
+                    "word": "go",
+                    "start": 9.816,
+                    "end": 10.036,
+                    "score": 0.816
+                },
+                {
+                    "word": "to",
+                    "start": 10.276,
+                    "end": 10.556,
+                    "score": 0.794
+                },
+                {
+                    "word": "Stray",
+                    "start": 11.637,
+                    "end": 12.678,
+                    "score": 0.755
+                },
+                {
+                    "word": "until",
+                    "start": 13.698,
+                    "end": 14.099,
+                    "score": 0.692
+                },
+                {
+                    "word": "the",
+                    "start": 14.139,
+                    "end": 14.379,
+                    "score": 0.508
+                },
+                {
+                    "word": "Harrison",
+                    "start": 15.48,
+                    "end": 15.88,
+                    "score": 0.679
+                },
+                {
+                    "word": "Avenue",
+                    "start": 15.9,
+                    "end": 16.28,
+                    "score": 0.645
+                },
+                {
+                    "word": "and",
+                    "start": 17.181,
+                    "end": 17.301,
+                    "score": 0.597
+                },
+                {
+                    "word": "turn",
+                    "start": 17.401,
+                    "end": 17.621,
+                    "score": 0.504
+                },
+                {
+                    "word": "right",
+                    "start": 17.641,
+                    "end": 17.901,
+                    "score": 0.739
+                },
+                {
+                    "word": "one",
+                    "start": 18.061,
+                    "end": 18.141,
+                    "score": 0.402
+                },
+                {
+                    "word": "block.",
+                    "start": 18.161,
+                    "end": 18.462,
+                    "score": 0.596
+                }
+            ]
+        },
+        {
+            "start": 18.982,
+            "end": 28.649,
+            "text": "Yeah, and turn right, go to the one block, and turn left the few road, and turn right, I can find the...",
+            "words": [
+                {
+                    "word": "Yeah,",
+                    "start": 18.982,
+                    "end": 19.142,
+                    "score": 0.409
+                },
+                {
+                    "word": "and",
+                    "start": 19.582,
+                    "end": 19.642,
+                    "score": 0.725
+                },
+                {
+                    "word": "turn",
+                    "start": 19.682,
+                    "end": 19.863,
+                    "score": 0.498
+                },
+                {
+                    "word": "right,",
+                    "start": 19.903,
+                    "end": 20.203,
+                    "score": 0.771
+                },
+                {
+                    "word": "go",
+                    "start": 20.323,
+                    "end": 20.483,
+                    "score": 0.96
+                },
+                {
+                    "word": "to",
+                    "start": 20.543,
+                    "end": 20.603,
+                    "score": 0.986
+                },
+                {
+                    "word": "the",
+                    "start": 20.623,
+                    "end": 20.843,
+                    "score": 0.67
+                },
+                {
+                    "word": "one",
+                    "start": 20.923,
+                    "end": 21.003,
+                    "score": 0.443
+                },
+                {
+                    "word": "block,",
+                    "start": 21.023,
+                    "end": 21.324,
+                    "score": 0.485
+                },
+                {
+                    "word": "and",
+                    "start": 21.764,
+                    "end": 21.864,
+                    "score": 0.948
+                },
+                {
+                    "word": "turn",
+                    "start": 21.984,
+                    "end": 22.264,
+                    "score": 0.5
+                },
+                {
+                    "word": "left",
+                    "start": 22.364,
+                    "end": 22.644,
+                    "score": 0.955
+                },
+                {
+                    "word": "the",
+                    "start": 23.705,
+                    "end": 23.885,
+                    "score": 0.978
+                },
+                {
+                    "word": "few",
+                    "start": 25.046,
+                    "end": 25.346,
+                    "score": 0.729
+                },
+                {
+                    "word": "road,",
+                    "start": 25.526,
+                    "end": 25.807,
+                    "score": 0.888
+                },
+                {
+                    "word": "and",
+                    "start": 26.427,
+                    "end": 26.507,
+                    "score": 0.792
+                },
+                {
+                    "word": "turn",
+                    "start": 26.547,
+                    "end": 26.727,
+                    "score": 0.512
+                },
+                {
+                    "word": "right,",
+                    "start": 26.767,
+                    "end": 27.007,
+                    "score": 0.66
+                },
+                {
+                    "word": "I",
+                    "start": 27.388,
+                    "end": 27.448,
+                    "score": 0.991
+                },
+                {
+                    "word": "can",
+                    "start": 27.508,
+                    "end": 27.748,
+                    "score": 0.871
+                },
+                {
+                    "word": "find",
+                    "start": 28.268,
+                    "end": 28.528,
+                    "score": 0.806
+                },
+                {
+                    "word": "the...",
+                    "start": 28.548,
+                    "end": 28.649,
+                    "score": 0.499
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Now",
+            "start": 0.569,
+            "end": 0.79,
+            "score": 0.971
+        },
+        {
+            "word": "I'm",
+            "start": 0.99,
+            "end": 1.19,
+            "score": 0.762
+        },
+        {
+            "word": "in",
+            "start": 1.27,
+            "end": 1.41,
+            "score": 0.558
+        },
+        {
+            "word": "Franklin",
+            "start": 1.79,
+            "end": 2.251,
+            "score": 0.739
+        },
+        {
+            "word": "Hotel,",
+            "start": 2.271,
+            "end": 2.651,
+            "score": 0.599
+        },
+        {
+            "word": "and",
+            "start": 3.031,
+            "end": 3.151,
+            "score": 0.887
+        },
+        {
+            "word": "also",
+            "start": 3.251,
+            "end": 3.351,
+            "score": 0.438
+        },
+        {
+            "word": "I",
+            "start": 3.471,
+            "end": 3.571,
+            "score": 0.689
+        },
+        {
+            "word": "would",
+            "start": 3.892,
+            "end": 4.092,
+            "score": 0.548
+        },
+        {
+            "word": "like",
+            "start": 4.132,
+            "end": 4.232,
+            "score": 0.383
+        },
+        {
+            "word": "to",
+            "start": 4.252,
+            "end": 4.312,
+            "score": 0.48
+        },
+        {
+            "word": "go",
+            "start": 4.372,
+            "end": 4.532,
+            "score": 0.746
+        },
+        {
+            "word": "to",
+            "start": 4.552,
+            "end": 4.632,
+            "score": 0.641
+        },
+        {
+            "word": "the",
+            "start": 4.672,
+            "end": 4.812,
+            "score": 0.77
+        },
+        {
+            "word": "Limelight",
+            "start": 5.793,
+            "end": 6.473,
+            "score": 0.886
+        },
+        {
+            "word": "Disco.",
+            "start": 6.614,
+            "end": 7.114,
+            "score": 0.894
+        },
+        {
+            "word": "So",
+            "start": 7.774,
+            "end": 7.954,
+            "score": 0.849
+        },
+        {
+            "word": "first,",
+            "start": 8.014,
+            "end": 8.375,
+            "score": 0.716
+        },
+        {
+            "word": "I",
+            "start": 9.435,
+            "end": 9.495,
+            "score": 0.788
+        },
+        {
+            "word": "should",
+            "start": 9.536,
+            "end": 9.756,
+            "score": 0.839
+        },
+        {
+            "word": "go",
+            "start": 9.816,
+            "end": 10.036,
+            "score": 0.816
+        },
+        {
+            "word": "to",
+            "start": 10.276,
+            "end": 10.556,
+            "score": 0.794
+        },
+        {
+            "word": "Stray",
+            "start": 11.637,
+            "end": 12.678,
+            "score": 0.755
+        },
+        {
+            "word": "until",
+            "start": 13.698,
+            "end": 14.099,
+            "score": 0.692
+        },
+        {
+            "word": "the",
+            "start": 14.139,
+            "end": 14.379,
+            "score": 0.508
+        },
+        {
+            "word": "Harrison",
+            "start": 15.48,
+            "end": 15.88,
+            "score": 0.679
+        },
+        {
+            "word": "Avenue",
+            "start": 15.9,
+            "end": 16.28,
+            "score": 0.645
+        },
+        {
+            "word": "and",
+            "start": 17.181,
+            "end": 17.301,
+            "score": 0.597
+        },
+        {
+            "word": "turn",
+            "start": 17.401,
+            "end": 17.621,
+            "score": 0.504
+        },
+        {
+            "word": "right",
+            "start": 17.641,
+            "end": 17.901,
+            "score": 0.739
+        },
+        {
+            "word": "one",
+            "start": 18.061,
+            "end": 18.141,
+            "score": 0.402
+        },
+        {
+            "word": "block.",
+            "start": 18.161,
+            "end": 18.462,
+            "score": 0.596
+        },
+        {
+            "word": "Yeah,",
+            "start": 18.982,
+            "end": 19.142,
+            "score": 0.409
+        },
+        {
+            "word": "and",
+            "start": 19.582,
+            "end": 19.642,
+            "score": 0.725
+        },
+        {
+            "word": "turn",
+            "start": 19.682,
+            "end": 19.863,
+            "score": 0.498
+        },
+        {
+            "word": "right,",
+            "start": 19.903,
+            "end": 20.203,
+            "score": 0.771
+        },
+        {
+            "word": "go",
+            "start": 20.323,
+            "end": 20.483,
+            "score": 0.96
+        },
+        {
+            "word": "to",
+            "start": 20.543,
+            "end": 20.603,
+            "score": 0.986
+        },
+        {
+            "word": "the",
+            "start": 20.623,
+            "end": 20.843,
+            "score": 0.67
+        },
+        {
+            "word": "one",
+            "start": 20.923,
+            "end": 21.003,
+            "score": 0.443
+        },
+        {
+            "word": "block,",
+            "start": 21.023,
+            "end": 21.324,
+            "score": 0.485
+        },
+        {
+            "word": "and",
+            "start": 21.764,
+            "end": 21.864,
+            "score": 0.948
+        },
+        {
+            "word": "turn",
+            "start": 21.984,
+            "end": 22.264,
+            "score": 0.5
+        },
+        {
+            "word": "left",
+            "start": 22.364,
+            "end": 22.644,
+            "score": 0.955
+        },
+        {
+            "word": "the",
+            "start": 23.705,
+            "end": 23.885,
+            "score": 0.978
+        },
+        {
+            "word": "few",
+            "start": 25.046,
+            "end": 25.346,
+            "score": 0.729
+        },
+        {
+            "word": "road,",
+            "start": 25.526,
+            "end": 25.807,
+            "score": 0.888
+        },
+        {
+            "word": "and",
+            "start": 26.427,
+            "end": 26.507,
+            "score": 0.792
+        },
+        {
+            "word": "turn",
+            "start": 26.547,
+            "end": 26.727,
+            "score": 0.512
+        },
+        {
+            "word": "right,",
+            "start": 26.767,
+            "end": 27.007,
+            "score": 0.66
+        },
+        {
+            "word": "I",
+            "start": 27.388,
+            "end": 27.448,
+            "score": 0.991
+        },
+        {
+            "word": "can",
+            "start": 27.508,
+            "end": 27.748,
+            "score": 0.871
+        },
+        {
+            "word": "find",
+            "start": 28.268,
+            "end": 28.528,
+            "score": 0.806
+        },
+        {
+            "word": "the...",
+            "start": 28.548,
+            "end": 28.649,
+            "score": 0.499
+        }
+    ]
+}

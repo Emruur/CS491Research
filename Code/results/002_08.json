@@ -1,0 +1,661 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 28.23,
+            "text": " here is town hall on main avenue so if you want to drugstore you just to go on west side west main avenue to west and then if you met south avenue turn right and then you go through 10th street go through 10th street you meet high street after two state and then",
+            "words": [
+                {
+                    "word": "here",
+                    "start": 0.069,
+                    "end": 0.309,
+                    "score": 0.461
+                },
+                {
+                    "word": "is",
+                    "start": 0.369,
+                    "end": 0.529,
+                    "score": 0.466
+                },
+                {
+                    "word": "town",
+                    "start": 0.589,
+                    "end": 0.81,
+                    "score": 0.937
+                },
+                {
+                    "word": "hall",
+                    "start": 0.85,
+                    "end": 1.81,
+                    "score": 0.955
+                },
+                {
+                    "word": "on",
+                    "start": 1.83,
+                    "end": 1.87,
+                    "score": 0.001
+                },
+                {
+                    "word": "main",
+                    "start": 2.291,
+                    "end": 2.531,
+                    "score": 0.848
+                },
+                {
+                    "word": "avenue",
+                    "start": 2.671,
+                    "end": 3.031,
+                    "score": 0.784
+                },
+                {
+                    "word": "so",
+                    "start": 4.492,
+                    "end": 4.833,
+                    "score": 0.896
+                },
+                {
+                    "word": "if",
+                    "start": 5.033,
+                    "end": 5.113,
+                    "score": 0.834
+                },
+                {
+                    "word": "you",
+                    "start": 5.153,
+                    "end": 5.313,
+                    "score": 0.997
+                },
+                {
+                    "word": "want",
+                    "start": 5.353,
+                    "end": 5.893,
+                    "score": 0.861
+                },
+                {
+                    "word": "to",
+                    "start": 5.913,
+                    "end": 5.953,
+                    "score": 0.0
+                },
+                {
+                    "word": "drugstore",
+                    "start": 6.274,
+                    "end": 6.854,
+                    "score": 0.795
+                },
+                {
+                    "word": "you",
+                    "start": 7.334,
+                    "end": 7.515,
+                    "score": 0.962
+                },
+                {
+                    "word": "just",
+                    "start": 7.535,
+                    "end": 7.815,
+                    "score": 0.93
+                },
+                {
+                    "word": "to",
+                    "start": 8.575,
+                    "end": 8.876,
+                    "score": 0.988
+                },
+                {
+                    "word": "go",
+                    "start": 9.996,
+                    "end": 10.176,
+                    "score": 0.876
+                },
+                {
+                    "word": "on",
+                    "start": 10.277,
+                    "end": 10.377,
+                    "score": 0.593
+                },
+                {
+                    "word": "west",
+                    "start": 10.457,
+                    "end": 10.797,
+                    "score": 0.95
+                },
+                {
+                    "word": "side",
+                    "start": 10.837,
+                    "end": 11.157,
+                    "score": 0.936
+                },
+                {
+                    "word": "west",
+                    "start": 11.517,
+                    "end": 11.798,
+                    "score": 0.958
+                },
+                {
+                    "word": "main",
+                    "start": 12.378,
+                    "end": 12.638,
+                    "score": 0.881
+                },
+                {
+                    "word": "avenue",
+                    "start": 12.899,
+                    "end": 13.219,
+                    "score": 0.867
+                },
+                {
+                    "word": "to",
+                    "start": 13.359,
+                    "end": 13.519,
+                    "score": 0.99
+                },
+                {
+                    "word": "west",
+                    "start": 13.579,
+                    "end": 13.999,
+                    "score": 0.87
+                },
+                {
+                    "word": "and",
+                    "start": 14.44,
+                    "end": 14.54,
+                    "score": 0.705
+                },
+                {
+                    "word": "then",
+                    "start": 14.58,
+                    "end": 14.76,
+                    "score": 0.77
+                },
+                {
+                    "word": "if",
+                    "start": 15.3,
+                    "end": 15.38,
+                    "score": 0.838
+                },
+                {
+                    "word": "you",
+                    "start": 15.42,
+                    "end": 15.6,
+                    "score": 0.789
+                },
+                {
+                    "word": "met",
+                    "start": 15.621,
+                    "end": 15.801,
+                    "score": 0.997
+                },
+                {
+                    "word": "south",
+                    "start": 16.361,
+                    "end": 16.661,
+                    "score": 0.746
+                },
+                {
+                    "word": "avenue",
+                    "start": 16.781,
+                    "end": 17.102,
+                    "score": 0.85
+                },
+                {
+                    "word": "turn",
+                    "start": 17.342,
+                    "end": 17.642,
+                    "score": 0.761
+                },
+                {
+                    "word": "right",
+                    "start": 17.722,
+                    "end": 18.182,
+                    "score": 0.744
+                },
+                {
+                    "word": "and",
+                    "start": 19.043,
+                    "end": 19.123,
+                    "score": 0.836
+                },
+                {
+                    "word": "then",
+                    "start": 19.183,
+                    "end": 19.383,
+                    "score": 0.865
+                },
+                {
+                    "word": "you",
+                    "start": 19.443,
+                    "end": 19.643,
+                    "score": 0.93
+                },
+                {
+                    "word": "go",
+                    "start": 19.684,
+                    "end": 19.844,
+                    "score": 0.979
+                },
+                {
+                    "word": "through",
+                    "start": 19.884,
+                    "end": 20.184,
+                    "score": 0.607
+                },
+                {
+                    "word": "10th",
+                    "start": 20.624,
+                    "end": 20.964,
+                    "score": 0.862
+                },
+                {
+                    "word": "street",
+                    "start": 21.365,
+                    "end": 21.725,
+                    "score": 0.826
+                },
+                {
+                    "word": "go",
+                    "start": 23.046,
+                    "end": 23.186,
+                    "score": 0.932
+                },
+                {
+                    "word": "through",
+                    "start": 23.206,
+                    "end": 23.426,
+                    "score": 0.888
+                },
+                {
+                    "word": "10th",
+                    "start": 23.466,
+                    "end": 23.666,
+                    "score": 0.707
+                },
+                {
+                    "word": "street",
+                    "start": 23.706,
+                    "end": 24.027,
+                    "score": 0.821
+                },
+                {
+                    "word": "you",
+                    "start": 24.267,
+                    "end": 24.447,
+                    "score": 0.948
+                },
+                {
+                    "word": "meet",
+                    "start": 24.487,
+                    "end": 24.687,
+                    "score": 0.986
+                },
+                {
+                    "word": "high",
+                    "start": 25.148,
+                    "end": 25.368,
+                    "score": 0.926
+                },
+                {
+                    "word": "street",
+                    "start": 25.388,
+                    "end": 25.688,
+                    "score": 0.754
+                },
+                {
+                    "word": "after",
+                    "start": 26.048,
+                    "end": 26.388,
+                    "score": 0.804
+                },
+                {
+                    "word": "two",
+                    "start": 26.428,
+                    "end": 26.769,
+                    "score": 0.759
+                },
+                {
+                    "word": "state",
+                    "start": 27.089,
+                    "end": 27.389,
+                    "score": 0.815
+                },
+                {
+                    "word": "and",
+                    "start": 28.01,
+                    "end": 28.09,
+                    "score": 0.858
+                },
+                {
+                    "word": "then",
+                    "start": 28.11,
+                    "end": 28.23,
+                    "score": 0.88
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "here",
+            "start": 0.069,
+            "end": 0.309,
+            "score": 0.461
+        },
+        {
+            "word": "is",
+            "start": 0.369,
+            "end": 0.529,
+            "score": 0.466
+        },
+        {
+            "word": "town",
+            "start": 0.589,
+            "end": 0.81,
+            "score": 0.937
+        },
+        {
+            "word": "hall",
+            "start": 0.85,
+            "end": 1.81,
+            "score": 0.955
+        },
+        {
+            "word": "on",
+            "start": 1.83,
+            "end": 1.87,
+            "score": 0.001
+        },
+        {
+            "word": "main",
+            "start": 2.291,
+            "end": 2.531,
+            "score": 0.848
+        },
+        {
+            "word": "avenue",
+            "start": 2.671,
+            "end": 3.031,
+            "score": 0.784
+        },
+        {
+            "word": "so",
+            "start": 4.492,
+            "end": 4.833,
+            "score": 0.896
+        },
+        {
+            "word": "if",
+            "start": 5.033,
+            "end": 5.113,
+            "score": 0.834
+        },
+        {
+            "word": "you",
+            "start": 5.153,
+            "end": 5.313,
+            "score": 0.997
+        },
+        {
+            "word": "want",
+            "start": 5.353,
+            "end": 5.893,
+            "score": 0.861
+        },
+        {
+            "word": "to",
+            "start": 5.913,
+            "end": 5.953,
+            "score": 0.0
+        },
+        {
+            "word": "drugstore",
+            "start": 6.274,
+            "end": 6.854,
+            "score": 0.795
+        },
+        {
+            "word": "you",
+            "start": 7.334,
+            "end": 7.515,
+            "score": 0.962
+        },
+        {
+            "word": "just",
+            "start": 7.535,
+            "end": 7.815,
+            "score": 0.93
+        },
+        {
+            "word": "to",
+            "start": 8.575,
+            "end": 8.876,
+            "score": 0.988
+        },
+        {
+            "word": "go",
+            "start": 9.996,
+            "end": 10.176,
+            "score": 0.876
+        },
+        {
+            "word": "on",
+            "start": 10.277,
+            "end": 10.377,
+            "score": 0.593
+        },
+        {
+            "word": "west",
+            "start": 10.457,
+            "end": 10.797,
+            "score": 0.95
+        },
+        {
+            "word": "side",
+            "start": 10.837,
+            "end": 11.157,
+            "score": 0.936
+        },
+        {
+            "word": "west",
+            "start": 11.517,
+            "end": 11.798,
+            "score": 0.958
+        },
+        {
+            "word": "main",
+            "start": 12.378,
+            "end": 12.638,
+            "score": 0.881
+        },
+        {
+            "word": "avenue",
+            "start": 12.899,
+            "end": 13.219,
+            "score": 0.867
+        },
+        {
+            "word": "to",
+            "start": 13.359,
+            "end": 13.519,
+            "score": 0.99
+        },
+        {
+            "word": "west",
+            "start": 13.579,
+            "end": 13.999,
+            "score": 0.87
+        },
+        {
+            "word": "and",
+            "start": 14.44,
+            "end": 14.54,
+            "score": 0.705
+        },
+        {
+            "word": "then",
+            "start": 14.58,
+            "end": 14.76,
+            "score": 0.77
+        },
+        {
+            "word": "if",
+            "start": 15.3,
+            "end": 15.38,
+            "score": 0.838
+        },
+        {
+            "word": "you",
+            "start": 15.42,
+            "end": 15.6,
+            "score": 0.789
+        },
+        {
+            "word": "met",
+            "start": 15.621,
+            "end": 15.801,
+            "score": 0.997
+        },
+        {
+            "word": "south",
+            "start": 16.361,
+            "end": 16.661,
+            "score": 0.746
+        },
+        {
+            "word": "avenue",
+            "start": 16.781,
+            "end": 17.102,
+            "score": 0.85
+        },
+        {
+            "word": "turn",
+            "start": 17.342,
+            "end": 17.642,
+            "score": 0.761
+        },
+        {
+            "word": "right",
+            "start": 17.722,
+            "end": 18.182,
+            "score": 0.744
+        },
+        {
+            "word": "and",
+            "start": 19.043,
+            "end": 19.123,
+            "score": 0.836
+        },
+        {
+            "word": "then",
+            "start": 19.183,
+            "end": 19.383,
+            "score": 0.865
+        },
+        {
+            "word": "you",
+            "start": 19.443,
+            "end": 19.643,
+            "score": 0.93
+        },
+        {
+            "word": "go",
+            "start": 19.684,
+            "end": 19.844,
+            "score": 0.979
+        },
+        {
+            "word": "through",
+            "start": 19.884,
+            "end": 20.184,
+            "score": 0.607
+        },
+        {
+            "word": "10th",
+            "start": 20.624,
+            "end": 20.964,
+            "score": 0.862
+        },
+        {
+            "word": "street",
+            "start": 21.365,
+            "end": 21.725,
+            "score": 0.826
+        },
+        {
+            "word": "go",
+            "start": 23.046,
+            "end": 23.186,
+            "score": 0.932
+        },
+        {
+            "word": "through",
+            "start": 23.206,
+            "end": 23.426,
+            "score": 0.888
+        },
+        {
+            "word": "10th",
+            "start": 23.466,
+            "end": 23.666,
+            "score": 0.707
+        },
+        {
+            "word": "street",
+            "start": 23.706,
+            "end": 24.027,
+            "score": 0.821
+        },
+        {
+            "word": "you",
+            "start": 24.267,
+            "end": 24.447,
+            "score": 0.948
+        },
+        {
+            "word": "meet",
+            "start": 24.487,
+            "end": 24.687,
+            "score": 0.986
+        },
+        {
+            "word": "high",
+            "start": 25.148,
+            "end": 25.368,
+            "score": 0.926
+        },
+        {
+            "word": "street",
+            "start": 25.388,
+            "end": 25.688,
+            "score": 0.754
+        },
+        {
+            "word": "after",
+            "start": 26.048,
+            "end": 26.388,
+            "score": 0.804
+        },
+        {
+            "word": "two",
+            "start": 26.428,
+            "end": 26.769,
+            "score": 0.759
+        },
+        {
+            "word": "state",
+            "start": 27.089,
+            "end": 27.389,
+            "score": 0.815
+        },
+        {
+            "word": "and",
+            "start": 28.01,
+            "end": 28.09,
+            "score": 0.858
+        },
+        {
+            "word": "then",
+            "start": 28.11,
+            "end": 28.23,
+            "score": 0.88
+        }
+    ]
+}

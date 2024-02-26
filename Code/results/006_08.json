@@ -1,0 +1,447 @@
+{
+    "segments": [
+        {
+            "start": 0.749,
+            "end": 2.33,
+            "text": " I choose the drugstore.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.749,
+                    "end": 0.889,
+                    "score": 0.818
+                },
+                {
+                    "word": "choose",
+                    "start": 0.949,
+                    "end": 1.33,
+                    "score": 0.672
+                },
+                {
+                    "word": "the",
+                    "start": 1.37,
+                    "end": 1.51,
+                    "score": 0.901
+                },
+                {
+                    "word": "drugstore.",
+                    "start": 1.55,
+                    "end": 2.33,
+                    "score": 0.829
+                }
+            ]
+        },
+        {
+            "start": 4.111,
+            "end": 9.513,
+            "text": "It's the north and west side on the map.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 4.111,
+                    "end": 4.311,
+                    "score": 0.711
+                },
+                {
+                    "word": "the",
+                    "start": 4.391,
+                    "end": 4.831,
+                    "score": 0.974
+                },
+                {
+                    "word": "north",
+                    "start": 5.951,
+                    "end": 6.311,
+                    "score": 0.881
+                },
+                {
+                    "word": "and",
+                    "start": 6.692,
+                    "end": 6.932,
+                    "score": 0.726
+                },
+                {
+                    "word": "west",
+                    "start": 7.932,
+                    "end": 8.192,
+                    "score": 0.57
+                },
+                {
+                    "word": "side",
+                    "start": 8.352,
+                    "end": 8.752,
+                    "score": 0.867
+                },
+                {
+                    "word": "on",
+                    "start": 8.892,
+                    "end": 8.972,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 9.012,
+                    "end": 9.132,
+                    "score": 0.851
+                },
+                {
+                    "word": "map.",
+                    "start": 9.173,
+                    "end": 9.513,
+                    "score": 0.865
+                }
+            ]
+        },
+        {
+            "start": 10.793,
+            "end": 21.637,
+            "text": "If you find the 10th street and the high street, it's on the intersection on the 10th street and the high street.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 10.793,
+                    "end": 10.913,
+                    "score": 0.899
+                },
+                {
+                    "word": "you",
+                    "start": 11.013,
+                    "end": 11.293,
+                    "score": 0.911
+                },
+                {
+                    "word": "find",
+                    "start": 11.513,
+                    "end": 11.934,
+                    "score": 0.785
+                },
+                {
+                    "word": "the",
+                    "start": 11.994,
+                    "end": 12.354,
+                    "score": 0.894
+                },
+                {
+                    "word": "10th",
+                    "start": 12.374,
+                    "end": 12.414,
+                    "score": 0.0
+                },
+                {
+                    "word": "street",
+                    "start": 13.274,
+                    "end": 13.794,
+                    "score": 0.703
+                },
+                {
+                    "word": "and",
+                    "start": 15.015,
+                    "end": 15.235,
+                    "score": 0.701
+                },
+                {
+                    "word": "the",
+                    "start": 15.315,
+                    "end": 15.455,
+                    "score": 0.619
+                },
+                {
+                    "word": "high",
+                    "start": 15.555,
+                    "end": 15.815,
+                    "score": 0.86
+                },
+                {
+                    "word": "street,",
+                    "start": 15.855,
+                    "end": 16.195,
+                    "score": 0.874
+                },
+                {
+                    "word": "it's",
+                    "start": 17.036,
+                    "end": 17.176,
+                    "score": 0.904
+                },
+                {
+                    "word": "on",
+                    "start": 17.356,
+                    "end": 17.776,
+                    "score": 0.43
+                },
+                {
+                    "word": "the",
+                    "start": 17.796,
+                    "end": 19.036,
+                    "score": 0.492
+                },
+                {
+                    "word": "intersection",
+                    "start": 19.176,
+                    "end": 19.897,
+                    "score": 0.924
+                },
+                {
+                    "word": "on",
+                    "start": 20.077,
+                    "end": 20.157,
+                    "score": 0.669
+                },
+                {
+                    "word": "the",
+                    "start": 20.197,
+                    "end": 20.317,
+                    "score": 0.685
+                },
+                {
+                    "word": "10th",
+                    "start": 20.357,
+                    "end": 20.617,
+                    "score": 0.575
+                },
+                {
+                    "word": "street",
+                    "start": 20.637,
+                    "end": 20.957,
+                    "score": 0.84
+                },
+                {
+                    "word": "and",
+                    "start": 21.057,
+                    "end": 21.177,
+                    "score": 0.91
+                },
+                {
+                    "word": "the",
+                    "start": 21.197,
+                    "end": 21.257,
+                    "score": 0.003
+                },
+                {
+                    "word": "high",
+                    "start": 21.337,
+                    "end": 21.497,
+                    "score": 0.985
+                },
+                {
+                    "word": "street.",
+                    "start": 21.517,
+                    "end": 21.637,
+                    "score": 0.015
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.749,
+            "end": 0.889,
+            "score": 0.818
+        },
+        {
+            "word": "choose",
+            "start": 0.949,
+            "end": 1.33,
+            "score": 0.672
+        },
+        {
+            "word": "the",
+            "start": 1.37,
+            "end": 1.51,
+            "score": 0.901
+        },
+        {
+            "word": "drugstore.",
+            "start": 1.55,
+            "end": 2.33,
+            "score": 0.829
+        },
+        {
+            "word": "It's",
+            "start": 4.111,
+            "end": 4.311,
+            "score": 0.711
+        },
+        {
+            "word": "the",
+            "start": 4.391,
+            "end": 4.831,
+            "score": 0.974
+        },
+        {
+            "word": "north",
+            "start": 5.951,
+            "end": 6.311,
+            "score": 0.881
+        },
+        {
+            "word": "and",
+            "start": 6.692,
+            "end": 6.932,
+            "score": 0.726
+        },
+        {
+            "word": "west",
+            "start": 7.932,
+            "end": 8.192,
+            "score": 0.57
+        },
+        {
+            "word": "side",
+            "start": 8.352,
+            "end": 8.752,
+            "score": 0.867
+        },
+        {
+            "word": "on",
+            "start": 8.892,
+            "end": 8.972,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 9.012,
+            "end": 9.132,
+            "score": 0.851
+        },
+        {
+            "word": "map.",
+            "start": 9.173,
+            "end": 9.513,
+            "score": 0.865
+        },
+        {
+            "word": "If",
+            "start": 10.793,
+            "end": 10.913,
+            "score": 0.899
+        },
+        {
+            "word": "you",
+            "start": 11.013,
+            "end": 11.293,
+            "score": 0.911
+        },
+        {
+            "word": "find",
+            "start": 11.513,
+            "end": 11.934,
+            "score": 0.785
+        },
+        {
+            "word": "the",
+            "start": 11.994,
+            "end": 12.354,
+            "score": 0.894
+        },
+        {
+            "word": "10th",
+            "start": 12.374,
+            "end": 12.414,
+            "score": 0.0
+        },
+        {
+            "word": "street",
+            "start": 13.274,
+            "end": 13.794,
+            "score": 0.703
+        },
+        {
+            "word": "and",
+            "start": 15.015,
+            "end": 15.235,
+            "score": 0.701
+        },
+        {
+            "word": "the",
+            "start": 15.315,
+            "end": 15.455,
+            "score": 0.619
+        },
+        {
+            "word": "high",
+            "start": 15.555,
+            "end": 15.815,
+            "score": 0.86
+        },
+        {
+            "word": "street,",
+            "start": 15.855,
+            "end": 16.195,
+            "score": 0.874
+        },
+        {
+            "word": "it's",
+            "start": 17.036,
+            "end": 17.176,
+            "score": 0.904
+        },
+        {
+            "word": "on",
+            "start": 17.356,
+            "end": 17.776,
+            "score": 0.43
+        },
+        {
+            "word": "the",
+            "start": 17.796,
+            "end": 19.036,
+            "score": 0.492
+        },
+        {
+            "word": "intersection",
+            "start": 19.176,
+            "end": 19.897,
+            "score": 0.924
+        },
+        {
+            "word": "on",
+            "start": 20.077,
+            "end": 20.157,
+            "score": 0.669
+        },
+        {
+            "word": "the",
+            "start": 20.197,
+            "end": 20.317,
+            "score": 0.685
+        },
+        {
+            "word": "10th",
+            "start": 20.357,
+            "end": 20.617,
+            "score": 0.575
+        },
+        {
+            "word": "street",
+            "start": 20.637,
+            "end": 20.957,
+            "score": 0.84
+        },
+        {
+            "word": "and",
+            "start": 21.057,
+            "end": 21.177,
+            "score": 0.91
+        },
+        {
+            "word": "the",
+            "start": 21.197,
+            "end": 21.257,
+            "score": 0.003
+        },
+        {
+            "word": "high",
+            "start": 21.337,
+            "end": 21.497,
+            "score": 0.985
+        },
+        {
+            "word": "street.",
+            "start": 21.517,
+            "end": 21.637,
+            "score": 0.015
+        }
+    ]
+}

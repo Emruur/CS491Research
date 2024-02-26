@@ -1,0 +1,977 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 6.752,
+            "text": " If I can go anywhere in the world, the place I want to go is Kyoto in Japan.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.109,
+                    "end": 0.189,
+                    "score": 0.988
+                },
+                {
+                    "word": "I",
+                    "start": 0.269,
+                    "end": 0.309,
+                    "score": 0.999
+                },
+                {
+                    "word": "can",
+                    "start": 0.349,
+                    "end": 0.489,
+                    "score": 0.787
+                },
+                {
+                    "word": "go",
+                    "start": 0.509,
+                    "end": 0.609,
+                    "score": 0.997
+                },
+                {
+                    "word": "anywhere",
+                    "start": 0.669,
+                    "end": 1.069,
+                    "score": 0.798
+                },
+                {
+                    "word": "in",
+                    "start": 1.109,
+                    "end": 1.169,
+                    "score": 0.857
+                },
+                {
+                    "word": "the",
+                    "start": 1.19,
+                    "end": 1.25,
+                    "score": 0.005
+                },
+                {
+                    "word": "world,",
+                    "start": 1.31,
+                    "end": 1.59,
+                    "score": 0.784
+                },
+                {
+                    "word": "the",
+                    "start": 2.29,
+                    "end": 3.21,
+                    "score": 0.926
+                },
+                {
+                    "word": "place",
+                    "start": 3.35,
+                    "end": 3.631,
+                    "score": 0.921
+                },
+                {
+                    "word": "I",
+                    "start": 3.651,
+                    "end": 3.691,
+                    "score": 0.991
+                },
+                {
+                    "word": "want",
+                    "start": 3.731,
+                    "end": 3.871,
+                    "score": 0.876
+                },
+                {
+                    "word": "to",
+                    "start": 3.911,
+                    "end": 3.991,
+                    "score": 0.87
+                },
+                {
+                    "word": "go",
+                    "start": 4.031,
+                    "end": 4.271,
+                    "score": 0.861
+                },
+                {
+                    "word": "is",
+                    "start": 4.591,
+                    "end": 4.711,
+                    "score": 0.663
+                },
+                {
+                    "word": "Kyoto",
+                    "start": 4.811,
+                    "end": 5.291,
+                    "score": 0.68
+                },
+                {
+                    "word": "in",
+                    "start": 6.212,
+                    "end": 6.312,
+                    "score": 0.591
+                },
+                {
+                    "word": "Japan.",
+                    "start": 6.352,
+                    "end": 6.752,
+                    "score": 0.915
+                }
+            ]
+        },
+        {
+            "start": 7.252,
+            "end": 11.214,
+            "text": "Why I want to go to this city is because it's a historic city.",
+            "words": [
+                {
+                    "word": "Why",
+                    "start": 7.252,
+                    "end": 7.432,
+                    "score": 0.782
+                },
+                {
+                    "word": "I",
+                    "start": 7.452,
+                    "end": 7.492,
+                    "score": 0.507
+                },
+                {
+                    "word": "want",
+                    "start": 7.532,
+                    "end": 7.692,
+                    "score": 0.716
+                },
+                {
+                    "word": "to",
+                    "start": 7.712,
+                    "end": 7.752,
+                    "score": 0.946
+                },
+                {
+                    "word": "go",
+                    "start": 7.792,
+                    "end": 7.912,
+                    "score": 0.71
+                },
+                {
+                    "word": "to",
+                    "start": 7.952,
+                    "end": 8.012,
+                    "score": 0.962
+                },
+                {
+                    "word": "this",
+                    "start": 8.052,
+                    "end": 8.233,
+                    "score": 0.592
+                },
+                {
+                    "word": "city",
+                    "start": 8.273,
+                    "end": 8.593,
+                    "score": 0.844
+                },
+                {
+                    "word": "is",
+                    "start": 9.073,
+                    "end": 9.193,
+                    "score": 0.506
+                },
+                {
+                    "word": "because",
+                    "start": 9.233,
+                    "end": 9.653,
+                    "score": 0.901
+                },
+                {
+                    "word": "it's",
+                    "start": 9.913,
+                    "end": 10.033,
+                    "score": 0.798
+                },
+                {
+                    "word": "a",
+                    "start": 10.113,
+                    "end": 10.173,
+                    "score": 0.826
+                },
+                {
+                    "word": "historic",
+                    "start": 10.233,
+                    "end": 10.814,
+                    "score": 0.756
+                },
+                {
+                    "word": "city.",
+                    "start": 10.834,
+                    "end": 11.214,
+                    "score": 0.792
+                }
+            ]
+        },
+        {
+            "start": 11.874,
+            "end": 21.398,
+            "text": "In there, I can learn lots of historical things about Japan and about Chinese.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 11.874,
+                    "end": 11.954,
+                    "score": 0.909
+                },
+                {
+                    "word": "there,",
+                    "start": 11.994,
+                    "end": 12.274,
+                    "score": 0.809
+                },
+                {
+                    "word": "I",
+                    "start": 12.614,
+                    "end": 12.694,
+                    "score": 0.845
+                },
+                {
+                    "word": "can",
+                    "start": 12.754,
+                    "end": 13.015,
+                    "score": 0.713
+                },
+                {
+                    "word": "learn",
+                    "start": 13.075,
+                    "end": 13.395,
+                    "score": 0.617
+                },
+                {
+                    "word": "lots",
+                    "start": 13.535,
+                    "end": 13.755,
+                    "score": 0.532
+                },
+                {
+                    "word": "of",
+                    "start": 13.815,
+                    "end": 13.875,
+                    "score": 0.741
+                },
+                {
+                    "word": "historical",
+                    "start": 13.955,
+                    "end": 14.555,
+                    "score": 0.868
+                },
+                {
+                    "word": "things",
+                    "start": 14.995,
+                    "end": 16.176,
+                    "score": 0.751
+                },
+                {
+                    "word": "about",
+                    "start": 17.877,
+                    "end": 18.317,
+                    "score": 0.871
+                },
+                {
+                    "word": "Japan",
+                    "start": 18.357,
+                    "end": 18.817,
+                    "score": 0.909
+                },
+                {
+                    "word": "and",
+                    "start": 19.197,
+                    "end": 19.317,
+                    "score": 0.705
+                },
+                {
+                    "word": "about",
+                    "start": 19.377,
+                    "end": 19.737,
+                    "score": 0.773
+                },
+                {
+                    "word": "Chinese.",
+                    "start": 19.757,
+                    "end": 21.398,
+                    "score": 0.791
+                }
+            ]
+        },
+        {
+            "start": 21.958,
+            "end": 27.841,
+            "text": "Besides, I can also learn the Japanese language, which is my favorite language.",
+            "words": [
+                {
+                    "word": "Besides,",
+                    "start": 21.958,
+                    "end": 22.339,
+                    "score": 0.861
+                },
+                {
+                    "word": "I",
+                    "start": 22.679,
+                    "end": 22.739,
+                    "score": 0.996
+                },
+                {
+                    "word": "can",
+                    "start": 22.779,
+                    "end": 22.939,
+                    "score": 0.895
+                },
+                {
+                    "word": "also",
+                    "start": 22.999,
+                    "end": 23.199,
+                    "score": 0.972
+                },
+                {
+                    "word": "learn",
+                    "start": 23.239,
+                    "end": 23.459,
+                    "score": 0.778
+                },
+                {
+                    "word": "the",
+                    "start": 23.499,
+                    "end": 23.599,
+                    "score": 0.714
+                },
+                {
+                    "word": "Japanese",
+                    "start": 23.639,
+                    "end": 24.059,
+                    "score": 0.771
+                },
+                {
+                    "word": "language,",
+                    "start": 24.099,
+                    "end": 24.52,
+                    "score": 0.815
+                },
+                {
+                    "word": "which",
+                    "start": 25.04,
+                    "end": 25.32,
+                    "score": 0.768
+                },
+                {
+                    "word": "is",
+                    "start": 25.94,
+                    "end": 26.06,
+                    "score": 0.794
+                },
+                {
+                    "word": "my",
+                    "start": 26.2,
+                    "end": 26.5,
+                    "score": 0.907
+                },
+                {
+                    "word": "favorite",
+                    "start": 26.881,
+                    "end": 27.341,
+                    "score": 0.574
+                },
+                {
+                    "word": "language.",
+                    "start": 27.441,
+                    "end": 27.841,
+                    "score": 0.903
+                }
+            ]
+        },
+        {
+            "start": 29.289,
+            "end": 41.078,
+            "text": " in the world because there are lots of technology in science or in my major will use their paper",
+            "words": [
+                {
+                    "word": "in",
+                    "start": 29.289,
+                    "end": 29.369,
+                    "score": 0.9
+                },
+                {
+                    "word": "the",
+                    "start": 29.389,
+                    "end": 29.449,
+                    "score": 0.002
+                },
+                {
+                    "word": "world",
+                    "start": 29.489,
+                    "end": 29.849,
+                    "score": 0.853
+                },
+                {
+                    "word": "because",
+                    "start": 30.91,
+                    "end": 32.712,
+                    "score": 0.865
+                },
+                {
+                    "word": "there",
+                    "start": 32.772,
+                    "end": 33.012,
+                    "score": 0.824
+                },
+                {
+                    "word": "are",
+                    "start": 33.032,
+                    "end": 33.092,
+                    "score": 0.009
+                },
+                {
+                    "word": "lots",
+                    "start": 33.112,
+                    "end": 33.352,
+                    "score": 0.849
+                },
+                {
+                    "word": "of",
+                    "start": 33.452,
+                    "end": 33.552,
+                    "score": 0.876
+                },
+                {
+                    "word": "technology",
+                    "start": 35.113,
+                    "end": 35.714,
+                    "score": 0.719
+                },
+                {
+                    "word": "in",
+                    "start": 36.214,
+                    "end": 36.334,
+                    "score": 0.712
+                },
+                {
+                    "word": "science",
+                    "start": 36.414,
+                    "end": 36.795,
+                    "score": 0.622
+                },
+                {
+                    "word": "or",
+                    "start": 37.595,
+                    "end": 37.735,
+                    "score": 0.843
+                },
+                {
+                    "word": "in",
+                    "start": 37.755,
+                    "end": 37.795,
+                    "score": 0.024
+                },
+                {
+                    "word": "my",
+                    "start": 37.995,
+                    "end": 38.116,
+                    "score": 0.891
+                },
+                {
+                    "word": "major",
+                    "start": 38.156,
+                    "end": 38.536,
+                    "score": 0.891
+                },
+                {
+                    "word": "will",
+                    "start": 38.996,
+                    "end": 39.216,
+                    "score": 0.582
+                },
+                {
+                    "word": "use",
+                    "start": 39.296,
+                    "end": 39.457,
+                    "score": 0.773
+                },
+                {
+                    "word": "their",
+                    "start": 40.597,
+                    "end": 40.718,
+                    "score": 0.458
+                },
+                {
+                    "word": "paper",
+                    "start": 40.738,
+                    "end": 41.078,
+                    "score": 0.659
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.109,
+            "end": 0.189,
+            "score": 0.988
+        },
+        {
+            "word": "I",
+            "start": 0.269,
+            "end": 0.309,
+            "score": 0.999
+        },
+        {
+            "word": "can",
+            "start": 0.349,
+            "end": 0.489,
+            "score": 0.787
+        },
+        {
+            "word": "go",
+            "start": 0.509,
+            "end": 0.609,
+            "score": 0.997
+        },
+        {
+            "word": "anywhere",
+            "start": 0.669,
+            "end": 1.069,
+            "score": 0.798
+        },
+        {
+            "word": "in",
+            "start": 1.109,
+            "end": 1.169,
+            "score": 0.857
+        },
+        {
+            "word": "the",
+            "start": 1.19,
+            "end": 1.25,
+            "score": 0.005
+        },
+        {
+            "word": "world,",
+            "start": 1.31,
+            "end": 1.59,
+            "score": 0.784
+        },
+        {
+            "word": "the",
+            "start": 2.29,
+            "end": 3.21,
+            "score": 0.926
+        },
+        {
+            "word": "place",
+            "start": 3.35,
+            "end": 3.631,
+            "score": 0.921
+        },
+        {
+            "word": "I",
+            "start": 3.651,
+            "end": 3.691,
+            "score": 0.991
+        },
+        {
+            "word": "want",
+            "start": 3.731,
+            "end": 3.871,
+            "score": 0.876
+        },
+        {
+            "word": "to",
+            "start": 3.911,
+            "end": 3.991,
+            "score": 0.87
+        },
+        {
+            "word": "go",
+            "start": 4.031,
+            "end": 4.271,
+            "score": 0.861
+        },
+        {
+            "word": "is",
+            "start": 4.591,
+            "end": 4.711,
+            "score": 0.663
+        },
+        {
+            "word": "Kyoto",
+            "start": 4.811,
+            "end": 5.291,
+            "score": 0.68
+        },
+        {
+            "word": "in",
+            "start": 6.212,
+            "end": 6.312,
+            "score": 0.591
+        },
+        {
+            "word": "Japan.",
+            "start": 6.352,
+            "end": 6.752,
+            "score": 0.915
+        },
+        {
+            "word": "Why",
+            "start": 7.252,
+            "end": 7.432,
+            "score": 0.782
+        },
+        {
+            "word": "I",
+            "start": 7.452,
+            "end": 7.492,
+            "score": 0.507
+        },
+        {
+            "word": "want",
+            "start": 7.532,
+            "end": 7.692,
+            "score": 0.716
+        },
+        {
+            "word": "to",
+            "start": 7.712,
+            "end": 7.752,
+            "score": 0.946
+        },
+        {
+            "word": "go",
+            "start": 7.792,
+            "end": 7.912,
+            "score": 0.71
+        },
+        {
+            "word": "to",
+            "start": 7.952,
+            "end": 8.012,
+            "score": 0.962
+        },
+        {
+            "word": "this",
+            "start": 8.052,
+            "end": 8.233,
+            "score": 0.592
+        },
+        {
+            "word": "city",
+            "start": 8.273,
+            "end": 8.593,
+            "score": 0.844
+        },
+        {
+            "word": "is",
+            "start": 9.073,
+            "end": 9.193,
+            "score": 0.506
+        },
+        {
+            "word": "because",
+            "start": 9.233,
+            "end": 9.653,
+            "score": 0.901
+        },
+        {
+            "word": "it's",
+            "start": 9.913,
+            "end": 10.033,
+            "score": 0.798
+        },
+        {
+            "word": "a",
+            "start": 10.113,
+            "end": 10.173,
+            "score": 0.826
+        },
+        {
+            "word": "historic",
+            "start": 10.233,
+            "end": 10.814,
+            "score": 0.756
+        },
+        {
+            "word": "city.",
+            "start": 10.834,
+            "end": 11.214,
+            "score": 0.792
+        },
+        {
+            "word": "In",
+            "start": 11.874,
+            "end": 11.954,
+            "score": 0.909
+        },
+        {
+            "word": "there,",
+            "start": 11.994,
+            "end": 12.274,
+            "score": 0.809
+        },
+        {
+            "word": "I",
+            "start": 12.614,
+            "end": 12.694,
+            "score": 0.845
+        },
+        {
+            "word": "can",
+            "start": 12.754,
+            "end": 13.015,
+            "score": 0.713
+        },
+        {
+            "word": "learn",
+            "start": 13.075,
+            "end": 13.395,
+            "score": 0.617
+        },
+        {
+            "word": "lots",
+            "start": 13.535,
+            "end": 13.755,
+            "score": 0.532
+        },
+        {
+            "word": "of",
+            "start": 13.815,
+            "end": 13.875,
+            "score": 0.741
+        },
+        {
+            "word": "historical",
+            "start": 13.955,
+            "end": 14.555,
+            "score": 0.868
+        },
+        {
+            "word": "things",
+            "start": 14.995,
+            "end": 16.176,
+            "score": 0.751
+        },
+        {
+            "word": "about",
+            "start": 17.877,
+            "end": 18.317,
+            "score": 0.871
+        },
+        {
+            "word": "Japan",
+            "start": 18.357,
+            "end": 18.817,
+            "score": 0.909
+        },
+        {
+            "word": "and",
+            "start": 19.197,
+            "end": 19.317,
+            "score": 0.705
+        },
+        {
+            "word": "about",
+            "start": 19.377,
+            "end": 19.737,
+            "score": 0.773
+        },
+        {
+            "word": "Chinese.",
+            "start": 19.757,
+            "end": 21.398,
+            "score": 0.791
+        },
+        {
+            "word": "Besides,",
+            "start": 21.958,
+            "end": 22.339,
+            "score": 0.861
+        },
+        {
+            "word": "I",
+            "start": 22.679,
+            "end": 22.739,
+            "score": 0.996
+        },
+        {
+            "word": "can",
+            "start": 22.779,
+            "end": 22.939,
+            "score": 0.895
+        },
+        {
+            "word": "also",
+            "start": 22.999,
+            "end": 23.199,
+            "score": 0.972
+        },
+        {
+            "word": "learn",
+            "start": 23.239,
+            "end": 23.459,
+            "score": 0.778
+        },
+        {
+            "word": "the",
+            "start": 23.499,
+            "end": 23.599,
+            "score": 0.714
+        },
+        {
+            "word": "Japanese",
+            "start": 23.639,
+            "end": 24.059,
+            "score": 0.771
+        },
+        {
+            "word": "language,",
+            "start": 24.099,
+            "end": 24.52,
+            "score": 0.815
+        },
+        {
+            "word": "which",
+            "start": 25.04,
+            "end": 25.32,
+            "score": 0.768
+        },
+        {
+            "word": "is",
+            "start": 25.94,
+            "end": 26.06,
+            "score": 0.794
+        },
+        {
+            "word": "my",
+            "start": 26.2,
+            "end": 26.5,
+            "score": 0.907
+        },
+        {
+            "word": "favorite",
+            "start": 26.881,
+            "end": 27.341,
+            "score": 0.574
+        },
+        {
+            "word": "language.",
+            "start": 27.441,
+            "end": 27.841,
+            "score": 0.903
+        },
+        {
+            "word": "in",
+            "start": 29.289,
+            "end": 29.369,
+            "score": 0.9
+        },
+        {
+            "word": "the",
+            "start": 29.389,
+            "end": 29.449,
+            "score": 0.002
+        },
+        {
+            "word": "world",
+            "start": 29.489,
+            "end": 29.849,
+            "score": 0.853
+        },
+        {
+            "word": "because",
+            "start": 30.91,
+            "end": 32.712,
+            "score": 0.865
+        },
+        {
+            "word": "there",
+            "start": 32.772,
+            "end": 33.012,
+            "score": 0.824
+        },
+        {
+            "word": "are",
+            "start": 33.032,
+            "end": 33.092,
+            "score": 0.009
+        },
+        {
+            "word": "lots",
+            "start": 33.112,
+            "end": 33.352,
+            "score": 0.849
+        },
+        {
+            "word": "of",
+            "start": 33.452,
+            "end": 33.552,
+            "score": 0.876
+        },
+        {
+            "word": "technology",
+            "start": 35.113,
+            "end": 35.714,
+            "score": 0.719
+        },
+        {
+            "word": "in",
+            "start": 36.214,
+            "end": 36.334,
+            "score": 0.712
+        },
+        {
+            "word": "science",
+            "start": 36.414,
+            "end": 36.795,
+            "score": 0.622
+        },
+        {
+            "word": "or",
+            "start": 37.595,
+            "end": 37.735,
+            "score": 0.843
+        },
+        {
+            "word": "in",
+            "start": 37.755,
+            "end": 37.795,
+            "score": 0.024
+        },
+        {
+            "word": "my",
+            "start": 37.995,
+            "end": 38.116,
+            "score": 0.891
+        },
+        {
+            "word": "major",
+            "start": 38.156,
+            "end": 38.536,
+            "score": 0.891
+        },
+        {
+            "word": "will",
+            "start": 38.996,
+            "end": 39.216,
+            "score": 0.582
+        },
+        {
+            "word": "use",
+            "start": 39.296,
+            "end": 39.457,
+            "score": 0.773
+        },
+        {
+            "word": "their",
+            "start": 40.597,
+            "end": 40.718,
+            "score": 0.458
+        },
+        {
+            "word": "paper",
+            "start": 40.738,
+            "end": 41.078,
+            "score": 0.659
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "segments": [
+        {
+            "start": 0.751,
+            "end": 3.339,
+            "text": " I like movie monster INC because",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.751,
+                    "end": 0.852,
+                    "score": 0.989
+                },
+                {
+                    "word": "like",
+                    "start": 0.892,
+                    "end": 1.153,
+                    "score": 0.932
+                },
+                {
+                    "word": "movie",
+                    "start": 1.694,
+                    "end": 2.055,
+                    "score": 0.63
+                },
+                {
+                    "word": "monster",
+                    "start": 2.096,
+                    "end": 2.577,
+                    "score": 0.732
+                },
+                {
+                    "word": "INC",
+                    "start": 2.597,
+                    "end": 2.657,
+                    "score": 0.006
+                },
+                {
+                    "word": "because",
+                    "start": 2.677,
+                    "end": 3.339,
+                    "score": 0.341
+                }
+            ]
+        },
+        {
+            "start": 8.553,
+            "end": 24.0,
+            "text": " I don't think that kind of situation, the director or writer have very creative, I think.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 8.553,
+                    "end": 8.613,
+                    "score": 0.839
+                },
+                {
+                    "word": "don't",
+                    "start": 8.633,
+                    "end": 8.833,
+                    "score": 0.862
+                },
+                {
+                    "word": "think",
+                    "start": 8.893,
+                    "end": 9.173,
+                    "score": 0.878
+                },
+                {
+                    "word": "that",
+                    "start": 10.814,
+                    "end": 10.934,
+                    "score": 0.623
+                },
+                {
+                    "word": "kind",
+                    "start": 11.014,
+                    "end": 11.614,
+                    "score": 0.89
+                },
+                {
+                    "word": "of",
+                    "start": 11.634,
+                    "end": 11.674,
+                    "score": 0.0
+                },
+                {
+                    "word": "situation,",
+                    "start": 11.795,
+                    "end": 12.595,
+                    "score": 0.828
+                },
+                {
+                    "word": "the",
+                    "start": 13.995,
+                    "end": 14.116,
+                    "score": 0.983
+                },
+                {
+                    "word": "director",
+                    "start": 14.196,
+                    "end": 14.936,
+                    "score": 0.928
+                },
+                {
+                    "word": "or",
+                    "start": 15.716,
+                    "end": 15.916,
+                    "score": 0.708
+                },
+                {
+                    "word": "writer",
+                    "start": 17.337,
+                    "end": 17.797,
+                    "score": 0.716
+                },
+                {
+                    "word": "have",
+                    "start": 18.978,
+                    "end": 19.258,
+                    "score": 0.875
+                },
+                {
+                    "word": "very",
+                    "start": 19.398,
+                    "end": 19.678,
+                    "score": 0.977
+                },
+                {
+                    "word": "creative,",
+                    "start": 19.758,
+                    "end": 21.119,
+                    "score": 0.882
+                },
+                {
+                    "word": "I",
+                    "start": 23.58,
+                    "end": 23.64,
+                    "score": 1.0
+                },
+                {
+                    "word": "think.",
+                    "start": 23.7,
+                    "end": 24.0,
+                    "score": 0.883
+                }
+            ]
+        },
+        {
+            "start": 25.961,
+            "end": 30.583,
+            "text": "That imagination is very unique and special.",
+            "words": [
+                {
+                    "word": "That",
+                    "start": 25.961,
+                    "end": 26.181,
+                    "score": 0.848
+                },
+                {
+                    "word": "imagination",
+                    "start": 26.321,
+                    "end": 27.101,
+                    "score": 0.946
+                },
+                {
+                    "word": "is",
+                    "start": 27.261,
+                    "end": 27.381,
+                    "score": 0.698
+                },
+                {
+                    "word": "very",
+                    "start": 27.922,
+                    "end": 28.422,
+                    "score": 0.822
+                },
+                {
+                    "word": "unique",
+                    "start": 29.042,
+                    "end": 29.382,
+                    "score": 0.795
+                },
+                {
+                    "word": "and",
+                    "start": 29.742,
+                    "end": 29.942,
+                    "score": 0.786
+                },
+                {
+                    "word": "special.",
+                    "start": 30.022,
+                    "end": 30.583,
+                    "score": 0.932
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.751,
+            "end": 0.852,
+            "score": 0.989
+        },
+        {
+            "word": "like",
+            "start": 0.892,
+            "end": 1.153,
+            "score": 0.932
+        },
+        {
+            "word": "movie",
+            "start": 1.694,
+            "end": 2.055,
+            "score": 0.63
+        },
+        {
+            "word": "monster",
+            "start": 2.096,
+            "end": 2.577,
+            "score": 0.732
+        },
+        {
+            "word": "INC",
+            "start": 2.597,
+            "end": 2.657,
+            "score": 0.006
+        },
+        {
+            "word": "because",
+            "start": 2.677,
+            "end": 3.339,
+            "score": 0.341
+        },
+        {
+            "word": "I",
+            "start": 8.553,
+            "end": 8.613,
+            "score": 0.839
+        },
+        {
+            "word": "don't",
+            "start": 8.633,
+            "end": 8.833,
+            "score": 0.862
+        },
+        {
+            "word": "think",
+            "start": 8.893,
+            "end": 9.173,
+            "score": 0.878
+        },
+        {
+            "word": "that",
+            "start": 10.814,
+            "end": 10.934,
+            "score": 0.623
+        },
+        {
+            "word": "kind",
+            "start": 11.014,
+            "end": 11.614,
+            "score": 0.89
+        },
+        {
+            "word": "of",
+            "start": 11.634,
+            "end": 11.674,
+            "score": 0.0
+        },
+        {
+            "word": "situation,",
+            "start": 11.795,
+            "end": 12.595,
+            "score": 0.828
+        },
+        {
+            "word": "the",
+            "start": 13.995,
+            "end": 14.116,
+            "score": 0.983
+        },
+        {
+            "word": "director",
+            "start": 14.196,
+            "end": 14.936,
+            "score": 0.928
+        },
+        {
+            "word": "or",
+            "start": 15.716,
+            "end": 15.916,
+            "score": 0.708
+        },
+        {
+            "word": "writer",
+            "start": 17.337,
+            "end": 17.797,
+            "score": 0.716
+        },
+        {
+            "word": "have",
+            "start": 18.978,
+            "end": 19.258,
+            "score": 0.875
+        },
+        {
+            "word": "very",
+            "start": 19.398,
+            "end": 19.678,
+            "score": 0.977
+        },
+        {
+            "word": "creative,",
+            "start": 19.758,
+            "end": 21.119,
+            "score": 0.882
+        },
+        {
+            "word": "I",
+            "start": 23.58,
+            "end": 23.64,
+            "score": 1.0
+        },
+        {
+            "word": "think.",
+            "start": 23.7,
+            "end": 24.0,
+            "score": 0.883
+        },
+        {
+            "word": "That",
+            "start": 25.961,
+            "end": 26.181,
+            "score": 0.848
+        },
+        {
+            "word": "imagination",
+            "start": 26.321,
+            "end": 27.101,
+            "score": 0.946
+        },
+        {
+            "word": "is",
+            "start": 27.261,
+            "end": 27.381,
+            "score": 0.698
+        },
+        {
+            "word": "very",
+            "start": 27.922,
+            "end": 28.422,
+            "score": 0.822
+        },
+        {
+            "word": "unique",
+            "start": 29.042,
+            "end": 29.382,
+            "score": 0.795
+        },
+        {
+            "word": "and",
+            "start": 29.742,
+            "end": 29.942,
+            "score": 0.786
+        },
+        {
+            "word": "special.",
+            "start": 30.022,
+            "end": 30.583,
+            "score": 0.932
+        }
+    ]
+}

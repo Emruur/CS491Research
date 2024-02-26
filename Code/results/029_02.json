@@ -1,0 +1,1006 @@
+{
+    "segments": [
+        {
+            "start": 0.51,
+            "end": 17.052,
+            "text": " There are so many places that I would like to go if I could and one of the places that would be Egypt and I want to go there to see the pyramid since it's very huge and unbelievable.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 0.51,
+                    "end": 0.79,
+                    "score": 0.719
+                },
+                {
+                    "word": "are",
+                    "start": 0.97,
+                    "end": 1.09,
+                    "score": 0.88
+                },
+                {
+                    "word": "so",
+                    "start": 1.231,
+                    "end": 1.451,
+                    "score": 0.996
+                },
+                {
+                    "word": "many",
+                    "start": 1.531,
+                    "end": 1.851,
+                    "score": 0.692
+                },
+                {
+                    "word": "places",
+                    "start": 2.052,
+                    "end": 2.492,
+                    "score": 0.926
+                },
+                {
+                    "word": "that",
+                    "start": 2.552,
+                    "end": 2.753,
+                    "score": 0.43
+                },
+                {
+                    "word": "I",
+                    "start": 2.873,
+                    "end": 2.933,
+                    "score": 0.994
+                },
+                {
+                    "word": "would",
+                    "start": 2.993,
+                    "end": 3.173,
+                    "score": 0.857
+                },
+                {
+                    "word": "like",
+                    "start": 3.213,
+                    "end": 3.354,
+                    "score": 0.972
+                },
+                {
+                    "word": "to",
+                    "start": 3.374,
+                    "end": 3.454,
+                    "score": 0.966
+                },
+                {
+                    "word": "go",
+                    "start": 3.494,
+                    "end": 3.694,
+                    "score": 0.762
+                },
+                {
+                    "word": "if",
+                    "start": 3.754,
+                    "end": 3.854,
+                    "score": 0.878
+                },
+                {
+                    "word": "I",
+                    "start": 3.954,
+                    "end": 4.054,
+                    "score": 0.673
+                },
+                {
+                    "word": "could",
+                    "start": 4.115,
+                    "end": 4.395,
+                    "score": 0.843
+                },
+                {
+                    "word": "and",
+                    "start": 5.216,
+                    "end": 5.376,
+                    "score": 0.715
+                },
+                {
+                    "word": "one",
+                    "start": 5.577,
+                    "end": 5.737,
+                    "score": 0.885
+                },
+                {
+                    "word": "of",
+                    "start": 5.897,
+                    "end": 5.997,
+                    "score": 0.984
+                },
+                {
+                    "word": "the",
+                    "start": 6.157,
+                    "end": 6.277,
+                    "score": 0.895
+                },
+                {
+                    "word": "places",
+                    "start": 6.358,
+                    "end": 6.878,
+                    "score": 0.874
+                },
+                {
+                    "word": "that",
+                    "start": 7.219,
+                    "end": 7.439,
+                    "score": 0.922
+                },
+                {
+                    "word": "would",
+                    "start": 7.719,
+                    "end": 7.98,
+                    "score": 0.791
+                },
+                {
+                    "word": "be",
+                    "start": 8.04,
+                    "end": 8.26,
+                    "score": 0.818
+                },
+                {
+                    "word": "Egypt",
+                    "start": 9.201,
+                    "end": 9.602,
+                    "score": 0.876
+                },
+                {
+                    "word": "and",
+                    "start": 10.283,
+                    "end": 10.423,
+                    "score": 0.626
+                },
+                {
+                    "word": "I",
+                    "start": 10.523,
+                    "end": 10.583,
+                    "score": 0.99
+                },
+                {
+                    "word": "want",
+                    "start": 10.623,
+                    "end": 10.784,
+                    "score": 0.811
+                },
+                {
+                    "word": "to",
+                    "start": 10.804,
+                    "end": 10.884,
+                    "score": 0.691
+                },
+                {
+                    "word": "go",
+                    "start": 10.924,
+                    "end": 11.064,
+                    "score": 0.96
+                },
+                {
+                    "word": "there",
+                    "start": 11.144,
+                    "end": 11.384,
+                    "score": 0.924
+                },
+                {
+                    "word": "to",
+                    "start": 11.485,
+                    "end": 11.605,
+                    "score": 0.774
+                },
+                {
+                    "word": "see",
+                    "start": 11.665,
+                    "end": 11.825,
+                    "score": 0.923
+                },
+                {
+                    "word": "the",
+                    "start": 11.845,
+                    "end": 11.925,
+                    "score": 0.935
+                },
+                {
+                    "word": "pyramid",
+                    "start": 11.965,
+                    "end": 12.546,
+                    "score": 0.936
+                },
+                {
+                    "word": "since",
+                    "start": 12.646,
+                    "end": 12.946,
+                    "score": 0.588
+                },
+                {
+                    "word": "it's",
+                    "start": 13.187,
+                    "end": 13.868,
+                    "score": 0.741
+                },
+                {
+                    "word": "very",
+                    "start": 13.968,
+                    "end": 14.348,
+                    "score": 0.962
+                },
+                {
+                    "word": "huge",
+                    "start": 14.589,
+                    "end": 15.049,
+                    "score": 0.898
+                },
+                {
+                    "word": "and",
+                    "start": 16.011,
+                    "end": 16.131,
+                    "score": 0.903
+                },
+                {
+                    "word": "unbelievable.",
+                    "start": 16.291,
+                    "end": 17.052,
+                    "score": 0.576
+                }
+            ]
+        },
+        {
+            "start": 17.933,
+            "end": 23.337,
+            "text": " architecture that the modern people would never imagine to have.",
+            "words": [
+                {
+                    "word": "architecture",
+                    "start": 17.933,
+                    "end": 18.834,
+                    "score": 0.77
+                },
+                {
+                    "word": "that",
+                    "start": 18.874,
+                    "end": 19.134,
+                    "score": 0.928
+                },
+                {
+                    "word": "the",
+                    "start": 19.594,
+                    "end": 19.674,
+                    "score": 0.947
+                },
+                {
+                    "word": "modern",
+                    "start": 19.715,
+                    "end": 19.995,
+                    "score": 0.846
+                },
+                {
+                    "word": "people",
+                    "start": 20.035,
+                    "end": 20.395,
+                    "score": 0.896
+                },
+                {
+                    "word": "would",
+                    "start": 20.655,
+                    "end": 20.855,
+                    "score": 0.731
+                },
+                {
+                    "word": "never",
+                    "start": 20.976,
+                    "end": 21.296,
+                    "score": 0.841
+                },
+                {
+                    "word": "imagine",
+                    "start": 22.397,
+                    "end": 22.837,
+                    "score": 0.915
+                },
+                {
+                    "word": "to",
+                    "start": 22.917,
+                    "end": 23.037,
+                    "score": 0.934
+                },
+                {
+                    "word": "have.",
+                    "start": 23.097,
+                    "end": 23.337,
+                    "score": 0.847
+                }
+            ]
+        },
+        {
+            "start": 23.998,
+            "end": 32.945,
+            "text": "So if I could go anywhere, I would choose Egypt as my first stop to begin with.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 23.998,
+                    "end": 24.318,
+                    "score": 0.92
+                },
+                {
+                    "word": "if",
+                    "start": 26.12,
+                    "end": 26.22,
+                    "score": 0.608
+                },
+                {
+                    "word": "I",
+                    "start": 26.36,
+                    "end": 26.44,
+                    "score": 0.753
+                },
+                {
+                    "word": "could",
+                    "start": 26.54,
+                    "end": 26.74,
+                    "score": 0.813
+                },
+                {
+                    "word": "go",
+                    "start": 26.78,
+                    "end": 27.0,
+                    "score": 0.8
+                },
+                {
+                    "word": "anywhere,",
+                    "start": 27.561,
+                    "end": 27.961,
+                    "score": 0.714
+                },
+                {
+                    "word": "I",
+                    "start": 28.521,
+                    "end": 28.622,
+                    "score": 0.776
+                },
+                {
+                    "word": "would",
+                    "start": 28.902,
+                    "end": 29.142,
+                    "score": 0.843
+                },
+                {
+                    "word": "choose",
+                    "start": 29.182,
+                    "end": 29.482,
+                    "score": 0.882
+                },
+                {
+                    "word": "Egypt",
+                    "start": 29.822,
+                    "end": 30.143,
+                    "score": 0.884
+                },
+                {
+                    "word": "as",
+                    "start": 30.383,
+                    "end": 30.523,
+                    "score": 0.877
+                },
+                {
+                    "word": "my",
+                    "start": 30.583,
+                    "end": 30.743,
+                    "score": 0.928
+                },
+                {
+                    "word": "first",
+                    "start": 30.803,
+                    "end": 31.023,
+                    "score": 0.815
+                },
+                {
+                    "word": "stop",
+                    "start": 31.083,
+                    "end": 31.364,
+                    "score": 0.986
+                },
+                {
+                    "word": "to",
+                    "start": 32.324,
+                    "end": 32.425,
+                    "score": 0.996
+                },
+                {
+                    "word": "begin",
+                    "start": 32.465,
+                    "end": 32.725,
+                    "score": 0.867
+                },
+                {
+                    "word": "with.",
+                    "start": 32.785,
+                    "end": 32.945,
+                    "score": 0.935
+                }
+            ]
+        },
+        {
+            "start": 35.607,
+            "end": 42.913,
+            "text": "Well, if there are some other possible possibilities, I would try other places like Canada.",
+            "words": [
+                {
+                    "word": "Well,",
+                    "start": 35.607,
+                    "end": 35.827,
+                    "score": 0.87
+                },
+                {
+                    "word": "if",
+                    "start": 35.987,
+                    "end": 36.087,
+                    "score": 0.832
+                },
+                {
+                    "word": "there",
+                    "start": 36.147,
+                    "end": 36.328,
+                    "score": 0.786
+                },
+                {
+                    "word": "are",
+                    "start": 36.408,
+                    "end": 36.508,
+                    "score": 0.807
+                },
+                {
+                    "word": "some",
+                    "start": 36.568,
+                    "end": 36.728,
+                    "score": 0.795
+                },
+                {
+                    "word": "other",
+                    "start": 36.788,
+                    "end": 36.968,
+                    "score": 0.957
+                },
+                {
+                    "word": "possible",
+                    "start": 36.988,
+                    "end": 38.269,
+                    "score": 0.826
+                },
+                {
+                    "word": "possibilities,",
+                    "start": 38.81,
+                    "end": 39.59,
+                    "score": 0.856
+                },
+                {
+                    "word": "I",
+                    "start": 40.751,
+                    "end": 40.811,
+                    "score": 0.677
+                },
+                {
+                    "word": "would",
+                    "start": 40.831,
+                    "end": 41.051,
+                    "score": 0.821
+                },
+                {
+                    "word": "try",
+                    "start": 41.091,
+                    "end": 41.311,
+                    "score": 0.902
+                },
+                {
+                    "word": "other",
+                    "start": 41.732,
+                    "end": 41.912,
+                    "score": 0.922
+                },
+                {
+                    "word": "places",
+                    "start": 41.932,
+                    "end": 42.272,
+                    "score": 0.785
+                },
+                {
+                    "word": "like",
+                    "start": 42.292,
+                    "end": 42.452,
+                    "score": 0.247
+                },
+                {
+                    "word": "Canada.",
+                    "start": 42.512,
+                    "end": 42.913,
+                    "score": 0.915
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "There",
+            "start": 0.51,
+            "end": 0.79,
+            "score": 0.719
+        },
+        {
+            "word": "are",
+            "start": 0.97,
+            "end": 1.09,
+            "score": 0.88
+        },
+        {
+            "word": "so",
+            "start": 1.231,
+            "end": 1.451,
+            "score": 0.996
+        },
+        {
+            "word": "many",
+            "start": 1.531,
+            "end": 1.851,
+            "score": 0.692
+        },
+        {
+            "word": "places",
+            "start": 2.052,
+            "end": 2.492,
+            "score": 0.926
+        },
+        {
+            "word": "that",
+            "start": 2.552,
+            "end": 2.753,
+            "score": 0.43
+        },
+        {
+            "word": "I",
+            "start": 2.873,
+            "end": 2.933,
+            "score": 0.994
+        },
+        {
+            "word": "would",
+            "start": 2.993,
+            "end": 3.173,
+            "score": 0.857
+        },
+        {
+            "word": "like",
+            "start": 3.213,
+            "end": 3.354,
+            "score": 0.972
+        },
+        {
+            "word": "to",
+            "start": 3.374,
+            "end": 3.454,
+            "score": 0.966
+        },
+        {
+            "word": "go",
+            "start": 3.494,
+            "end": 3.694,
+            "score": 0.762
+        },
+        {
+            "word": "if",
+            "start": 3.754,
+            "end": 3.854,
+            "score": 0.878
+        },
+        {
+            "word": "I",
+            "start": 3.954,
+            "end": 4.054,
+            "score": 0.673
+        },
+        {
+            "word": "could",
+            "start": 4.115,
+            "end": 4.395,
+            "score": 0.843
+        },
+        {
+            "word": "and",
+            "start": 5.216,
+            "end": 5.376,
+            "score": 0.715
+        },
+        {
+            "word": "one",
+            "start": 5.577,
+            "end": 5.737,
+            "score": 0.885
+        },
+        {
+            "word": "of",
+            "start": 5.897,
+            "end": 5.997,
+            "score": 0.984
+        },
+        {
+            "word": "the",
+            "start": 6.157,
+            "end": 6.277,
+            "score": 0.895
+        },
+        {
+            "word": "places",
+            "start": 6.358,
+            "end": 6.878,
+            "score": 0.874
+        },
+        {
+            "word": "that",
+            "start": 7.219,
+            "end": 7.439,
+            "score": 0.922
+        },
+        {
+            "word": "would",
+            "start": 7.719,
+            "end": 7.98,
+            "score": 0.791
+        },
+        {
+            "word": "be",
+            "start": 8.04,
+            "end": 8.26,
+            "score": 0.818
+        },
+        {
+            "word": "Egypt",
+            "start": 9.201,
+            "end": 9.602,
+            "score": 0.876
+        },
+        {
+            "word": "and",
+            "start": 10.283,
+            "end": 10.423,
+            "score": 0.626
+        },
+        {
+            "word": "I",
+            "start": 10.523,
+            "end": 10.583,
+            "score": 0.99
+        },
+        {
+            "word": "want",
+            "start": 10.623,
+            "end": 10.784,
+            "score": 0.811
+        },
+        {
+            "word": "to",
+            "start": 10.804,
+            "end": 10.884,
+            "score": 0.691
+        },
+        {
+            "word": "go",
+            "start": 10.924,
+            "end": 11.064,
+            "score": 0.96
+        },
+        {
+            "word": "there",
+            "start": 11.144,
+            "end": 11.384,
+            "score": 0.924
+        },
+        {
+            "word": "to",
+            "start": 11.485,
+            "end": 11.605,
+            "score": 0.774
+        },
+        {
+            "word": "see",
+            "start": 11.665,
+            "end": 11.825,
+            "score": 0.923
+        },
+        {
+            "word": "the",
+            "start": 11.845,
+            "end": 11.925,
+            "score": 0.935
+        },
+        {
+            "word": "pyramid",
+            "start": 11.965,
+            "end": 12.546,
+            "score": 0.936
+        },
+        {
+            "word": "since",
+            "start": 12.646,
+            "end": 12.946,
+            "score": 0.588
+        },
+        {
+            "word": "it's",
+            "start": 13.187,
+            "end": 13.868,
+            "score": 0.741
+        },
+        {
+            "word": "very",
+            "start": 13.968,
+            "end": 14.348,
+            "score": 0.962
+        },
+        {
+            "word": "huge",
+            "start": 14.589,
+            "end": 15.049,
+            "score": 0.898
+        },
+        {
+            "word": "and",
+            "start": 16.011,
+            "end": 16.131,
+            "score": 0.903
+        },
+        {
+            "word": "unbelievable.",
+            "start": 16.291,
+            "end": 17.052,
+            "score": 0.576
+        },
+        {
+            "word": "architecture",
+            "start": 17.933,
+            "end": 18.834,
+            "score": 0.77
+        },
+        {
+            "word": "that",
+            "start": 18.874,
+            "end": 19.134,
+            "score": 0.928
+        },
+        {
+            "word": "the",
+            "start": 19.594,
+            "end": 19.674,
+            "score": 0.947
+        },
+        {
+            "word": "modern",
+            "start": 19.715,
+            "end": 19.995,
+            "score": 0.846
+        },
+        {
+            "word": "people",
+            "start": 20.035,
+            "end": 20.395,
+            "score": 0.896
+        },
+        {
+            "word": "would",
+            "start": 20.655,
+            "end": 20.855,
+            "score": 0.731
+        },
+        {
+            "word": "never",
+            "start": 20.976,
+            "end": 21.296,
+            "score": 0.841
+        },
+        {
+            "word": "imagine",
+            "start": 22.397,
+            "end": 22.837,
+            "score": 0.915
+        },
+        {
+            "word": "to",
+            "start": 22.917,
+            "end": 23.037,
+            "score": 0.934
+        },
+        {
+            "word": "have.",
+            "start": 23.097,
+            "end": 23.337,
+            "score": 0.847
+        },
+        {
+            "word": "So",
+            "start": 23.998,
+            "end": 24.318,
+            "score": 0.92
+        },
+        {
+            "word": "if",
+            "start": 26.12,
+            "end": 26.22,
+            "score": 0.608
+        },
+        {
+            "word": "I",
+            "start": 26.36,
+            "end": 26.44,
+            "score": 0.753
+        },
+        {
+            "word": "could",
+            "start": 26.54,
+            "end": 26.74,
+            "score": 0.813
+        },
+        {
+            "word": "go",
+            "start": 26.78,
+            "end": 27.0,
+            "score": 0.8
+        },
+        {
+            "word": "anywhere,",
+            "start": 27.561,
+            "end": 27.961,
+            "score": 0.714
+        },
+        {
+            "word": "I",
+            "start": 28.521,
+            "end": 28.622,
+            "score": 0.776
+        },
+        {
+            "word": "would",
+            "start": 28.902,
+            "end": 29.142,
+            "score": 0.843
+        },
+        {
+            "word": "choose",
+            "start": 29.182,
+            "end": 29.482,
+            "score": 0.882
+        },
+        {
+            "word": "Egypt",
+            "start": 29.822,
+            "end": 30.143,
+            "score": 0.884
+        },
+        {
+            "word": "as",
+            "start": 30.383,
+            "end": 30.523,
+            "score": 0.877
+        },
+        {
+            "word": "my",
+            "start": 30.583,
+            "end": 30.743,
+            "score": 0.928
+        },
+        {
+            "word": "first",
+            "start": 30.803,
+            "end": 31.023,
+            "score": 0.815
+        },
+        {
+            "word": "stop",
+            "start": 31.083,
+            "end": 31.364,
+            "score": 0.986
+        },
+        {
+            "word": "to",
+            "start": 32.324,
+            "end": 32.425,
+            "score": 0.996
+        },
+        {
+            "word": "begin",
+            "start": 32.465,
+            "end": 32.725,
+            "score": 0.867
+        },
+        {
+            "word": "with.",
+            "start": 32.785,
+            "end": 32.945,
+            "score": 0.935
+        },
+        {
+            "word": "Well,",
+            "start": 35.607,
+            "end": 35.827,
+            "score": 0.87
+        },
+        {
+            "word": "if",
+            "start": 35.987,
+            "end": 36.087,
+            "score": 0.832
+        },
+        {
+            "word": "there",
+            "start": 36.147,
+            "end": 36.328,
+            "score": 0.786
+        },
+        {
+            "word": "are",
+            "start": 36.408,
+            "end": 36.508,
+            "score": 0.807
+        },
+        {
+            "word": "some",
+            "start": 36.568,
+            "end": 36.728,
+            "score": 0.795
+        },
+        {
+            "word": "other",
+            "start": 36.788,
+            "end": 36.968,
+            "score": 0.957
+        },
+        {
+            "word": "possible",
+            "start": 36.988,
+            "end": 38.269,
+            "score": 0.826
+        },
+        {
+            "word": "possibilities,",
+            "start": 38.81,
+            "end": 39.59,
+            "score": 0.856
+        },
+        {
+            "word": "I",
+            "start": 40.751,
+            "end": 40.811,
+            "score": 0.677
+        },
+        {
+            "word": "would",
+            "start": 40.831,
+            "end": 41.051,
+            "score": 0.821
+        },
+        {
+            "word": "try",
+            "start": 41.091,
+            "end": 41.311,
+            "score": 0.902
+        },
+        {
+            "word": "other",
+            "start": 41.732,
+            "end": 41.912,
+            "score": 0.922
+        },
+        {
+            "word": "places",
+            "start": 41.932,
+            "end": 42.272,
+            "score": 0.785
+        },
+        {
+            "word": "like",
+            "start": 42.292,
+            "end": 42.452,
+            "score": 0.247
+        },
+        {
+            "word": "Canada.",
+            "start": 42.512,
+            "end": 42.913,
+            "score": 0.915
+        }
+    ]
+}

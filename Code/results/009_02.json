@@ -1,0 +1,718 @@
+{
+    "segments": [
+        {
+            "start": 0.93,
+            "end": 10.617,
+            "text": " I want to go to the moon because I always see the moon on the sky at night.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.93,
+                    "end": 0.99,
+                    "score": 0.78
+                },
+                {
+                    "word": "want",
+                    "start": 1.03,
+                    "end": 1.23,
+                    "score": 0.743
+                },
+                {
+                    "word": "to",
+                    "start": 1.31,
+                    "end": 1.45,
+                    "score": 0.833
+                },
+                {
+                    "word": "go",
+                    "start": 1.53,
+                    "end": 1.85,
+                    "score": 0.832
+                },
+                {
+                    "word": "to",
+                    "start": 1.99,
+                    "end": 2.111,
+                    "score": 0.942
+                },
+                {
+                    "word": "the",
+                    "start": 2.171,
+                    "end": 2.271,
+                    "score": 0.829
+                },
+                {
+                    "word": "moon",
+                    "start": 2.351,
+                    "end": 2.691,
+                    "score": 0.832
+                },
+                {
+                    "word": "because",
+                    "start": 3.692,
+                    "end": 4.132,
+                    "score": 0.793
+                },
+                {
+                    "word": "I",
+                    "start": 5.593,
+                    "end": 5.733,
+                    "score": 0.837
+                },
+                {
+                    "word": "always",
+                    "start": 5.893,
+                    "end": 6.274,
+                    "score": 0.866
+                },
+                {
+                    "word": "see",
+                    "start": 6.414,
+                    "end": 6.894,
+                    "score": 0.832
+                },
+                {
+                    "word": "the",
+                    "start": 6.954,
+                    "end": 7.094,
+                    "score": 0.878
+                },
+                {
+                    "word": "moon",
+                    "start": 7.174,
+                    "end": 7.534,
+                    "score": 0.879
+                },
+                {
+                    "word": "on",
+                    "start": 7.695,
+                    "end": 7.775,
+                    "score": 0.834
+                },
+                {
+                    "word": "the",
+                    "start": 7.815,
+                    "end": 7.915,
+                    "score": 0.878
+                },
+                {
+                    "word": "sky",
+                    "start": 7.955,
+                    "end": 8.415,
+                    "score": 0.826
+                },
+                {
+                    "word": "at",
+                    "start": 10.036,
+                    "end": 10.236,
+                    "score": 0.762
+                },
+                {
+                    "word": "night.",
+                    "start": 10.296,
+                    "end": 10.617,
+                    "score": 0.904
+                }
+            ]
+        },
+        {
+            "start": 12.718,
+            "end": 21.204,
+            "text": "I heard in my childhood there is two rabbits but I can't see.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 12.718,
+                    "end": 12.838,
+                    "score": 0.888
+                },
+                {
+                    "word": "heard",
+                    "start": 12.898,
+                    "end": 13.199,
+                    "score": 0.781
+                },
+                {
+                    "word": "in",
+                    "start": 13.559,
+                    "end": 13.639,
+                    "score": 0.918
+                },
+                {
+                    "word": "my",
+                    "start": 13.679,
+                    "end": 13.819,
+                    "score": 0.87
+                },
+                {
+                    "word": "childhood",
+                    "start": 13.859,
+                    "end": 14.62,
+                    "score": 0.846
+                },
+                {
+                    "word": "there",
+                    "start": 16.181,
+                    "end": 16.501,
+                    "score": 0.828
+                },
+                {
+                    "word": "is",
+                    "start": 16.521,
+                    "end": 16.561,
+                    "score": 0.0
+                },
+                {
+                    "word": "two",
+                    "start": 16.781,
+                    "end": 17.241,
+                    "score": 0.489
+                },
+                {
+                    "word": "rabbits",
+                    "start": 17.362,
+                    "end": 17.802,
+                    "score": 0.953
+                },
+                {
+                    "word": "but",
+                    "start": 19.563,
+                    "end": 19.823,
+                    "score": 0.883
+                },
+                {
+                    "word": "I",
+                    "start": 20.584,
+                    "end": 20.644,
+                    "score": 0.83
+                },
+                {
+                    "word": "can't",
+                    "start": 20.724,
+                    "end": 20.944,
+                    "score": 0.775
+                },
+                {
+                    "word": "see.",
+                    "start": 21.004,
+                    "end": 21.204,
+                    "score": 0.997
+                }
+            ]
+        },
+        {
+            "start": 22.465,
+            "end": 26.307,
+            "text": " I really want to figure out the fact is true or not.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 22.465,
+                    "end": 22.525,
+                    "score": 0.993
+                },
+                {
+                    "word": "really",
+                    "start": 22.585,
+                    "end": 23.005,
+                    "score": 0.805
+                },
+                {
+                    "word": "want",
+                    "start": 23.106,
+                    "end": 23.746,
+                    "score": 0.82
+                },
+                {
+                    "word": "to",
+                    "start": 23.766,
+                    "end": 23.806,
+                    "score": 0.0
+                },
+                {
+                    "word": "figure",
+                    "start": 24.286,
+                    "end": 24.726,
+                    "score": 0.869
+                },
+                {
+                    "word": "out",
+                    "start": 24.746,
+                    "end": 24.806,
+                    "score": 0.0
+                },
+                {
+                    "word": "the",
+                    "start": 24.826,
+                    "end": 24.887,
+                    "score": 0.001
+                },
+                {
+                    "word": "fact",
+                    "start": 24.907,
+                    "end": 24.987,
+                    "score": 0.0
+                },
+                {
+                    "word": "is",
+                    "start": 25.767,
+                    "end": 25.847,
+                    "score": 0.499
+                },
+                {
+                    "word": "true",
+                    "start": 25.907,
+                    "end": 26.027,
+                    "score": 0.526
+                },
+                {
+                    "word": "or",
+                    "start": 26.147,
+                    "end": 26.187,
+                    "score": 0.5
+                },
+                {
+                    "word": "not.",
+                    "start": 26.227,
+                    "end": 26.307,
+                    "score": 0.333
+                }
+            ]
+        },
+        {
+            "start": 26.788,
+            "end": 30.009,
+            "text": "If I have a chance to go there, I will go to the moon.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 26.788,
+                    "end": 26.828,
+                    "score": 0.001
+                },
+                {
+                    "word": "I",
+                    "start": 26.908,
+                    "end": 26.928,
+                    "score": 0.0
+                },
+                {
+                    "word": "have",
+                    "start": 26.948,
+                    "end": 27.028,
+                    "score": 0.004
+                },
+                {
+                    "word": "a",
+                    "start": 27.048,
+                    "end": 27.068,
+                    "score": 0.025
+                },
+                {
+                    "word": "chance",
+                    "start": 27.088,
+                    "end": 27.248,
+                    "score": 0.184
+                },
+                {
+                    "word": "to",
+                    "start": 27.268,
+                    "end": 27.308,
+                    "score": 0.001
+                },
+                {
+                    "word": "go",
+                    "start": 27.328,
+                    "end": 27.368,
+                    "score": 0.0
+                },
+                {
+                    "word": "there,",
+                    "start": 28.509,
+                    "end": 28.709,
+                    "score": 0.329
+                },
+                {
+                    "word": "I",
+                    "start": 28.729,
+                    "end": 28.749,
+                    "score": 0.002
+                },
+                {
+                    "word": "will",
+                    "start": 28.829,
+                    "end": 29.129,
+                    "score": 0.587
+                },
+                {
+                    "word": "go",
+                    "start": 29.149,
+                    "end": 29.289,
+                    "score": 0.916
+                },
+                {
+                    "word": "to",
+                    "start": 29.369,
+                    "end": 29.449,
+                    "score": 0.499
+                },
+                {
+                    "word": "the",
+                    "start": 29.809,
+                    "end": 29.909,
+                    "score": 0.993
+                },
+                {
+                    "word": "moon.",
+                    "start": 29.929,
+                    "end": 30.009,
+                    "score": 0.0
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.93,
+            "end": 0.99,
+            "score": 0.78
+        },
+        {
+            "word": "want",
+            "start": 1.03,
+            "end": 1.23,
+            "score": 0.743
+        },
+        {
+            "word": "to",
+            "start": 1.31,
+            "end": 1.45,
+            "score": 0.833
+        },
+        {
+            "word": "go",
+            "start": 1.53,
+            "end": 1.85,
+            "score": 0.832
+        },
+        {
+            "word": "to",
+            "start": 1.99,
+            "end": 2.111,
+            "score": 0.942
+        },
+        {
+            "word": "the",
+            "start": 2.171,
+            "end": 2.271,
+            "score": 0.829
+        },
+        {
+            "word": "moon",
+            "start": 2.351,
+            "end": 2.691,
+            "score": 0.832
+        },
+        {
+            "word": "because",
+            "start": 3.692,
+            "end": 4.132,
+            "score": 0.793
+        },
+        {
+            "word": "I",
+            "start": 5.593,
+            "end": 5.733,
+            "score": 0.837
+        },
+        {
+            "word": "always",
+            "start": 5.893,
+            "end": 6.274,
+            "score": 0.866
+        },
+        {
+            "word": "see",
+            "start": 6.414,
+            "end": 6.894,
+            "score": 0.832
+        },
+        {
+            "word": "the",
+            "start": 6.954,
+            "end": 7.094,
+            "score": 0.878
+        },
+        {
+            "word": "moon",
+            "start": 7.174,
+            "end": 7.534,
+            "score": 0.879
+        },
+        {
+            "word": "on",
+            "start": 7.695,
+            "end": 7.775,
+            "score": 0.834
+        },
+        {
+            "word": "the",
+            "start": 7.815,
+            "end": 7.915,
+            "score": 0.878
+        },
+        {
+            "word": "sky",
+            "start": 7.955,
+            "end": 8.415,
+            "score": 0.826
+        },
+        {
+            "word": "at",
+            "start": 10.036,
+            "end": 10.236,
+            "score": 0.762
+        },
+        {
+            "word": "night.",
+            "start": 10.296,
+            "end": 10.617,
+            "score": 0.904
+        },
+        {
+            "word": "I",
+            "start": 12.718,
+            "end": 12.838,
+            "score": 0.888
+        },
+        {
+            "word": "heard",
+            "start": 12.898,
+            "end": 13.199,
+            "score": 0.781
+        },
+        {
+            "word": "in",
+            "start": 13.559,
+            "end": 13.639,
+            "score": 0.918
+        },
+        {
+            "word": "my",
+            "start": 13.679,
+            "end": 13.819,
+            "score": 0.87
+        },
+        {
+            "word": "childhood",
+            "start": 13.859,
+            "end": 14.62,
+            "score": 0.846
+        },
+        {
+            "word": "there",
+            "start": 16.181,
+            "end": 16.501,
+            "score": 0.828
+        },
+        {
+            "word": "is",
+            "start": 16.521,
+            "end": 16.561,
+            "score": 0.0
+        },
+        {
+            "word": "two",
+            "start": 16.781,
+            "end": 17.241,
+            "score": 0.489
+        },
+        {
+            "word": "rabbits",
+            "start": 17.362,
+            "end": 17.802,
+            "score": 0.953
+        },
+        {
+            "word": "but",
+            "start": 19.563,
+            "end": 19.823,
+            "score": 0.883
+        },
+        {
+            "word": "I",
+            "start": 20.584,
+            "end": 20.644,
+            "score": 0.83
+        },
+        {
+            "word": "can't",
+            "start": 20.724,
+            "end": 20.944,
+            "score": 0.775
+        },
+        {
+            "word": "see.",
+            "start": 21.004,
+            "end": 21.204,
+            "score": 0.997
+        },
+        {
+            "word": "I",
+            "start": 22.465,
+            "end": 22.525,
+            "score": 0.993
+        },
+        {
+            "word": "really",
+            "start": 22.585,
+            "end": 23.005,
+            "score": 0.805
+        },
+        {
+            "word": "want",
+            "start": 23.106,
+            "end": 23.746,
+            "score": 0.82
+        },
+        {
+            "word": "to",
+            "start": 23.766,
+            "end": 23.806,
+            "score": 0.0
+        },
+        {
+            "word": "figure",
+            "start": 24.286,
+            "end": 24.726,
+            "score": 0.869
+        },
+        {
+            "word": "out",
+            "start": 24.746,
+            "end": 24.806,
+            "score": 0.0
+        },
+        {
+            "word": "the",
+            "start": 24.826,
+            "end": 24.887,
+            "score": 0.001
+        },
+        {
+            "word": "fact",
+            "start": 24.907,
+            "end": 24.987,
+            "score": 0.0
+        },
+        {
+            "word": "is",
+            "start": 25.767,
+            "end": 25.847,
+            "score": 0.499
+        },
+        {
+            "word": "true",
+            "start": 25.907,
+            "end": 26.027,
+            "score": 0.526
+        },
+        {
+            "word": "or",
+            "start": 26.147,
+            "end": 26.187,
+            "score": 0.5
+        },
+        {
+            "word": "not.",
+            "start": 26.227,
+            "end": 26.307,
+            "score": 0.333
+        },
+        {
+            "word": "If",
+            "start": 26.788,
+            "end": 26.828,
+            "score": 0.001
+        },
+        {
+            "word": "I",
+            "start": 26.908,
+            "end": 26.928,
+            "score": 0.0
+        },
+        {
+            "word": "have",
+            "start": 26.948,
+            "end": 27.028,
+            "score": 0.004
+        },
+        {
+            "word": "a",
+            "start": 27.048,
+            "end": 27.068,
+            "score": 0.025
+        },
+        {
+            "word": "chance",
+            "start": 27.088,
+            "end": 27.248,
+            "score": 0.184
+        },
+        {
+            "word": "to",
+            "start": 27.268,
+            "end": 27.308,
+            "score": 0.001
+        },
+        {
+            "word": "go",
+            "start": 27.328,
+            "end": 27.368,
+            "score": 0.0
+        },
+        {
+            "word": "there,",
+            "start": 28.509,
+            "end": 28.709,
+            "score": 0.329
+        },
+        {
+            "word": "I",
+            "start": 28.729,
+            "end": 28.749,
+            "score": 0.002
+        },
+        {
+            "word": "will",
+            "start": 28.829,
+            "end": 29.129,
+            "score": 0.587
+        },
+        {
+            "word": "go",
+            "start": 29.149,
+            "end": 29.289,
+            "score": 0.916
+        },
+        {
+            "word": "to",
+            "start": 29.369,
+            "end": 29.449,
+            "score": 0.499
+        },
+        {
+            "word": "the",
+            "start": 29.809,
+            "end": 29.909,
+            "score": 0.993
+        },
+        {
+            "word": "moon.",
+            "start": 29.929,
+            "end": 30.009,
+            "score": 0.0
+        }
+    ]
+}

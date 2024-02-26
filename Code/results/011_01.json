@@ -1,0 +1,861 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 3.951,
+            "text": " My favorite movie's name is What Lies Beneath.",
+            "words": [
+                {
+                    "word": "My",
+                    "start": 0.109,
+                    "end": 0.269,
+                    "score": 0.876
+                },
+                {
+                    "word": "favorite",
+                    "start": 0.309,
+                    "end": 0.749,
+                    "score": 0.868
+                },
+                {
+                    "word": "movie's",
+                    "start": 0.91,
+                    "end": 1.81,
+                    "score": 0.682
+                },
+                {
+                    "word": "name",
+                    "start": 1.89,
+                    "end": 2.17,
+                    "score": 0.734
+                },
+                {
+                    "word": "is",
+                    "start": 2.35,
+                    "end": 2.871,
+                    "score": 0.906
+                },
+                {
+                    "word": "What",
+                    "start": 2.951,
+                    "end": 3.111,
+                    "score": 0.914
+                },
+                {
+                    "word": "Lies",
+                    "start": 3.151,
+                    "end": 3.431,
+                    "score": 0.825
+                },
+                {
+                    "word": "Beneath.",
+                    "start": 3.531,
+                    "end": 3.951,
+                    "score": 0.918
+                }
+            ]
+        },
+        {
+            "start": 4.732,
+            "end": 9.194,
+            "text": "And the protagonist's name is Harrison Ford.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 4.732,
+                    "end": 5.252,
+                    "score": 0.691
+                },
+                {
+                    "word": "the",
+                    "start": 5.332,
+                    "end": 5.452,
+                    "score": 0.87
+                },
+                {
+                    "word": "protagonist's",
+                    "start": 5.552,
+                    "end": 7.193,
+                    "score": 0.758
+                },
+                {
+                    "word": "name",
+                    "start": 7.273,
+                    "end": 7.573,
+                    "score": 0.834
+                },
+                {
+                    "word": "is",
+                    "start": 7.773,
+                    "end": 7.914,
+                    "score": 0.921
+                },
+                {
+                    "word": "Harrison",
+                    "start": 8.274,
+                    "end": 8.734,
+                    "score": 0.889
+                },
+                {
+                    "word": "Ford.",
+                    "start": 8.774,
+                    "end": 9.194,
+                    "score": 0.848
+                }
+            ]
+        },
+        {
+            "start": 9.555,
+            "end": 11.736,
+            "text": "He's my favorite actor.",
+            "words": [
+                {
+                    "word": "He's",
+                    "start": 9.555,
+                    "end": 9.715,
+                    "score": 0.579
+                },
+                {
+                    "word": "my",
+                    "start": 9.755,
+                    "end": 9.975,
+                    "score": 0.834
+                },
+                {
+                    "word": "favorite",
+                    "start": 10.095,
+                    "end": 10.555,
+                    "score": 0.794
+                },
+                {
+                    "word": "actor.",
+                    "start": 11.215,
+                    "end": 11.736,
+                    "score": 0.892
+                }
+            ]
+        },
+        {
+            "start": 13.057,
+            "end": 15.298,
+            "text": "So that's why I like this movie.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 13.057,
+                    "end": 13.397,
+                    "score": 0.918
+                },
+                {
+                    "word": "that's",
+                    "start": 13.477,
+                    "end": 13.717,
+                    "score": 0.885
+                },
+                {
+                    "word": "why",
+                    "start": 13.817,
+                    "end": 14.017,
+                    "score": 0.826
+                },
+                {
+                    "word": "I",
+                    "start": 14.117,
+                    "end": 14.237,
+                    "score": 0.772
+                },
+                {
+                    "word": "like",
+                    "start": 14.377,
+                    "end": 14.617,
+                    "score": 0.853
+                },
+                {
+                    "word": "this",
+                    "start": 14.637,
+                    "end": 14.818,
+                    "score": 0.767
+                },
+                {
+                    "word": "movie.",
+                    "start": 14.858,
+                    "end": 15.298,
+                    "score": 0.749
+                }
+            ]
+        },
+        {
+            "start": 15.878,
+            "end": 20.861,
+            "text": "And besides that, I think this movie is pretty dramatic.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 15.878,
+                    "end": 16.418,
+                    "score": 0.812
+                },
+                {
+                    "word": "besides",
+                    "start": 17.319,
+                    "end": 17.739,
+                    "score": 0.917
+                },
+                {
+                    "word": "that,",
+                    "start": 17.779,
+                    "end": 17.999,
+                    "score": 0.865
+                },
+                {
+                    "word": "I",
+                    "start": 18.159,
+                    "end": 18.22,
+                    "score": 0.938
+                },
+                {
+                    "word": "think",
+                    "start": 18.28,
+                    "end": 18.52,
+                    "score": 0.909
+                },
+                {
+                    "word": "this",
+                    "start": 18.58,
+                    "end": 18.78,
+                    "score": 0.67
+                },
+                {
+                    "word": "movie",
+                    "start": 18.84,
+                    "end": 19.26,
+                    "score": 0.717
+                },
+                {
+                    "word": "is",
+                    "start": 19.42,
+                    "end": 19.88,
+                    "score": 0.882
+                },
+                {
+                    "word": "pretty",
+                    "start": 19.961,
+                    "end": 20.241,
+                    "score": 0.899
+                },
+                {
+                    "word": "dramatic.",
+                    "start": 20.281,
+                    "end": 20.861,
+                    "score": 0.862
+                }
+            ]
+        },
+        {
+            "start": 21.361,
+            "end": 26.885,
+            "text": "It's a little bit suspicious movie and mysterious.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 21.361,
+                    "end": 21.762,
+                    "score": 0.902
+                },
+                {
+                    "word": "a",
+                    "start": 22.242,
+                    "end": 22.282,
+                    "score": 0.707
+                },
+                {
+                    "word": "little",
+                    "start": 22.322,
+                    "end": 22.502,
+                    "score": 0.903
+                },
+                {
+                    "word": "bit",
+                    "start": 22.522,
+                    "end": 22.662,
+                    "score": 0.965
+                },
+                {
+                    "word": "suspicious",
+                    "start": 23.102,
+                    "end": 23.763,
+                    "score": 0.908
+                },
+                {
+                    "word": "movie",
+                    "start": 23.823,
+                    "end": 24.203,
+                    "score": 0.65
+                },
+                {
+                    "word": "and",
+                    "start": 24.783,
+                    "end": 24.983,
+                    "score": 0.787
+                },
+                {
+                    "word": "mysterious.",
+                    "start": 26.144,
+                    "end": 26.885,
+                    "score": 0.908
+                }
+            ]
+        },
+        {
+            "start": 29.007,
+            "end": 35.758,
+            "text": " And I like something suspicious so that it can attract me.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 29.007,
+                    "end": 29.107,
+                    "score": 0.883
+                },
+                {
+                    "word": "I",
+                    "start": 29.207,
+                    "end": 29.288,
+                    "score": 0.769
+                },
+                {
+                    "word": "like",
+                    "start": 29.328,
+                    "end": 29.548,
+                    "score": 0.987
+                },
+                {
+                    "word": "something",
+                    "start": 29.628,
+                    "end": 30.109,
+                    "score": 0.833
+                },
+                {
+                    "word": "suspicious",
+                    "start": 32.312,
+                    "end": 32.973,
+                    "score": 0.948
+                },
+                {
+                    "word": "so",
+                    "start": 33.074,
+                    "end": 33.234,
+                    "score": 0.994
+                },
+                {
+                    "word": "that",
+                    "start": 33.274,
+                    "end": 33.454,
+                    "score": 0.919
+                },
+                {
+                    "word": "it",
+                    "start": 33.574,
+                    "end": 33.634,
+                    "score": 0.833
+                },
+                {
+                    "word": "can",
+                    "start": 33.675,
+                    "end": 33.975,
+                    "score": 0.835
+                },
+                {
+                    "word": "attract",
+                    "start": 34.616,
+                    "end": 35.297,
+                    "score": 0.904
+                },
+                {
+                    "word": "me.",
+                    "start": 35.457,
+                    "end": 35.758,
+                    "score": 0.792
+                }
+            ]
+        },
+        {
+            "start": 36.219,
+            "end": 40.425,
+            "text": "It can cause my curiosity.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 36.219,
+                    "end": 36.279,
+                    "score": 0.77
+                },
+                {
+                    "word": "can",
+                    "start": 36.299,
+                    "end": 36.539,
+                    "score": 0.79
+                },
+                {
+                    "word": "cause",
+                    "start": 36.599,
+                    "end": 37.02,
+                    "score": 0.851
+                },
+                {
+                    "word": "my",
+                    "start": 37.541,
+                    "end": 37.941,
+                    "score": 0.914
+                },
+                {
+                    "word": "curiosity.",
+                    "start": 39.444,
+                    "end": 40.425,
+                    "score": 0.88
+                }
+            ]
+        },
+        {
+            "start": 40.846,
+            "end": 41.948,
+            "text": "So that's why I love this.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 40.846,
+                    "end": 40.986,
+                    "score": 1.0
+                },
+                {
+                    "word": "that's",
+                    "start": 41.026,
+                    "end": 41.187,
+                    "score": 0.993
+                },
+                {
+                    "word": "why",
+                    "start": 41.227,
+                    "end": 41.387,
+                    "score": 0.913
+                },
+                {
+                    "word": "I",
+                    "start": 41.447,
+                    "end": 41.547,
+                    "score": 0.612
+                },
+                {
+                    "word": "love",
+                    "start": 41.607,
+                    "end": 41.808,
+                    "score": 0.957
+                },
+                {
+                    "word": "this.",
+                    "start": 41.848,
+                    "end": 41.948,
+                    "score": 0.876
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "My",
+            "start": 0.109,
+            "end": 0.269,
+            "score": 0.876
+        },
+        {
+            "word": "favorite",
+            "start": 0.309,
+            "end": 0.749,
+            "score": 0.868
+        },
+        {
+            "word": "movie's",
+            "start": 0.91,
+            "end": 1.81,
+            "score": 0.682
+        },
+        {
+            "word": "name",
+            "start": 1.89,
+            "end": 2.17,
+            "score": 0.734
+        },
+        {
+            "word": "is",
+            "start": 2.35,
+            "end": 2.871,
+            "score": 0.906
+        },
+        {
+            "word": "What",
+            "start": 2.951,
+            "end": 3.111,
+            "score": 0.914
+        },
+        {
+            "word": "Lies",
+            "start": 3.151,
+            "end": 3.431,
+            "score": 0.825
+        },
+        {
+            "word": "Beneath.",
+            "start": 3.531,
+            "end": 3.951,
+            "score": 0.918
+        },
+        {
+            "word": "And",
+            "start": 4.732,
+            "end": 5.252,
+            "score": 0.691
+        },
+        {
+            "word": "the",
+            "start": 5.332,
+            "end": 5.452,
+            "score": 0.87
+        },
+        {
+            "word": "protagonist's",
+            "start": 5.552,
+            "end": 7.193,
+            "score": 0.758
+        },
+        {
+            "word": "name",
+            "start": 7.273,
+            "end": 7.573,
+            "score": 0.834
+        },
+        {
+            "word": "is",
+            "start": 7.773,
+            "end": 7.914,
+            "score": 0.921
+        },
+        {
+            "word": "Harrison",
+            "start": 8.274,
+            "end": 8.734,
+            "score": 0.889
+        },
+        {
+            "word": "Ford.",
+            "start": 8.774,
+            "end": 9.194,
+            "score": 0.848
+        },
+        {
+            "word": "He's",
+            "start": 9.555,
+            "end": 9.715,
+            "score": 0.579
+        },
+        {
+            "word": "my",
+            "start": 9.755,
+            "end": 9.975,
+            "score": 0.834
+        },
+        {
+            "word": "favorite",
+            "start": 10.095,
+            "end": 10.555,
+            "score": 0.794
+        },
+        {
+            "word": "actor.",
+            "start": 11.215,
+            "end": 11.736,
+            "score": 0.892
+        },
+        {
+            "word": "So",
+            "start": 13.057,
+            "end": 13.397,
+            "score": 0.918
+        },
+        {
+            "word": "that's",
+            "start": 13.477,
+            "end": 13.717,
+            "score": 0.885
+        },
+        {
+            "word": "why",
+            "start": 13.817,
+            "end": 14.017,
+            "score": 0.826
+        },
+        {
+            "word": "I",
+            "start": 14.117,
+            "end": 14.237,
+            "score": 0.772
+        },
+        {
+            "word": "like",
+            "start": 14.377,
+            "end": 14.617,
+            "score": 0.853
+        },
+        {
+            "word": "this",
+            "start": 14.637,
+            "end": 14.818,
+            "score": 0.767
+        },
+        {
+            "word": "movie.",
+            "start": 14.858,
+            "end": 15.298,
+            "score": 0.749
+        },
+        {
+            "word": "And",
+            "start": 15.878,
+            "end": 16.418,
+            "score": 0.812
+        },
+        {
+            "word": "besides",
+            "start": 17.319,
+            "end": 17.739,
+            "score": 0.917
+        },
+        {
+            "word": "that,",
+            "start": 17.779,
+            "end": 17.999,
+            "score": 0.865
+        },
+        {
+            "word": "I",
+            "start": 18.159,
+            "end": 18.22,
+            "score": 0.938
+        },
+        {
+            "word": "think",
+            "start": 18.28,
+            "end": 18.52,
+            "score": 0.909
+        },
+        {
+            "word": "this",
+            "start": 18.58,
+            "end": 18.78,
+            "score": 0.67
+        },
+        {
+            "word": "movie",
+            "start": 18.84,
+            "end": 19.26,
+            "score": 0.717
+        },
+        {
+            "word": "is",
+            "start": 19.42,
+            "end": 19.88,
+            "score": 0.882
+        },
+        {
+            "word": "pretty",
+            "start": 19.961,
+            "end": 20.241,
+            "score": 0.899
+        },
+        {
+            "word": "dramatic.",
+            "start": 20.281,
+            "end": 20.861,
+            "score": 0.862
+        },
+        {
+            "word": "It's",
+            "start": 21.361,
+            "end": 21.762,
+            "score": 0.902
+        },
+        {
+            "word": "a",
+            "start": 22.242,
+            "end": 22.282,
+            "score": 0.707
+        },
+        {
+            "word": "little",
+            "start": 22.322,
+            "end": 22.502,
+            "score": 0.903
+        },
+        {
+            "word": "bit",
+            "start": 22.522,
+            "end": 22.662,
+            "score": 0.965
+        },
+        {
+            "word": "suspicious",
+            "start": 23.102,
+            "end": 23.763,
+            "score": 0.908
+        },
+        {
+            "word": "movie",
+            "start": 23.823,
+            "end": 24.203,
+            "score": 0.65
+        },
+        {
+            "word": "and",
+            "start": 24.783,
+            "end": 24.983,
+            "score": 0.787
+        },
+        {
+            "word": "mysterious.",
+            "start": 26.144,
+            "end": 26.885,
+            "score": 0.908
+        },
+        {
+            "word": "And",
+            "start": 29.007,
+            "end": 29.107,
+            "score": 0.883
+        },
+        {
+            "word": "I",
+            "start": 29.207,
+            "end": 29.288,
+            "score": 0.769
+        },
+        {
+            "word": "like",
+            "start": 29.328,
+            "end": 29.548,
+            "score": 0.987
+        },
+        {
+            "word": "something",
+            "start": 29.628,
+            "end": 30.109,
+            "score": 0.833
+        },
+        {
+            "word": "suspicious",
+            "start": 32.312,
+            "end": 32.973,
+            "score": 0.948
+        },
+        {
+            "word": "so",
+            "start": 33.074,
+            "end": 33.234,
+            "score": 0.994
+        },
+        {
+            "word": "that",
+            "start": 33.274,
+            "end": 33.454,
+            "score": 0.919
+        },
+        {
+            "word": "it",
+            "start": 33.574,
+            "end": 33.634,
+            "score": 0.833
+        },
+        {
+            "word": "can",
+            "start": 33.675,
+            "end": 33.975,
+            "score": 0.835
+        },
+        {
+            "word": "attract",
+            "start": 34.616,
+            "end": 35.297,
+            "score": 0.904
+        },
+        {
+            "word": "me.",
+            "start": 35.457,
+            "end": 35.758,
+            "score": 0.792
+        },
+        {
+            "word": "It",
+            "start": 36.219,
+            "end": 36.279,
+            "score": 0.77
+        },
+        {
+            "word": "can",
+            "start": 36.299,
+            "end": 36.539,
+            "score": 0.79
+        },
+        {
+            "word": "cause",
+            "start": 36.599,
+            "end": 37.02,
+            "score": 0.851
+        },
+        {
+            "word": "my",
+            "start": 37.541,
+            "end": 37.941,
+            "score": 0.914
+        },
+        {
+            "word": "curiosity.",
+            "start": 39.444,
+            "end": 40.425,
+            "score": 0.88
+        },
+        {
+            "word": "So",
+            "start": 40.846,
+            "end": 40.986,
+            "score": 1.0
+        },
+        {
+            "word": "that's",
+            "start": 41.026,
+            "end": 41.187,
+            "score": 0.993
+        },
+        {
+            "word": "why",
+            "start": 41.227,
+            "end": 41.387,
+            "score": 0.913
+        },
+        {
+            "word": "I",
+            "start": 41.447,
+            "end": 41.547,
+            "score": 0.612
+        },
+        {
+            "word": "love",
+            "start": 41.607,
+            "end": 41.808,
+            "score": 0.957
+        },
+        {
+            "word": "this.",
+            "start": 41.848,
+            "end": 41.948,
+            "score": 0.876
+        }
+    ]
+}

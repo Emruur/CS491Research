@@ -1,0 +1,589 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 28.706,
+            "text": " you should go down the street and then turn right on the first turning and then you cross one block and then turn left on the first you go one block and turn left on your first turning and then go down three blocks and then you will",
+            "words": [
+                {
+                    "word": "you",
+                    "start": 0.069,
+                    "end": 0.389,
+                    "score": 0.964
+                },
+                {
+                    "word": "should",
+                    "start": 0.509,
+                    "end": 1.31,
+                    "score": 0.802
+                },
+                {
+                    "word": "go",
+                    "start": 2.09,
+                    "end": 2.551,
+                    "score": 0.844
+                },
+                {
+                    "word": "down",
+                    "start": 2.751,
+                    "end": 3.151,
+                    "score": 0.862
+                },
+                {
+                    "word": "the",
+                    "start": 3.211,
+                    "end": 3.331,
+                    "score": 0.893
+                },
+                {
+                    "word": "street",
+                    "start": 3.411,
+                    "end": 3.951,
+                    "score": 0.812
+                },
+                {
+                    "word": "and",
+                    "start": 4.171,
+                    "end": 4.272,
+                    "score": 0.924
+                },
+                {
+                    "word": "then",
+                    "start": 4.312,
+                    "end": 4.612,
+                    "score": 0.724
+                },
+                {
+                    "word": "turn",
+                    "start": 5.612,
+                    "end": 6.153,
+                    "score": 0.669
+                },
+                {
+                    "word": "right",
+                    "start": 7.934,
+                    "end": 8.234,
+                    "score": 0.707
+                },
+                {
+                    "word": "on",
+                    "start": 8.574,
+                    "end": 8.674,
+                    "score": 0.8
+                },
+                {
+                    "word": "the",
+                    "start": 8.714,
+                    "end": 8.834,
+                    "score": 0.787
+                },
+                {
+                    "word": "first",
+                    "start": 8.894,
+                    "end": 9.254,
+                    "score": 0.608
+                },
+                {
+                    "word": "turning",
+                    "start": 9.355,
+                    "end": 9.715,
+                    "score": 0.793
+                },
+                {
+                    "word": "and",
+                    "start": 10.215,
+                    "end": 10.315,
+                    "score": 0.809
+                },
+                {
+                    "word": "then",
+                    "start": 10.355,
+                    "end": 10.655,
+                    "score": 0.768
+                },
+                {
+                    "word": "you",
+                    "start": 10.955,
+                    "end": 11.156,
+                    "score": 0.909
+                },
+                {
+                    "word": "cross",
+                    "start": 11.236,
+                    "end": 11.676,
+                    "score": 0.856
+                },
+                {
+                    "word": "one",
+                    "start": 12.857,
+                    "end": 12.997,
+                    "score": 0.872
+                },
+                {
+                    "word": "block",
+                    "start": 13.077,
+                    "end": 13.517,
+                    "score": 0.874
+                },
+                {
+                    "word": "and",
+                    "start": 14.237,
+                    "end": 14.337,
+                    "score": 0.934
+                },
+                {
+                    "word": "then",
+                    "start": 14.357,
+                    "end": 14.538,
+                    "score": 0.893
+                },
+                {
+                    "word": "turn",
+                    "start": 14.658,
+                    "end": 15.018,
+                    "score": 0.931
+                },
+                {
+                    "word": "left",
+                    "start": 15.138,
+                    "end": 15.478,
+                    "score": 0.856
+                },
+                {
+                    "word": "on",
+                    "start": 16.559,
+                    "end": 16.619,
+                    "score": 0.996
+                },
+                {
+                    "word": "the",
+                    "start": 16.659,
+                    "end": 16.759,
+                    "score": 0.83
+                },
+                {
+                    "word": "first",
+                    "start": 16.839,
+                    "end": 17.199,
+                    "score": 0.802
+                },
+                {
+                    "word": "you",
+                    "start": 18.02,
+                    "end": 18.16,
+                    "score": 0.937
+                },
+                {
+                    "word": "go",
+                    "start": 18.18,
+                    "end": 18.34,
+                    "score": 0.99
+                },
+                {
+                    "word": "one",
+                    "start": 18.48,
+                    "end": 18.6,
+                    "score": 0.9
+                },
+                {
+                    "word": "block",
+                    "start": 18.64,
+                    "end": 18.92,
+                    "score": 0.938
+                },
+                {
+                    "word": "and",
+                    "start": 19.0,
+                    "end": 19.12,
+                    "score": 0.695
+                },
+                {
+                    "word": "turn",
+                    "start": 19.18,
+                    "end": 19.521,
+                    "score": 0.677
+                },
+                {
+                    "word": "left",
+                    "start": 21.101,
+                    "end": 21.362,
+                    "score": 0.874
+                },
+                {
+                    "word": "on",
+                    "start": 21.842,
+                    "end": 21.922,
+                    "score": 0.851
+                },
+                {
+                    "word": "your",
+                    "start": 21.942,
+                    "end": 22.162,
+                    "score": 0.793
+                },
+                {
+                    "word": "first",
+                    "start": 23.823,
+                    "end": 24.103,
+                    "score": 0.881
+                },
+                {
+                    "word": "turning",
+                    "start": 24.243,
+                    "end": 24.584,
+                    "score": 0.808
+                },
+                {
+                    "word": "and",
+                    "start": 24.724,
+                    "end": 24.804,
+                    "score": 0.926
+                },
+                {
+                    "word": "then",
+                    "start": 24.824,
+                    "end": 25.004,
+                    "score": 0.803
+                },
+                {
+                    "word": "go",
+                    "start": 25.104,
+                    "end": 25.644,
+                    "score": 0.807
+                },
+                {
+                    "word": "down",
+                    "start": 25.824,
+                    "end": 26.184,
+                    "score": 0.911
+                },
+                {
+                    "word": "three",
+                    "start": 26.325,
+                    "end": 26.705,
+                    "score": 0.69
+                },
+                {
+                    "word": "blocks",
+                    "start": 27.505,
+                    "end": 27.845,
+                    "score": 0.897
+                },
+                {
+                    "word": "and",
+                    "start": 28.146,
+                    "end": 28.226,
+                    "score": 0.898
+                },
+                {
+                    "word": "then",
+                    "start": 28.246,
+                    "end": 28.366,
+                    "score": 0.938
+                },
+                {
+                    "word": "you",
+                    "start": 28.406,
+                    "end": 28.506,
+                    "score": 0.991
+                },
+                {
+                    "word": "will",
+                    "start": 28.546,
+                    "end": 28.706,
+                    "score": 0.512
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "you",
+            "start": 0.069,
+            "end": 0.389,
+            "score": 0.964
+        },
+        {
+            "word": "should",
+            "start": 0.509,
+            "end": 1.31,
+            "score": 0.802
+        },
+        {
+            "word": "go",
+            "start": 2.09,
+            "end": 2.551,
+            "score": 0.844
+        },
+        {
+            "word": "down",
+            "start": 2.751,
+            "end": 3.151,
+            "score": 0.862
+        },
+        {
+            "word": "the",
+            "start": 3.211,
+            "end": 3.331,
+            "score": 0.893
+        },
+        {
+            "word": "street",
+            "start": 3.411,
+            "end": 3.951,
+            "score": 0.812
+        },
+        {
+            "word": "and",
+            "start": 4.171,
+            "end": 4.272,
+            "score": 0.924
+        },
+        {
+            "word": "then",
+            "start": 4.312,
+            "end": 4.612,
+            "score": 0.724
+        },
+        {
+            "word": "turn",
+            "start": 5.612,
+            "end": 6.153,
+            "score": 0.669
+        },
+        {
+            "word": "right",
+            "start": 7.934,
+            "end": 8.234,
+            "score": 0.707
+        },
+        {
+            "word": "on",
+            "start": 8.574,
+            "end": 8.674,
+            "score": 0.8
+        },
+        {
+            "word": "the",
+            "start": 8.714,
+            "end": 8.834,
+            "score": 0.787
+        },
+        {
+            "word": "first",
+            "start": 8.894,
+            "end": 9.254,
+            "score": 0.608
+        },
+        {
+            "word": "turning",
+            "start": 9.355,
+            "end": 9.715,
+            "score": 0.793
+        },
+        {
+            "word": "and",
+            "start": 10.215,
+            "end": 10.315,
+            "score": 0.809
+        },
+        {
+            "word": "then",
+            "start": 10.355,
+            "end": 10.655,
+            "score": 0.768
+        },
+        {
+            "word": "you",
+            "start": 10.955,
+            "end": 11.156,
+            "score": 0.909
+        },
+        {
+            "word": "cross",
+            "start": 11.236,
+            "end": 11.676,
+            "score": 0.856
+        },
+        {
+            "word": "one",
+            "start": 12.857,
+            "end": 12.997,
+            "score": 0.872
+        },
+        {
+            "word": "block",
+            "start": 13.077,
+            "end": 13.517,
+            "score": 0.874
+        },
+        {
+            "word": "and",
+            "start": 14.237,
+            "end": 14.337,
+            "score": 0.934
+        },
+        {
+            "word": "then",
+            "start": 14.357,
+            "end": 14.538,
+            "score": 0.893
+        },
+        {
+            "word": "turn",
+            "start": 14.658,
+            "end": 15.018,
+            "score": 0.931
+        },
+        {
+            "word": "left",
+            "start": 15.138,
+            "end": 15.478,
+            "score": 0.856
+        },
+        {
+            "word": "on",
+            "start": 16.559,
+            "end": 16.619,
+            "score": 0.996
+        },
+        {
+            "word": "the",
+            "start": 16.659,
+            "end": 16.759,
+            "score": 0.83
+        },
+        {
+            "word": "first",
+            "start": 16.839,
+            "end": 17.199,
+            "score": 0.802
+        },
+        {
+            "word": "you",
+            "start": 18.02,
+            "end": 18.16,
+            "score": 0.937
+        },
+        {
+            "word": "go",
+            "start": 18.18,
+            "end": 18.34,
+            "score": 0.99
+        },
+        {
+            "word": "one",
+            "start": 18.48,
+            "end": 18.6,
+            "score": 0.9
+        },
+        {
+            "word": "block",
+            "start": 18.64,
+            "end": 18.92,
+            "score": 0.938
+        },
+        {
+            "word": "and",
+            "start": 19.0,
+            "end": 19.12,
+            "score": 0.695
+        },
+        {
+            "word": "turn",
+            "start": 19.18,
+            "end": 19.521,
+            "score": 0.677
+        },
+        {
+            "word": "left",
+            "start": 21.101,
+            "end": 21.362,
+            "score": 0.874
+        },
+        {
+            "word": "on",
+            "start": 21.842,
+            "end": 21.922,
+            "score": 0.851
+        },
+        {
+            "word": "your",
+            "start": 21.942,
+            "end": 22.162,
+            "score": 0.793
+        },
+        {
+            "word": "first",
+            "start": 23.823,
+            "end": 24.103,
+            "score": 0.881
+        },
+        {
+            "word": "turning",
+            "start": 24.243,
+            "end": 24.584,
+            "score": 0.808
+        },
+        {
+            "word": "and",
+            "start": 24.724,
+            "end": 24.804,
+            "score": 0.926
+        },
+        {
+            "word": "then",
+            "start": 24.824,
+            "end": 25.004,
+            "score": 0.803
+        },
+        {
+            "word": "go",
+            "start": 25.104,
+            "end": 25.644,
+            "score": 0.807
+        },
+        {
+            "word": "down",
+            "start": 25.824,
+            "end": 26.184,
+            "score": 0.911
+        },
+        {
+            "word": "three",
+            "start": 26.325,
+            "end": 26.705,
+            "score": 0.69
+        },
+        {
+            "word": "blocks",
+            "start": 27.505,
+            "end": 27.845,
+            "score": 0.897
+        },
+        {
+            "word": "and",
+            "start": 28.146,
+            "end": 28.226,
+            "score": 0.898
+        },
+        {
+            "word": "then",
+            "start": 28.246,
+            "end": 28.366,
+            "score": 0.938
+        },
+        {
+            "word": "you",
+            "start": 28.406,
+            "end": 28.506,
+            "score": 0.991
+        },
+        {
+            "word": "will",
+            "start": 28.546,
+            "end": 28.706,
+            "score": 0.512
+        }
+    ]
+}

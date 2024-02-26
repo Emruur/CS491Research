@@ -1,0 +1,699 @@
+{
+    "segments": [
+        {
+            "start": 0.129,
+            "end": 4.685,
+            "text": " I'm in the bus station now and I think I should go men's clothes and",
+            "words": [
+                {
+                    "word": "I'm",
+                    "start": 0.129,
+                    "end": 0.29,
+                    "score": 0.792
+                },
+                {
+                    "word": "in",
+                    "start": 0.35,
+                    "end": 0.511,
+                    "score": 0.33
+                },
+                {
+                    "word": "the",
+                    "start": 0.691,
+                    "end": 0.832,
+                    "score": 0.932
+                },
+                {
+                    "word": "bus",
+                    "start": 0.872,
+                    "end": 1.213,
+                    "score": 0.842
+                },
+                {
+                    "word": "station",
+                    "start": 1.273,
+                    "end": 1.695,
+                    "score": 0.968
+                },
+                {
+                    "word": "now",
+                    "start": 1.755,
+                    "end": 1.996,
+                    "score": 0.885
+                },
+                {
+                    "word": "and",
+                    "start": 2.116,
+                    "end": 2.237,
+                    "score": 0.822
+                },
+                {
+                    "word": "I",
+                    "start": 2.839,
+                    "end": 2.899,
+                    "score": 0.999
+                },
+                {
+                    "word": "think",
+                    "start": 2.939,
+                    "end": 3.12,
+                    "score": 0.96
+                },
+                {
+                    "word": "I",
+                    "start": 3.16,
+                    "end": 3.22,
+                    "score": 0.73
+                },
+                {
+                    "word": "should",
+                    "start": 3.28,
+                    "end": 3.521,
+                    "score": 0.852
+                },
+                {
+                    "word": "go",
+                    "start": 3.581,
+                    "end": 3.762,
+                    "score": 0.886
+                },
+                {
+                    "word": "men's",
+                    "start": 3.782,
+                    "end": 4.103,
+                    "score": 0.342
+                },
+                {
+                    "word": "clothes",
+                    "start": 4.203,
+                    "end": 4.564,
+                    "score": 0.731
+                },
+                {
+                    "word": "and",
+                    "start": 4.625,
+                    "end": 4.685,
+                    "score": 0.287
+                }
+            ]
+        },
+        {
+            "start": 8.846,
+            "end": 16.909,
+            "text": " I should go down the street along the main avenue until meet the south avenue.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 8.846,
+                    "end": 8.906,
+                    "score": 0.879
+                },
+                {
+                    "word": "should",
+                    "start": 8.986,
+                    "end": 9.746,
+                    "score": 0.754
+                },
+                {
+                    "word": "go",
+                    "start": 10.127,
+                    "end": 10.307,
+                    "score": 0.876
+                },
+                {
+                    "word": "down",
+                    "start": 10.367,
+                    "end": 10.807,
+                    "score": 0.872
+                },
+                {
+                    "word": "the",
+                    "start": 10.827,
+                    "end": 10.887,
+                    "score": 0.0
+                },
+                {
+                    "word": "street",
+                    "start": 11.247,
+                    "end": 11.687,
+                    "score": 0.85
+                },
+                {
+                    "word": "along",
+                    "start": 12.087,
+                    "end": 12.387,
+                    "score": 0.733
+                },
+                {
+                    "word": "the",
+                    "start": 12.467,
+                    "end": 12.567,
+                    "score": 0.839
+                },
+                {
+                    "word": "main",
+                    "start": 12.627,
+                    "end": 12.888,
+                    "score": 0.854
+                },
+                {
+                    "word": "avenue",
+                    "start": 13.028,
+                    "end": 13.628,
+                    "score": 0.564
+                },
+                {
+                    "word": "until",
+                    "start": 14.708,
+                    "end": 15.048,
+                    "score": 0.781
+                },
+                {
+                    "word": "meet",
+                    "start": 15.128,
+                    "end": 15.389,
+                    "score": 0.706
+                },
+                {
+                    "word": "the",
+                    "start": 15.409,
+                    "end": 15.769,
+                    "score": 0.634
+                },
+                {
+                    "word": "south",
+                    "start": 15.869,
+                    "end": 16.289,
+                    "score": 0.667
+                },
+                {
+                    "word": "avenue.",
+                    "start": 16.409,
+                    "end": 16.909,
+                    "score": 0.583
+                }
+            ]
+        },
+        {
+            "start": 17.809,
+            "end": 33.255,
+            "text": "When I meet the south avenue, I should go down the street along the 10th street about two blocks and I can see the men's clothes.",
+            "words": [
+                {
+                    "word": "When",
+                    "start": 17.809,
+                    "end": 17.95,
+                    "score": 0.897
+                },
+                {
+                    "word": "I",
+                    "start": 18.01,
+                    "end": 18.13,
+                    "score": 0.655
+                },
+                {
+                    "word": "meet",
+                    "start": 18.17,
+                    "end": 18.31,
+                    "score": 0.79
+                },
+                {
+                    "word": "the",
+                    "start": 18.39,
+                    "end": 18.53,
+                    "score": 0.528
+                },
+                {
+                    "word": "south",
+                    "start": 19.15,
+                    "end": 19.45,
+                    "score": 0.553
+                },
+                {
+                    "word": "avenue,",
+                    "start": 19.49,
+                    "end": 20.33,
+                    "score": 0.594
+                },
+                {
+                    "word": "I",
+                    "start": 21.951,
+                    "end": 22.071,
+                    "score": 0.914
+                },
+                {
+                    "word": "should",
+                    "start": 23.612,
+                    "end": 23.832,
+                    "score": 0.836
+                },
+                {
+                    "word": "go",
+                    "start": 23.932,
+                    "end": 24.092,
+                    "score": 0.872
+                },
+                {
+                    "word": "down",
+                    "start": 24.132,
+                    "end": 24.452,
+                    "score": 0.858
+                },
+                {
+                    "word": "the",
+                    "start": 24.472,
+                    "end": 24.692,
+                    "score": 0.763
+                },
+                {
+                    "word": "street",
+                    "start": 24.732,
+                    "end": 25.272,
+                    "score": 0.902
+                },
+                {
+                    "word": "along",
+                    "start": 26.273,
+                    "end": 26.593,
+                    "score": 0.838
+                },
+                {
+                    "word": "the",
+                    "start": 26.613,
+                    "end": 26.673,
+                    "score": 0.0
+                },
+                {
+                    "word": "10th",
+                    "start": 27.273,
+                    "end": 27.753,
+                    "score": 0.812
+                },
+                {
+                    "word": "street",
+                    "start": 27.953,
+                    "end": 28.454,
+                    "score": 0.837
+                },
+                {
+                    "word": "about",
+                    "start": 29.354,
+                    "end": 29.654,
+                    "score": 0.937
+                },
+                {
+                    "word": "two",
+                    "start": 29.734,
+                    "end": 29.974,
+                    "score": 0.977
+                },
+                {
+                    "word": "blocks",
+                    "start": 30.034,
+                    "end": 30.414,
+                    "score": 0.642
+                },
+                {
+                    "word": "and",
+                    "start": 30.854,
+                    "end": 31.035,
+                    "score": 0.733
+                },
+                {
+                    "word": "I",
+                    "start": 31.055,
+                    "end": 31.075,
+                    "score": 0.001
+                },
+                {
+                    "word": "can",
+                    "start": 32.055,
+                    "end": 32.255,
+                    "score": 0.929
+                },
+                {
+                    "word": "see",
+                    "start": 32.295,
+                    "end": 32.515,
+                    "score": 0.992
+                },
+                {
+                    "word": "the",
+                    "start": 32.555,
+                    "end": 32.655,
+                    "score": 0.884
+                },
+                {
+                    "word": "men's",
+                    "start": 32.675,
+                    "end": 32.955,
+                    "score": 0.583
+                },
+                {
+                    "word": "clothes.",
+                    "start": 32.995,
+                    "end": 33.255,
+                    "score": 0.43
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I'm",
+            "start": 0.129,
+            "end": 0.29,
+            "score": 0.792
+        },
+        {
+            "word": "in",
+            "start": 0.35,
+            "end": 0.511,
+            "score": 0.33
+        },
+        {
+            "word": "the",
+            "start": 0.691,
+            "end": 0.832,
+            "score": 0.932
+        },
+        {
+            "word": "bus",
+            "start": 0.872,
+            "end": 1.213,
+            "score": 0.842
+        },
+        {
+            "word": "station",
+            "start": 1.273,
+            "end": 1.695,
+            "score": 0.968
+        },
+        {
+            "word": "now",
+            "start": 1.755,
+            "end": 1.996,
+            "score": 0.885
+        },
+        {
+            "word": "and",
+            "start": 2.116,
+            "end": 2.237,
+            "score": 0.822
+        },
+        {
+            "word": "I",
+            "start": 2.839,
+            "end": 2.899,
+            "score": 0.999
+        },
+        {
+            "word": "think",
+            "start": 2.939,
+            "end": 3.12,
+            "score": 0.96
+        },
+        {
+            "word": "I",
+            "start": 3.16,
+            "end": 3.22,
+            "score": 0.73
+        },
+        {
+            "word": "should",
+            "start": 3.28,
+            "end": 3.521,
+            "score": 0.852
+        },
+        {
+            "word": "go",
+            "start": 3.581,
+            "end": 3.762,
+            "score": 0.886
+        },
+        {
+            "word": "men's",
+            "start": 3.782,
+            "end": 4.103,
+            "score": 0.342
+        },
+        {
+            "word": "clothes",
+            "start": 4.203,
+            "end": 4.564,
+            "score": 0.731
+        },
+        {
+            "word": "and",
+            "start": 4.625,
+            "end": 4.685,
+            "score": 0.287
+        },
+        {
+            "word": "I",
+            "start": 8.846,
+            "end": 8.906,
+            "score": 0.879
+        },
+        {
+            "word": "should",
+            "start": 8.986,
+            "end": 9.746,
+            "score": 0.754
+        },
+        {
+            "word": "go",
+            "start": 10.127,
+            "end": 10.307,
+            "score": 0.876
+        },
+        {
+            "word": "down",
+            "start": 10.367,
+            "end": 10.807,
+            "score": 0.872
+        },
+        {
+            "word": "the",
+            "start": 10.827,
+            "end": 10.887,
+            "score": 0.0
+        },
+        {
+            "word": "street",
+            "start": 11.247,
+            "end": 11.687,
+            "score": 0.85
+        },
+        {
+            "word": "along",
+            "start": 12.087,
+            "end": 12.387,
+            "score": 0.733
+        },
+        {
+            "word": "the",
+            "start": 12.467,
+            "end": 12.567,
+            "score": 0.839
+        },
+        {
+            "word": "main",
+            "start": 12.627,
+            "end": 12.888,
+            "score": 0.854
+        },
+        {
+            "word": "avenue",
+            "start": 13.028,
+            "end": 13.628,
+            "score": 0.564
+        },
+        {
+            "word": "until",
+            "start": 14.708,
+            "end": 15.048,
+            "score": 0.781
+        },
+        {
+            "word": "meet",
+            "start": 15.128,
+            "end": 15.389,
+            "score": 0.706
+        },
+        {
+            "word": "the",
+            "start": 15.409,
+            "end": 15.769,
+            "score": 0.634
+        },
+        {
+            "word": "south",
+            "start": 15.869,
+            "end": 16.289,
+            "score": 0.667
+        },
+        {
+            "word": "avenue.",
+            "start": 16.409,
+            "end": 16.909,
+            "score": 0.583
+        },
+        {
+            "word": "When",
+            "start": 17.809,
+            "end": 17.95,
+            "score": 0.897
+        },
+        {
+            "word": "I",
+            "start": 18.01,
+            "end": 18.13,
+            "score": 0.655
+        },
+        {
+            "word": "meet",
+            "start": 18.17,
+            "end": 18.31,
+            "score": 0.79
+        },
+        {
+            "word": "the",
+            "start": 18.39,
+            "end": 18.53,
+            "score": 0.528
+        },
+        {
+            "word": "south",
+            "start": 19.15,
+            "end": 19.45,
+            "score": 0.553
+        },
+        {
+            "word": "avenue,",
+            "start": 19.49,
+            "end": 20.33,
+            "score": 0.594
+        },
+        {
+            "word": "I",
+            "start": 21.951,
+            "end": 22.071,
+            "score": 0.914
+        },
+        {
+            "word": "should",
+            "start": 23.612,
+            "end": 23.832,
+            "score": 0.836
+        },
+        {
+            "word": "go",
+            "start": 23.932,
+            "end": 24.092,
+            "score": 0.872
+        },
+        {
+            "word": "down",
+            "start": 24.132,
+            "end": 24.452,
+            "score": 0.858
+        },
+        {
+            "word": "the",
+            "start": 24.472,
+            "end": 24.692,
+            "score": 0.763
+        },
+        {
+            "word": "street",
+            "start": 24.732,
+            "end": 25.272,
+            "score": 0.902
+        },
+        {
+            "word": "along",
+            "start": 26.273,
+            "end": 26.593,
+            "score": 0.838
+        },
+        {
+            "word": "the",
+            "start": 26.613,
+            "end": 26.673,
+            "score": 0.0
+        },
+        {
+            "word": "10th",
+            "start": 27.273,
+            "end": 27.753,
+            "score": 0.812
+        },
+        {
+            "word": "street",
+            "start": 27.953,
+            "end": 28.454,
+            "score": 0.837
+        },
+        {
+            "word": "about",
+            "start": 29.354,
+            "end": 29.654,
+            "score": 0.937
+        },
+        {
+            "word": "two",
+            "start": 29.734,
+            "end": 29.974,
+            "score": 0.977
+        },
+        {
+            "word": "blocks",
+            "start": 30.034,
+            "end": 30.414,
+            "score": 0.642
+        },
+        {
+            "word": "and",
+            "start": 30.854,
+            "end": 31.035,
+            "score": 0.733
+        },
+        {
+            "word": "I",
+            "start": 31.055,
+            "end": 31.075,
+            "score": 0.001
+        },
+        {
+            "word": "can",
+            "start": 32.055,
+            "end": 32.255,
+            "score": 0.929
+        },
+        {
+            "word": "see",
+            "start": 32.295,
+            "end": 32.515,
+            "score": 0.992
+        },
+        {
+            "word": "the",
+            "start": 32.555,
+            "end": 32.655,
+            "score": 0.884
+        },
+        {
+            "word": "men's",
+            "start": 32.675,
+            "end": 32.955,
+            "score": 0.583
+        },
+        {
+            "word": "clothes.",
+            "start": 32.995,
+            "end": 33.255,
+            "score": 0.43
+        }
+    ]
+}

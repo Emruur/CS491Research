@@ -1,0 +1,780 @@
+{
+    "segments": [
+        {
+            "start": 0.489,
+            "end": 6.692,
+            "text": " If I could go anywhere in the world, I would, I want to go to Egypt.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.489,
+                    "end": 0.569,
+                    "score": 0.997
+                },
+                {
+                    "word": "I",
+                    "start": 0.709,
+                    "end": 0.789,
+                    "score": 0.784
+                },
+                {
+                    "word": "could",
+                    "start": 0.829,
+                    "end": 1.15,
+                    "score": 0.796
+                },
+                {
+                    "word": "go",
+                    "start": 1.17,
+                    "end": 1.47,
+                    "score": 0.392
+                },
+                {
+                    "word": "anywhere",
+                    "start": 1.81,
+                    "end": 2.25,
+                    "score": 0.825
+                },
+                {
+                    "word": "in",
+                    "start": 2.27,
+                    "end": 2.31,
+                    "score": 0.005
+                },
+                {
+                    "word": "the",
+                    "start": 2.51,
+                    "end": 2.61,
+                    "score": 0.87
+                },
+                {
+                    "word": "world,",
+                    "start": 2.63,
+                    "end": 3.03,
+                    "score": 0.496
+                },
+                {
+                    "word": "I",
+                    "start": 3.13,
+                    "end": 3.19,
+                    "score": 0.949
+                },
+                {
+                    "word": "would,",
+                    "start": 3.23,
+                    "end": 3.531,
+                    "score": 0.744
+                },
+                {
+                    "word": "I",
+                    "start": 3.931,
+                    "end": 3.991,
+                    "score": 0.697
+                },
+                {
+                    "word": "want",
+                    "start": 4.011,
+                    "end": 4.271,
+                    "score": 0.681
+                },
+                {
+                    "word": "to",
+                    "start": 4.311,
+                    "end": 4.531,
+                    "score": 0.767
+                },
+                {
+                    "word": "go",
+                    "start": 4.551,
+                    "end": 5.031,
+                    "score": 0.726
+                },
+                {
+                    "word": "to",
+                    "start": 5.872,
+                    "end": 6.072,
+                    "score": 0.756
+                },
+                {
+                    "word": "Egypt.",
+                    "start": 6.232,
+                    "end": 6.692,
+                    "score": 0.95
+                }
+            ]
+        },
+        {
+            "start": 7.612,
+            "end": 13.955,
+            "text": "Because I think Egypt has a long history in the human civilization.",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 7.612,
+                    "end": 7.953,
+                    "score": 0.863
+                },
+                {
+                    "word": "I",
+                    "start": 8.033,
+                    "end": 8.093,
+                    "score": 0.999
+                },
+                {
+                    "word": "think",
+                    "start": 8.133,
+                    "end": 8.393,
+                    "score": 0.79
+                },
+                {
+                    "word": "Egypt",
+                    "start": 8.513,
+                    "end": 8.873,
+                    "score": 0.844
+                },
+                {
+                    "word": "has",
+                    "start": 8.933,
+                    "end": 9.133,
+                    "score": 0.937
+                },
+                {
+                    "word": "a",
+                    "start": 9.253,
+                    "end": 9.293,
+                    "score": 0.961
+                },
+                {
+                    "word": "long",
+                    "start": 9.333,
+                    "end": 9.633,
+                    "score": 0.869
+                },
+                {
+                    "word": "history",
+                    "start": 9.713,
+                    "end": 10.274,
+                    "score": 0.808
+                },
+                {
+                    "word": "in",
+                    "start": 10.374,
+                    "end": 10.654,
+                    "score": 0.867
+                },
+                {
+                    "word": "the",
+                    "start": 10.694,
+                    "end": 10.914,
+                    "score": 0.606
+                },
+                {
+                    "word": "human",
+                    "start": 11.394,
+                    "end": 12.055,
+                    "score": 0.815
+                },
+                {
+                    "word": "civilization.",
+                    "start": 12.595,
+                    "end": 13.955,
+                    "score": 0.755
+                }
+            ]
+        },
+        {
+            "start": 16.417,
+            "end": 21.239,
+            "text": "And I want to see the pyramids in Egypt.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 16.417,
+                    "end": 16.577,
+                    "score": 0.718
+                },
+                {
+                    "word": "I",
+                    "start": 17.057,
+                    "end": 17.157,
+                    "score": 0.824
+                },
+                {
+                    "word": "want",
+                    "start": 17.217,
+                    "end": 17.517,
+                    "score": 0.855
+                },
+                {
+                    "word": "to",
+                    "start": 17.577,
+                    "end": 17.777,
+                    "score": 0.78
+                },
+                {
+                    "word": "see",
+                    "start": 17.797,
+                    "end": 18.057,
+                    "score": 0.669
+                },
+                {
+                    "word": "the",
+                    "start": 18.077,
+                    "end": 18.197,
+                    "score": 0.397
+                },
+                {
+                    "word": "pyramids",
+                    "start": 18.237,
+                    "end": 18.858,
+                    "score": 0.716
+                },
+                {
+                    "word": "in",
+                    "start": 19.378,
+                    "end": 19.998,
+                    "score": 0.836
+                },
+                {
+                    "word": "Egypt.",
+                    "start": 20.739,
+                    "end": 21.239,
+                    "score": 0.913
+                }
+            ]
+        },
+        {
+            "start": 22.159,
+            "end": 26.441,
+            "text": "And also I think Egypt has a beautiful sense like agency.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 22.159,
+                    "end": 22.279,
+                    "score": 0.785
+                },
+                {
+                    "word": "also",
+                    "start": 22.379,
+                    "end": 22.659,
+                    "score": 0.92
+                },
+                {
+                    "word": "I",
+                    "start": 22.719,
+                    "end": 22.799,
+                    "score": 0.742
+                },
+                {
+                    "word": "think",
+                    "start": 22.819,
+                    "end": 23.06,
+                    "score": 0.744
+                },
+                {
+                    "word": "Egypt",
+                    "start": 23.18,
+                    "end": 23.56,
+                    "score": 0.87
+                },
+                {
+                    "word": "has",
+                    "start": 23.6,
+                    "end": 23.82,
+                    "score": 0.902
+                },
+                {
+                    "word": "a",
+                    "start": 23.9,
+                    "end": 24.0,
+                    "score": 0.781
+                },
+                {
+                    "word": "beautiful",
+                    "start": 24.04,
+                    "end": 24.6,
+                    "score": 0.551
+                },
+                {
+                    "word": "sense",
+                    "start": 24.68,
+                    "end": 25.02,
+                    "score": 0.794
+                },
+                {
+                    "word": "like",
+                    "start": 25.181,
+                    "end": 25.661,
+                    "score": 0.927
+                },
+                {
+                    "word": "agency.",
+                    "start": 25.801,
+                    "end": 26.441,
+                    "score": 0.886
+                }
+            ]
+        },
+        {
+            "start": 26.821,
+            "end": 27.201,
+            "text": "We can",
+            "words": [
+                {
+                    "word": "We",
+                    "start": 26.821,
+                    "end": 27.061,
+                    "score": 0.845
+                },
+                {
+                    "word": "can",
+                    "start": 27.081,
+                    "end": 27.201,
+                    "score": 0.87
+                }
+            ]
+        },
+        {
+            "start": 28.723,
+            "end": 39.018,
+            "text": " uh swimming in the sea and and see beautiful sunshine and",
+            "words": [
+                {
+                    "word": "uh",
+                    "start": 28.723,
+                    "end": 28.883,
+                    "score": 0.13
+                },
+                {
+                    "word": "swimming",
+                    "start": 29.884,
+                    "end": 30.405,
+                    "score": 0.569
+                },
+                {
+                    "word": "in",
+                    "start": 30.485,
+                    "end": 30.605,
+                    "score": 0.827
+                },
+                {
+                    "word": "the",
+                    "start": 30.645,
+                    "end": 30.766,
+                    "score": 0.886
+                },
+                {
+                    "word": "sea",
+                    "start": 30.846,
+                    "end": 31.146,
+                    "score": 0.881
+                },
+                {
+                    "word": "and",
+                    "start": 31.527,
+                    "end": 32.308,
+                    "score": 0.79
+                },
+                {
+                    "word": "and",
+                    "start": 35.192,
+                    "end": 35.432,
+                    "score": 0.615
+                },
+                {
+                    "word": "see",
+                    "start": 36.374,
+                    "end": 36.634,
+                    "score": 0.931
+                },
+                {
+                    "word": "beautiful",
+                    "start": 36.694,
+                    "end": 37.335,
+                    "score": 0.9
+                },
+                {
+                    "word": "sunshine",
+                    "start": 37.435,
+                    "end": 38.237,
+                    "score": 0.828
+                },
+                {
+                    "word": "and",
+                    "start": 38.857,
+                    "end": 39.018,
+                    "score": 0.554
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.489,
+            "end": 0.569,
+            "score": 0.997
+        },
+        {
+            "word": "I",
+            "start": 0.709,
+            "end": 0.789,
+            "score": 0.784
+        },
+        {
+            "word": "could",
+            "start": 0.829,
+            "end": 1.15,
+            "score": 0.796
+        },
+        {
+            "word": "go",
+            "start": 1.17,
+            "end": 1.47,
+            "score": 0.392
+        },
+        {
+            "word": "anywhere",
+            "start": 1.81,
+            "end": 2.25,
+            "score": 0.825
+        },
+        {
+            "word": "in",
+            "start": 2.27,
+            "end": 2.31,
+            "score": 0.005
+        },
+        {
+            "word": "the",
+            "start": 2.51,
+            "end": 2.61,
+            "score": 0.87
+        },
+        {
+            "word": "world,",
+            "start": 2.63,
+            "end": 3.03,
+            "score": 0.496
+        },
+        {
+            "word": "I",
+            "start": 3.13,
+            "end": 3.19,
+            "score": 0.949
+        },
+        {
+            "word": "would,",
+            "start": 3.23,
+            "end": 3.531,
+            "score": 0.744
+        },
+        {
+            "word": "I",
+            "start": 3.931,
+            "end": 3.991,
+            "score": 0.697
+        },
+        {
+            "word": "want",
+            "start": 4.011,
+            "end": 4.271,
+            "score": 0.681
+        },
+        {
+            "word": "to",
+            "start": 4.311,
+            "end": 4.531,
+            "score": 0.767
+        },
+        {
+            "word": "go",
+            "start": 4.551,
+            "end": 5.031,
+            "score": 0.726
+        },
+        {
+            "word": "to",
+            "start": 5.872,
+            "end": 6.072,
+            "score": 0.756
+        },
+        {
+            "word": "Egypt.",
+            "start": 6.232,
+            "end": 6.692,
+            "score": 0.95
+        },
+        {
+            "word": "Because",
+            "start": 7.612,
+            "end": 7.953,
+            "score": 0.863
+        },
+        {
+            "word": "I",
+            "start": 8.033,
+            "end": 8.093,
+            "score": 0.999
+        },
+        {
+            "word": "think",
+            "start": 8.133,
+            "end": 8.393,
+            "score": 0.79
+        },
+        {
+            "word": "Egypt",
+            "start": 8.513,
+            "end": 8.873,
+            "score": 0.844
+        },
+        {
+            "word": "has",
+            "start": 8.933,
+            "end": 9.133,
+            "score": 0.937
+        },
+        {
+            "word": "a",
+            "start": 9.253,
+            "end": 9.293,
+            "score": 0.961
+        },
+        {
+            "word": "long",
+            "start": 9.333,
+            "end": 9.633,
+            "score": 0.869
+        },
+        {
+            "word": "history",
+            "start": 9.713,
+            "end": 10.274,
+            "score": 0.808
+        },
+        {
+            "word": "in",
+            "start": 10.374,
+            "end": 10.654,
+            "score": 0.867
+        },
+        {
+            "word": "the",
+            "start": 10.694,
+            "end": 10.914,
+            "score": 0.606
+        },
+        {
+            "word": "human",
+            "start": 11.394,
+            "end": 12.055,
+            "score": 0.815
+        },
+        {
+            "word": "civilization.",
+            "start": 12.595,
+            "end": 13.955,
+            "score": 0.755
+        },
+        {
+            "word": "And",
+            "start": 16.417,
+            "end": 16.577,
+            "score": 0.718
+        },
+        {
+            "word": "I",
+            "start": 17.057,
+            "end": 17.157,
+            "score": 0.824
+        },
+        {
+            "word": "want",
+            "start": 17.217,
+            "end": 17.517,
+            "score": 0.855
+        },
+        {
+            "word": "to",
+            "start": 17.577,
+            "end": 17.777,
+            "score": 0.78
+        },
+        {
+            "word": "see",
+            "start": 17.797,
+            "end": 18.057,
+            "score": 0.669
+        },
+        {
+            "word": "the",
+            "start": 18.077,
+            "end": 18.197,
+            "score": 0.397
+        },
+        {
+            "word": "pyramids",
+            "start": 18.237,
+            "end": 18.858,
+            "score": 0.716
+        },
+        {
+            "word": "in",
+            "start": 19.378,
+            "end": 19.998,
+            "score": 0.836
+        },
+        {
+            "word": "Egypt.",
+            "start": 20.739,
+            "end": 21.239,
+            "score": 0.913
+        },
+        {
+            "word": "And",
+            "start": 22.159,
+            "end": 22.279,
+            "score": 0.785
+        },
+        {
+            "word": "also",
+            "start": 22.379,
+            "end": 22.659,
+            "score": 0.92
+        },
+        {
+            "word": "I",
+            "start": 22.719,
+            "end": 22.799,
+            "score": 0.742
+        },
+        {
+            "word": "think",
+            "start": 22.819,
+            "end": 23.06,
+            "score": 0.744
+        },
+        {
+            "word": "Egypt",
+            "start": 23.18,
+            "end": 23.56,
+            "score": 0.87
+        },
+        {
+            "word": "has",
+            "start": 23.6,
+            "end": 23.82,
+            "score": 0.902
+        },
+        {
+            "word": "a",
+            "start": 23.9,
+            "end": 24.0,
+            "score": 0.781
+        },
+        {
+            "word": "beautiful",
+            "start": 24.04,
+            "end": 24.6,
+            "score": 0.551
+        },
+        {
+            "word": "sense",
+            "start": 24.68,
+            "end": 25.02,
+            "score": 0.794
+        },
+        {
+            "word": "like",
+            "start": 25.181,
+            "end": 25.661,
+            "score": 0.927
+        },
+        {
+            "word": "agency.",
+            "start": 25.801,
+            "end": 26.441,
+            "score": 0.886
+        },
+        {
+            "word": "We",
+            "start": 26.821,
+            "end": 27.061,
+            "score": 0.845
+        },
+        {
+            "word": "can",
+            "start": 27.081,
+            "end": 27.201,
+            "score": 0.87
+        },
+        {
+            "word": "uh",
+            "start": 28.723,
+            "end": 28.883,
+            "score": 0.13
+        },
+        {
+            "word": "swimming",
+            "start": 29.884,
+            "end": 30.405,
+            "score": 0.569
+        },
+        {
+            "word": "in",
+            "start": 30.485,
+            "end": 30.605,
+            "score": 0.827
+        },
+        {
+            "word": "the",
+            "start": 30.645,
+            "end": 30.766,
+            "score": 0.886
+        },
+        {
+            "word": "sea",
+            "start": 30.846,
+            "end": 31.146,
+            "score": 0.881
+        },
+        {
+            "word": "and",
+            "start": 31.527,
+            "end": 32.308,
+            "score": 0.79
+        },
+        {
+            "word": "and",
+            "start": 35.192,
+            "end": 35.432,
+            "score": 0.615
+        },
+        {
+            "word": "see",
+            "start": 36.374,
+            "end": 36.634,
+            "score": 0.931
+        },
+        {
+            "word": "beautiful",
+            "start": 36.694,
+            "end": 37.335,
+            "score": 0.9
+        },
+        {
+            "word": "sunshine",
+            "start": 37.435,
+            "end": 38.237,
+            "score": 0.828
+        },
+        {
+            "word": "and",
+            "start": 38.857,
+            "end": 39.018,
+            "score": 0.554
+        }
+    ]
+}

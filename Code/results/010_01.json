@@ -1,0 +1,936 @@
+{
+    "segments": [
+        {
+            "start": 0.289,
+            "end": 2.631,
+            "text": " I like the movie The Ring very much.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.289,
+                    "end": 0.75,
+                    "score": 0.752
+                },
+                {
+                    "word": "like",
+                    "start": 0.77,
+                    "end": 0.95,
+                    "score": 0.935
+                },
+                {
+                    "word": "the",
+                    "start": 0.99,
+                    "end": 1.09,
+                    "score": 0.983
+                },
+                {
+                    "word": "movie",
+                    "start": 1.13,
+                    "end": 1.59,
+                    "score": 0.804
+                },
+                {
+                    "word": "The",
+                    "start": 1.65,
+                    "end": 1.81,
+                    "score": 0.906
+                },
+                {
+                    "word": "Ring",
+                    "start": 1.87,
+                    "end": 2.09,
+                    "score": 0.936
+                },
+                {
+                    "word": "very",
+                    "start": 2.13,
+                    "end": 2.331,
+                    "score": 0.958
+                },
+                {
+                    "word": "much.",
+                    "start": 2.371,
+                    "end": 2.631,
+                    "score": 0.822
+                }
+            ]
+        },
+        {
+            "start": 3.652,
+            "end": 4.812,
+            "text": "There are several reasons.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 3.652,
+                    "end": 3.852,
+                    "score": 0.865
+                },
+                {
+                    "word": "are",
+                    "start": 3.912,
+                    "end": 4.032,
+                    "score": 0.799
+                },
+                {
+                    "word": "several",
+                    "start": 4.072,
+                    "end": 4.352,
+                    "score": 0.903
+                },
+                {
+                    "word": "reasons.",
+                    "start": 4.372,
+                    "end": 4.812,
+                    "score": 0.778
+                }
+            ]
+        },
+        {
+            "start": 5.113,
+            "end": 14.639,
+            "text": "The first reason is it was adapted from the scientific fiction, which is my favorite fiction in all of my reading.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 5.113,
+                    "end": 5.213,
+                    "score": 0.861
+                },
+                {
+                    "word": "first",
+                    "start": 5.253,
+                    "end": 5.453,
+                    "score": 0.839
+                },
+                {
+                    "word": "reason",
+                    "start": 5.513,
+                    "end": 5.873,
+                    "score": 0.886
+                },
+                {
+                    "word": "is",
+                    "start": 5.953,
+                    "end": 6.033,
+                    "score": 0.95
+                },
+                {
+                    "word": "it",
+                    "start": 6.333,
+                    "end": 6.434,
+                    "score": 0.633
+                },
+                {
+                    "word": "was",
+                    "start": 6.494,
+                    "end": 6.654,
+                    "score": 0.826
+                },
+                {
+                    "word": "adapted",
+                    "start": 6.794,
+                    "end": 7.194,
+                    "score": 0.674
+                },
+                {
+                    "word": "from",
+                    "start": 7.374,
+                    "end": 7.654,
+                    "score": 0.952
+                },
+                {
+                    "word": "the",
+                    "start": 7.714,
+                    "end": 7.935,
+                    "score": 0.781
+                },
+                {
+                    "word": "scientific",
+                    "start": 8.095,
+                    "end": 8.675,
+                    "score": 0.784
+                },
+                {
+                    "word": "fiction,",
+                    "start": 8.775,
+                    "end": 9.256,
+                    "score": 0.923
+                },
+                {
+                    "word": "which",
+                    "start": 10.076,
+                    "end": 10.296,
+                    "score": 0.867
+                },
+                {
+                    "word": "is",
+                    "start": 10.436,
+                    "end": 10.556,
+                    "score": 0.671
+                },
+                {
+                    "word": "my",
+                    "start": 10.636,
+                    "end": 10.797,
+                    "score": 0.996
+                },
+                {
+                    "word": "favorite",
+                    "start": 10.877,
+                    "end": 11.357,
+                    "score": 0.761
+                },
+                {
+                    "word": "fiction",
+                    "start": 11.677,
+                    "end": 12.218,
+                    "score": 0.919
+                },
+                {
+                    "word": "in",
+                    "start": 12.238,
+                    "end": 12.278,
+                    "score": 0.001
+                },
+                {
+                    "word": "all",
+                    "start": 13.178,
+                    "end": 13.779,
+                    "score": 0.736
+                },
+                {
+                    "word": "of",
+                    "start": 13.899,
+                    "end": 14.039,
+                    "score": 0.796
+                },
+                {
+                    "word": "my",
+                    "start": 14.099,
+                    "end": 14.259,
+                    "score": 0.872
+                },
+                {
+                    "word": "reading.",
+                    "start": 14.299,
+                    "end": 14.639,
+                    "score": 0.782
+                }
+            ]
+        },
+        {
+            "start": 16.02,
+            "end": 18.762,
+            "text": "The second reason is because it gives",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 16.02,
+                    "end": 16.14,
+                    "score": 0.901
+                },
+                {
+                    "word": "second",
+                    "start": 16.18,
+                    "end": 16.501,
+                    "score": 0.843
+                },
+                {
+                    "word": "reason",
+                    "start": 16.541,
+                    "end": 16.961,
+                    "score": 0.768
+                },
+                {
+                    "word": "is",
+                    "start": 17.281,
+                    "end": 17.401,
+                    "score": 0.658
+                },
+                {
+                    "word": "because",
+                    "start": 17.461,
+                    "end": 17.842,
+                    "score": 0.897
+                },
+                {
+                    "word": "it",
+                    "start": 18.362,
+                    "end": 18.482,
+                    "score": 0.945
+                },
+                {
+                    "word": "gives",
+                    "start": 18.542,
+                    "end": 18.762,
+                    "score": 0.71
+                }
+            ]
+        },
+        {
+            "start": 20.823,
+            "end": 34.61,
+            "text": " lots of specific techniques in movie and I am a scientist student so I want to study this kind of technique very much.",
+            "words": [
+                {
+                    "word": "lots",
+                    "start": 20.823,
+                    "end": 21.104,
+                    "score": 0.608
+                },
+                {
+                    "word": "of",
+                    "start": 21.224,
+                    "end": 21.304,
+                    "score": 0.983
+                },
+                {
+                    "word": "specific",
+                    "start": 22.604,
+                    "end": 23.265,
+                    "score": 0.927
+                },
+                {
+                    "word": "techniques",
+                    "start": 24.985,
+                    "end": 25.506,
+                    "score": 0.647
+                },
+                {
+                    "word": "in",
+                    "start": 25.946,
+                    "end": 26.026,
+                    "score": 0.516
+                },
+                {
+                    "word": "movie",
+                    "start": 26.066,
+                    "end": 26.446,
+                    "score": 0.739
+                },
+                {
+                    "word": "and",
+                    "start": 27.146,
+                    "end": 27.306,
+                    "score": 0.671
+                },
+                {
+                    "word": "I",
+                    "start": 28.087,
+                    "end": 28.207,
+                    "score": 0.83
+                },
+                {
+                    "word": "am",
+                    "start": 28.427,
+                    "end": 28.747,
+                    "score": 0.604
+                },
+                {
+                    "word": "a",
+                    "start": 29.167,
+                    "end": 29.287,
+                    "score": 0.575
+                },
+                {
+                    "word": "scientist",
+                    "start": 29.367,
+                    "end": 29.868,
+                    "score": 0.504
+                },
+                {
+                    "word": "student",
+                    "start": 29.888,
+                    "end": 30.308,
+                    "score": 0.845
+                },
+                {
+                    "word": "so",
+                    "start": 30.448,
+                    "end": 30.648,
+                    "score": 0.98
+                },
+                {
+                    "word": "I",
+                    "start": 30.828,
+                    "end": 30.928,
+                    "score": 0.791
+                },
+                {
+                    "word": "want",
+                    "start": 30.968,
+                    "end": 31.228,
+                    "score": 0.725
+                },
+                {
+                    "word": "to",
+                    "start": 31.268,
+                    "end": 31.488,
+                    "score": 0.888
+                },
+                {
+                    "word": "study",
+                    "start": 31.629,
+                    "end": 31.949,
+                    "score": 0.767
+                },
+                {
+                    "word": "this",
+                    "start": 31.969,
+                    "end": 32.089,
+                    "score": 0.941
+                },
+                {
+                    "word": "kind",
+                    "start": 32.129,
+                    "end": 32.429,
+                    "score": 0.473
+                },
+                {
+                    "word": "of",
+                    "start": 32.449,
+                    "end": 32.489,
+                    "score": 0.002
+                },
+                {
+                    "word": "technique",
+                    "start": 33.309,
+                    "end": 33.81,
+                    "score": 0.69
+                },
+                {
+                    "word": "very",
+                    "start": 34.13,
+                    "end": 34.33,
+                    "score": 0.863
+                },
+                {
+                    "word": "much.",
+                    "start": 34.35,
+                    "end": 34.61,
+                    "score": 0.83
+                }
+            ]
+        },
+        {
+            "start": 35.29,
+            "end": 39.712,
+            "text": "It is the reason why I like this movie very much.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 35.29,
+                    "end": 35.35,
+                    "score": 0.998
+                },
+                {
+                    "word": "is",
+                    "start": 35.43,
+                    "end": 35.53,
+                    "score": 0.851
+                },
+                {
+                    "word": "the",
+                    "start": 35.59,
+                    "end": 35.73,
+                    "score": 0.947
+                },
+                {
+                    "word": "reason",
+                    "start": 35.791,
+                    "end": 36.111,
+                    "score": 0.813
+                },
+                {
+                    "word": "why",
+                    "start": 36.171,
+                    "end": 36.451,
+                    "score": 0.914
+                },
+                {
+                    "word": "I",
+                    "start": 36.471,
+                    "end": 36.491,
+                    "score": 0.003
+                },
+                {
+                    "word": "like",
+                    "start": 37.972,
+                    "end": 38.212,
+                    "score": 0.871
+                },
+                {
+                    "word": "this",
+                    "start": 38.332,
+                    "end": 38.632,
+                    "score": 0.919
+                },
+                {
+                    "word": "movie",
+                    "start": 38.712,
+                    "end": 39.132,
+                    "score": 0.693
+                },
+                {
+                    "word": "very",
+                    "start": 39.232,
+                    "end": 39.452,
+                    "score": 0.836
+                },
+                {
+                    "word": "much.",
+                    "start": 39.492,
+                    "end": 39.712,
+                    "score": 0.89
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.289,
+            "end": 0.75,
+            "score": 0.752
+        },
+        {
+            "word": "like",
+            "start": 0.77,
+            "end": 0.95,
+            "score": 0.935
+        },
+        {
+            "word": "the",
+            "start": 0.99,
+            "end": 1.09,
+            "score": 0.983
+        },
+        {
+            "word": "movie",
+            "start": 1.13,
+            "end": 1.59,
+            "score": 0.804
+        },
+        {
+            "word": "The",
+            "start": 1.65,
+            "end": 1.81,
+            "score": 0.906
+        },
+        {
+            "word": "Ring",
+            "start": 1.87,
+            "end": 2.09,
+            "score": 0.936
+        },
+        {
+            "word": "very",
+            "start": 2.13,
+            "end": 2.331,
+            "score": 0.958
+        },
+        {
+            "word": "much.",
+            "start": 2.371,
+            "end": 2.631,
+            "score": 0.822
+        },
+        {
+            "word": "There",
+            "start": 3.652,
+            "end": 3.852,
+            "score": 0.865
+        },
+        {
+            "word": "are",
+            "start": 3.912,
+            "end": 4.032,
+            "score": 0.799
+        },
+        {
+            "word": "several",
+            "start": 4.072,
+            "end": 4.352,
+            "score": 0.903
+        },
+        {
+            "word": "reasons.",
+            "start": 4.372,
+            "end": 4.812,
+            "score": 0.778
+        },
+        {
+            "word": "The",
+            "start": 5.113,
+            "end": 5.213,
+            "score": 0.861
+        },
+        {
+            "word": "first",
+            "start": 5.253,
+            "end": 5.453,
+            "score": 0.839
+        },
+        {
+            "word": "reason",
+            "start": 5.513,
+            "end": 5.873,
+            "score": 0.886
+        },
+        {
+            "word": "is",
+            "start": 5.953,
+            "end": 6.033,
+            "score": 0.95
+        },
+        {
+            "word": "it",
+            "start": 6.333,
+            "end": 6.434,
+            "score": 0.633
+        },
+        {
+            "word": "was",
+            "start": 6.494,
+            "end": 6.654,
+            "score": 0.826
+        },
+        {
+            "word": "adapted",
+            "start": 6.794,
+            "end": 7.194,
+            "score": 0.674
+        },
+        {
+            "word": "from",
+            "start": 7.374,
+            "end": 7.654,
+            "score": 0.952
+        },
+        {
+            "word": "the",
+            "start": 7.714,
+            "end": 7.935,
+            "score": 0.781
+        },
+        {
+            "word": "scientific",
+            "start": 8.095,
+            "end": 8.675,
+            "score": 0.784
+        },
+        {
+            "word": "fiction,",
+            "start": 8.775,
+            "end": 9.256,
+            "score": 0.923
+        },
+        {
+            "word": "which",
+            "start": 10.076,
+            "end": 10.296,
+            "score": 0.867
+        },
+        {
+            "word": "is",
+            "start": 10.436,
+            "end": 10.556,
+            "score": 0.671
+        },
+        {
+            "word": "my",
+            "start": 10.636,
+            "end": 10.797,
+            "score": 0.996
+        },
+        {
+            "word": "favorite",
+            "start": 10.877,
+            "end": 11.357,
+            "score": 0.761
+        },
+        {
+            "word": "fiction",
+            "start": 11.677,
+            "end": 12.218,
+            "score": 0.919
+        },
+        {
+            "word": "in",
+            "start": 12.238,
+            "end": 12.278,
+            "score": 0.001
+        },
+        {
+            "word": "all",
+            "start": 13.178,
+            "end": 13.779,
+            "score": 0.736
+        },
+        {
+            "word": "of",
+            "start": 13.899,
+            "end": 14.039,
+            "score": 0.796
+        },
+        {
+            "word": "my",
+            "start": 14.099,
+            "end": 14.259,
+            "score": 0.872
+        },
+        {
+            "word": "reading.",
+            "start": 14.299,
+            "end": 14.639,
+            "score": 0.782
+        },
+        {
+            "word": "The",
+            "start": 16.02,
+            "end": 16.14,
+            "score": 0.901
+        },
+        {
+            "word": "second",
+            "start": 16.18,
+            "end": 16.501,
+            "score": 0.843
+        },
+        {
+            "word": "reason",
+            "start": 16.541,
+            "end": 16.961,
+            "score": 0.768
+        },
+        {
+            "word": "is",
+            "start": 17.281,
+            "end": 17.401,
+            "score": 0.658
+        },
+        {
+            "word": "because",
+            "start": 17.461,
+            "end": 17.842,
+            "score": 0.897
+        },
+        {
+            "word": "it",
+            "start": 18.362,
+            "end": 18.482,
+            "score": 0.945
+        },
+        {
+            "word": "gives",
+            "start": 18.542,
+            "end": 18.762,
+            "score": 0.71
+        },
+        {
+            "word": "lots",
+            "start": 20.823,
+            "end": 21.104,
+            "score": 0.608
+        },
+        {
+            "word": "of",
+            "start": 21.224,
+            "end": 21.304,
+            "score": 0.983
+        },
+        {
+            "word": "specific",
+            "start": 22.604,
+            "end": 23.265,
+            "score": 0.927
+        },
+        {
+            "word": "techniques",
+            "start": 24.985,
+            "end": 25.506,
+            "score": 0.647
+        },
+        {
+            "word": "in",
+            "start": 25.946,
+            "end": 26.026,
+            "score": 0.516
+        },
+        {
+            "word": "movie",
+            "start": 26.066,
+            "end": 26.446,
+            "score": 0.739
+        },
+        {
+            "word": "and",
+            "start": 27.146,
+            "end": 27.306,
+            "score": 0.671
+        },
+        {
+            "word": "I",
+            "start": 28.087,
+            "end": 28.207,
+            "score": 0.83
+        },
+        {
+            "word": "am",
+            "start": 28.427,
+            "end": 28.747,
+            "score": 0.604
+        },
+        {
+            "word": "a",
+            "start": 29.167,
+            "end": 29.287,
+            "score": 0.575
+        },
+        {
+            "word": "scientist",
+            "start": 29.367,
+            "end": 29.868,
+            "score": 0.504
+        },
+        {
+            "word": "student",
+            "start": 29.888,
+            "end": 30.308,
+            "score": 0.845
+        },
+        {
+            "word": "so",
+            "start": 30.448,
+            "end": 30.648,
+            "score": 0.98
+        },
+        {
+            "word": "I",
+            "start": 30.828,
+            "end": 30.928,
+            "score": 0.791
+        },
+        {
+            "word": "want",
+            "start": 30.968,
+            "end": 31.228,
+            "score": 0.725
+        },
+        {
+            "word": "to",
+            "start": 31.268,
+            "end": 31.488,
+            "score": 0.888
+        },
+        {
+            "word": "study",
+            "start": 31.629,
+            "end": 31.949,
+            "score": 0.767
+        },
+        {
+            "word": "this",
+            "start": 31.969,
+            "end": 32.089,
+            "score": 0.941
+        },
+        {
+            "word": "kind",
+            "start": 32.129,
+            "end": 32.429,
+            "score": 0.473
+        },
+        {
+            "word": "of",
+            "start": 32.449,
+            "end": 32.489,
+            "score": 0.002
+        },
+        {
+            "word": "technique",
+            "start": 33.309,
+            "end": 33.81,
+            "score": 0.69
+        },
+        {
+            "word": "very",
+            "start": 34.13,
+            "end": 34.33,
+            "score": 0.863
+        },
+        {
+            "word": "much.",
+            "start": 34.35,
+            "end": 34.61,
+            "score": 0.83
+        },
+        {
+            "word": "It",
+            "start": 35.29,
+            "end": 35.35,
+            "score": 0.998
+        },
+        {
+            "word": "is",
+            "start": 35.43,
+            "end": 35.53,
+            "score": 0.851
+        },
+        {
+            "word": "the",
+            "start": 35.59,
+            "end": 35.73,
+            "score": 0.947
+        },
+        {
+            "word": "reason",
+            "start": 35.791,
+            "end": 36.111,
+            "score": 0.813
+        },
+        {
+            "word": "why",
+            "start": 36.171,
+            "end": 36.451,
+            "score": 0.914
+        },
+        {
+            "word": "I",
+            "start": 36.471,
+            "end": 36.491,
+            "score": 0.003
+        },
+        {
+            "word": "like",
+            "start": 37.972,
+            "end": 38.212,
+            "score": 0.871
+        },
+        {
+            "word": "this",
+            "start": 38.332,
+            "end": 38.632,
+            "score": 0.919
+        },
+        {
+            "word": "movie",
+            "start": 38.712,
+            "end": 39.132,
+            "score": 0.693
+        },
+        {
+            "word": "very",
+            "start": 39.232,
+            "end": 39.452,
+            "score": 0.836
+        },
+        {
+            "word": "much.",
+            "start": 39.492,
+            "end": 39.712,
+            "score": 0.89
+        }
+    ]
+}

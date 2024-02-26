@@ -1,0 +1,660 @@
+{
+    "segments": [
+        {
+            "start": 0.209,
+            "end": 3.672,
+            "text": " One movie that I like is Gone with the Wind.",
+            "words": [
+                {
+                    "word": "One",
+                    "start": 0.209,
+                    "end": 1.25,
+                    "score": 0.648
+                },
+                {
+                    "word": "movie",
+                    "start": 1.29,
+                    "end": 1.67,
+                    "score": 0.781
+                },
+                {
+                    "word": "that",
+                    "start": 1.71,
+                    "end": 1.891,
+                    "score": 0.889
+                },
+                {
+                    "word": "I",
+                    "start": 2.011,
+                    "end": 2.111,
+                    "score": 0.43
+                },
+                {
+                    "word": "like",
+                    "start": 2.151,
+                    "end": 2.531,
+                    "score": 0.83
+                },
+                {
+                    "word": "is",
+                    "start": 2.631,
+                    "end": 2.771,
+                    "score": 0.664
+                },
+                {
+                    "word": "Gone",
+                    "start": 2.831,
+                    "end": 3.032,
+                    "score": 0.801
+                },
+                {
+                    "word": "with",
+                    "start": 3.052,
+                    "end": 3.252,
+                    "score": 0.872
+                },
+                {
+                    "word": "the",
+                    "start": 3.312,
+                    "end": 3.452,
+                    "score": 0.407
+                },
+                {
+                    "word": "Wind.",
+                    "start": 3.472,
+                    "end": 3.672,
+                    "score": 0.396
+                }
+            ]
+        },
+        {
+            "start": 3.932,
+            "end": 7.556,
+            "text": "It talks about the American civil world.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 3.932,
+                    "end": 4.153,
+                    "score": 0.754
+                },
+                {
+                    "word": "talks",
+                    "start": 4.253,
+                    "end": 4.673,
+                    "score": 0.695
+                },
+                {
+                    "word": "about",
+                    "start": 4.693,
+                    "end": 5.354,
+                    "score": 0.775
+                },
+                {
+                    "word": "the",
+                    "start": 6.054,
+                    "end": 6.154,
+                    "score": 0.343
+                },
+                {
+                    "word": "American",
+                    "start": 6.275,
+                    "end": 6.795,
+                    "score": 0.897
+                },
+                {
+                    "word": "civil",
+                    "start": 6.835,
+                    "end": 7.215,
+                    "score": 0.687
+                },
+                {
+                    "word": "world.",
+                    "start": 7.235,
+                    "end": 7.556,
+                    "score": 0.836
+                }
+            ]
+        },
+        {
+            "start": 8.296,
+            "end": 12.42,
+            "text": "I like this movie because I like the actress.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 8.296,
+                    "end": 8.396,
+                    "score": 0.892
+                },
+                {
+                    "word": "like",
+                    "start": 8.456,
+                    "end": 8.697,
+                    "score": 0.896
+                },
+                {
+                    "word": "this",
+                    "start": 8.717,
+                    "end": 8.937,
+                    "score": 0.376
+                },
+                {
+                    "word": "movie",
+                    "start": 9.037,
+                    "end": 9.457,
+                    "score": 0.731
+                },
+                {
+                    "word": "because",
+                    "start": 9.517,
+                    "end": 10.038,
+                    "score": 0.826
+                },
+                {
+                    "word": "I",
+                    "start": 10.198,
+                    "end": 10.258,
+                    "score": 0.993
+                },
+                {
+                    "word": "like",
+                    "start": 10.318,
+                    "end": 10.658,
+                    "score": 0.934
+                },
+                {
+                    "word": "the",
+                    "start": 10.698,
+                    "end": 10.999,
+                    "score": 0.731
+                },
+                {
+                    "word": "actress.",
+                    "start": 11.799,
+                    "end": 12.42,
+                    "score": 0.83
+                }
+            ]
+        },
+        {
+            "start": 13.241,
+            "end": 20.307,
+            "text": "She is very independent and she can overcome any situation.",
+            "words": [
+                {
+                    "word": "She",
+                    "start": 13.241,
+                    "end": 13.441,
+                    "score": 0.823
+                },
+                {
+                    "word": "is",
+                    "start": 13.541,
+                    "end": 13.621,
+                    "score": 0.707
+                },
+                {
+                    "word": "very",
+                    "start": 13.721,
+                    "end": 14.141,
+                    "score": 0.944
+                },
+                {
+                    "word": "independent",
+                    "start": 15.082,
+                    "end": 15.983,
+                    "score": 0.89
+                },
+                {
+                    "word": "and",
+                    "start": 16.484,
+                    "end": 16.624,
+                    "score": 0.666
+                },
+                {
+                    "word": "she",
+                    "start": 16.684,
+                    "end": 17.064,
+                    "score": 0.816
+                },
+                {
+                    "word": "can",
+                    "start": 17.144,
+                    "end": 17.544,
+                    "score": 0.663
+                },
+                {
+                    "word": "overcome",
+                    "start": 17.725,
+                    "end": 19.086,
+                    "score": 0.809
+                },
+                {
+                    "word": "any",
+                    "start": 19.726,
+                    "end": 19.826,
+                    "score": 0.537
+                },
+                {
+                    "word": "situation.",
+                    "start": 19.887,
+                    "end": 20.307,
+                    "score": 0.478
+                }
+            ]
+        },
+        {
+            "start": 25.792,
+            "end": 28.495,
+            "text": " That's why I like this movie.",
+            "words": [
+                {
+                    "word": "That's",
+                    "start": 25.792,
+                    "end": 26.012,
+                    "score": 0.984
+                },
+                {
+                    "word": "why",
+                    "start": 26.112,
+                    "end": 26.373,
+                    "score": 0.934
+                },
+                {
+                    "word": "I",
+                    "start": 26.673,
+                    "end": 26.853,
+                    "score": 0.898
+                },
+                {
+                    "word": "like",
+                    "start": 26.993,
+                    "end": 27.294,
+                    "score": 0.943
+                },
+                {
+                    "word": "this",
+                    "start": 27.834,
+                    "end": 28.034,
+                    "score": 0.715
+                },
+                {
+                    "word": "movie.",
+                    "start": 28.094,
+                    "end": 28.495,
+                    "score": 0.829
+                }
+            ]
+        },
+        {
+            "start": 28.875,
+            "end": 34.842,
+            "text": "For example, her family is... Because she... Time's up.",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 28.875,
+                    "end": 28.995,
+                    "score": 0.939
+                },
+                {
+                    "word": "example,",
+                    "start": 29.016,
+                    "end": 29.596,
+                    "score": 0.765
+                },
+                {
+                    "word": "her",
+                    "start": 30.497,
+                    "end": 30.798,
+                    "score": 0.912
+                },
+                {
+                    "word": "family",
+                    "start": 30.818,
+                    "end": 31.979,
+                    "score": 0.63
+                },
+                {
+                    "word": "is...",
+                    "start": 31.999,
+                    "end": 32.039,
+                    "score": 0.0
+                },
+                {
+                    "word": "Because",
+                    "start": 32.419,
+                    "end": 32.84,
+                    "score": 0.893
+                },
+                {
+                    "word": "she...",
+                    "start": 33.08,
+                    "end": 33.561,
+                    "score": 0.801
+                },
+                {
+                    "word": "Time's",
+                    "start": 34.121,
+                    "end": 34.402,
+                    "score": 0.396
+                },
+                {
+                    "word": "up.",
+                    "start": 34.782,
+                    "end": 34.842,
+                    "score": 0.244
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "One",
+            "start": 0.209,
+            "end": 1.25,
+            "score": 0.648
+        },
+        {
+            "word": "movie",
+            "start": 1.29,
+            "end": 1.67,
+            "score": 0.781
+        },
+        {
+            "word": "that",
+            "start": 1.71,
+            "end": 1.891,
+            "score": 0.889
+        },
+        {
+            "word": "I",
+            "start": 2.011,
+            "end": 2.111,
+            "score": 0.43
+        },
+        {
+            "word": "like",
+            "start": 2.151,
+            "end": 2.531,
+            "score": 0.83
+        },
+        {
+            "word": "is",
+            "start": 2.631,
+            "end": 2.771,
+            "score": 0.664
+        },
+        {
+            "word": "Gone",
+            "start": 2.831,
+            "end": 3.032,
+            "score": 0.801
+        },
+        {
+            "word": "with",
+            "start": 3.052,
+            "end": 3.252,
+            "score": 0.872
+        },
+        {
+            "word": "the",
+            "start": 3.312,
+            "end": 3.452,
+            "score": 0.407
+        },
+        {
+            "word": "Wind.",
+            "start": 3.472,
+            "end": 3.672,
+            "score": 0.396
+        },
+        {
+            "word": "It",
+            "start": 3.932,
+            "end": 4.153,
+            "score": 0.754
+        },
+        {
+            "word": "talks",
+            "start": 4.253,
+            "end": 4.673,
+            "score": 0.695
+        },
+        {
+            "word": "about",
+            "start": 4.693,
+            "end": 5.354,
+            "score": 0.775
+        },
+        {
+            "word": "the",
+            "start": 6.054,
+            "end": 6.154,
+            "score": 0.343
+        },
+        {
+            "word": "American",
+            "start": 6.275,
+            "end": 6.795,
+            "score": 0.897
+        },
+        {
+            "word": "civil",
+            "start": 6.835,
+            "end": 7.215,
+            "score": 0.687
+        },
+        {
+            "word": "world.",
+            "start": 7.235,
+            "end": 7.556,
+            "score": 0.836
+        },
+        {
+            "word": "I",
+            "start": 8.296,
+            "end": 8.396,
+            "score": 0.892
+        },
+        {
+            "word": "like",
+            "start": 8.456,
+            "end": 8.697,
+            "score": 0.896
+        },
+        {
+            "word": "this",
+            "start": 8.717,
+            "end": 8.937,
+            "score": 0.376
+        },
+        {
+            "word": "movie",
+            "start": 9.037,
+            "end": 9.457,
+            "score": 0.731
+        },
+        {
+            "word": "because",
+            "start": 9.517,
+            "end": 10.038,
+            "score": 0.826
+        },
+        {
+            "word": "I",
+            "start": 10.198,
+            "end": 10.258,
+            "score": 0.993
+        },
+        {
+            "word": "like",
+            "start": 10.318,
+            "end": 10.658,
+            "score": 0.934
+        },
+        {
+            "word": "the",
+            "start": 10.698,
+            "end": 10.999,
+            "score": 0.731
+        },
+        {
+            "word": "actress.",
+            "start": 11.799,
+            "end": 12.42,
+            "score": 0.83
+        },
+        {
+            "word": "She",
+            "start": 13.241,
+            "end": 13.441,
+            "score": 0.823
+        },
+        {
+            "word": "is",
+            "start": 13.541,
+            "end": 13.621,
+            "score": 0.707
+        },
+        {
+            "word": "very",
+            "start": 13.721,
+            "end": 14.141,
+            "score": 0.944
+        },
+        {
+            "word": "independent",
+            "start": 15.082,
+            "end": 15.983,
+            "score": 0.89
+        },
+        {
+            "word": "and",
+            "start": 16.484,
+            "end": 16.624,
+            "score": 0.666
+        },
+        {
+            "word": "she",
+            "start": 16.684,
+            "end": 17.064,
+            "score": 0.816
+        },
+        {
+            "word": "can",
+            "start": 17.144,
+            "end": 17.544,
+            "score": 0.663
+        },
+        {
+            "word": "overcome",
+            "start": 17.725,
+            "end": 19.086,
+            "score": 0.809
+        },
+        {
+            "word": "any",
+            "start": 19.726,
+            "end": 19.826,
+            "score": 0.537
+        },
+        {
+            "word": "situation.",
+            "start": 19.887,
+            "end": 20.307,
+            "score": 0.478
+        },
+        {
+            "word": "That's",
+            "start": 25.792,
+            "end": 26.012,
+            "score": 0.984
+        },
+        {
+            "word": "why",
+            "start": 26.112,
+            "end": 26.373,
+            "score": 0.934
+        },
+        {
+            "word": "I",
+            "start": 26.673,
+            "end": 26.853,
+            "score": 0.898
+        },
+        {
+            "word": "like",
+            "start": 26.993,
+            "end": 27.294,
+            "score": 0.943
+        },
+        {
+            "word": "this",
+            "start": 27.834,
+            "end": 28.034,
+            "score": 0.715
+        },
+        {
+            "word": "movie.",
+            "start": 28.094,
+            "end": 28.495,
+            "score": 0.829
+        },
+        {
+            "word": "For",
+            "start": 28.875,
+            "end": 28.995,
+            "score": 0.939
+        },
+        {
+            "word": "example,",
+            "start": 29.016,
+            "end": 29.596,
+            "score": 0.765
+        },
+        {
+            "word": "her",
+            "start": 30.497,
+            "end": 30.798,
+            "score": 0.912
+        },
+        {
+            "word": "family",
+            "start": 30.818,
+            "end": 31.979,
+            "score": 0.63
+        },
+        {
+            "word": "is...",
+            "start": 31.999,
+            "end": 32.039,
+            "score": 0.0
+        },
+        {
+            "word": "Because",
+            "start": 32.419,
+            "end": 32.84,
+            "score": 0.893
+        },
+        {
+            "word": "she...",
+            "start": 33.08,
+            "end": 33.561,
+            "score": 0.801
+        },
+        {
+            "word": "Time's",
+            "start": 34.121,
+            "end": 34.402,
+            "score": 0.396
+        },
+        {
+            "word": "up.",
+            "start": 34.782,
+            "end": 34.842,
+            "score": 0.244
+        }
+    ]
+}

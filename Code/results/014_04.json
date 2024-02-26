@@ -1,0 +1,927 @@
+{
+    "segments": [
+        {
+            "start": 0.289,
+            "end": 16.236,
+            "text": " San Francisco's weather is Monday through Wednesday is a little cloudy and Thursday and Friday is clean so if you want to go San Francisco the weather is a little",
+            "words": [
+                {
+                    "word": "San",
+                    "start": 0.289,
+                    "end": 0.409,
+                    "score": 0.658
+                },
+                {
+                    "word": "Francisco's",
+                    "start": 0.429,
+                    "end": 1.009,
+                    "score": 0.662
+                },
+                {
+                    "word": "weather",
+                    "start": 1.049,
+                    "end": 1.45,
+                    "score": 0.837
+                },
+                {
+                    "word": "is",
+                    "start": 1.63,
+                    "end": 1.75,
+                    "score": 0.804
+                },
+                {
+                    "word": "Monday",
+                    "start": 2.17,
+                    "end": 2.51,
+                    "score": 0.863
+                },
+                {
+                    "word": "through",
+                    "start": 2.57,
+                    "end": 2.93,
+                    "score": 0.684
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 3.01,
+                    "end": 3.39,
+                    "score": 0.862
+                },
+                {
+                    "word": "is",
+                    "start": 3.41,
+                    "end": 3.45,
+                    "score": 0.344
+                },
+                {
+                    "word": "a",
+                    "start": 3.53,
+                    "end": 3.611,
+                    "score": 0.661
+                },
+                {
+                    "word": "little",
+                    "start": 3.631,
+                    "end": 3.891,
+                    "score": 0.347
+                },
+                {
+                    "word": "cloudy",
+                    "start": 3.991,
+                    "end": 4.471,
+                    "score": 0.919
+                },
+                {
+                    "word": "and",
+                    "start": 4.771,
+                    "end": 4.911,
+                    "score": 0.814
+                },
+                {
+                    "word": "Thursday",
+                    "start": 4.951,
+                    "end": 5.611,
+                    "score": 0.881
+                },
+                {
+                    "word": "and",
+                    "start": 6.252,
+                    "end": 6.412,
+                    "score": 0.753
+                },
+                {
+                    "word": "Friday",
+                    "start": 6.492,
+                    "end": 6.972,
+                    "score": 0.861
+                },
+                {
+                    "word": "is",
+                    "start": 7.192,
+                    "end": 9.653,
+                    "score": 0.818
+                },
+                {
+                    "word": "clean",
+                    "start": 10.613,
+                    "end": 10.914,
+                    "score": 0.957
+                },
+                {
+                    "word": "so",
+                    "start": 11.674,
+                    "end": 11.954,
+                    "score": 0.899
+                },
+                {
+                    "word": "if",
+                    "start": 12.874,
+                    "end": 12.974,
+                    "score": 0.872
+                },
+                {
+                    "word": "you",
+                    "start": 13.055,
+                    "end": 13.215,
+                    "score": 0.928
+                },
+                {
+                    "word": "want",
+                    "start": 13.255,
+                    "end": 13.415,
+                    "score": 0.652
+                },
+                {
+                    "word": "to",
+                    "start": 13.455,
+                    "end": 13.575,
+                    "score": 0.998
+                },
+                {
+                    "word": "go",
+                    "start": 13.635,
+                    "end": 14.115,
+                    "score": 0.419
+                },
+                {
+                    "word": "San",
+                    "start": 14.235,
+                    "end": 14.415,
+                    "score": 0.87
+                },
+                {
+                    "word": "Francisco",
+                    "start": 14.455,
+                    "end": 15.135,
+                    "score": 0.969
+                },
+                {
+                    "word": "the",
+                    "start": 15.235,
+                    "end": 15.355,
+                    "score": 0.864
+                },
+                {
+                    "word": "weather",
+                    "start": 15.395,
+                    "end": 15.636,
+                    "score": 0.827
+                },
+                {
+                    "word": "is",
+                    "start": 15.696,
+                    "end": 15.796,
+                    "score": 0.702
+                },
+                {
+                    "word": "a",
+                    "start": 15.896,
+                    "end": 15.996,
+                    "score": 0.395
+                },
+                {
+                    "word": "little",
+                    "start": 16.036,
+                    "end": 16.236,
+                    "score": 0.479
+                }
+            ]
+        },
+        {
+            "start": 17.357,
+            "end": 29.952,
+            "text": " good to travel the san francisco's temperature is 60 fahrenheit and humidity is 86 percent the pressure is zero in",
+            "words": [
+                {
+                    "word": "good",
+                    "start": 17.357,
+                    "end": 17.617,
+                    "score": 0.955
+                },
+                {
+                    "word": "to",
+                    "start": 17.737,
+                    "end": 18.198,
+                    "score": 0.902
+                },
+                {
+                    "word": "travel",
+                    "start": 18.438,
+                    "end": 18.859,
+                    "score": 0.693
+                },
+                {
+                    "word": "the",
+                    "start": 19.6,
+                    "end": 19.78,
+                    "score": 0.746
+                },
+                {
+                    "word": "san",
+                    "start": 19.8,
+                    "end": 19.94,
+                    "score": 0.469
+                },
+                {
+                    "word": "francisco's",
+                    "start": 19.96,
+                    "end": 21.222,
+                    "score": 0.726
+                },
+                {
+                    "word": "temperature",
+                    "start": 21.302,
+                    "end": 21.842,
+                    "score": 0.688
+                },
+                {
+                    "word": "is",
+                    "start": 21.883,
+                    "end": 21.923,
+                    "score": 0.03
+                },
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "fahrenheit",
+                    "start": 22.123,
+                    "end": 24.205,
+                    "score": 0.526
+                },
+                {
+                    "word": "and",
+                    "start": 24.225,
+                    "end": 24.285,
+                    "score": 0.001
+                },
+                {
+                    "word": "humidity",
+                    "start": 24.386,
+                    "end": 25.627,
+                    "score": 0.763
+                },
+                {
+                    "word": "is",
+                    "start": 25.747,
+                    "end": 25.887,
+                    "score": 0.854
+                },
+                {
+                    "word": "86"
+                },
+                {
+                    "word": "percent",
+                    "start": 26.088,
+                    "end": 26.568,
+                    "score": 0.862
+                },
+                {
+                    "word": "the",
+                    "start": 27.049,
+                    "end": 27.189,
+                    "score": 0.726
+                },
+                {
+                    "word": "pressure",
+                    "start": 27.249,
+                    "end": 27.79,
+                    "score": 0.679
+                },
+                {
+                    "word": "is",
+                    "start": 28.19,
+                    "end": 28.35,
+                    "score": 0.388
+                },
+                {
+                    "word": "zero",
+                    "start": 28.451,
+                    "end": 28.951,
+                    "score": 0.743
+                },
+                {
+                    "word": "in",
+                    "start": 29.872,
+                    "end": 29.952,
+                    "score": 0.871
+                }
+            ]
+        },
+        {
+            "start": 36.423,
+            "end": 49.595,
+            "text": " yeah uh the san francisco the weather is so nice and then you you could travel in everywhere in uh without the umbrella yeah that's all",
+            "words": [
+                {
+                    "word": "yeah",
+                    "start": 36.423,
+                    "end": 36.663,
+                    "score": 0.545
+                },
+                {
+                    "word": "uh",
+                    "start": 36.944,
+                    "end": 37.064,
+                    "score": 0.338
+                },
+                {
+                    "word": "the",
+                    "start": 37.104,
+                    "end": 37.304,
+                    "score": 0.687
+                },
+                {
+                    "word": "san",
+                    "start": 37.644,
+                    "end": 37.764,
+                    "score": 0.609
+                },
+                {
+                    "word": "francisco",
+                    "start": 37.784,
+                    "end": 38.325,
+                    "score": 0.513
+                },
+                {
+                    "word": "the",
+                    "start": 38.485,
+                    "end": 38.665,
+                    "score": 0.69
+                },
+                {
+                    "word": "weather",
+                    "start": 38.685,
+                    "end": 38.905,
+                    "score": 0.818
+                },
+                {
+                    "word": "is",
+                    "start": 38.965,
+                    "end": 39.266,
+                    "score": 0.561
+                },
+                {
+                    "word": "so",
+                    "start": 39.366,
+                    "end": 39.586,
+                    "score": 0.974
+                },
+                {
+                    "word": "nice",
+                    "start": 39.666,
+                    "end": 40.066,
+                    "score": 0.7
+                },
+                {
+                    "word": "and",
+                    "start": 40.667,
+                    "end": 40.807,
+                    "score": 0.586
+                },
+                {
+                    "word": "then",
+                    "start": 41.288,
+                    "end": 41.848,
+                    "score": 0.908
+                },
+                {
+                    "word": "you",
+                    "start": 42.148,
+                    "end": 42.369,
+                    "score": 0.868
+                },
+                {
+                    "word": "you",
+                    "start": 42.669,
+                    "end": 42.869,
+                    "score": 0.859
+                },
+                {
+                    "word": "could",
+                    "start": 43.79,
+                    "end": 44.05,
+                    "score": 0.97
+                },
+                {
+                    "word": "travel",
+                    "start": 44.731,
+                    "end": 45.171,
+                    "score": 0.574
+                },
+                {
+                    "word": "in",
+                    "start": 45.311,
+                    "end": 45.411,
+                    "score": 0.81
+                },
+                {
+                    "word": "everywhere",
+                    "start": 45.712,
+                    "end": 46.252,
+                    "score": 0.808
+                },
+                {
+                    "word": "in",
+                    "start": 46.372,
+                    "end": 46.493,
+                    "score": 0.65
+                },
+                {
+                    "word": "uh",
+                    "start": 46.873,
+                    "end": 47.033,
+                    "score": 0.61
+                },
+                {
+                    "word": "without",
+                    "start": 47.353,
+                    "end": 47.734,
+                    "score": 0.658
+                },
+                {
+                    "word": "the",
+                    "start": 47.814,
+                    "end": 47.954,
+                    "score": 0.98
+                },
+                {
+                    "word": "umbrella",
+                    "start": 48.034,
+                    "end": 48.554,
+                    "score": 0.921
+                },
+                {
+                    "word": "yeah",
+                    "start": 48.795,
+                    "end": 49.035,
+                    "score": 0.553
+                },
+                {
+                    "word": "that's",
+                    "start": 49.295,
+                    "end": 49.515,
+                    "score": 0.929
+                },
+                {
+                    "word": "all",
+                    "start": 49.535,
+                    "end": 49.595,
+                    "score": 0.0
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "San",
+            "start": 0.289,
+            "end": 0.409,
+            "score": 0.658
+        },
+        {
+            "word": "Francisco's",
+            "start": 0.429,
+            "end": 1.009,
+            "score": 0.662
+        },
+        {
+            "word": "weather",
+            "start": 1.049,
+            "end": 1.45,
+            "score": 0.837
+        },
+        {
+            "word": "is",
+            "start": 1.63,
+            "end": 1.75,
+            "score": 0.804
+        },
+        {
+            "word": "Monday",
+            "start": 2.17,
+            "end": 2.51,
+            "score": 0.863
+        },
+        {
+            "word": "through",
+            "start": 2.57,
+            "end": 2.93,
+            "score": 0.684
+        },
+        {
+            "word": "Wednesday",
+            "start": 3.01,
+            "end": 3.39,
+            "score": 0.862
+        },
+        {
+            "word": "is",
+            "start": 3.41,
+            "end": 3.45,
+            "score": 0.344
+        },
+        {
+            "word": "a",
+            "start": 3.53,
+            "end": 3.611,
+            "score": 0.661
+        },
+        {
+            "word": "little",
+            "start": 3.631,
+            "end": 3.891,
+            "score": 0.347
+        },
+        {
+            "word": "cloudy",
+            "start": 3.991,
+            "end": 4.471,
+            "score": 0.919
+        },
+        {
+            "word": "and",
+            "start": 4.771,
+            "end": 4.911,
+            "score": 0.814
+        },
+        {
+            "word": "Thursday",
+            "start": 4.951,
+            "end": 5.611,
+            "score": 0.881
+        },
+        {
+            "word": "and",
+            "start": 6.252,
+            "end": 6.412,
+            "score": 0.753
+        },
+        {
+            "word": "Friday",
+            "start": 6.492,
+            "end": 6.972,
+            "score": 0.861
+        },
+        {
+            "word": "is",
+            "start": 7.192,
+            "end": 9.653,
+            "score": 0.818
+        },
+        {
+            "word": "clean",
+            "start": 10.613,
+            "end": 10.914,
+            "score": 0.957
+        },
+        {
+            "word": "so",
+            "start": 11.674,
+            "end": 11.954,
+            "score": 0.899
+        },
+        {
+            "word": "if",
+            "start": 12.874,
+            "end": 12.974,
+            "score": 0.872
+        },
+        {
+            "word": "you",
+            "start": 13.055,
+            "end": 13.215,
+            "score": 0.928
+        },
+        {
+            "word": "want",
+            "start": 13.255,
+            "end": 13.415,
+            "score": 0.652
+        },
+        {
+            "word": "to",
+            "start": 13.455,
+            "end": 13.575,
+            "score": 0.998
+        },
+        {
+            "word": "go",
+            "start": 13.635,
+            "end": 14.115,
+            "score": 0.419
+        },
+        {
+            "word": "San",
+            "start": 14.235,
+            "end": 14.415,
+            "score": 0.87
+        },
+        {
+            "word": "Francisco",
+            "start": 14.455,
+            "end": 15.135,
+            "score": 0.969
+        },
+        {
+            "word": "the",
+            "start": 15.235,
+            "end": 15.355,
+            "score": 0.864
+        },
+        {
+            "word": "weather",
+            "start": 15.395,
+            "end": 15.636,
+            "score": 0.827
+        },
+        {
+            "word": "is",
+            "start": 15.696,
+            "end": 15.796,
+            "score": 0.702
+        },
+        {
+            "word": "a",
+            "start": 15.896,
+            "end": 15.996,
+            "score": 0.395
+        },
+        {
+            "word": "little",
+            "start": 16.036,
+            "end": 16.236,
+            "score": 0.479
+        },
+        {
+            "word": "good",
+            "start": 17.357,
+            "end": 17.617,
+            "score": 0.955
+        },
+        {
+            "word": "to",
+            "start": 17.737,
+            "end": 18.198,
+            "score": 0.902
+        },
+        {
+            "word": "travel",
+            "start": 18.438,
+            "end": 18.859,
+            "score": 0.693
+        },
+        {
+            "word": "the",
+            "start": 19.6,
+            "end": 19.78,
+            "score": 0.746
+        },
+        {
+            "word": "san",
+            "start": 19.8,
+            "end": 19.94,
+            "score": 0.469
+        },
+        {
+            "word": "francisco's",
+            "start": 19.96,
+            "end": 21.222,
+            "score": 0.726
+        },
+        {
+            "word": "temperature",
+            "start": 21.302,
+            "end": 21.842,
+            "score": 0.688
+        },
+        {
+            "word": "is",
+            "start": 21.883,
+            "end": 21.923,
+            "score": 0.03
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "fahrenheit",
+            "start": 22.123,
+            "end": 24.205,
+            "score": 0.526
+        },
+        {
+            "word": "and",
+            "start": 24.225,
+            "end": 24.285,
+            "score": 0.001
+        },
+        {
+            "word": "humidity",
+            "start": 24.386,
+            "end": 25.627,
+            "score": 0.763
+        },
+        {
+            "word": "is",
+            "start": 25.747,
+            "end": 25.887,
+            "score": 0.854
+        },
+        {
+            "word": "86"
+        },
+        {
+            "word": "percent",
+            "start": 26.088,
+            "end": 26.568,
+            "score": 0.862
+        },
+        {
+            "word": "the",
+            "start": 27.049,
+            "end": 27.189,
+            "score": 0.726
+        },
+        {
+            "word": "pressure",
+            "start": 27.249,
+            "end": 27.79,
+            "score": 0.679
+        },
+        {
+            "word": "is",
+            "start": 28.19,
+            "end": 28.35,
+            "score": 0.388
+        },
+        {
+            "word": "zero",
+            "start": 28.451,
+            "end": 28.951,
+            "score": 0.743
+        },
+        {
+            "word": "in",
+            "start": 29.872,
+            "end": 29.952,
+            "score": 0.871
+        },
+        {
+            "word": "yeah",
+            "start": 36.423,
+            "end": 36.663,
+            "score": 0.545
+        },
+        {
+            "word": "uh",
+            "start": 36.944,
+            "end": 37.064,
+            "score": 0.338
+        },
+        {
+            "word": "the",
+            "start": 37.104,
+            "end": 37.304,
+            "score": 0.687
+        },
+        {
+            "word": "san",
+            "start": 37.644,
+            "end": 37.764,
+            "score": 0.609
+        },
+        {
+            "word": "francisco",
+            "start": 37.784,
+            "end": 38.325,
+            "score": 0.513
+        },
+        {
+            "word": "the",
+            "start": 38.485,
+            "end": 38.665,
+            "score": 0.69
+        },
+        {
+            "word": "weather",
+            "start": 38.685,
+            "end": 38.905,
+            "score": 0.818
+        },
+        {
+            "word": "is",
+            "start": 38.965,
+            "end": 39.266,
+            "score": 0.561
+        },
+        {
+            "word": "so",
+            "start": 39.366,
+            "end": 39.586,
+            "score": 0.974
+        },
+        {
+            "word": "nice",
+            "start": 39.666,
+            "end": 40.066,
+            "score": 0.7
+        },
+        {
+            "word": "and",
+            "start": 40.667,
+            "end": 40.807,
+            "score": 0.586
+        },
+        {
+            "word": "then",
+            "start": 41.288,
+            "end": 41.848,
+            "score": 0.908
+        },
+        {
+            "word": "you",
+            "start": 42.148,
+            "end": 42.369,
+            "score": 0.868
+        },
+        {
+            "word": "you",
+            "start": 42.669,
+            "end": 42.869,
+            "score": 0.859
+        },
+        {
+            "word": "could",
+            "start": 43.79,
+            "end": 44.05,
+            "score": 0.97
+        },
+        {
+            "word": "travel",
+            "start": 44.731,
+            "end": 45.171,
+            "score": 0.574
+        },
+        {
+            "word": "in",
+            "start": 45.311,
+            "end": 45.411,
+            "score": 0.81
+        },
+        {
+            "word": "everywhere",
+            "start": 45.712,
+            "end": 46.252,
+            "score": 0.808
+        },
+        {
+            "word": "in",
+            "start": 46.372,
+            "end": 46.493,
+            "score": 0.65
+        },
+        {
+            "word": "uh",
+            "start": 46.873,
+            "end": 47.033,
+            "score": 0.61
+        },
+        {
+            "word": "without",
+            "start": 47.353,
+            "end": 47.734,
+            "score": 0.658
+        },
+        {
+            "word": "the",
+            "start": 47.814,
+            "end": 47.954,
+            "score": 0.98
+        },
+        {
+            "word": "umbrella",
+            "start": 48.034,
+            "end": 48.554,
+            "score": 0.921
+        },
+        {
+            "word": "yeah",
+            "start": 48.795,
+            "end": 49.035,
+            "score": 0.553
+        },
+        {
+            "word": "that's",
+            "start": 49.295,
+            "end": 49.515,
+            "score": 0.929
+        },
+        {
+            "word": "all",
+            "start": 49.535,
+            "end": 49.595,
+            "score": 0.0
+        }
+    ]
+}

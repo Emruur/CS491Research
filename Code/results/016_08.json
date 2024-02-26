@@ -1,0 +1,555 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 2.07,
+            "text": " Now I am in the restaurant.",
+            "words": [
+                {
+                    "word": "Now",
+                    "start": 0.109,
+                    "end": 0.349,
+                    "score": 0.977
+                },
+                {
+                    "word": "I",
+                    "start": 0.629,
+                    "end": 0.689,
+                    "score": 0.887
+                },
+                {
+                    "word": "am",
+                    "start": 0.75,
+                    "end": 0.85,
+                    "score": 0.536
+                },
+                {
+                    "word": "in",
+                    "start": 1.35,
+                    "end": 1.41,
+                    "score": 0.998
+                },
+                {
+                    "word": "the",
+                    "start": 1.45,
+                    "end": 1.57,
+                    "score": 0.866
+                },
+                {
+                    "word": "restaurant.",
+                    "start": 1.63,
+                    "end": 2.07,
+                    "score": 0.522
+                }
+            ]
+        },
+        {
+            "start": 3.371,
+            "end": 26.768,
+            "text": "Go straight north avenue and then next intersection turn right and go straight one block and if you go to the 11th street turn right and go straight",
+            "words": [
+                {
+                    "word": "Go",
+                    "start": 3.371,
+                    "end": 3.551,
+                    "score": 0.998
+                },
+                {
+                    "word": "straight",
+                    "start": 3.612,
+                    "end": 4.012,
+                    "score": 0.741
+                },
+                {
+                    "word": "north",
+                    "start": 4.632,
+                    "end": 6.013,
+                    "score": 0.866
+                },
+                {
+                    "word": "avenue",
+                    "start": 6.173,
+                    "end": 6.614,
+                    "score": 0.744
+                },
+                {
+                    "word": "and",
+                    "start": 8.055,
+                    "end": 8.155,
+                    "score": 0.765
+                },
+                {
+                    "word": "then",
+                    "start": 8.215,
+                    "end": 8.455,
+                    "score": 0.965
+                },
+                {
+                    "word": "next",
+                    "start": 9.836,
+                    "end": 10.036,
+                    "score": 0.823
+                },
+                {
+                    "word": "intersection",
+                    "start": 10.156,
+                    "end": 10.937,
+                    "score": 0.764
+                },
+                {
+                    "word": "turn",
+                    "start": 12.057,
+                    "end": 12.418,
+                    "score": 0.644
+                },
+                {
+                    "word": "right",
+                    "start": 13.098,
+                    "end": 13.338,
+                    "score": 0.729
+                },
+                {
+                    "word": "and",
+                    "start": 14.159,
+                    "end": 14.359,
+                    "score": 0.741
+                },
+                {
+                    "word": "go",
+                    "start": 14.519,
+                    "end": 14.94,
+                    "score": 0.944
+                },
+                {
+                    "word": "straight",
+                    "start": 15.08,
+                    "end": 15.62,
+                    "score": 0.716
+                },
+                {
+                    "word": "one",
+                    "start": 16.521,
+                    "end": 16.641,
+                    "score": 0.632
+                },
+                {
+                    "word": "block",
+                    "start": 16.661,
+                    "end": 16.981,
+                    "score": 0.671
+                },
+                {
+                    "word": "and",
+                    "start": 17.802,
+                    "end": 18.002,
+                    "score": 0.758
+                },
+                {
+                    "word": "if",
+                    "start": 18.642,
+                    "end": 18.742,
+                    "score": 0.864
+                },
+                {
+                    "word": "you",
+                    "start": 18.782,
+                    "end": 18.942,
+                    "score": 0.989
+                },
+                {
+                    "word": "go",
+                    "start": 18.982,
+                    "end": 19.102,
+                    "score": 0.964
+                },
+                {
+                    "word": "to",
+                    "start": 19.162,
+                    "end": 19.303,
+                    "score": 0.989
+                },
+                {
+                    "word": "the",
+                    "start": 19.343,
+                    "end": 19.563,
+                    "score": 0.86
+                },
+                {
+                    "word": "11th",
+                    "start": 20.583,
+                    "end": 20.944,
+                    "score": 0.611
+                },
+                {
+                    "word": "street",
+                    "start": 21.004,
+                    "end": 21.344,
+                    "score": 0.812
+                },
+                {
+                    "word": "turn",
+                    "start": 22.485,
+                    "end": 23.686,
+                    "score": 0.618
+                },
+                {
+                    "word": "right",
+                    "start": 23.786,
+                    "end": 24.006,
+                    "score": 0.798
+                },
+                {
+                    "word": "and",
+                    "start": 25.087,
+                    "end": 25.307,
+                    "score": 0.7
+                },
+                {
+                    "word": "go",
+                    "start": 26.067,
+                    "end": 26.328,
+                    "score": 0.97
+                },
+                {
+                    "word": "straight",
+                    "start": 26.408,
+                    "end": 26.768,
+                    "score": 0.798
+                }
+            ]
+        },
+        {
+            "start": 27.895,
+            "end": 30.352,
+            "text": " and you will see the post office on your right.",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 27.895,
+                    "end": 27.995,
+                    "score": 0.977
+                },
+                {
+                    "word": "you",
+                    "start": 28.036,
+                    "end": 28.156,
+                    "score": 0.881
+                },
+                {
+                    "word": "will",
+                    "start": 28.177,
+                    "end": 28.257,
+                    "score": 0.025
+                },
+                {
+                    "word": "see",
+                    "start": 28.418,
+                    "end": 28.68,
+                    "score": 0.717
+                },
+                {
+                    "word": "the",
+                    "start": 28.721,
+                    "end": 28.821,
+                    "score": 0.383
+                },
+                {
+                    "word": "post",
+                    "start": 28.882,
+                    "end": 29.164,
+                    "score": 0.931
+                },
+                {
+                    "word": "office",
+                    "start": 29.244,
+                    "end": 29.526,
+                    "score": 0.92
+                },
+                {
+                    "word": "on",
+                    "start": 29.808,
+                    "end": 29.889,
+                    "score": 0.838
+                },
+                {
+                    "word": "your",
+                    "start": 29.95,
+                    "end": 30.131,
+                    "score": 0.666
+                },
+                {
+                    "word": "right.",
+                    "start": 30.171,
+                    "end": 30.352,
+                    "score": 0.973
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Now",
+            "start": 0.109,
+            "end": 0.349,
+            "score": 0.977
+        },
+        {
+            "word": "I",
+            "start": 0.629,
+            "end": 0.689,
+            "score": 0.887
+        },
+        {
+            "word": "am",
+            "start": 0.75,
+            "end": 0.85,
+            "score": 0.536
+        },
+        {
+            "word": "in",
+            "start": 1.35,
+            "end": 1.41,
+            "score": 0.998
+        },
+        {
+            "word": "the",
+            "start": 1.45,
+            "end": 1.57,
+            "score": 0.866
+        },
+        {
+            "word": "restaurant.",
+            "start": 1.63,
+            "end": 2.07,
+            "score": 0.522
+        },
+        {
+            "word": "Go",
+            "start": 3.371,
+            "end": 3.551,
+            "score": 0.998
+        },
+        {
+            "word": "straight",
+            "start": 3.612,
+            "end": 4.012,
+            "score": 0.741
+        },
+        {
+            "word": "north",
+            "start": 4.632,
+            "end": 6.013,
+            "score": 0.866
+        },
+        {
+            "word": "avenue",
+            "start": 6.173,
+            "end": 6.614,
+            "score": 0.744
+        },
+        {
+            "word": "and",
+            "start": 8.055,
+            "end": 8.155,
+            "score": 0.765
+        },
+        {
+            "word": "then",
+            "start": 8.215,
+            "end": 8.455,
+            "score": 0.965
+        },
+        {
+            "word": "next",
+            "start": 9.836,
+            "end": 10.036,
+            "score": 0.823
+        },
+        {
+            "word": "intersection",
+            "start": 10.156,
+            "end": 10.937,
+            "score": 0.764
+        },
+        {
+            "word": "turn",
+            "start": 12.057,
+            "end": 12.418,
+            "score": 0.644
+        },
+        {
+            "word": "right",
+            "start": 13.098,
+            "end": 13.338,
+            "score": 0.729
+        },
+        {
+            "word": "and",
+            "start": 14.159,
+            "end": 14.359,
+            "score": 0.741
+        },
+        {
+            "word": "go",
+            "start": 14.519,
+            "end": 14.94,
+            "score": 0.944
+        },
+        {
+            "word": "straight",
+            "start": 15.08,
+            "end": 15.62,
+            "score": 0.716
+        },
+        {
+            "word": "one",
+            "start": 16.521,
+            "end": 16.641,
+            "score": 0.632
+        },
+        {
+            "word": "block",
+            "start": 16.661,
+            "end": 16.981,
+            "score": 0.671
+        },
+        {
+            "word": "and",
+            "start": 17.802,
+            "end": 18.002,
+            "score": 0.758
+        },
+        {
+            "word": "if",
+            "start": 18.642,
+            "end": 18.742,
+            "score": 0.864
+        },
+        {
+            "word": "you",
+            "start": 18.782,
+            "end": 18.942,
+            "score": 0.989
+        },
+        {
+            "word": "go",
+            "start": 18.982,
+            "end": 19.102,
+            "score": 0.964
+        },
+        {
+            "word": "to",
+            "start": 19.162,
+            "end": 19.303,
+            "score": 0.989
+        },
+        {
+            "word": "the",
+            "start": 19.343,
+            "end": 19.563,
+            "score": 0.86
+        },
+        {
+            "word": "11th",
+            "start": 20.583,
+            "end": 20.944,
+            "score": 0.611
+        },
+        {
+            "word": "street",
+            "start": 21.004,
+            "end": 21.344,
+            "score": 0.812
+        },
+        {
+            "word": "turn",
+            "start": 22.485,
+            "end": 23.686,
+            "score": 0.618
+        },
+        {
+            "word": "right",
+            "start": 23.786,
+            "end": 24.006,
+            "score": 0.798
+        },
+        {
+            "word": "and",
+            "start": 25.087,
+            "end": 25.307,
+            "score": 0.7
+        },
+        {
+            "word": "go",
+            "start": 26.067,
+            "end": 26.328,
+            "score": 0.97
+        },
+        {
+            "word": "straight",
+            "start": 26.408,
+            "end": 26.768,
+            "score": 0.798
+        },
+        {
+            "word": "and",
+            "start": 27.895,
+            "end": 27.995,
+            "score": 0.977
+        },
+        {
+            "word": "you",
+            "start": 28.036,
+            "end": 28.156,
+            "score": 0.881
+        },
+        {
+            "word": "will",
+            "start": 28.177,
+            "end": 28.257,
+            "score": 0.025
+        },
+        {
+            "word": "see",
+            "start": 28.418,
+            "end": 28.68,
+            "score": 0.717
+        },
+        {
+            "word": "the",
+            "start": 28.721,
+            "end": 28.821,
+            "score": 0.383
+        },
+        {
+            "word": "post",
+            "start": 28.882,
+            "end": 29.164,
+            "score": 0.931
+        },
+        {
+            "word": "office",
+            "start": 29.244,
+            "end": 29.526,
+            "score": 0.92
+        },
+        {
+            "word": "on",
+            "start": 29.808,
+            "end": 29.889,
+            "score": 0.838
+        },
+        {
+            "word": "your",
+            "start": 29.95,
+            "end": 30.131,
+            "score": 0.666
+        },
+        {
+            "word": "right.",
+            "start": 30.171,
+            "end": 30.352,
+            "score": 0.973
+        }
+    ]
+}

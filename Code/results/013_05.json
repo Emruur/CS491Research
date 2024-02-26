@@ -1,0 +1,1054 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 10.235,
+            "text": " Of course, I don't really agree about the following instructions or problems because for healthy",
+            "words": [
+                {
+                    "word": "Of",
+                    "start": 0.069,
+                    "end": 0.149,
+                    "score": 0.906
+                },
+                {
+                    "word": "course,",
+                    "start": 0.229,
+                    "end": 0.489,
+                    "score": 0.875
+                },
+                {
+                    "word": "I",
+                    "start": 0.509,
+                    "end": 0.529,
+                    "score": 0.004
+                },
+                {
+                    "word": "don't",
+                    "start": 1.31,
+                    "end": 1.51,
+                    "score": 0.499
+                },
+                {
+                    "word": "really",
+                    "start": 1.53,
+                    "end": 1.85,
+                    "score": 0.766
+                },
+                {
+                    "word": "agree",
+                    "start": 2.21,
+                    "end": 2.63,
+                    "score": 0.959
+                },
+                {
+                    "word": "about",
+                    "start": 2.851,
+                    "end": 3.151,
+                    "score": 0.937
+                },
+                {
+                    "word": "the",
+                    "start": 3.251,
+                    "end": 3.511,
+                    "score": 0.765
+                },
+                {
+                    "word": "following",
+                    "start": 4.171,
+                    "end": 4.812,
+                    "score": 0.91
+                },
+                {
+                    "word": "instructions",
+                    "start": 5.312,
+                    "end": 6.052,
+                    "score": 0.775
+                },
+                {
+                    "word": "or",
+                    "start": 6.152,
+                    "end": 6.273,
+                    "score": 0.656
+                },
+                {
+                    "word": "problems",
+                    "start": 6.433,
+                    "end": 6.913,
+                    "score": 0.82
+                },
+                {
+                    "word": "because",
+                    "start": 7.473,
+                    "end": 7.994,
+                    "score": 0.926
+                },
+                {
+                    "word": "for",
+                    "start": 9.014,
+                    "end": 9.274,
+                    "score": 0.793
+                },
+                {
+                    "word": "healthy",
+                    "start": 9.795,
+                    "end": 10.235,
+                    "score": 0.942
+                }
+            ]
+        },
+        {
+            "start": 13.291,
+            "end": 34.108,
+            "text": " products and on the market the government have to be responsible especially if you use a lot of chemicals in the big companies for your foods you have to be prepared about what are you eating because on this depends your health or your healthy life",
+            "words": [
+                {
+                    "word": "products",
+                    "start": 13.291,
+                    "end": 13.811,
+                    "score": 0.676
+                },
+                {
+                    "word": "and",
+                    "start": 13.992,
+                    "end": 14.112,
+                    "score": 0.723
+                },
+                {
+                    "word": "on",
+                    "start": 14.132,
+                    "end": 14.172,
+                    "score": 0.0
+                },
+                {
+                    "word": "the",
+                    "start": 14.352,
+                    "end": 14.472,
+                    "score": 0.858
+                },
+                {
+                    "word": "market",
+                    "start": 14.512,
+                    "end": 15.133,
+                    "score": 0.813
+                },
+                {
+                    "word": "the",
+                    "start": 15.733,
+                    "end": 15.833,
+                    "score": 0.904
+                },
+                {
+                    "word": "government",
+                    "start": 15.853,
+                    "end": 16.313,
+                    "score": 0.699
+                },
+                {
+                    "word": "have",
+                    "start": 16.353,
+                    "end": 16.574,
+                    "score": 0.998
+                },
+                {
+                    "word": "to",
+                    "start": 16.634,
+                    "end": 16.734,
+                    "score": 1.0
+                },
+                {
+                    "word": "be",
+                    "start": 16.794,
+                    "end": 16.994,
+                    "score": 0.896
+                },
+                {
+                    "word": "responsible",
+                    "start": 17.114,
+                    "end": 17.875,
+                    "score": 0.814
+                },
+                {
+                    "word": "especially",
+                    "start": 18.375,
+                    "end": 18.936,
+                    "score": 0.847
+                },
+                {
+                    "word": "if",
+                    "start": 19.236,
+                    "end": 19.316,
+                    "score": 0.812
+                },
+                {
+                    "word": "you",
+                    "start": 19.356,
+                    "end": 19.576,
+                    "score": 0.795
+                },
+                {
+                    "word": "use",
+                    "start": 19.696,
+                    "end": 19.856,
+                    "score": 0.847
+                },
+                {
+                    "word": "a",
+                    "start": 19.936,
+                    "end": 19.996,
+                    "score": 0.779
+                },
+                {
+                    "word": "lot",
+                    "start": 20.036,
+                    "end": 20.217,
+                    "score": 0.724
+                },
+                {
+                    "word": "of",
+                    "start": 20.277,
+                    "end": 20.357,
+                    "score": 0.278
+                },
+                {
+                    "word": "chemicals",
+                    "start": 20.397,
+                    "end": 20.997,
+                    "score": 0.753
+                },
+                {
+                    "word": "in",
+                    "start": 21.077,
+                    "end": 21.157,
+                    "score": 0.983
+                },
+                {
+                    "word": "the",
+                    "start": 21.217,
+                    "end": 21.398,
+                    "score": 0.84
+                },
+                {
+                    "word": "big",
+                    "start": 21.498,
+                    "end": 21.698,
+                    "score": 0.663
+                },
+                {
+                    "word": "companies",
+                    "start": 21.778,
+                    "end": 22.338,
+                    "score": 0.918
+                },
+                {
+                    "word": "for",
+                    "start": 22.458,
+                    "end": 22.659,
+                    "score": 0.866
+                },
+                {
+                    "word": "your",
+                    "start": 22.739,
+                    "end": 22.979,
+                    "score": 0.934
+                },
+                {
+                    "word": "foods",
+                    "start": 23.099,
+                    "end": 23.419,
+                    "score": 0.817
+                },
+                {
+                    "word": "you",
+                    "start": 23.96,
+                    "end": 24.14,
+                    "score": 0.933
+                },
+                {
+                    "word": "have",
+                    "start": 24.16,
+                    "end": 24.38,
+                    "score": 0.995
+                },
+                {
+                    "word": "to",
+                    "start": 24.46,
+                    "end": 24.56,
+                    "score": 0.954
+                },
+                {
+                    "word": "be",
+                    "start": 24.62,
+                    "end": 24.84,
+                    "score": 0.81
+                },
+                {
+                    "word": "prepared",
+                    "start": 25.121,
+                    "end": 25.701,
+                    "score": 0.876
+                },
+                {
+                    "word": "about",
+                    "start": 25.881,
+                    "end": 26.241,
+                    "score": 0.931
+                },
+                {
+                    "word": "what",
+                    "start": 26.762,
+                    "end": 27.002,
+                    "score": 0.604
+                },
+                {
+                    "word": "are",
+                    "start": 27.102,
+                    "end": 27.222,
+                    "score": 0.803
+                },
+                {
+                    "word": "you",
+                    "start": 27.282,
+                    "end": 27.522,
+                    "score": 0.782
+                },
+                {
+                    "word": "eating",
+                    "start": 27.723,
+                    "end": 28.063,
+                    "score": 0.815
+                },
+                {
+                    "word": "because",
+                    "start": 28.944,
+                    "end": 29.484,
+                    "score": 0.856
+                },
+                {
+                    "word": "on",
+                    "start": 30.225,
+                    "end": 30.325,
+                    "score": 0.916
+                },
+                {
+                    "word": "this",
+                    "start": 30.385,
+                    "end": 30.645,
+                    "score": 0.645
+                },
+                {
+                    "word": "depends",
+                    "start": 30.685,
+                    "end": 31.245,
+                    "score": 0.772
+                },
+                {
+                    "word": "your",
+                    "start": 31.546,
+                    "end": 31.926,
+                    "score": 0.841
+                },
+                {
+                    "word": "health",
+                    "start": 32.106,
+                    "end": 32.486,
+                    "score": 0.578
+                },
+                {
+                    "word": "or",
+                    "start": 32.987,
+                    "end": 33.087,
+                    "score": 0.96
+                },
+                {
+                    "word": "your",
+                    "start": 33.147,
+                    "end": 33.327,
+                    "score": 0.816
+                },
+                {
+                    "word": "healthy",
+                    "start": 33.387,
+                    "end": 33.747,
+                    "score": 0.866
+                },
+                {
+                    "word": "life",
+                    "start": 33.787,
+                    "end": 34.108,
+                    "score": 0.946
+                }
+            ]
+        },
+        {
+            "start": 35.369,
+            "end": 46.282,
+            "text": " But the government has to make something, especially if you are really eating organic food or non-organic food for your healthy life.",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 35.369,
+                    "end": 35.529,
+                    "score": 0.739
+                },
+                {
+                    "word": "the",
+                    "start": 35.569,
+                    "end": 35.669,
+                    "score": 0.663
+                },
+                {
+                    "word": "government",
+                    "start": 35.689,
+                    "end": 36.15,
+                    "score": 0.606
+                },
+                {
+                    "word": "has",
+                    "start": 36.17,
+                    "end": 36.37,
+                    "score": 0.761
+                },
+                {
+                    "word": "to",
+                    "start": 36.43,
+                    "end": 36.53,
+                    "score": 0.869
+                },
+                {
+                    "word": "make",
+                    "start": 36.591,
+                    "end": 36.791,
+                    "score": 0.876
+                },
+                {
+                    "word": "something,",
+                    "start": 36.851,
+                    "end": 37.311,
+                    "score": 0.855
+                },
+                {
+                    "word": "especially",
+                    "start": 37.692,
+                    "end": 38.273,
+                    "score": 0.828
+                },
+                {
+                    "word": "if",
+                    "start": 38.613,
+                    "end": 38.693,
+                    "score": 0.895
+                },
+                {
+                    "word": "you",
+                    "start": 38.733,
+                    "end": 38.913,
+                    "score": 0.822
+                },
+                {
+                    "word": "are",
+                    "start": 39.094,
+                    "end": 39.274,
+                    "score": 0.697
+                },
+                {
+                    "word": "really",
+                    "start": 40.215,
+                    "end": 40.575,
+                    "score": 0.91
+                },
+                {
+                    "word": "eating",
+                    "start": 40.715,
+                    "end": 41.056,
+                    "score": 0.769
+                },
+                {
+                    "word": "organic",
+                    "start": 41.416,
+                    "end": 41.917,
+                    "score": 0.818
+                },
+                {
+                    "word": "food",
+                    "start": 41.977,
+                    "end": 42.277,
+                    "score": 0.896
+                },
+                {
+                    "word": "or",
+                    "start": 42.357,
+                    "end": 42.458,
+                    "score": 0.682
+                },
+                {
+                    "word": "non-organic",
+                    "start": 42.538,
+                    "end": 43.519,
+                    "score": 0.763
+                },
+                {
+                    "word": "food",
+                    "start": 43.979,
+                    "end": 44.62,
+                    "score": 0.81
+                },
+                {
+                    "word": "for",
+                    "start": 44.64,
+                    "end": 44.82,
+                    "score": 0.771
+                },
+                {
+                    "word": "your",
+                    "start": 44.86,
+                    "end": 45.121,
+                    "score": 0.723
+                },
+                {
+                    "word": "healthy",
+                    "start": 45.701,
+                    "end": 46.002,
+                    "score": 0.714
+                },
+                {
+                    "word": "life.",
+                    "start": 46.042,
+                    "end": 46.282,
+                    "score": 0.914
+                }
+            ]
+        },
+        {
+            "start": 47.443,
+            "end": 47.784,
+            "text": "That's it.",
+            "words": [
+                {
+                    "word": "That's",
+                    "start": 47.443,
+                    "end": 47.704,
+                    "score": 0.702
+                },
+                {
+                    "word": "it.",
+                    "start": 47.724,
+                    "end": 47.784,
+                    "score": 0.562
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Of",
+            "start": 0.069,
+            "end": 0.149,
+            "score": 0.906
+        },
+        {
+            "word": "course,",
+            "start": 0.229,
+            "end": 0.489,
+            "score": 0.875
+        },
+        {
+            "word": "I",
+            "start": 0.509,
+            "end": 0.529,
+            "score": 0.004
+        },
+        {
+            "word": "don't",
+            "start": 1.31,
+            "end": 1.51,
+            "score": 0.499
+        },
+        {
+            "word": "really",
+            "start": 1.53,
+            "end": 1.85,
+            "score": 0.766
+        },
+        {
+            "word": "agree",
+            "start": 2.21,
+            "end": 2.63,
+            "score": 0.959
+        },
+        {
+            "word": "about",
+            "start": 2.851,
+            "end": 3.151,
+            "score": 0.937
+        },
+        {
+            "word": "the",
+            "start": 3.251,
+            "end": 3.511,
+            "score": 0.765
+        },
+        {
+            "word": "following",
+            "start": 4.171,
+            "end": 4.812,
+            "score": 0.91
+        },
+        {
+            "word": "instructions",
+            "start": 5.312,
+            "end": 6.052,
+            "score": 0.775
+        },
+        {
+            "word": "or",
+            "start": 6.152,
+            "end": 6.273,
+            "score": 0.656
+        },
+        {
+            "word": "problems",
+            "start": 6.433,
+            "end": 6.913,
+            "score": 0.82
+        },
+        {
+            "word": "because",
+            "start": 7.473,
+            "end": 7.994,
+            "score": 0.926
+        },
+        {
+            "word": "for",
+            "start": 9.014,
+            "end": 9.274,
+            "score": 0.793
+        },
+        {
+            "word": "healthy",
+            "start": 9.795,
+            "end": 10.235,
+            "score": 0.942
+        },
+        {
+            "word": "products",
+            "start": 13.291,
+            "end": 13.811,
+            "score": 0.676
+        },
+        {
+            "word": "and",
+            "start": 13.992,
+            "end": 14.112,
+            "score": 0.723
+        },
+        {
+            "word": "on",
+            "start": 14.132,
+            "end": 14.172,
+            "score": 0.0
+        },
+        {
+            "word": "the",
+            "start": 14.352,
+            "end": 14.472,
+            "score": 0.858
+        },
+        {
+            "word": "market",
+            "start": 14.512,
+            "end": 15.133,
+            "score": 0.813
+        },
+        {
+            "word": "the",
+            "start": 15.733,
+            "end": 15.833,
+            "score": 0.904
+        },
+        {
+            "word": "government",
+            "start": 15.853,
+            "end": 16.313,
+            "score": 0.699
+        },
+        {
+            "word": "have",
+            "start": 16.353,
+            "end": 16.574,
+            "score": 0.998
+        },
+        {
+            "word": "to",
+            "start": 16.634,
+            "end": 16.734,
+            "score": 1.0
+        },
+        {
+            "word": "be",
+            "start": 16.794,
+            "end": 16.994,
+            "score": 0.896
+        },
+        {
+            "word": "responsible",
+            "start": 17.114,
+            "end": 17.875,
+            "score": 0.814
+        },
+        {
+            "word": "especially",
+            "start": 18.375,
+            "end": 18.936,
+            "score": 0.847
+        },
+        {
+            "word": "if",
+            "start": 19.236,
+            "end": 19.316,
+            "score": 0.812
+        },
+        {
+            "word": "you",
+            "start": 19.356,
+            "end": 19.576,
+            "score": 0.795
+        },
+        {
+            "word": "use",
+            "start": 19.696,
+            "end": 19.856,
+            "score": 0.847
+        },
+        {
+            "word": "a",
+            "start": 19.936,
+            "end": 19.996,
+            "score": 0.779
+        },
+        {
+            "word": "lot",
+            "start": 20.036,
+            "end": 20.217,
+            "score": 0.724
+        },
+        {
+            "word": "of",
+            "start": 20.277,
+            "end": 20.357,
+            "score": 0.278
+        },
+        {
+            "word": "chemicals",
+            "start": 20.397,
+            "end": 20.997,
+            "score": 0.753
+        },
+        {
+            "word": "in",
+            "start": 21.077,
+            "end": 21.157,
+            "score": 0.983
+        },
+        {
+            "word": "the",
+            "start": 21.217,
+            "end": 21.398,
+            "score": 0.84
+        },
+        {
+            "word": "big",
+            "start": 21.498,
+            "end": 21.698,
+            "score": 0.663
+        },
+        {
+            "word": "companies",
+            "start": 21.778,
+            "end": 22.338,
+            "score": 0.918
+        },
+        {
+            "word": "for",
+            "start": 22.458,
+            "end": 22.659,
+            "score": 0.866
+        },
+        {
+            "word": "your",
+            "start": 22.739,
+            "end": 22.979,
+            "score": 0.934
+        },
+        {
+            "word": "foods",
+            "start": 23.099,
+            "end": 23.419,
+            "score": 0.817
+        },
+        {
+            "word": "you",
+            "start": 23.96,
+            "end": 24.14,
+            "score": 0.933
+        },
+        {
+            "word": "have",
+            "start": 24.16,
+            "end": 24.38,
+            "score": 0.995
+        },
+        {
+            "word": "to",
+            "start": 24.46,
+            "end": 24.56,
+            "score": 0.954
+        },
+        {
+            "word": "be",
+            "start": 24.62,
+            "end": 24.84,
+            "score": 0.81
+        },
+        {
+            "word": "prepared",
+            "start": 25.121,
+            "end": 25.701,
+            "score": 0.876
+        },
+        {
+            "word": "about",
+            "start": 25.881,
+            "end": 26.241,
+            "score": 0.931
+        },
+        {
+            "word": "what",
+            "start": 26.762,
+            "end": 27.002,
+            "score": 0.604
+        },
+        {
+            "word": "are",
+            "start": 27.102,
+            "end": 27.222,
+            "score": 0.803
+        },
+        {
+            "word": "you",
+            "start": 27.282,
+            "end": 27.522,
+            "score": 0.782
+        },
+        {
+            "word": "eating",
+            "start": 27.723,
+            "end": 28.063,
+            "score": 0.815
+        },
+        {
+            "word": "because",
+            "start": 28.944,
+            "end": 29.484,
+            "score": 0.856
+        },
+        {
+            "word": "on",
+            "start": 30.225,
+            "end": 30.325,
+            "score": 0.916
+        },
+        {
+            "word": "this",
+            "start": 30.385,
+            "end": 30.645,
+            "score": 0.645
+        },
+        {
+            "word": "depends",
+            "start": 30.685,
+            "end": 31.245,
+            "score": 0.772
+        },
+        {
+            "word": "your",
+            "start": 31.546,
+            "end": 31.926,
+            "score": 0.841
+        },
+        {
+            "word": "health",
+            "start": 32.106,
+            "end": 32.486,
+            "score": 0.578
+        },
+        {
+            "word": "or",
+            "start": 32.987,
+            "end": 33.087,
+            "score": 0.96
+        },
+        {
+            "word": "your",
+            "start": 33.147,
+            "end": 33.327,
+            "score": 0.816
+        },
+        {
+            "word": "healthy",
+            "start": 33.387,
+            "end": 33.747,
+            "score": 0.866
+        },
+        {
+            "word": "life",
+            "start": 33.787,
+            "end": 34.108,
+            "score": 0.946
+        },
+        {
+            "word": "But",
+            "start": 35.369,
+            "end": 35.529,
+            "score": 0.739
+        },
+        {
+            "word": "the",
+            "start": 35.569,
+            "end": 35.669,
+            "score": 0.663
+        },
+        {
+            "word": "government",
+            "start": 35.689,
+            "end": 36.15,
+            "score": 0.606
+        },
+        {
+            "word": "has",
+            "start": 36.17,
+            "end": 36.37,
+            "score": 0.761
+        },
+        {
+            "word": "to",
+            "start": 36.43,
+            "end": 36.53,
+            "score": 0.869
+        },
+        {
+            "word": "make",
+            "start": 36.591,
+            "end": 36.791,
+            "score": 0.876
+        },
+        {
+            "word": "something,",
+            "start": 36.851,
+            "end": 37.311,
+            "score": 0.855
+        },
+        {
+            "word": "especially",
+            "start": 37.692,
+            "end": 38.273,
+            "score": 0.828
+        },
+        {
+            "word": "if",
+            "start": 38.613,
+            "end": 38.693,
+            "score": 0.895
+        },
+        {
+            "word": "you",
+            "start": 38.733,
+            "end": 38.913,
+            "score": 0.822
+        },
+        {
+            "word": "are",
+            "start": 39.094,
+            "end": 39.274,
+            "score": 0.697
+        },
+        {
+            "word": "really",
+            "start": 40.215,
+            "end": 40.575,
+            "score": 0.91
+        },
+        {
+            "word": "eating",
+            "start": 40.715,
+            "end": 41.056,
+            "score": 0.769
+        },
+        {
+            "word": "organic",
+            "start": 41.416,
+            "end": 41.917,
+            "score": 0.818
+        },
+        {
+            "word": "food",
+            "start": 41.977,
+            "end": 42.277,
+            "score": 0.896
+        },
+        {
+            "word": "or",
+            "start": 42.357,
+            "end": 42.458,
+            "score": 0.682
+        },
+        {
+            "word": "non-organic",
+            "start": 42.538,
+            "end": 43.519,
+            "score": 0.763
+        },
+        {
+            "word": "food",
+            "start": 43.979,
+            "end": 44.62,
+            "score": 0.81
+        },
+        {
+            "word": "for",
+            "start": 44.64,
+            "end": 44.82,
+            "score": 0.771
+        },
+        {
+            "word": "your",
+            "start": 44.86,
+            "end": 45.121,
+            "score": 0.723
+        },
+        {
+            "word": "healthy",
+            "start": 45.701,
+            "end": 46.002,
+            "score": 0.714
+        },
+        {
+            "word": "life.",
+            "start": 46.042,
+            "end": 46.282,
+            "score": 0.914
+        },
+        {
+            "word": "That's",
+            "start": 47.443,
+            "end": 47.704,
+            "score": 0.702
+        },
+        {
+            "word": "it.",
+            "start": 47.724,
+            "end": 47.784,
+            "score": 0.562
+        }
+    ]
+}

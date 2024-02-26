@@ -1,0 +1,989 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 14.82,
+            "text": " In my opinion, I don't agree with that the government should require health warning labels on the size of soda cans because there are some reasons why I think so.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 0.089,
+                    "end": 0.169,
+                    "score": 0.956
+                },
+                {
+                    "word": "my",
+                    "start": 0.229,
+                    "end": 0.429,
+                    "score": 0.891
+                },
+                {
+                    "word": "opinion,",
+                    "start": 0.549,
+                    "end": 1.01,
+                    "score": 0.788
+                },
+                {
+                    "word": "I",
+                    "start": 1.03,
+                    "end": 1.05,
+                    "score": 0.001
+                },
+                {
+                    "word": "don't",
+                    "start": 1.61,
+                    "end": 1.95,
+                    "score": 0.583
+                },
+                {
+                    "word": "agree",
+                    "start": 1.99,
+                    "end": 2.251,
+                    "score": 0.834
+                },
+                {
+                    "word": "with",
+                    "start": 2.311,
+                    "end": 2.491,
+                    "score": 0.941
+                },
+                {
+                    "word": "that",
+                    "start": 3.752,
+                    "end": 4.012,
+                    "score": 0.957
+                },
+                {
+                    "word": "the",
+                    "start": 4.072,
+                    "end": 4.172,
+                    "score": 0.826
+                },
+                {
+                    "word": "government",
+                    "start": 4.212,
+                    "end": 4.792,
+                    "score": 0.777
+                },
+                {
+                    "word": "should",
+                    "start": 4.852,
+                    "end": 5.093,
+                    "score": 0.82
+                },
+                {
+                    "word": "require",
+                    "start": 5.153,
+                    "end": 5.673,
+                    "score": 0.891
+                },
+                {
+                    "word": "health",
+                    "start": 5.693,
+                    "end": 6.374,
+                    "score": 0.271
+                },
+                {
+                    "word": "warning",
+                    "start": 6.974,
+                    "end": 7.454,
+                    "score": 0.75
+                },
+                {
+                    "word": "labels",
+                    "start": 7.534,
+                    "end": 7.875,
+                    "score": 0.756
+                },
+                {
+                    "word": "on",
+                    "start": 7.975,
+                    "end": 8.055,
+                    "score": 0.916
+                },
+                {
+                    "word": "the",
+                    "start": 8.095,
+                    "end": 8.175,
+                    "score": 0.895
+                },
+                {
+                    "word": "size",
+                    "start": 8.215,
+                    "end": 8.475,
+                    "score": 0.784
+                },
+                {
+                    "word": "of",
+                    "start": 8.535,
+                    "end": 8.615,
+                    "score": 0.816
+                },
+                {
+                    "word": "soda",
+                    "start": 8.675,
+                    "end": 8.975,
+                    "score": 0.781
+                },
+                {
+                    "word": "cans",
+                    "start": 9.035,
+                    "end": 9.356,
+                    "score": 0.913
+                },
+                {
+                    "word": "because",
+                    "start": 9.416,
+                    "end": 9.776,
+                    "score": 0.872
+                },
+                {
+                    "word": "there",
+                    "start": 11.657,
+                    "end": 11.837,
+                    "score": 0.952
+                },
+                {
+                    "word": "are",
+                    "start": 11.877,
+                    "end": 11.998,
+                    "score": 0.664
+                },
+                {
+                    "word": "some",
+                    "start": 12.038,
+                    "end": 12.218,
+                    "score": 0.913
+                },
+                {
+                    "word": "reasons",
+                    "start": 12.278,
+                    "end": 12.698,
+                    "score": 0.736
+                },
+                {
+                    "word": "why",
+                    "start": 12.798,
+                    "end": 13.499,
+                    "score": 0.708
+                },
+                {
+                    "word": "I",
+                    "start": 13.519,
+                    "end": 13.539,
+                    "score": 0.001
+                },
+                {
+                    "word": "think",
+                    "start": 14.319,
+                    "end": 14.519,
+                    "score": 0.878
+                },
+                {
+                    "word": "so.",
+                    "start": 14.579,
+                    "end": 14.82,
+                    "score": 0.866
+                }
+            ]
+        },
+        {
+            "start": 15.66,
+            "end": 24.907,
+            "text": "First of all, people who drink soda cans know it's harmful to their health.",
+            "words": [
+                {
+                    "word": "First",
+                    "start": 15.66,
+                    "end": 16.381,
+                    "score": 0.628
+                },
+                {
+                    "word": "of",
+                    "start": 16.401,
+                    "end": 16.441,
+                    "score": 0.02
+                },
+                {
+                    "word": "all,",
+                    "start": 16.721,
+                    "end": 16.941,
+                    "score": 0.633
+                },
+                {
+                    "word": "people",
+                    "start": 18.222,
+                    "end": 18.562,
+                    "score": 0.849
+                },
+                {
+                    "word": "who",
+                    "start": 18.602,
+                    "end": 18.762,
+                    "score": 0.851
+                },
+                {
+                    "word": "drink",
+                    "start": 18.802,
+                    "end": 19.243,
+                    "score": 0.336
+                },
+                {
+                    "word": "soda",
+                    "start": 19.343,
+                    "end": 19.683,
+                    "score": 0.769
+                },
+                {
+                    "word": "cans",
+                    "start": 19.743,
+                    "end": 20.143,
+                    "score": 0.822
+                },
+                {
+                    "word": "know",
+                    "start": 20.624,
+                    "end": 20.924,
+                    "score": 0.537
+                },
+                {
+                    "word": "it's",
+                    "start": 22.805,
+                    "end": 22.965,
+                    "score": 0.817
+                },
+                {
+                    "word": "harmful",
+                    "start": 22.985,
+                    "end": 23.686,
+                    "score": 0.464
+                },
+                {
+                    "word": "to",
+                    "start": 23.886,
+                    "end": 24.046,
+                    "score": 0.948
+                },
+                {
+                    "word": "their",
+                    "start": 24.086,
+                    "end": 24.526,
+                    "score": 0.729
+                },
+                {
+                    "word": "health.",
+                    "start": 24.607,
+                    "end": 24.907,
+                    "score": 0.578
+                }
+            ]
+        },
+        {
+            "start": 27.0,
+            "end": 34.188,
+            "text": " and they also know it causes obesity.",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 27.0,
+                    "end": 27.16,
+                    "score": 0.757
+                },
+                {
+                    "word": "they",
+                    "start": 30.644,
+                    "end": 31.325,
+                    "score": 0.837
+                },
+                {
+                    "word": "also",
+                    "start": 31.405,
+                    "end": 31.745,
+                    "score": 0.915
+                },
+                {
+                    "word": "know",
+                    "start": 31.825,
+                    "end": 32.026,
+                    "score": 0.882
+                },
+                {
+                    "word": "it",
+                    "start": 32.046,
+                    "end": 32.086,
+                    "score": 0.0
+                },
+                {
+                    "word": "causes",
+                    "start": 32.426,
+                    "end": 33.007,
+                    "score": 0.745
+                },
+                {
+                    "word": "obesity.",
+                    "start": 33.527,
+                    "end": 34.188,
+                    "score": 0.927
+                }
+            ]
+        },
+        {
+            "start": 34.208,
+            "end": 46.742,
+            "text": "The second reason is that I think another factor is increasing the obesity",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 34.208,
+                    "end": 36.01,
+                    "score": 0.525
+                },
+                {
+                    "word": "second",
+                    "start": 36.05,
+                    "end": 36.43,
+                    "score": 0.978
+                },
+                {
+                    "word": "reason",
+                    "start": 36.491,
+                    "end": 36.831,
+                    "score": 0.922
+                },
+                {
+                    "word": "is",
+                    "start": 36.931,
+                    "end": 37.031,
+                    "score": 0.844
+                },
+                {
+                    "word": "that",
+                    "start": 37.091,
+                    "end": 37.351,
+                    "score": 0.954
+                },
+                {
+                    "word": "I",
+                    "start": 37.372,
+                    "end": 37.392,
+                    "score": 0.003
+                },
+                {
+                    "word": "think",
+                    "start": 39.874,
+                    "end": 40.195,
+                    "score": 0.841
+                },
+                {
+                    "word": "another",
+                    "start": 40.495,
+                    "end": 40.955,
+                    "score": 0.845
+                },
+                {
+                    "word": "factor",
+                    "start": 41.056,
+                    "end": 41.476,
+                    "score": 0.882
+                },
+                {
+                    "word": "is",
+                    "start": 41.516,
+                    "end": 41.616,
+                    "score": 0.759
+                },
+                {
+                    "word": "increasing",
+                    "start": 45.28,
+                    "end": 45.861,
+                    "score": 0.881
+                },
+                {
+                    "word": "the",
+                    "start": 45.941,
+                    "end": 46.021,
+                    "score": 0.885
+                },
+                {
+                    "word": "obesity",
+                    "start": 46.141,
+                    "end": 46.742,
+                    "score": 0.921
+                }
+            ]
+        },
+        {
+            "start": 50.495,
+            "end": 58.324,
+            "text": " I think there are another factors increasing the obesity in somewhere like hamburgers or pizza.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 50.495,
+                    "end": 50.575,
+                    "score": 0.807
+                },
+                {
+                    "word": "think",
+                    "start": 50.615,
+                    "end": 50.795,
+                    "score": 0.871
+                },
+                {
+                    "word": "there",
+                    "start": 50.855,
+                    "end": 51.055,
+                    "score": 0.831
+                },
+                {
+                    "word": "are",
+                    "start": 51.115,
+                    "end": 51.215,
+                    "score": 0.767
+                },
+                {
+                    "word": "another",
+                    "start": 51.296,
+                    "end": 51.676,
+                    "score": 0.722
+                },
+                {
+                    "word": "factors",
+                    "start": 51.736,
+                    "end": 52.217,
+                    "score": 0.883
+                },
+                {
+                    "word": "increasing",
+                    "start": 52.357,
+                    "end": 52.857,
+                    "score": 0.887
+                },
+                {
+                    "word": "the",
+                    "start": 52.877,
+                    "end": 53.218,
+                    "score": 0.76
+                },
+                {
+                    "word": "obesity",
+                    "start": 53.318,
+                    "end": 53.959,
+                    "score": 0.857
+                },
+                {
+                    "word": "in",
+                    "start": 53.979,
+                    "end": 54.019,
+                    "score": 0.001
+                },
+                {
+                    "word": "somewhere",
+                    "start": 55.04,
+                    "end": 55.541,
+                    "score": 0.864
+                },
+                {
+                    "word": "like",
+                    "start": 55.641,
+                    "end": 55.861,
+                    "score": 0.886
+                },
+                {
+                    "word": "hamburgers",
+                    "start": 56.842,
+                    "end": 57.543,
+                    "score": 0.929
+                },
+                {
+                    "word": "or",
+                    "start": 57.663,
+                    "end": 57.784,
+                    "score": 0.77
+                },
+                {
+                    "word": "pizza.",
+                    "start": 57.884,
+                    "end": 58.324,
+                    "score": 0.7
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "In",
+            "start": 0.089,
+            "end": 0.169,
+            "score": 0.956
+        },
+        {
+            "word": "my",
+            "start": 0.229,
+            "end": 0.429,
+            "score": 0.891
+        },
+        {
+            "word": "opinion,",
+            "start": 0.549,
+            "end": 1.01,
+            "score": 0.788
+        },
+        {
+            "word": "I",
+            "start": 1.03,
+            "end": 1.05,
+            "score": 0.001
+        },
+        {
+            "word": "don't",
+            "start": 1.61,
+            "end": 1.95,
+            "score": 0.583
+        },
+        {
+            "word": "agree",
+            "start": 1.99,
+            "end": 2.251,
+            "score": 0.834
+        },
+        {
+            "word": "with",
+            "start": 2.311,
+            "end": 2.491,
+            "score": 0.941
+        },
+        {
+            "word": "that",
+            "start": 3.752,
+            "end": 4.012,
+            "score": 0.957
+        },
+        {
+            "word": "the",
+            "start": 4.072,
+            "end": 4.172,
+            "score": 0.826
+        },
+        {
+            "word": "government",
+            "start": 4.212,
+            "end": 4.792,
+            "score": 0.777
+        },
+        {
+            "word": "should",
+            "start": 4.852,
+            "end": 5.093,
+            "score": 0.82
+        },
+        {
+            "word": "require",
+            "start": 5.153,
+            "end": 5.673,
+            "score": 0.891
+        },
+        {
+            "word": "health",
+            "start": 5.693,
+            "end": 6.374,
+            "score": 0.271
+        },
+        {
+            "word": "warning",
+            "start": 6.974,
+            "end": 7.454,
+            "score": 0.75
+        },
+        {
+            "word": "labels",
+            "start": 7.534,
+            "end": 7.875,
+            "score": 0.756
+        },
+        {
+            "word": "on",
+            "start": 7.975,
+            "end": 8.055,
+            "score": 0.916
+        },
+        {
+            "word": "the",
+            "start": 8.095,
+            "end": 8.175,
+            "score": 0.895
+        },
+        {
+            "word": "size",
+            "start": 8.215,
+            "end": 8.475,
+            "score": 0.784
+        },
+        {
+            "word": "of",
+            "start": 8.535,
+            "end": 8.615,
+            "score": 0.816
+        },
+        {
+            "word": "soda",
+            "start": 8.675,
+            "end": 8.975,
+            "score": 0.781
+        },
+        {
+            "word": "cans",
+            "start": 9.035,
+            "end": 9.356,
+            "score": 0.913
+        },
+        {
+            "word": "because",
+            "start": 9.416,
+            "end": 9.776,
+            "score": 0.872
+        },
+        {
+            "word": "there",
+            "start": 11.657,
+            "end": 11.837,
+            "score": 0.952
+        },
+        {
+            "word": "are",
+            "start": 11.877,
+            "end": 11.998,
+            "score": 0.664
+        },
+        {
+            "word": "some",
+            "start": 12.038,
+            "end": 12.218,
+            "score": 0.913
+        },
+        {
+            "word": "reasons",
+            "start": 12.278,
+            "end": 12.698,
+            "score": 0.736
+        },
+        {
+            "word": "why",
+            "start": 12.798,
+            "end": 13.499,
+            "score": 0.708
+        },
+        {
+            "word": "I",
+            "start": 13.519,
+            "end": 13.539,
+            "score": 0.001
+        },
+        {
+            "word": "think",
+            "start": 14.319,
+            "end": 14.519,
+            "score": 0.878
+        },
+        {
+            "word": "so.",
+            "start": 14.579,
+            "end": 14.82,
+            "score": 0.866
+        },
+        {
+            "word": "First",
+            "start": 15.66,
+            "end": 16.381,
+            "score": 0.628
+        },
+        {
+            "word": "of",
+            "start": 16.401,
+            "end": 16.441,
+            "score": 0.02
+        },
+        {
+            "word": "all,",
+            "start": 16.721,
+            "end": 16.941,
+            "score": 0.633
+        },
+        {
+            "word": "people",
+            "start": 18.222,
+            "end": 18.562,
+            "score": 0.849
+        },
+        {
+            "word": "who",
+            "start": 18.602,
+            "end": 18.762,
+            "score": 0.851
+        },
+        {
+            "word": "drink",
+            "start": 18.802,
+            "end": 19.243,
+            "score": 0.336
+        },
+        {
+            "word": "soda",
+            "start": 19.343,
+            "end": 19.683,
+            "score": 0.769
+        },
+        {
+            "word": "cans",
+            "start": 19.743,
+            "end": 20.143,
+            "score": 0.822
+        },
+        {
+            "word": "know",
+            "start": 20.624,
+            "end": 20.924,
+            "score": 0.537
+        },
+        {
+            "word": "it's",
+            "start": 22.805,
+            "end": 22.965,
+            "score": 0.817
+        },
+        {
+            "word": "harmful",
+            "start": 22.985,
+            "end": 23.686,
+            "score": 0.464
+        },
+        {
+            "word": "to",
+            "start": 23.886,
+            "end": 24.046,
+            "score": 0.948
+        },
+        {
+            "word": "their",
+            "start": 24.086,
+            "end": 24.526,
+            "score": 0.729
+        },
+        {
+            "word": "health.",
+            "start": 24.607,
+            "end": 24.907,
+            "score": 0.578
+        },
+        {
+            "word": "and",
+            "start": 27.0,
+            "end": 27.16,
+            "score": 0.757
+        },
+        {
+            "word": "they",
+            "start": 30.644,
+            "end": 31.325,
+            "score": 0.837
+        },
+        {
+            "word": "also",
+            "start": 31.405,
+            "end": 31.745,
+            "score": 0.915
+        },
+        {
+            "word": "know",
+            "start": 31.825,
+            "end": 32.026,
+            "score": 0.882
+        },
+        {
+            "word": "it",
+            "start": 32.046,
+            "end": 32.086,
+            "score": 0.0
+        },
+        {
+            "word": "causes",
+            "start": 32.426,
+            "end": 33.007,
+            "score": 0.745
+        },
+        {
+            "word": "obesity.",
+            "start": 33.527,
+            "end": 34.188,
+            "score": 0.927
+        },
+        {
+            "word": "The",
+            "start": 34.208,
+            "end": 36.01,
+            "score": 0.525
+        },
+        {
+            "word": "second",
+            "start": 36.05,
+            "end": 36.43,
+            "score": 0.978
+        },
+        {
+            "word": "reason",
+            "start": 36.491,
+            "end": 36.831,
+            "score": 0.922
+        },
+        {
+            "word": "is",
+            "start": 36.931,
+            "end": 37.031,
+            "score": 0.844
+        },
+        {
+            "word": "that",
+            "start": 37.091,
+            "end": 37.351,
+            "score": 0.954
+        },
+        {
+            "word": "I",
+            "start": 37.372,
+            "end": 37.392,
+            "score": 0.003
+        },
+        {
+            "word": "think",
+            "start": 39.874,
+            "end": 40.195,
+            "score": 0.841
+        },
+        {
+            "word": "another",
+            "start": 40.495,
+            "end": 40.955,
+            "score": 0.845
+        },
+        {
+            "word": "factor",
+            "start": 41.056,
+            "end": 41.476,
+            "score": 0.882
+        },
+        {
+            "word": "is",
+            "start": 41.516,
+            "end": 41.616,
+            "score": 0.759
+        },
+        {
+            "word": "increasing",
+            "start": 45.28,
+            "end": 45.861,
+            "score": 0.881
+        },
+        {
+            "word": "the",
+            "start": 45.941,
+            "end": 46.021,
+            "score": 0.885
+        },
+        {
+            "word": "obesity",
+            "start": 46.141,
+            "end": 46.742,
+            "score": 0.921
+        },
+        {
+            "word": "I",
+            "start": 50.495,
+            "end": 50.575,
+            "score": 0.807
+        },
+        {
+            "word": "think",
+            "start": 50.615,
+            "end": 50.795,
+            "score": 0.871
+        },
+        {
+            "word": "there",
+            "start": 50.855,
+            "end": 51.055,
+            "score": 0.831
+        },
+        {
+            "word": "are",
+            "start": 51.115,
+            "end": 51.215,
+            "score": 0.767
+        },
+        {
+            "word": "another",
+            "start": 51.296,
+            "end": 51.676,
+            "score": 0.722
+        },
+        {
+            "word": "factors",
+            "start": 51.736,
+            "end": 52.217,
+            "score": 0.883
+        },
+        {
+            "word": "increasing",
+            "start": 52.357,
+            "end": 52.857,
+            "score": 0.887
+        },
+        {
+            "word": "the",
+            "start": 52.877,
+            "end": 53.218,
+            "score": 0.76
+        },
+        {
+            "word": "obesity",
+            "start": 53.318,
+            "end": 53.959,
+            "score": 0.857
+        },
+        {
+            "word": "in",
+            "start": 53.979,
+            "end": 54.019,
+            "score": 0.001
+        },
+        {
+            "word": "somewhere",
+            "start": 55.04,
+            "end": 55.541,
+            "score": 0.864
+        },
+        {
+            "word": "like",
+            "start": 55.641,
+            "end": 55.861,
+            "score": 0.886
+        },
+        {
+            "word": "hamburgers",
+            "start": 56.842,
+            "end": 57.543,
+            "score": 0.929
+        },
+        {
+            "word": "or",
+            "start": 57.663,
+            "end": 57.784,
+            "score": 0.77
+        },
+        {
+            "word": "pizza.",
+            "start": 57.884,
+            "end": 58.324,
+            "score": 0.7
+        }
+    ]
+}

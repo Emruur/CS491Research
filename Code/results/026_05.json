@@ -1,0 +1,1095 @@
+{
+    "segments": [
+        {
+            "start": 0.469,
+            "end": 26.301,
+            "text": " I think the warning statement should be on the product because customers know even though customers know how much soda puffs in there the number or something but they don't have the information of how much soda puffs are",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.469,
+                    "end": 0.569,
+                    "score": 0.964
+                },
+                {
+                    "word": "think",
+                    "start": 0.609,
+                    "end": 0.849,
+                    "score": 0.803
+                },
+                {
+                    "word": "the",
+                    "start": 1.39,
+                    "end": 1.81,
+                    "score": 0.809
+                },
+                {
+                    "word": "warning",
+                    "start": 2.27,
+                    "end": 2.69,
+                    "score": 0.79
+                },
+                {
+                    "word": "statement",
+                    "start": 3.491,
+                    "end": 4.051,
+                    "score": 0.7
+                },
+                {
+                    "word": "should",
+                    "start": 5.151,
+                    "end": 5.391,
+                    "score": 0.781
+                },
+                {
+                    "word": "be",
+                    "start": 5.451,
+                    "end": 5.592,
+                    "score": 0.879
+                },
+                {
+                    "word": "on",
+                    "start": 5.792,
+                    "end": 5.912,
+                    "score": 0.784
+                },
+                {
+                    "word": "the",
+                    "start": 5.952,
+                    "end": 6.132,
+                    "score": 0.831
+                },
+                {
+                    "word": "product",
+                    "start": 7.292,
+                    "end": 7.772,
+                    "score": 0.947
+                },
+                {
+                    "word": "because",
+                    "start": 8.353,
+                    "end": 8.853,
+                    "score": 0.88
+                },
+                {
+                    "word": "customers",
+                    "start": 9.173,
+                    "end": 9.793,
+                    "score": 0.85
+                },
+                {
+                    "word": "know",
+                    "start": 10.134,
+                    "end": 10.514,
+                    "score": 0.695
+                },
+                {
+                    "word": "even",
+                    "start": 11.754,
+                    "end": 12.014,
+                    "score": 0.751
+                },
+                {
+                    "word": "though",
+                    "start": 12.054,
+                    "end": 12.575,
+                    "score": 0.624
+                },
+                {
+                    "word": "customers",
+                    "start": 12.755,
+                    "end": 13.335,
+                    "score": 0.849
+                },
+                {
+                    "word": "know",
+                    "start": 13.415,
+                    "end": 13.655,
+                    "score": 0.798
+                },
+                {
+                    "word": "how",
+                    "start": 13.915,
+                    "end": 14.075,
+                    "score": 0.933
+                },
+                {
+                    "word": "much",
+                    "start": 14.135,
+                    "end": 14.375,
+                    "score": 0.808
+                },
+                {
+                    "word": "soda",
+                    "start": 15.456,
+                    "end": 15.816,
+                    "score": 0.742
+                },
+                {
+                    "word": "puffs",
+                    "start": 15.856,
+                    "end": 16.176,
+                    "score": 0.789
+                },
+                {
+                    "word": "in",
+                    "start": 16.737,
+                    "end": 16.837,
+                    "score": 0.806
+                },
+                {
+                    "word": "there",
+                    "start": 16.877,
+                    "end": 17.157,
+                    "score": 0.819
+                },
+                {
+                    "word": "the",
+                    "start": 17.757,
+                    "end": 17.917,
+                    "score": 0.959
+                },
+                {
+                    "word": "number",
+                    "start": 17.977,
+                    "end": 19.138,
+                    "score": 0.958
+                },
+                {
+                    "word": "or",
+                    "start": 19.398,
+                    "end": 19.538,
+                    "score": 0.806
+                },
+                {
+                    "word": "something",
+                    "start": 19.738,
+                    "end": 20.138,
+                    "score": 0.909
+                },
+                {
+                    "word": "but",
+                    "start": 20.678,
+                    "end": 20.818,
+                    "score": 0.903
+                },
+                {
+                    "word": "they",
+                    "start": 20.878,
+                    "end": 21.098,
+                    "score": 0.882
+                },
+                {
+                    "word": "don't",
+                    "start": 21.159,
+                    "end": 21.339,
+                    "score": 0.872
+                },
+                {
+                    "word": "have",
+                    "start": 21.379,
+                    "end": 21.579,
+                    "score": 0.96
+                },
+                {
+                    "word": "the",
+                    "start": 21.659,
+                    "end": 21.799,
+                    "score": 0.843
+                },
+                {
+                    "word": "information",
+                    "start": 21.859,
+                    "end": 22.479,
+                    "score": 0.879
+                },
+                {
+                    "word": "of",
+                    "start": 22.619,
+                    "end": 22.719,
+                    "score": 0.964
+                },
+                {
+                    "word": "how",
+                    "start": 23.36,
+                    "end": 23.52,
+                    "score": 0.891
+                },
+                {
+                    "word": "much",
+                    "start": 23.58,
+                    "end": 23.84,
+                    "score": 0.848
+                },
+                {
+                    "word": "soda",
+                    "start": 24.9,
+                    "end": 25.28,
+                    "score": 0.725
+                },
+                {
+                    "word": "puffs",
+                    "start": 25.36,
+                    "end": 25.661,
+                    "score": 0.803
+                },
+                {
+                    "word": "are",
+                    "start": 26.201,
+                    "end": 26.301,
+                    "score": 0.751
+                }
+            ]
+        },
+        {
+            "start": 27.699,
+            "end": 42.101,
+            "text": " problems so they don't know what what how many problems this problem has soda puffs so the company must give the",
+            "words": [
+                {
+                    "word": "problems",
+                    "start": 27.699,
+                    "end": 28.22,
+                    "score": 0.942
+                },
+                {
+                    "word": "so",
+                    "start": 28.801,
+                    "end": 28.941,
+                    "score": 0.906
+                },
+                {
+                    "word": "they",
+                    "start": 28.961,
+                    "end": 29.101,
+                    "score": 0.889
+                },
+                {
+                    "word": "don't",
+                    "start": 29.121,
+                    "end": 29.281,
+                    "score": 0.882
+                },
+                {
+                    "word": "know",
+                    "start": 29.322,
+                    "end": 29.482,
+                    "score": 0.808
+                },
+                {
+                    "word": "what",
+                    "start": 29.582,
+                    "end": 29.802,
+                    "score": 0.846
+                },
+                {
+                    "word": "what",
+                    "start": 30.063,
+                    "end": 30.263,
+                    "score": 0.875
+                },
+                {
+                    "word": "how",
+                    "start": 30.543,
+                    "end": 30.704,
+                    "score": 0.992
+                },
+                {
+                    "word": "many",
+                    "start": 30.744,
+                    "end": 31.024,
+                    "score": 0.732
+                },
+                {
+                    "word": "problems",
+                    "start": 32.326,
+                    "end": 32.907,
+                    "score": 0.798
+                },
+                {
+                    "word": "this",
+                    "start": 33.508,
+                    "end": 33.708,
+                    "score": 0.632
+                },
+                {
+                    "word": "problem",
+                    "start": 34.449,
+                    "end": 34.89,
+                    "score": 0.904
+                },
+                {
+                    "word": "has",
+                    "start": 34.93,
+                    "end": 35.19,
+                    "score": 0.795
+                },
+                {
+                    "word": "soda",
+                    "start": 35.29,
+                    "end": 35.611,
+                    "score": 0.695
+                },
+                {
+                    "word": "puffs",
+                    "start": 35.631,
+                    "end": 35.911,
+                    "score": 0.904
+                },
+                {
+                    "word": "so",
+                    "start": 36.713,
+                    "end": 37.013,
+                    "score": 0.882
+                },
+                {
+                    "word": "the",
+                    "start": 38.335,
+                    "end": 38.495,
+                    "score": 0.891
+                },
+                {
+                    "word": "company",
+                    "start": 40.418,
+                    "end": 40.899,
+                    "score": 0.911
+                },
+                {
+                    "word": "must",
+                    "start": 41.259,
+                    "end": 41.52,
+                    "score": 0.845
+                },
+                {
+                    "word": "give",
+                    "start": 41.62,
+                    "end": 41.88,
+                    "score": 0.708
+                },
+                {
+                    "word": "the",
+                    "start": 41.94,
+                    "end": 42.101,
+                    "score": 0.951
+                }
+            ]
+        },
+        {
+            "start": 43.544,
+            "end": 58.512,
+            "text": " warning to it is not good at health but because they the customer don't know what why is the what what uh the and then the information is must",
+            "words": [
+                {
+                    "word": "warning",
+                    "start": 43.544,
+                    "end": 43.924,
+                    "score": 0.906
+                },
+                {
+                    "word": "to",
+                    "start": 44.264,
+                    "end": 44.445,
+                    "score": 0.96
+                },
+                {
+                    "word": "it",
+                    "start": 44.565,
+                    "end": 44.625,
+                    "score": 0.984
+                },
+                {
+                    "word": "is",
+                    "start": 44.685,
+                    "end": 44.765,
+                    "score": 0.744
+                },
+                {
+                    "word": "not",
+                    "start": 44.985,
+                    "end": 45.165,
+                    "score": 0.827
+                },
+                {
+                    "word": "good",
+                    "start": 45.245,
+                    "end": 45.465,
+                    "score": 0.9
+                },
+                {
+                    "word": "at",
+                    "start": 45.525,
+                    "end": 45.665,
+                    "score": 0.234
+                },
+                {
+                    "word": "health",
+                    "start": 45.765,
+                    "end": 46.125,
+                    "score": 0.584
+                },
+                {
+                    "word": "but",
+                    "start": 47.006,
+                    "end": 47.166,
+                    "score": 0.902
+                },
+                {
+                    "word": "because",
+                    "start": 47.726,
+                    "end": 48.066,
+                    "score": 0.939
+                },
+                {
+                    "word": "they",
+                    "start": 48.106,
+                    "end": 48.327,
+                    "score": 0.917
+                },
+                {
+                    "word": "the",
+                    "start": 48.727,
+                    "end": 48.847,
+                    "score": 0.922
+                },
+                {
+                    "word": "customer",
+                    "start": 48.887,
+                    "end": 49.367,
+                    "score": 0.736
+                },
+                {
+                    "word": "don't",
+                    "start": 49.407,
+                    "end": 49.607,
+                    "score": 0.858
+                },
+                {
+                    "word": "know",
+                    "start": 49.667,
+                    "end": 49.887,
+                    "score": 0.814
+                },
+                {
+                    "word": "what",
+                    "start": 50.007,
+                    "end": 50.248,
+                    "score": 0.74
+                },
+                {
+                    "word": "why",
+                    "start": 50.408,
+                    "end": 50.788,
+                    "score": 0.871
+                },
+                {
+                    "word": "is",
+                    "start": 51.288,
+                    "end": 51.388,
+                    "score": 0.922
+                },
+                {
+                    "word": "the",
+                    "start": 51.448,
+                    "end": 51.688,
+                    "score": 0.903
+                },
+                {
+                    "word": "what",
+                    "start": 52.969,
+                    "end": 53.189,
+                    "score": 0.849
+                },
+                {
+                    "word": "what",
+                    "start": 53.329,
+                    "end": 53.529,
+                    "score": 0.888
+                },
+                {
+                    "word": "uh",
+                    "start": 54.15,
+                    "end": 54.29,
+                    "score": 0.563
+                },
+                {
+                    "word": "the",
+                    "start": 54.33,
+                    "end": 54.85,
+                    "score": 0.881
+                },
+                {
+                    "word": "and",
+                    "start": 55.991,
+                    "end": 56.091,
+                    "score": 0.851
+                },
+                {
+                    "word": "then",
+                    "start": 56.131,
+                    "end": 56.351,
+                    "score": 0.872
+                },
+                {
+                    "word": "the",
+                    "start": 56.451,
+                    "end": 56.611,
+                    "score": 0.829
+                },
+                {
+                    "word": "information",
+                    "start": 56.671,
+                    "end": 57.331,
+                    "score": 0.875
+                },
+                {
+                    "word": "is",
+                    "start": 58.152,
+                    "end": 58.212,
+                    "score": 0.93
+                },
+                {
+                    "word": "must",
+                    "start": 58.332,
+                    "end": 58.512,
+                    "score": 0.868
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.469,
+            "end": 0.569,
+            "score": 0.964
+        },
+        {
+            "word": "think",
+            "start": 0.609,
+            "end": 0.849,
+            "score": 0.803
+        },
+        {
+            "word": "the",
+            "start": 1.39,
+            "end": 1.81,
+            "score": 0.809
+        },
+        {
+            "word": "warning",
+            "start": 2.27,
+            "end": 2.69,
+            "score": 0.79
+        },
+        {
+            "word": "statement",
+            "start": 3.491,
+            "end": 4.051,
+            "score": 0.7
+        },
+        {
+            "word": "should",
+            "start": 5.151,
+            "end": 5.391,
+            "score": 0.781
+        },
+        {
+            "word": "be",
+            "start": 5.451,
+            "end": 5.592,
+            "score": 0.879
+        },
+        {
+            "word": "on",
+            "start": 5.792,
+            "end": 5.912,
+            "score": 0.784
+        },
+        {
+            "word": "the",
+            "start": 5.952,
+            "end": 6.132,
+            "score": 0.831
+        },
+        {
+            "word": "product",
+            "start": 7.292,
+            "end": 7.772,
+            "score": 0.947
+        },
+        {
+            "word": "because",
+            "start": 8.353,
+            "end": 8.853,
+            "score": 0.88
+        },
+        {
+            "word": "customers",
+            "start": 9.173,
+            "end": 9.793,
+            "score": 0.85
+        },
+        {
+            "word": "know",
+            "start": 10.134,
+            "end": 10.514,
+            "score": 0.695
+        },
+        {
+            "word": "even",
+            "start": 11.754,
+            "end": 12.014,
+            "score": 0.751
+        },
+        {
+            "word": "though",
+            "start": 12.054,
+            "end": 12.575,
+            "score": 0.624
+        },
+        {
+            "word": "customers",
+            "start": 12.755,
+            "end": 13.335,
+            "score": 0.849
+        },
+        {
+            "word": "know",
+            "start": 13.415,
+            "end": 13.655,
+            "score": 0.798
+        },
+        {
+            "word": "how",
+            "start": 13.915,
+            "end": 14.075,
+            "score": 0.933
+        },
+        {
+            "word": "much",
+            "start": 14.135,
+            "end": 14.375,
+            "score": 0.808
+        },
+        {
+            "word": "soda",
+            "start": 15.456,
+            "end": 15.816,
+            "score": 0.742
+        },
+        {
+            "word": "puffs",
+            "start": 15.856,
+            "end": 16.176,
+            "score": 0.789
+        },
+        {
+            "word": "in",
+            "start": 16.737,
+            "end": 16.837,
+            "score": 0.806
+        },
+        {
+            "word": "there",
+            "start": 16.877,
+            "end": 17.157,
+            "score": 0.819
+        },
+        {
+            "word": "the",
+            "start": 17.757,
+            "end": 17.917,
+            "score": 0.959
+        },
+        {
+            "word": "number",
+            "start": 17.977,
+            "end": 19.138,
+            "score": 0.958
+        },
+        {
+            "word": "or",
+            "start": 19.398,
+            "end": 19.538,
+            "score": 0.806
+        },
+        {
+            "word": "something",
+            "start": 19.738,
+            "end": 20.138,
+            "score": 0.909
+        },
+        {
+            "word": "but",
+            "start": 20.678,
+            "end": 20.818,
+            "score": 0.903
+        },
+        {
+            "word": "they",
+            "start": 20.878,
+            "end": 21.098,
+            "score": 0.882
+        },
+        {
+            "word": "don't",
+            "start": 21.159,
+            "end": 21.339,
+            "score": 0.872
+        },
+        {
+            "word": "have",
+            "start": 21.379,
+            "end": 21.579,
+            "score": 0.96
+        },
+        {
+            "word": "the",
+            "start": 21.659,
+            "end": 21.799,
+            "score": 0.843
+        },
+        {
+            "word": "information",
+            "start": 21.859,
+            "end": 22.479,
+            "score": 0.879
+        },
+        {
+            "word": "of",
+            "start": 22.619,
+            "end": 22.719,
+            "score": 0.964
+        },
+        {
+            "word": "how",
+            "start": 23.36,
+            "end": 23.52,
+            "score": 0.891
+        },
+        {
+            "word": "much",
+            "start": 23.58,
+            "end": 23.84,
+            "score": 0.848
+        },
+        {
+            "word": "soda",
+            "start": 24.9,
+            "end": 25.28,
+            "score": 0.725
+        },
+        {
+            "word": "puffs",
+            "start": 25.36,
+            "end": 25.661,
+            "score": 0.803
+        },
+        {
+            "word": "are",
+            "start": 26.201,
+            "end": 26.301,
+            "score": 0.751
+        },
+        {
+            "word": "problems",
+            "start": 27.699,
+            "end": 28.22,
+            "score": 0.942
+        },
+        {
+            "word": "so",
+            "start": 28.801,
+            "end": 28.941,
+            "score": 0.906
+        },
+        {
+            "word": "they",
+            "start": 28.961,
+            "end": 29.101,
+            "score": 0.889
+        },
+        {
+            "word": "don't",
+            "start": 29.121,
+            "end": 29.281,
+            "score": 0.882
+        },
+        {
+            "word": "know",
+            "start": 29.322,
+            "end": 29.482,
+            "score": 0.808
+        },
+        {
+            "word": "what",
+            "start": 29.582,
+            "end": 29.802,
+            "score": 0.846
+        },
+        {
+            "word": "what",
+            "start": 30.063,
+            "end": 30.263,
+            "score": 0.875
+        },
+        {
+            "word": "how",
+            "start": 30.543,
+            "end": 30.704,
+            "score": 0.992
+        },
+        {
+            "word": "many",
+            "start": 30.744,
+            "end": 31.024,
+            "score": 0.732
+        },
+        {
+            "word": "problems",
+            "start": 32.326,
+            "end": 32.907,
+            "score": 0.798
+        },
+        {
+            "word": "this",
+            "start": 33.508,
+            "end": 33.708,
+            "score": 0.632
+        },
+        {
+            "word": "problem",
+            "start": 34.449,
+            "end": 34.89,
+            "score": 0.904
+        },
+        {
+            "word": "has",
+            "start": 34.93,
+            "end": 35.19,
+            "score": 0.795
+        },
+        {
+            "word": "soda",
+            "start": 35.29,
+            "end": 35.611,
+            "score": 0.695
+        },
+        {
+            "word": "puffs",
+            "start": 35.631,
+            "end": 35.911,
+            "score": 0.904
+        },
+        {
+            "word": "so",
+            "start": 36.713,
+            "end": 37.013,
+            "score": 0.882
+        },
+        {
+            "word": "the",
+            "start": 38.335,
+            "end": 38.495,
+            "score": 0.891
+        },
+        {
+            "word": "company",
+            "start": 40.418,
+            "end": 40.899,
+            "score": 0.911
+        },
+        {
+            "word": "must",
+            "start": 41.259,
+            "end": 41.52,
+            "score": 0.845
+        },
+        {
+            "word": "give",
+            "start": 41.62,
+            "end": 41.88,
+            "score": 0.708
+        },
+        {
+            "word": "the",
+            "start": 41.94,
+            "end": 42.101,
+            "score": 0.951
+        },
+        {
+            "word": "warning",
+            "start": 43.544,
+            "end": 43.924,
+            "score": 0.906
+        },
+        {
+            "word": "to",
+            "start": 44.264,
+            "end": 44.445,
+            "score": 0.96
+        },
+        {
+            "word": "it",
+            "start": 44.565,
+            "end": 44.625,
+            "score": 0.984
+        },
+        {
+            "word": "is",
+            "start": 44.685,
+            "end": 44.765,
+            "score": 0.744
+        },
+        {
+            "word": "not",
+            "start": 44.985,
+            "end": 45.165,
+            "score": 0.827
+        },
+        {
+            "word": "good",
+            "start": 45.245,
+            "end": 45.465,
+            "score": 0.9
+        },
+        {
+            "word": "at",
+            "start": 45.525,
+            "end": 45.665,
+            "score": 0.234
+        },
+        {
+            "word": "health",
+            "start": 45.765,
+            "end": 46.125,
+            "score": 0.584
+        },
+        {
+            "word": "but",
+            "start": 47.006,
+            "end": 47.166,
+            "score": 0.902
+        },
+        {
+            "word": "because",
+            "start": 47.726,
+            "end": 48.066,
+            "score": 0.939
+        },
+        {
+            "word": "they",
+            "start": 48.106,
+            "end": 48.327,
+            "score": 0.917
+        },
+        {
+            "word": "the",
+            "start": 48.727,
+            "end": 48.847,
+            "score": 0.922
+        },
+        {
+            "word": "customer",
+            "start": 48.887,
+            "end": 49.367,
+            "score": 0.736
+        },
+        {
+            "word": "don't",
+            "start": 49.407,
+            "end": 49.607,
+            "score": 0.858
+        },
+        {
+            "word": "know",
+            "start": 49.667,
+            "end": 49.887,
+            "score": 0.814
+        },
+        {
+            "word": "what",
+            "start": 50.007,
+            "end": 50.248,
+            "score": 0.74
+        },
+        {
+            "word": "why",
+            "start": 50.408,
+            "end": 50.788,
+            "score": 0.871
+        },
+        {
+            "word": "is",
+            "start": 51.288,
+            "end": 51.388,
+            "score": 0.922
+        },
+        {
+            "word": "the",
+            "start": 51.448,
+            "end": 51.688,
+            "score": 0.903
+        },
+        {
+            "word": "what",
+            "start": 52.969,
+            "end": 53.189,
+            "score": 0.849
+        },
+        {
+            "word": "what",
+            "start": 53.329,
+            "end": 53.529,
+            "score": 0.888
+        },
+        {
+            "word": "uh",
+            "start": 54.15,
+            "end": 54.29,
+            "score": 0.563
+        },
+        {
+            "word": "the",
+            "start": 54.33,
+            "end": 54.85,
+            "score": 0.881
+        },
+        {
+            "word": "and",
+            "start": 55.991,
+            "end": 56.091,
+            "score": 0.851
+        },
+        {
+            "word": "then",
+            "start": 56.131,
+            "end": 56.351,
+            "score": 0.872
+        },
+        {
+            "word": "the",
+            "start": 56.451,
+            "end": 56.611,
+            "score": 0.829
+        },
+        {
+            "word": "information",
+            "start": 56.671,
+            "end": 57.331,
+            "score": 0.875
+        },
+        {
+            "word": "is",
+            "start": 58.152,
+            "end": 58.212,
+            "score": 0.93
+        },
+        {
+            "word": "must",
+            "start": 58.332,
+            "end": 58.512,
+            "score": 0.868
+        }
+    ]
+}

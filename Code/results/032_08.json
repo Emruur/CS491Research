@@ -1,0 +1,728 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 19.07,
+            "text": " okay we are at the drugstore now so if i'd like you to go try the hobby shop so go to the east about two blocks when until you hit the north avenue and turn right",
+            "words": [
+                {
+                    "word": "okay",
+                    "start": 0.089,
+                    "end": 0.409,
+                    "score": 0.739
+                },
+                {
+                    "word": "we",
+                    "start": 0.449,
+                    "end": 0.55,
+                    "score": 0.856
+                },
+                {
+                    "word": "are",
+                    "start": 0.61,
+                    "end": 0.73,
+                    "score": 0.633
+                },
+                {
+                    "word": "at",
+                    "start": 0.85,
+                    "end": 0.97,
+                    "score": 0.836
+                },
+                {
+                    "word": "the",
+                    "start": 1.05,
+                    "end": 1.17,
+                    "score": 0.885
+                },
+                {
+                    "word": "drugstore",
+                    "start": 1.21,
+                    "end": 1.831,
+                    "score": 0.874
+                },
+                {
+                    "word": "now",
+                    "start": 1.911,
+                    "end": 2.151,
+                    "score": 0.759
+                },
+                {
+                    "word": "so",
+                    "start": 2.672,
+                    "end": 2.812,
+                    "score": 0.897
+                },
+                {
+                    "word": "if",
+                    "start": 2.872,
+                    "end": 2.952,
+                    "score": 0.693
+                },
+                {
+                    "word": "i'd",
+                    "start": 3.493,
+                    "end": 3.613,
+                    "score": 0.64
+                },
+                {
+                    "word": "like",
+                    "start": 3.653,
+                    "end": 3.833,
+                    "score": 0.878
+                },
+                {
+                    "word": "you",
+                    "start": 3.873,
+                    "end": 4.034,
+                    "score": 0.915
+                },
+                {
+                    "word": "to",
+                    "start": 4.094,
+                    "end": 4.274,
+                    "score": 0.865
+                },
+                {
+                    "word": "go",
+                    "start": 4.354,
+                    "end": 4.574,
+                    "score": 0.884
+                },
+                {
+                    "word": "try",
+                    "start": 5.195,
+                    "end": 5.495,
+                    "score": 0.924
+                },
+                {
+                    "word": "the",
+                    "start": 5.535,
+                    "end": 5.635,
+                    "score": 0.789
+                },
+                {
+                    "word": "hobby",
+                    "start": 5.675,
+                    "end": 5.976,
+                    "score": 0.821
+                },
+                {
+                    "word": "shop",
+                    "start": 6.016,
+                    "end": 6.296,
+                    "score": 0.888
+                },
+                {
+                    "word": "so",
+                    "start": 7.317,
+                    "end": 7.658,
+                    "score": 0.886
+                },
+                {
+                    "word": "go",
+                    "start": 8.659,
+                    "end": 8.919,
+                    "score": 0.992
+                },
+                {
+                    "word": "to",
+                    "start": 10.16,
+                    "end": 10.521,
+                    "score": 0.895
+                },
+                {
+                    "word": "the",
+                    "start": 10.621,
+                    "end": 10.881,
+                    "score": 0.985
+                },
+                {
+                    "word": "east",
+                    "start": 11.742,
+                    "end": 12.003,
+                    "score": 0.87
+                },
+                {
+                    "word": "about",
+                    "start": 12.823,
+                    "end": 13.064,
+                    "score": 0.927
+                },
+                {
+                    "word": "two",
+                    "start": 13.164,
+                    "end": 13.344,
+                    "score": 0.84
+                },
+                {
+                    "word": "blocks",
+                    "start": 13.404,
+                    "end": 13.724,
+                    "score": 0.863
+                },
+                {
+                    "word": "when",
+                    "start": 13.825,
+                    "end": 14.045,
+                    "score": 0.908
+                },
+                {
+                    "word": "until",
+                    "start": 14.145,
+                    "end": 14.445,
+                    "score": 0.852
+                },
+                {
+                    "word": "you",
+                    "start": 14.465,
+                    "end": 14.625,
+                    "score": 0.978
+                },
+                {
+                    "word": "hit",
+                    "start": 14.666,
+                    "end": 14.866,
+                    "score": 0.839
+                },
+                {
+                    "word": "the",
+                    "start": 14.906,
+                    "end": 15.046,
+                    "score": 0.358
+                },
+                {
+                    "word": "north",
+                    "start": 15.086,
+                    "end": 15.386,
+                    "score": 0.832
+                },
+                {
+                    "word": "avenue",
+                    "start": 15.587,
+                    "end": 15.947,
+                    "score": 0.811
+                },
+                {
+                    "word": "and",
+                    "start": 17.469,
+                    "end": 17.629,
+                    "score": 0.791
+                },
+                {
+                    "word": "turn",
+                    "start": 17.769,
+                    "end": 18.169,
+                    "score": 0.631
+                },
+                {
+                    "word": "right",
+                    "start": 18.81,
+                    "end": 19.07,
+                    "score": 0.872
+                }
+            ]
+        },
+        {
+            "start": 20.813,
+            "end": 31.47,
+            "text": " there and walk along the 12th street over one block and you will see the hobby shop to the left of your side.",
+            "words": [
+                {
+                    "word": "there",
+                    "start": 20.813,
+                    "end": 21.113,
+                    "score": 0.805
+                },
+                {
+                    "word": "and",
+                    "start": 21.694,
+                    "end": 21.815,
+                    "score": 0.838
+                },
+                {
+                    "word": "walk",
+                    "start": 21.915,
+                    "end": 22.175,
+                    "score": 0.878
+                },
+                {
+                    "word": "along",
+                    "start": 22.876,
+                    "end": 23.197,
+                    "score": 0.797
+                },
+                {
+                    "word": "the",
+                    "start": 23.257,
+                    "end": 23.437,
+                    "score": 0.912
+                },
+                {
+                    "word": "12th",
+                    "start": 23.838,
+                    "end": 24.298,
+                    "score": 0.594
+                },
+                {
+                    "word": "street",
+                    "start": 24.319,
+                    "end": 24.699,
+                    "score": 0.883
+                },
+                {
+                    "word": "over",
+                    "start": 26.222,
+                    "end": 26.442,
+                    "score": 0.904
+                },
+                {
+                    "word": "one",
+                    "start": 26.722,
+                    "end": 26.863,
+                    "score": 0.886
+                },
+                {
+                    "word": "block",
+                    "start": 27.544,
+                    "end": 27.844,
+                    "score": 0.691
+                },
+                {
+                    "word": "and",
+                    "start": 28.205,
+                    "end": 28.325,
+                    "score": 0.858
+                },
+                {
+                    "word": "you",
+                    "start": 28.365,
+                    "end": 28.525,
+                    "score": 0.98
+                },
+                {
+                    "word": "will",
+                    "start": 28.565,
+                    "end": 28.866,
+                    "score": 0.761
+                },
+                {
+                    "word": "see",
+                    "start": 28.906,
+                    "end": 29.146,
+                    "score": 0.855
+                },
+                {
+                    "word": "the",
+                    "start": 29.186,
+                    "end": 29.286,
+                    "score": 0.832
+                },
+                {
+                    "word": "hobby",
+                    "start": 29.326,
+                    "end": 29.567,
+                    "score": 0.994
+                },
+                {
+                    "word": "shop",
+                    "start": 29.607,
+                    "end": 29.867,
+                    "score": 0.898
+                },
+                {
+                    "word": "to",
+                    "start": 29.907,
+                    "end": 30.208,
+                    "score": 0.926
+                },
+                {
+                    "word": "the",
+                    "start": 30.288,
+                    "end": 30.428,
+                    "score": 0.907
+                },
+                {
+                    "word": "left",
+                    "start": 30.488,
+                    "end": 30.668,
+                    "score": 0.975
+                },
+                {
+                    "word": "of",
+                    "start": 30.769,
+                    "end": 30.989,
+                    "score": 0.788
+                },
+                {
+                    "word": "your",
+                    "start": 31.029,
+                    "end": 31.209,
+                    "score": 0.586
+                },
+                {
+                    "word": "side.",
+                    "start": 31.229,
+                    "end": 31.47,
+                    "score": 0.957
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "okay",
+            "start": 0.089,
+            "end": 0.409,
+            "score": 0.739
+        },
+        {
+            "word": "we",
+            "start": 0.449,
+            "end": 0.55,
+            "score": 0.856
+        },
+        {
+            "word": "are",
+            "start": 0.61,
+            "end": 0.73,
+            "score": 0.633
+        },
+        {
+            "word": "at",
+            "start": 0.85,
+            "end": 0.97,
+            "score": 0.836
+        },
+        {
+            "word": "the",
+            "start": 1.05,
+            "end": 1.17,
+            "score": 0.885
+        },
+        {
+            "word": "drugstore",
+            "start": 1.21,
+            "end": 1.831,
+            "score": 0.874
+        },
+        {
+            "word": "now",
+            "start": 1.911,
+            "end": 2.151,
+            "score": 0.759
+        },
+        {
+            "word": "so",
+            "start": 2.672,
+            "end": 2.812,
+            "score": 0.897
+        },
+        {
+            "word": "if",
+            "start": 2.872,
+            "end": 2.952,
+            "score": 0.693
+        },
+        {
+            "word": "i'd",
+            "start": 3.493,
+            "end": 3.613,
+            "score": 0.64
+        },
+        {
+            "word": "like",
+            "start": 3.653,
+            "end": 3.833,
+            "score": 0.878
+        },
+        {
+            "word": "you",
+            "start": 3.873,
+            "end": 4.034,
+            "score": 0.915
+        },
+        {
+            "word": "to",
+            "start": 4.094,
+            "end": 4.274,
+            "score": 0.865
+        },
+        {
+            "word": "go",
+            "start": 4.354,
+            "end": 4.574,
+            "score": 0.884
+        },
+        {
+            "word": "try",
+            "start": 5.195,
+            "end": 5.495,
+            "score": 0.924
+        },
+        {
+            "word": "the",
+            "start": 5.535,
+            "end": 5.635,
+            "score": 0.789
+        },
+        {
+            "word": "hobby",
+            "start": 5.675,
+            "end": 5.976,
+            "score": 0.821
+        },
+        {
+            "word": "shop",
+            "start": 6.016,
+            "end": 6.296,
+            "score": 0.888
+        },
+        {
+            "word": "so",
+            "start": 7.317,
+            "end": 7.658,
+            "score": 0.886
+        },
+        {
+            "word": "go",
+            "start": 8.659,
+            "end": 8.919,
+            "score": 0.992
+        },
+        {
+            "word": "to",
+            "start": 10.16,
+            "end": 10.521,
+            "score": 0.895
+        },
+        {
+            "word": "the",
+            "start": 10.621,
+            "end": 10.881,
+            "score": 0.985
+        },
+        {
+            "word": "east",
+            "start": 11.742,
+            "end": 12.003,
+            "score": 0.87
+        },
+        {
+            "word": "about",
+            "start": 12.823,
+            "end": 13.064,
+            "score": 0.927
+        },
+        {
+            "word": "two",
+            "start": 13.164,
+            "end": 13.344,
+            "score": 0.84
+        },
+        {
+            "word": "blocks",
+            "start": 13.404,
+            "end": 13.724,
+            "score": 0.863
+        },
+        {
+            "word": "when",
+            "start": 13.825,
+            "end": 14.045,
+            "score": 0.908
+        },
+        {
+            "word": "until",
+            "start": 14.145,
+            "end": 14.445,
+            "score": 0.852
+        },
+        {
+            "word": "you",
+            "start": 14.465,
+            "end": 14.625,
+            "score": 0.978
+        },
+        {
+            "word": "hit",
+            "start": 14.666,
+            "end": 14.866,
+            "score": 0.839
+        },
+        {
+            "word": "the",
+            "start": 14.906,
+            "end": 15.046,
+            "score": 0.358
+        },
+        {
+            "word": "north",
+            "start": 15.086,
+            "end": 15.386,
+            "score": 0.832
+        },
+        {
+            "word": "avenue",
+            "start": 15.587,
+            "end": 15.947,
+            "score": 0.811
+        },
+        {
+            "word": "and",
+            "start": 17.469,
+            "end": 17.629,
+            "score": 0.791
+        },
+        {
+            "word": "turn",
+            "start": 17.769,
+            "end": 18.169,
+            "score": 0.631
+        },
+        {
+            "word": "right",
+            "start": 18.81,
+            "end": 19.07,
+            "score": 0.872
+        },
+        {
+            "word": "there",
+            "start": 20.813,
+            "end": 21.113,
+            "score": 0.805
+        },
+        {
+            "word": "and",
+            "start": 21.694,
+            "end": 21.815,
+            "score": 0.838
+        },
+        {
+            "word": "walk",
+            "start": 21.915,
+            "end": 22.175,
+            "score": 0.878
+        },
+        {
+            "word": "along",
+            "start": 22.876,
+            "end": 23.197,
+            "score": 0.797
+        },
+        {
+            "word": "the",
+            "start": 23.257,
+            "end": 23.437,
+            "score": 0.912
+        },
+        {
+            "word": "12th",
+            "start": 23.838,
+            "end": 24.298,
+            "score": 0.594
+        },
+        {
+            "word": "street",
+            "start": 24.319,
+            "end": 24.699,
+            "score": 0.883
+        },
+        {
+            "word": "over",
+            "start": 26.222,
+            "end": 26.442,
+            "score": 0.904
+        },
+        {
+            "word": "one",
+            "start": 26.722,
+            "end": 26.863,
+            "score": 0.886
+        },
+        {
+            "word": "block",
+            "start": 27.544,
+            "end": 27.844,
+            "score": 0.691
+        },
+        {
+            "word": "and",
+            "start": 28.205,
+            "end": 28.325,
+            "score": 0.858
+        },
+        {
+            "word": "you",
+            "start": 28.365,
+            "end": 28.525,
+            "score": 0.98
+        },
+        {
+            "word": "will",
+            "start": 28.565,
+            "end": 28.866,
+            "score": 0.761
+        },
+        {
+            "word": "see",
+            "start": 28.906,
+            "end": 29.146,
+            "score": 0.855
+        },
+        {
+            "word": "the",
+            "start": 29.186,
+            "end": 29.286,
+            "score": 0.832
+        },
+        {
+            "word": "hobby",
+            "start": 29.326,
+            "end": 29.567,
+            "score": 0.994
+        },
+        {
+            "word": "shop",
+            "start": 29.607,
+            "end": 29.867,
+            "score": 0.898
+        },
+        {
+            "word": "to",
+            "start": 29.907,
+            "end": 30.208,
+            "score": 0.926
+        },
+        {
+            "word": "the",
+            "start": 30.288,
+            "end": 30.428,
+            "score": 0.907
+        },
+        {
+            "word": "left",
+            "start": 30.488,
+            "end": 30.668,
+            "score": 0.975
+        },
+        {
+            "word": "of",
+            "start": 30.769,
+            "end": 30.989,
+            "score": 0.788
+        },
+        {
+            "word": "your",
+            "start": 31.029,
+            "end": 31.209,
+            "score": 0.586
+        },
+        {
+            "word": "side.",
+            "start": 31.229,
+            "end": 31.47,
+            "score": 0.957
+        }
+    ]
+}

@@ -1,0 +1,857 @@
+{
+    "segments": [
+        {
+            "start": 1.25,
+            "end": 14.44,
+            "text": " I agree the government policy because compared with 30 years ago the obesity rate is low but now obesity rate is so high it means",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.25,
+                    "end": 1.33,
+                    "score": 0.808
+                },
+                {
+                    "word": "agree",
+                    "start": 1.41,
+                    "end": 1.67,
+                    "score": 0.818
+                },
+                {
+                    "word": "the",
+                    "start": 1.69,
+                    "end": 1.83,
+                    "score": 0.537
+                },
+                {
+                    "word": "government",
+                    "start": 1.87,
+                    "end": 2.491,
+                    "score": 0.651
+                },
+                {
+                    "word": "policy",
+                    "start": 3.292,
+                    "end": 4.432,
+                    "score": 0.849
+                },
+                {
+                    "word": "because",
+                    "start": 4.513,
+                    "end": 4.933,
+                    "score": 0.899
+                },
+                {
+                    "word": "compared",
+                    "start": 5.613,
+                    "end": 6.034,
+                    "score": 0.777
+                },
+                {
+                    "word": "with",
+                    "start": 6.074,
+                    "end": 6.534,
+                    "score": 0.754
+                },
+                {
+                    "word": "30"
+                },
+                {
+                    "word": "years",
+                    "start": 6.914,
+                    "end": 7.235,
+                    "score": 0.673
+                },
+                {
+                    "word": "ago",
+                    "start": 8.836,
+                    "end": 9.156,
+                    "score": 0.784
+                },
+                {
+                    "word": "the",
+                    "start": 9.216,
+                    "end": 9.396,
+                    "score": 0.824
+                },
+                {
+                    "word": "obesity",
+                    "start": 9.416,
+                    "end": 10.037,
+                    "score": 0.767
+                },
+                {
+                    "word": "rate",
+                    "start": 10.437,
+                    "end": 10.717,
+                    "score": 0.784
+                },
+                {
+                    "word": "is",
+                    "start": 10.797,
+                    "end": 10.897,
+                    "score": 0.522
+                },
+                {
+                    "word": "low",
+                    "start": 11.078,
+                    "end": 11.318,
+                    "score": 0.94
+                },
+                {
+                    "word": "but",
+                    "start": 11.378,
+                    "end": 11.598,
+                    "score": 0.828
+                },
+                {
+                    "word": "now",
+                    "start": 11.858,
+                    "end": 12.078,
+                    "score": 0.867
+                },
+                {
+                    "word": "obesity",
+                    "start": 12.199,
+                    "end": 12.539,
+                    "score": 0.524
+                },
+                {
+                    "word": "rate",
+                    "start": 12.579,
+                    "end": 12.859,
+                    "score": 0.776
+                },
+                {
+                    "word": "is",
+                    "start": 12.879,
+                    "end": 12.939,
+                    "score": 0.394
+                },
+                {
+                    "word": "so",
+                    "start": 12.999,
+                    "end": 13.179,
+                    "score": 0.806
+                },
+                {
+                    "word": "high",
+                    "start": 13.239,
+                    "end": 13.52,
+                    "score": 0.804
+                },
+                {
+                    "word": "it",
+                    "start": 14.04,
+                    "end": 14.16,
+                    "score": 0.468
+                },
+                {
+                    "word": "means",
+                    "start": 14.22,
+                    "end": 14.44,
+                    "score": 0.703
+                }
+            ]
+        },
+        {
+            "start": 15.601,
+            "end": 19.903,
+            "text": " Now, obesity rate is double rate compared with 30 years ago.",
+            "words": [
+                {
+                    "word": "Now,",
+                    "start": 15.601,
+                    "end": 15.781,
+                    "score": 0.915
+                },
+                {
+                    "word": "obesity",
+                    "start": 15.841,
+                    "end": 16.161,
+                    "score": 0.544
+                },
+                {
+                    "word": "rate",
+                    "start": 16.201,
+                    "end": 16.442,
+                    "score": 0.755
+                },
+                {
+                    "word": "is",
+                    "start": 16.522,
+                    "end": 16.662,
+                    "score": 0.712
+                },
+                {
+                    "word": "double",
+                    "start": 16.882,
+                    "end": 17.282,
+                    "score": 0.82
+                },
+                {
+                    "word": "rate",
+                    "start": 17.342,
+                    "end": 17.642,
+                    "score": 0.822
+                },
+                {
+                    "word": "compared",
+                    "start": 18.282,
+                    "end": 18.843,
+                    "score": 0.817
+                },
+                {
+                    "word": "with",
+                    "start": 18.863,
+                    "end": 19.283,
+                    "score": 0.437
+                },
+                {
+                    "word": "30"
+                },
+                {
+                    "word": "years",
+                    "start": 19.323,
+                    "end": 19.543,
+                    "score": 0.743
+                },
+                {
+                    "word": "ago.",
+                    "start": 19.563,
+                    "end": 19.903,
+                    "score": 0.708
+                }
+            ]
+        },
+        {
+            "start": 20.664,
+            "end": 24.565,
+            "text": "So nowadays, the obesity problem is very big problem.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 20.664,
+                    "end": 20.944,
+                    "score": 0.904
+                },
+                {
+                    "word": "nowadays,",
+                    "start": 21.284,
+                    "end": 21.764,
+                    "score": 0.688
+                },
+                {
+                    "word": "the",
+                    "start": 22.204,
+                    "end": 22.284,
+                    "score": 0.311
+                },
+                {
+                    "word": "obesity",
+                    "start": 22.304,
+                    "end": 22.885,
+                    "score": 0.813
+                },
+                {
+                    "word": "problem",
+                    "start": 22.925,
+                    "end": 23.305,
+                    "score": 0.716
+                },
+                {
+                    "word": "is",
+                    "start": 23.345,
+                    "end": 23.445,
+                    "score": 0.903
+                },
+                {
+                    "word": "very",
+                    "start": 23.485,
+                    "end": 23.725,
+                    "score": 0.66
+                },
+                {
+                    "word": "big",
+                    "start": 23.805,
+                    "end": 24.045,
+                    "score": 0.775
+                },
+                {
+                    "word": "problem.",
+                    "start": 24.105,
+                    "end": 24.565,
+                    "score": 0.765
+                }
+            ]
+        },
+        {
+            "start": 25.386,
+            "end": 36.791,
+            "text": "So company make this supple drink and they have some responsibility about that.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 25.386,
+                    "end": 25.646,
+                    "score": 0.932
+                },
+                {
+                    "word": "company",
+                    "start": 27.627,
+                    "end": 28.027,
+                    "score": 0.94
+                },
+                {
+                    "word": "make",
+                    "start": 28.067,
+                    "end": 28.607,
+                    "score": 0.859
+                },
+                {
+                    "word": "this",
+                    "start": 28.707,
+                    "end": 28.948,
+                    "score": 0.788
+                },
+                {
+                    "word": "supple",
+                    "start": 29.608,
+                    "end": 29.968,
+                    "score": 0.594
+                },
+                {
+                    "word": "drink",
+                    "start": 30.008,
+                    "end": 30.348,
+                    "score": 0.907
+                },
+                {
+                    "word": "and",
+                    "start": 30.848,
+                    "end": 30.989,
+                    "score": 0.695
+                },
+                {
+                    "word": "they",
+                    "start": 31.089,
+                    "end": 31.369,
+                    "score": 0.916
+                },
+                {
+                    "word": "have",
+                    "start": 32.189,
+                    "end": 33.87,
+                    "score": 0.68
+                },
+                {
+                    "word": "some",
+                    "start": 34.13,
+                    "end": 35.211,
+                    "score": 0.592
+                },
+                {
+                    "word": "responsibility",
+                    "start": 35.431,
+                    "end": 36.131,
+                    "score": 0.788
+                },
+                {
+                    "word": "about",
+                    "start": 36.291,
+                    "end": 36.531,
+                    "score": 0.918
+                },
+                {
+                    "word": "that.",
+                    "start": 36.571,
+                    "end": 36.791,
+                    "score": 0.585
+                }
+            ]
+        },
+        {
+            "start": 37.192,
+            "end": 44.095,
+            "text": "So company should make a label to warning about the obesity.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 37.192,
+                    "end": 37.412,
+                    "score": 0.928
+                },
+                {
+                    "word": "company",
+                    "start": 38.532,
+                    "end": 38.992,
+                    "score": 0.916
+                },
+                {
+                    "word": "should",
+                    "start": 39.032,
+                    "end": 39.393,
+                    "score": 0.71
+                },
+                {
+                    "word": "make",
+                    "start": 40.093,
+                    "end": 40.413,
+                    "score": 0.806
+                },
+                {
+                    "word": "a",
+                    "start": 40.473,
+                    "end": 40.613,
+                    "score": 0.692
+                },
+                {
+                    "word": "label",
+                    "start": 40.793,
+                    "end": 41.234,
+                    "score": 0.672
+                },
+                {
+                    "word": "to",
+                    "start": 41.834,
+                    "end": 42.114,
+                    "score": 0.914
+                },
+                {
+                    "word": "warning",
+                    "start": 42.374,
+                    "end": 42.714,
+                    "score": 0.885
+                },
+                {
+                    "word": "about",
+                    "start": 42.794,
+                    "end": 43.074,
+                    "score": 0.918
+                },
+                {
+                    "word": "the",
+                    "start": 43.174,
+                    "end": 43.375,
+                    "score": 0.92
+                },
+                {
+                    "word": "obesity.",
+                    "start": 43.655,
+                    "end": 44.095,
+                    "score": 0.74
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.25,
+            "end": 1.33,
+            "score": 0.808
+        },
+        {
+            "word": "agree",
+            "start": 1.41,
+            "end": 1.67,
+            "score": 0.818
+        },
+        {
+            "word": "the",
+            "start": 1.69,
+            "end": 1.83,
+            "score": 0.537
+        },
+        {
+            "word": "government",
+            "start": 1.87,
+            "end": 2.491,
+            "score": 0.651
+        },
+        {
+            "word": "policy",
+            "start": 3.292,
+            "end": 4.432,
+            "score": 0.849
+        },
+        {
+            "word": "because",
+            "start": 4.513,
+            "end": 4.933,
+            "score": 0.899
+        },
+        {
+            "word": "compared",
+            "start": 5.613,
+            "end": 6.034,
+            "score": 0.777
+        },
+        {
+            "word": "with",
+            "start": 6.074,
+            "end": 6.534,
+            "score": 0.754
+        },
+        {
+            "word": "30"
+        },
+        {
+            "word": "years",
+            "start": 6.914,
+            "end": 7.235,
+            "score": 0.673
+        },
+        {
+            "word": "ago",
+            "start": 8.836,
+            "end": 9.156,
+            "score": 0.784
+        },
+        {
+            "word": "the",
+            "start": 9.216,
+            "end": 9.396,
+            "score": 0.824
+        },
+        {
+            "word": "obesity",
+            "start": 9.416,
+            "end": 10.037,
+            "score": 0.767
+        },
+        {
+            "word": "rate",
+            "start": 10.437,
+            "end": 10.717,
+            "score": 0.784
+        },
+        {
+            "word": "is",
+            "start": 10.797,
+            "end": 10.897,
+            "score": 0.522
+        },
+        {
+            "word": "low",
+            "start": 11.078,
+            "end": 11.318,
+            "score": 0.94
+        },
+        {
+            "word": "but",
+            "start": 11.378,
+            "end": 11.598,
+            "score": 0.828
+        },
+        {
+            "word": "now",
+            "start": 11.858,
+            "end": 12.078,
+            "score": 0.867
+        },
+        {
+            "word": "obesity",
+            "start": 12.199,
+            "end": 12.539,
+            "score": 0.524
+        },
+        {
+            "word": "rate",
+            "start": 12.579,
+            "end": 12.859,
+            "score": 0.776
+        },
+        {
+            "word": "is",
+            "start": 12.879,
+            "end": 12.939,
+            "score": 0.394
+        },
+        {
+            "word": "so",
+            "start": 12.999,
+            "end": 13.179,
+            "score": 0.806
+        },
+        {
+            "word": "high",
+            "start": 13.239,
+            "end": 13.52,
+            "score": 0.804
+        },
+        {
+            "word": "it",
+            "start": 14.04,
+            "end": 14.16,
+            "score": 0.468
+        },
+        {
+            "word": "means",
+            "start": 14.22,
+            "end": 14.44,
+            "score": 0.703
+        },
+        {
+            "word": "Now,",
+            "start": 15.601,
+            "end": 15.781,
+            "score": 0.915
+        },
+        {
+            "word": "obesity",
+            "start": 15.841,
+            "end": 16.161,
+            "score": 0.544
+        },
+        {
+            "word": "rate",
+            "start": 16.201,
+            "end": 16.442,
+            "score": 0.755
+        },
+        {
+            "word": "is",
+            "start": 16.522,
+            "end": 16.662,
+            "score": 0.712
+        },
+        {
+            "word": "double",
+            "start": 16.882,
+            "end": 17.282,
+            "score": 0.82
+        },
+        {
+            "word": "rate",
+            "start": 17.342,
+            "end": 17.642,
+            "score": 0.822
+        },
+        {
+            "word": "compared",
+            "start": 18.282,
+            "end": 18.843,
+            "score": 0.817
+        },
+        {
+            "word": "with",
+            "start": 18.863,
+            "end": 19.283,
+            "score": 0.437
+        },
+        {
+            "word": "30"
+        },
+        {
+            "word": "years",
+            "start": 19.323,
+            "end": 19.543,
+            "score": 0.743
+        },
+        {
+            "word": "ago.",
+            "start": 19.563,
+            "end": 19.903,
+            "score": 0.708
+        },
+        {
+            "word": "So",
+            "start": 20.664,
+            "end": 20.944,
+            "score": 0.904
+        },
+        {
+            "word": "nowadays,",
+            "start": 21.284,
+            "end": 21.764,
+            "score": 0.688
+        },
+        {
+            "word": "the",
+            "start": 22.204,
+            "end": 22.284,
+            "score": 0.311
+        },
+        {
+            "word": "obesity",
+            "start": 22.304,
+            "end": 22.885,
+            "score": 0.813
+        },
+        {
+            "word": "problem",
+            "start": 22.925,
+            "end": 23.305,
+            "score": 0.716
+        },
+        {
+            "word": "is",
+            "start": 23.345,
+            "end": 23.445,
+            "score": 0.903
+        },
+        {
+            "word": "very",
+            "start": 23.485,
+            "end": 23.725,
+            "score": 0.66
+        },
+        {
+            "word": "big",
+            "start": 23.805,
+            "end": 24.045,
+            "score": 0.775
+        },
+        {
+            "word": "problem.",
+            "start": 24.105,
+            "end": 24.565,
+            "score": 0.765
+        },
+        {
+            "word": "So",
+            "start": 25.386,
+            "end": 25.646,
+            "score": 0.932
+        },
+        {
+            "word": "company",
+            "start": 27.627,
+            "end": 28.027,
+            "score": 0.94
+        },
+        {
+            "word": "make",
+            "start": 28.067,
+            "end": 28.607,
+            "score": 0.859
+        },
+        {
+            "word": "this",
+            "start": 28.707,
+            "end": 28.948,
+            "score": 0.788
+        },
+        {
+            "word": "supple",
+            "start": 29.608,
+            "end": 29.968,
+            "score": 0.594
+        },
+        {
+            "word": "drink",
+            "start": 30.008,
+            "end": 30.348,
+            "score": 0.907
+        },
+        {
+            "word": "and",
+            "start": 30.848,
+            "end": 30.989,
+            "score": 0.695
+        },
+        {
+            "word": "they",
+            "start": 31.089,
+            "end": 31.369,
+            "score": 0.916
+        },
+        {
+            "word": "have",
+            "start": 32.189,
+            "end": 33.87,
+            "score": 0.68
+        },
+        {
+            "word": "some",
+            "start": 34.13,
+            "end": 35.211,
+            "score": 0.592
+        },
+        {
+            "word": "responsibility",
+            "start": 35.431,
+            "end": 36.131,
+            "score": 0.788
+        },
+        {
+            "word": "about",
+            "start": 36.291,
+            "end": 36.531,
+            "score": 0.918
+        },
+        {
+            "word": "that.",
+            "start": 36.571,
+            "end": 36.791,
+            "score": 0.585
+        },
+        {
+            "word": "So",
+            "start": 37.192,
+            "end": 37.412,
+            "score": 0.928
+        },
+        {
+            "word": "company",
+            "start": 38.532,
+            "end": 38.992,
+            "score": 0.916
+        },
+        {
+            "word": "should",
+            "start": 39.032,
+            "end": 39.393,
+            "score": 0.71
+        },
+        {
+            "word": "make",
+            "start": 40.093,
+            "end": 40.413,
+            "score": 0.806
+        },
+        {
+            "word": "a",
+            "start": 40.473,
+            "end": 40.613,
+            "score": 0.692
+        },
+        {
+            "word": "label",
+            "start": 40.793,
+            "end": 41.234,
+            "score": 0.672
+        },
+        {
+            "word": "to",
+            "start": 41.834,
+            "end": 42.114,
+            "score": 0.914
+        },
+        {
+            "word": "warning",
+            "start": 42.374,
+            "end": 42.714,
+            "score": 0.885
+        },
+        {
+            "word": "about",
+            "start": 42.794,
+            "end": 43.074,
+            "score": 0.918
+        },
+        {
+            "word": "the",
+            "start": 43.174,
+            "end": 43.375,
+            "score": 0.92
+        },
+        {
+            "word": "obesity.",
+            "start": 43.655,
+            "end": 44.095,
+            "score": 0.74
+        }
+    ]
+}

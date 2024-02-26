@@ -1,0 +1,588 @@
+{
+    "segments": [
+        {
+            "start": 1.27,
+            "end": 9.619,
+            "text": " I like action genre movie because it is sometimes bi-gloss and it's so exciting.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.27,
+                    "end": 1.41,
+                    "score": 0.494
+                },
+                {
+                    "word": "like",
+                    "start": 3.032,
+                    "end": 3.212,
+                    "score": 0.86
+                },
+                {
+                    "word": "action",
+                    "start": 3.332,
+                    "end": 3.633,
+                    "score": 0.636
+                },
+                {
+                    "word": "genre",
+                    "start": 3.653,
+                    "end": 4.033,
+                    "score": 0.585
+                },
+                {
+                    "word": "movie",
+                    "start": 4.073,
+                    "end": 4.433,
+                    "score": 0.58
+                },
+                {
+                    "word": "because",
+                    "start": 4.814,
+                    "end": 5.675,
+                    "score": 0.866
+                },
+                {
+                    "word": "it",
+                    "start": 6.135,
+                    "end": 6.195,
+                    "score": 0.698
+                },
+                {
+                    "word": "is",
+                    "start": 6.275,
+                    "end": 6.616,
+                    "score": 0.694
+                },
+                {
+                    "word": "sometimes",
+                    "start": 6.676,
+                    "end": 7.116,
+                    "score": 0.874
+                },
+                {
+                    "word": "bi-gloss",
+                    "start": 7.216,
+                    "end": 7.817,
+                    "score": 0.705
+                },
+                {
+                    "word": "and",
+                    "start": 8.357,
+                    "end": 8.457,
+                    "score": 0.727
+                },
+                {
+                    "word": "it's",
+                    "start": 8.538,
+                    "end": 8.638,
+                    "score": 0.166
+                },
+                {
+                    "word": "so",
+                    "start": 8.718,
+                    "end": 8.958,
+                    "score": 0.938
+                },
+                {
+                    "word": "exciting.",
+                    "start": 9.138,
+                    "end": 9.619,
+                    "score": 0.709
+                }
+            ]
+        },
+        {
+            "start": 9.659,
+            "end": 15.264,
+            "text": "But sometimes it's a little bit exaggerated.",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 9.659,
+                    "end": 9.839,
+                    "score": 0.757
+                },
+                {
+                    "word": "sometimes",
+                    "start": 10.339,
+                    "end": 10.76,
+                    "score": 0.824
+                },
+                {
+                    "word": "it's",
+                    "start": 11.781,
+                    "end": 12.201,
+                    "score": 0.356
+                },
+                {
+                    "word": "a",
+                    "start": 12.482,
+                    "end": 12.562,
+                    "score": 0.583
+                },
+                {
+                    "word": "little",
+                    "start": 12.582,
+                    "end": 12.802,
+                    "score": 0.864
+                },
+                {
+                    "word": "bit",
+                    "start": 12.842,
+                    "end": 12.982,
+                    "score": 0.947
+                },
+                {
+                    "word": "exaggerated.",
+                    "start": 13.342,
+                    "end": 15.264,
+                    "score": 0.82
+                }
+            ]
+        },
+        {
+            "start": 16.686,
+            "end": 21.29,
+            "text": "For example, do you ever see the Spider-Man movie?",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 16.686,
+                    "end": 16.786,
+                    "score": 0.907
+                },
+                {
+                    "word": "example,",
+                    "start": 16.866,
+                    "end": 17.386,
+                    "score": 0.449
+                },
+                {
+                    "word": "do",
+                    "start": 18.588,
+                    "end": 18.808,
+                    "score": 0.853
+                },
+                {
+                    "word": "you",
+                    "start": 19.128,
+                    "end": 19.308,
+                    "score": 0.717
+                },
+                {
+                    "word": "ever",
+                    "start": 19.388,
+                    "end": 19.709,
+                    "score": 0.68
+                },
+                {
+                    "word": "see",
+                    "start": 19.769,
+                    "end": 19.929,
+                    "score": 0.665
+                },
+                {
+                    "word": "the",
+                    "start": 19.949,
+                    "end": 20.149,
+                    "score": 0.767
+                },
+                {
+                    "word": "Spider-Man",
+                    "start": 20.53,
+                    "end": 21.01,
+                    "score": 0.523
+                },
+                {
+                    "word": "movie?",
+                    "start": 21.03,
+                    "end": 21.29,
+                    "score": 0.535
+                }
+            ]
+        },
+        {
+            "start": 23.272,
+            "end": 25.775,
+            "text": " Actually, when I see that, it's so exciting.",
+            "words": [
+                {
+                    "word": "Actually,",
+                    "start": 23.272,
+                    "end": 23.713,
+                    "score": 0.463
+                },
+                {
+                    "word": "when",
+                    "start": 24.253,
+                    "end": 24.373,
+                    "score": 0.956
+                },
+                {
+                    "word": "I",
+                    "start": 24.413,
+                    "end": 24.473,
+                    "score": 0.994
+                },
+                {
+                    "word": "see",
+                    "start": 24.513,
+                    "end": 24.694,
+                    "score": 0.559
+                },
+                {
+                    "word": "that,",
+                    "start": 24.734,
+                    "end": 24.874,
+                    "score": 0.379
+                },
+                {
+                    "word": "it's",
+                    "start": 24.914,
+                    "end": 24.994,
+                    "score": 0.249
+                },
+                {
+                    "word": "so",
+                    "start": 25.034,
+                    "end": 25.194,
+                    "score": 0.592
+                },
+                {
+                    "word": "exciting.",
+                    "start": 25.294,
+                    "end": 25.775,
+                    "score": 0.465
+                }
+            ]
+        },
+        {
+            "start": 25.835,
+            "end": 28.077,
+            "text": "So many... Yeah, it's so exciting.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 25.835,
+                    "end": 26.095,
+                    "score": 0.696
+                },
+                {
+                    "word": "many...",
+                    "start": 26.135,
+                    "end": 26.335,
+                    "score": 0.632
+                },
+                {
+                    "word": "Yeah,",
+                    "start": 26.355,
+                    "end": 27.056,
+                    "score": 0.55
+                },
+                {
+                    "word": "it's",
+                    "start": 27.216,
+                    "end": 27.356,
+                    "score": 0.424
+                },
+                {
+                    "word": "so",
+                    "start": 27.396,
+                    "end": 27.576,
+                    "score": 0.977
+                },
+                {
+                    "word": "exciting.",
+                    "start": 27.636,
+                    "end": 28.077,
+                    "score": 0.953
+                }
+            ]
+        },
+        {
+            "start": 28.097,
+            "end": 28.397,
+            "text": "Yeah.",
+            "words": [
+                {
+                    "word": "Yeah.",
+                    "start": 28.097,
+                    "end": 28.397,
+                    "score": 0.41
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.27,
+            "end": 1.41,
+            "score": 0.494
+        },
+        {
+            "word": "like",
+            "start": 3.032,
+            "end": 3.212,
+            "score": 0.86
+        },
+        {
+            "word": "action",
+            "start": 3.332,
+            "end": 3.633,
+            "score": 0.636
+        },
+        {
+            "word": "genre",
+            "start": 3.653,
+            "end": 4.033,
+            "score": 0.585
+        },
+        {
+            "word": "movie",
+            "start": 4.073,
+            "end": 4.433,
+            "score": 0.58
+        },
+        {
+            "word": "because",
+            "start": 4.814,
+            "end": 5.675,
+            "score": 0.866
+        },
+        {
+            "word": "it",
+            "start": 6.135,
+            "end": 6.195,
+            "score": 0.698
+        },
+        {
+            "word": "is",
+            "start": 6.275,
+            "end": 6.616,
+            "score": 0.694
+        },
+        {
+            "word": "sometimes",
+            "start": 6.676,
+            "end": 7.116,
+            "score": 0.874
+        },
+        {
+            "word": "bi-gloss",
+            "start": 7.216,
+            "end": 7.817,
+            "score": 0.705
+        },
+        {
+            "word": "and",
+            "start": 8.357,
+            "end": 8.457,
+            "score": 0.727
+        },
+        {
+            "word": "it's",
+            "start": 8.538,
+            "end": 8.638,
+            "score": 0.166
+        },
+        {
+            "word": "so",
+            "start": 8.718,
+            "end": 8.958,
+            "score": 0.938
+        },
+        {
+            "word": "exciting.",
+            "start": 9.138,
+            "end": 9.619,
+            "score": 0.709
+        },
+        {
+            "word": "But",
+            "start": 9.659,
+            "end": 9.839,
+            "score": 0.757
+        },
+        {
+            "word": "sometimes",
+            "start": 10.339,
+            "end": 10.76,
+            "score": 0.824
+        },
+        {
+            "word": "it's",
+            "start": 11.781,
+            "end": 12.201,
+            "score": 0.356
+        },
+        {
+            "word": "a",
+            "start": 12.482,
+            "end": 12.562,
+            "score": 0.583
+        },
+        {
+            "word": "little",
+            "start": 12.582,
+            "end": 12.802,
+            "score": 0.864
+        },
+        {
+            "word": "bit",
+            "start": 12.842,
+            "end": 12.982,
+            "score": 0.947
+        },
+        {
+            "word": "exaggerated.",
+            "start": 13.342,
+            "end": 15.264,
+            "score": 0.82
+        },
+        {
+            "word": "For",
+            "start": 16.686,
+            "end": 16.786,
+            "score": 0.907
+        },
+        {
+            "word": "example,",
+            "start": 16.866,
+            "end": 17.386,
+            "score": 0.449
+        },
+        {
+            "word": "do",
+            "start": 18.588,
+            "end": 18.808,
+            "score": 0.853
+        },
+        {
+            "word": "you",
+            "start": 19.128,
+            "end": 19.308,
+            "score": 0.717
+        },
+        {
+            "word": "ever",
+            "start": 19.388,
+            "end": 19.709,
+            "score": 0.68
+        },
+        {
+            "word": "see",
+            "start": 19.769,
+            "end": 19.929,
+            "score": 0.665
+        },
+        {
+            "word": "the",
+            "start": 19.949,
+            "end": 20.149,
+            "score": 0.767
+        },
+        {
+            "word": "Spider-Man",
+            "start": 20.53,
+            "end": 21.01,
+            "score": 0.523
+        },
+        {
+            "word": "movie?",
+            "start": 21.03,
+            "end": 21.29,
+            "score": 0.535
+        },
+        {
+            "word": "Actually,",
+            "start": 23.272,
+            "end": 23.713,
+            "score": 0.463
+        },
+        {
+            "word": "when",
+            "start": 24.253,
+            "end": 24.373,
+            "score": 0.956
+        },
+        {
+            "word": "I",
+            "start": 24.413,
+            "end": 24.473,
+            "score": 0.994
+        },
+        {
+            "word": "see",
+            "start": 24.513,
+            "end": 24.694,
+            "score": 0.559
+        },
+        {
+            "word": "that,",
+            "start": 24.734,
+            "end": 24.874,
+            "score": 0.379
+        },
+        {
+            "word": "it's",
+            "start": 24.914,
+            "end": 24.994,
+            "score": 0.249
+        },
+        {
+            "word": "so",
+            "start": 25.034,
+            "end": 25.194,
+            "score": 0.592
+        },
+        {
+            "word": "exciting.",
+            "start": 25.294,
+            "end": 25.775,
+            "score": 0.465
+        },
+        {
+            "word": "So",
+            "start": 25.835,
+            "end": 26.095,
+            "score": 0.696
+        },
+        {
+            "word": "many...",
+            "start": 26.135,
+            "end": 26.335,
+            "score": 0.632
+        },
+        {
+            "word": "Yeah,",
+            "start": 26.355,
+            "end": 27.056,
+            "score": 0.55
+        },
+        {
+            "word": "it's",
+            "start": 27.216,
+            "end": 27.356,
+            "score": 0.424
+        },
+        {
+            "word": "so",
+            "start": 27.396,
+            "end": 27.576,
+            "score": 0.977
+        },
+        {
+            "word": "exciting.",
+            "start": 27.636,
+            "end": 28.077,
+            "score": 0.953
+        },
+        {
+            "word": "Yeah.",
+            "start": 28.097,
+            "end": 28.397,
+            "score": 0.41
+        }
+    ]
+}

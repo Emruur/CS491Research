@@ -1,0 +1,836 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 16.077,
+            "text": " my favorite country is italia first of all the italia is very oldest country so therefore in italia there are so many oldest place include",
+            "words": [
+                {
+                    "word": "my",
+                    "start": 0.049,
+                    "end": 0.169,
+                    "score": 0.72
+                },
+                {
+                    "word": "favorite",
+                    "start": 0.229,
+                    "end": 0.729,
+                    "score": 0.572
+                },
+                {
+                    "word": "country",
+                    "start": 0.789,
+                    "end": 1.25,
+                    "score": 0.865
+                },
+                {
+                    "word": "is",
+                    "start": 1.79,
+                    "end": 1.91,
+                    "score": 0.742
+                },
+                {
+                    "word": "italia",
+                    "start": 2.49,
+                    "end": 2.97,
+                    "score": 0.942
+                },
+                {
+                    "word": "first",
+                    "start": 3.751,
+                    "end": 3.991,
+                    "score": 0.695
+                },
+                {
+                    "word": "of",
+                    "start": 4.051,
+                    "end": 4.151,
+                    "score": 0.608
+                },
+                {
+                    "word": "all",
+                    "start": 4.251,
+                    "end": 4.411,
+                    "score": 0.701
+                },
+                {
+                    "word": "the",
+                    "start": 5.012,
+                    "end": 5.152,
+                    "score": 0.793
+                },
+                {
+                    "word": "italia",
+                    "start": 5.472,
+                    "end": 5.952,
+                    "score": 0.902
+                },
+                {
+                    "word": "is",
+                    "start": 6.112,
+                    "end": 6.212,
+                    "score": 0.765
+                },
+                {
+                    "word": "very",
+                    "start": 6.292,
+                    "end": 6.592,
+                    "score": 0.766
+                },
+                {
+                    "word": "oldest",
+                    "start": 6.712,
+                    "end": 7.093,
+                    "score": 0.511
+                },
+                {
+                    "word": "country",
+                    "start": 7.173,
+                    "end": 7.593,
+                    "score": 0.939
+                },
+                {
+                    "word": "so",
+                    "start": 8.233,
+                    "end": 8.513,
+                    "score": 0.892
+                },
+                {
+                    "word": "therefore",
+                    "start": 9.954,
+                    "end": 10.374,
+                    "score": 0.873
+                },
+                {
+                    "word": "in",
+                    "start": 11.615,
+                    "end": 11.695,
+                    "score": 0.819
+                },
+                {
+                    "word": "italia",
+                    "start": 11.795,
+                    "end": 12.255,
+                    "score": 0.885
+                },
+                {
+                    "word": "there",
+                    "start": 12.735,
+                    "end": 12.955,
+                    "score": 0.877
+                },
+                {
+                    "word": "are",
+                    "start": 13.016,
+                    "end": 13.116,
+                    "score": 0.859
+                },
+                {
+                    "word": "so",
+                    "start": 13.156,
+                    "end": 13.356,
+                    "score": 0.901
+                },
+                {
+                    "word": "many",
+                    "start": 13.416,
+                    "end": 13.636,
+                    "score": 0.806
+                },
+                {
+                    "word": "oldest",
+                    "start": 13.656,
+                    "end": 14.676,
+                    "score": 0.533
+                },
+                {
+                    "word": "place",
+                    "start": 14.796,
+                    "end": 15.197,
+                    "score": 0.926
+                },
+                {
+                    "word": "include",
+                    "start": 15.617,
+                    "end": 16.077,
+                    "score": 0.935
+                }
+            ]
+        },
+        {
+            "start": 18.378,
+            "end": 42.775,
+            "text": " olympus and then italia is very famous for soccer league Serie A, B, C I like to soccer so if I go to italia I want to visit soccer stadium and watch soccer and then there are many very beautiful beach in italia",
+            "words": [
+                {
+                    "word": "olympus",
+                    "start": 18.378,
+                    "end": 18.899,
+                    "score": 0.668
+                },
+                {
+                    "word": "and",
+                    "start": 20.079,
+                    "end": 20.159,
+                    "score": 0.823
+                },
+                {
+                    "word": "then",
+                    "start": 20.2,
+                    "end": 20.38,
+                    "score": 0.908
+                },
+                {
+                    "word": "italia",
+                    "start": 20.92,
+                    "end": 21.34,
+                    "score": 0.962
+                },
+                {
+                    "word": "is",
+                    "start": 21.48,
+                    "end": 21.58,
+                    "score": 0.796
+                },
+                {
+                    "word": "very",
+                    "start": 21.64,
+                    "end": 21.881,
+                    "score": 0.852
+                },
+                {
+                    "word": "famous",
+                    "start": 21.921,
+                    "end": 22.361,
+                    "score": 0.802
+                },
+                {
+                    "word": "for",
+                    "start": 22.421,
+                    "end": 22.701,
+                    "score": 0.882
+                },
+                {
+                    "word": "soccer",
+                    "start": 23.262,
+                    "end": 23.662,
+                    "score": 0.595
+                },
+                {
+                    "word": "league",
+                    "start": 23.722,
+                    "end": 24.142,
+                    "score": 0.561
+                },
+                {
+                    "word": "Serie",
+                    "start": 24.222,
+                    "end": 24.603,
+                    "score": 0.804
+                },
+                {
+                    "word": "A,",
+                    "start": 24.743,
+                    "end": 24.883,
+                    "score": 0.851
+                },
+                {
+                    "word": "B,",
+                    "start": 25.063,
+                    "end": 25.263,
+                    "score": 0.974
+                },
+                {
+                    "word": "C",
+                    "start": 25.463,
+                    "end": 25.703,
+                    "score": 0.953
+                },
+                {
+                    "word": "I",
+                    "start": 27.024,
+                    "end": 27.144,
+                    "score": 0.813
+                },
+                {
+                    "word": "like",
+                    "start": 27.184,
+                    "end": 27.364,
+                    "score": 0.986
+                },
+                {
+                    "word": "to",
+                    "start": 27.404,
+                    "end": 27.545,
+                    "score": 0.97
+                },
+                {
+                    "word": "soccer",
+                    "start": 27.605,
+                    "end": 28.045,
+                    "score": 0.568
+                },
+                {
+                    "word": "so",
+                    "start": 28.505,
+                    "end": 28.785,
+                    "score": 0.996
+                },
+                {
+                    "word": "if",
+                    "start": 28.945,
+                    "end": 29.026,
+                    "score": 0.996
+                },
+                {
+                    "word": "I",
+                    "start": 29.186,
+                    "end": 29.306,
+                    "score": 0.826
+                },
+                {
+                    "word": "go",
+                    "start": 29.586,
+                    "end": 29.766,
+                    "score": 0.893
+                },
+                {
+                    "word": "to",
+                    "start": 29.806,
+                    "end": 29.906,
+                    "score": 0.815
+                },
+                {
+                    "word": "italia",
+                    "start": 29.986,
+                    "end": 30.466,
+                    "score": 0.954
+                },
+                {
+                    "word": "I",
+                    "start": 30.667,
+                    "end": 30.727,
+                    "score": 0.699
+                },
+                {
+                    "word": "want",
+                    "start": 30.767,
+                    "end": 31.027,
+                    "score": 0.821
+                },
+                {
+                    "word": "to",
+                    "start": 31.067,
+                    "end": 31.307,
+                    "score": 0.849
+                },
+                {
+                    "word": "visit",
+                    "start": 31.327,
+                    "end": 32.848,
+                    "score": 0.791
+                },
+                {
+                    "word": "soccer",
+                    "start": 33.949,
+                    "end": 34.229,
+                    "score": 0.564
+                },
+                {
+                    "word": "stadium",
+                    "start": 34.249,
+                    "end": 34.749,
+                    "score": 0.822
+                },
+                {
+                    "word": "and",
+                    "start": 35.97,
+                    "end": 36.07,
+                    "score": 0.927
+                },
+                {
+                    "word": "watch",
+                    "start": 36.11,
+                    "end": 36.411,
+                    "score": 0.606
+                },
+                {
+                    "word": "soccer",
+                    "start": 36.431,
+                    "end": 36.811,
+                    "score": 0.596
+                },
+                {
+                    "word": "and",
+                    "start": 37.231,
+                    "end": 37.311,
+                    "score": 0.982
+                },
+                {
+                    "word": "then",
+                    "start": 37.351,
+                    "end": 37.511,
+                    "score": 0.98
+                },
+                {
+                    "word": "there",
+                    "start": 37.571,
+                    "end": 37.831,
+                    "score": 0.715
+                },
+                {
+                    "word": "are",
+                    "start": 37.912,
+                    "end": 37.992,
+                    "score": 0.471
+                },
+                {
+                    "word": "many",
+                    "start": 38.592,
+                    "end": 38.912,
+                    "score": 0.62
+                },
+                {
+                    "word": "very",
+                    "start": 39.553,
+                    "end": 39.833,
+                    "score": 0.967
+                },
+                {
+                    "word": "beautiful",
+                    "start": 40.093,
+                    "end": 40.693,
+                    "score": 0.95
+                },
+                {
+                    "word": "beach",
+                    "start": 41.594,
+                    "end": 42.034,
+                    "score": 0.641
+                },
+                {
+                    "word": "in",
+                    "start": 42.194,
+                    "end": 42.295,
+                    "score": 0.764
+                },
+                {
+                    "word": "italia",
+                    "start": 42.355,
+                    "end": 42.775,
+                    "score": 0.916
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "my",
+            "start": 0.049,
+            "end": 0.169,
+            "score": 0.72
+        },
+        {
+            "word": "favorite",
+            "start": 0.229,
+            "end": 0.729,
+            "score": 0.572
+        },
+        {
+            "word": "country",
+            "start": 0.789,
+            "end": 1.25,
+            "score": 0.865
+        },
+        {
+            "word": "is",
+            "start": 1.79,
+            "end": 1.91,
+            "score": 0.742
+        },
+        {
+            "word": "italia",
+            "start": 2.49,
+            "end": 2.97,
+            "score": 0.942
+        },
+        {
+            "word": "first",
+            "start": 3.751,
+            "end": 3.991,
+            "score": 0.695
+        },
+        {
+            "word": "of",
+            "start": 4.051,
+            "end": 4.151,
+            "score": 0.608
+        },
+        {
+            "word": "all",
+            "start": 4.251,
+            "end": 4.411,
+            "score": 0.701
+        },
+        {
+            "word": "the",
+            "start": 5.012,
+            "end": 5.152,
+            "score": 0.793
+        },
+        {
+            "word": "italia",
+            "start": 5.472,
+            "end": 5.952,
+            "score": 0.902
+        },
+        {
+            "word": "is",
+            "start": 6.112,
+            "end": 6.212,
+            "score": 0.765
+        },
+        {
+            "word": "very",
+            "start": 6.292,
+            "end": 6.592,
+            "score": 0.766
+        },
+        {
+            "word": "oldest",
+            "start": 6.712,
+            "end": 7.093,
+            "score": 0.511
+        },
+        {
+            "word": "country",
+            "start": 7.173,
+            "end": 7.593,
+            "score": 0.939
+        },
+        {
+            "word": "so",
+            "start": 8.233,
+            "end": 8.513,
+            "score": 0.892
+        },
+        {
+            "word": "therefore",
+            "start": 9.954,
+            "end": 10.374,
+            "score": 0.873
+        },
+        {
+            "word": "in",
+            "start": 11.615,
+            "end": 11.695,
+            "score": 0.819
+        },
+        {
+            "word": "italia",
+            "start": 11.795,
+            "end": 12.255,
+            "score": 0.885
+        },
+        {
+            "word": "there",
+            "start": 12.735,
+            "end": 12.955,
+            "score": 0.877
+        },
+        {
+            "word": "are",
+            "start": 13.016,
+            "end": 13.116,
+            "score": 0.859
+        },
+        {
+            "word": "so",
+            "start": 13.156,
+            "end": 13.356,
+            "score": 0.901
+        },
+        {
+            "word": "many",
+            "start": 13.416,
+            "end": 13.636,
+            "score": 0.806
+        },
+        {
+            "word": "oldest",
+            "start": 13.656,
+            "end": 14.676,
+            "score": 0.533
+        },
+        {
+            "word": "place",
+            "start": 14.796,
+            "end": 15.197,
+            "score": 0.926
+        },
+        {
+            "word": "include",
+            "start": 15.617,
+            "end": 16.077,
+            "score": 0.935
+        },
+        {
+            "word": "olympus",
+            "start": 18.378,
+            "end": 18.899,
+            "score": 0.668
+        },
+        {
+            "word": "and",
+            "start": 20.079,
+            "end": 20.159,
+            "score": 0.823
+        },
+        {
+            "word": "then",
+            "start": 20.2,
+            "end": 20.38,
+            "score": 0.908
+        },
+        {
+            "word": "italia",
+            "start": 20.92,
+            "end": 21.34,
+            "score": 0.962
+        },
+        {
+            "word": "is",
+            "start": 21.48,
+            "end": 21.58,
+            "score": 0.796
+        },
+        {
+            "word": "very",
+            "start": 21.64,
+            "end": 21.881,
+            "score": 0.852
+        },
+        {
+            "word": "famous",
+            "start": 21.921,
+            "end": 22.361,
+            "score": 0.802
+        },
+        {
+            "word": "for",
+            "start": 22.421,
+            "end": 22.701,
+            "score": 0.882
+        },
+        {
+            "word": "soccer",
+            "start": 23.262,
+            "end": 23.662,
+            "score": 0.595
+        },
+        {
+            "word": "league",
+            "start": 23.722,
+            "end": 24.142,
+            "score": 0.561
+        },
+        {
+            "word": "Serie",
+            "start": 24.222,
+            "end": 24.603,
+            "score": 0.804
+        },
+        {
+            "word": "A,",
+            "start": 24.743,
+            "end": 24.883,
+            "score": 0.851
+        },
+        {
+            "word": "B,",
+            "start": 25.063,
+            "end": 25.263,
+            "score": 0.974
+        },
+        {
+            "word": "C",
+            "start": 25.463,
+            "end": 25.703,
+            "score": 0.953
+        },
+        {
+            "word": "I",
+            "start": 27.024,
+            "end": 27.144,
+            "score": 0.813
+        },
+        {
+            "word": "like",
+            "start": 27.184,
+            "end": 27.364,
+            "score": 0.986
+        },
+        {
+            "word": "to",
+            "start": 27.404,
+            "end": 27.545,
+            "score": 0.97
+        },
+        {
+            "word": "soccer",
+            "start": 27.605,
+            "end": 28.045,
+            "score": 0.568
+        },
+        {
+            "word": "so",
+            "start": 28.505,
+            "end": 28.785,
+            "score": 0.996
+        },
+        {
+            "word": "if",
+            "start": 28.945,
+            "end": 29.026,
+            "score": 0.996
+        },
+        {
+            "word": "I",
+            "start": 29.186,
+            "end": 29.306,
+            "score": 0.826
+        },
+        {
+            "word": "go",
+            "start": 29.586,
+            "end": 29.766,
+            "score": 0.893
+        },
+        {
+            "word": "to",
+            "start": 29.806,
+            "end": 29.906,
+            "score": 0.815
+        },
+        {
+            "word": "italia",
+            "start": 29.986,
+            "end": 30.466,
+            "score": 0.954
+        },
+        {
+            "word": "I",
+            "start": 30.667,
+            "end": 30.727,
+            "score": 0.699
+        },
+        {
+            "word": "want",
+            "start": 30.767,
+            "end": 31.027,
+            "score": 0.821
+        },
+        {
+            "word": "to",
+            "start": 31.067,
+            "end": 31.307,
+            "score": 0.849
+        },
+        {
+            "word": "visit",
+            "start": 31.327,
+            "end": 32.848,
+            "score": 0.791
+        },
+        {
+            "word": "soccer",
+            "start": 33.949,
+            "end": 34.229,
+            "score": 0.564
+        },
+        {
+            "word": "stadium",
+            "start": 34.249,
+            "end": 34.749,
+            "score": 0.822
+        },
+        {
+            "word": "and",
+            "start": 35.97,
+            "end": 36.07,
+            "score": 0.927
+        },
+        {
+            "word": "watch",
+            "start": 36.11,
+            "end": 36.411,
+            "score": 0.606
+        },
+        {
+            "word": "soccer",
+            "start": 36.431,
+            "end": 36.811,
+            "score": 0.596
+        },
+        {
+            "word": "and",
+            "start": 37.231,
+            "end": 37.311,
+            "score": 0.982
+        },
+        {
+            "word": "then",
+            "start": 37.351,
+            "end": 37.511,
+            "score": 0.98
+        },
+        {
+            "word": "there",
+            "start": 37.571,
+            "end": 37.831,
+            "score": 0.715
+        },
+        {
+            "word": "are",
+            "start": 37.912,
+            "end": 37.992,
+            "score": 0.471
+        },
+        {
+            "word": "many",
+            "start": 38.592,
+            "end": 38.912,
+            "score": 0.62
+        },
+        {
+            "word": "very",
+            "start": 39.553,
+            "end": 39.833,
+            "score": 0.967
+        },
+        {
+            "word": "beautiful",
+            "start": 40.093,
+            "end": 40.693,
+            "score": 0.95
+        },
+        {
+            "word": "beach",
+            "start": 41.594,
+            "end": 42.034,
+            "score": 0.641
+        },
+        {
+            "word": "in",
+            "start": 42.194,
+            "end": 42.295,
+            "score": 0.764
+        },
+        {
+            "word": "italia",
+            "start": 42.355,
+            "end": 42.775,
+            "score": 0.916
+        }
+    ]
+}

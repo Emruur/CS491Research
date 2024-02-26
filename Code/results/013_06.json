@@ -1,0 +1,1323 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 21.71,
+            "text": " yes i'm really in i agree about about non-car zones especially for the population too or the pollution sorry because the cars are using a lot of chemicals in the gas or oil too so they are not green cars there are",
+            "words": [
+                {
+                    "word": "yes",
+                    "start": 0.069,
+                    "end": 0.369,
+                    "score": 0.838
+                },
+                {
+                    "word": "i'm",
+                    "start": 0.509,
+                    "end": 0.65,
+                    "score": 0.689
+                },
+                {
+                    "word": "really",
+                    "start": 0.69,
+                    "end": 1.17,
+                    "score": 0.627
+                },
+                {
+                    "word": "in",
+                    "start": 1.41,
+                    "end": 1.55,
+                    "score": 0.771
+                },
+                {
+                    "word": "i",
+                    "start": 1.851,
+                    "end": 1.991,
+                    "score": 0.878
+                },
+                {
+                    "word": "agree",
+                    "start": 2.131,
+                    "end": 2.451,
+                    "score": 0.882
+                },
+                {
+                    "word": "about",
+                    "start": 2.551,
+                    "end": 2.872,
+                    "score": 0.935
+                },
+                {
+                    "word": "about",
+                    "start": 3.632,
+                    "end": 3.853,
+                    "score": 0.945
+                },
+                {
+                    "word": "non-car",
+                    "start": 3.913,
+                    "end": 4.553,
+                    "score": 0.845
+                },
+                {
+                    "word": "zones",
+                    "start": 4.613,
+                    "end": 5.034,
+                    "score": 0.814
+                },
+                {
+                    "word": "especially",
+                    "start": 5.494,
+                    "end": 5.995,
+                    "score": 0.894
+                },
+                {
+                    "word": "for",
+                    "start": 6.075,
+                    "end": 6.375,
+                    "score": 0.657
+                },
+                {
+                    "word": "the",
+                    "start": 6.715,
+                    "end": 6.835,
+                    "score": 0.897
+                },
+                {
+                    "word": "population",
+                    "start": 6.876,
+                    "end": 7.636,
+                    "score": 0.968
+                },
+                {
+                    "word": "too",
+                    "start": 7.696,
+                    "end": 8.017,
+                    "score": 0.935
+                },
+                {
+                    "word": "or",
+                    "start": 8.337,
+                    "end": 8.457,
+                    "score": 0.704
+                },
+                {
+                    "word": "the",
+                    "start": 8.557,
+                    "end": 8.717,
+                    "score": 0.766
+                },
+                {
+                    "word": "pollution",
+                    "start": 8.777,
+                    "end": 9.498,
+                    "score": 0.794
+                },
+                {
+                    "word": "sorry",
+                    "start": 9.678,
+                    "end": 10.019,
+                    "score": 0.814
+                },
+                {
+                    "word": "because",
+                    "start": 11.039,
+                    "end": 11.54,
+                    "score": 0.807
+                },
+                {
+                    "word": "the",
+                    "start": 11.6,
+                    "end": 11.72,
+                    "score": 0.714
+                },
+                {
+                    "word": "cars",
+                    "start": 11.76,
+                    "end": 12.06,
+                    "score": 0.884
+                },
+                {
+                    "word": "are",
+                    "start": 12.161,
+                    "end": 12.281,
+                    "score": 0.747
+                },
+                {
+                    "word": "using",
+                    "start": 12.441,
+                    "end": 12.701,
+                    "score": 0.961
+                },
+                {
+                    "word": "a",
+                    "start": 12.721,
+                    "end": 12.741,
+                    "score": 0.0
+                },
+                {
+                    "word": "lot",
+                    "start": 12.961,
+                    "end": 13.242,
+                    "score": 0.724
+                },
+                {
+                    "word": "of",
+                    "start": 13.342,
+                    "end": 13.522,
+                    "score": 0.667
+                },
+                {
+                    "word": "chemicals",
+                    "start": 14.182,
+                    "end": 14.883,
+                    "score": 0.709
+                },
+                {
+                    "word": "in",
+                    "start": 14.943,
+                    "end": 15.023,
+                    "score": 0.84
+                },
+                {
+                    "word": "the",
+                    "start": 15.083,
+                    "end": 15.243,
+                    "score": 0.854
+                },
+                {
+                    "word": "gas",
+                    "start": 15.284,
+                    "end": 15.624,
+                    "score": 0.893
+                },
+                {
+                    "word": "or",
+                    "start": 15.764,
+                    "end": 15.904,
+                    "score": 0.728
+                },
+                {
+                    "word": "oil",
+                    "start": 16.124,
+                    "end": 16.325,
+                    "score": 0.858
+                },
+                {
+                    "word": "too",
+                    "start": 16.385,
+                    "end": 16.625,
+                    "score": 0.573
+                },
+                {
+                    "word": "so",
+                    "start": 17.185,
+                    "end": 17.626,
+                    "score": 0.538
+                },
+                {
+                    "word": "they",
+                    "start": 18.166,
+                    "end": 18.366,
+                    "score": 0.884
+                },
+                {
+                    "word": "are",
+                    "start": 18.487,
+                    "end": 18.667,
+                    "score": 0.817
+                },
+                {
+                    "word": "not",
+                    "start": 18.787,
+                    "end": 19.067,
+                    "score": 0.924
+                },
+                {
+                    "word": "green",
+                    "start": 19.367,
+                    "end": 19.728,
+                    "score": 0.91
+                },
+                {
+                    "word": "cars",
+                    "start": 19.908,
+                    "end": 20.368,
+                    "score": 0.692
+                },
+                {
+                    "word": "there",
+                    "start": 21.289,
+                    "end": 21.489,
+                    "score": 0.806
+                },
+                {
+                    "word": "are",
+                    "start": 21.61,
+                    "end": 21.71,
+                    "score": 0.873
+                }
+            ]
+        },
+        {
+            "start": 23.151,
+            "end": 42.821,
+            "text": " green cards too on the market but especially i was thinking that the more important thing here is when the people can use the bikes for make exercise and not be don't be people with how do you say that",
+            "words": [
+                {
+                    "word": "green",
+                    "start": 23.151,
+                    "end": 23.411,
+                    "score": 0.906
+                },
+                {
+                    "word": "cards",
+                    "start": 23.451,
+                    "end": 23.711,
+                    "score": 0.855
+                },
+                {
+                    "word": "too",
+                    "start": 23.771,
+                    "end": 23.991,
+                    "score": 0.888
+                },
+                {
+                    "word": "on",
+                    "start": 24.031,
+                    "end": 24.091,
+                    "score": 0.996
+                },
+                {
+                    "word": "the",
+                    "start": 24.131,
+                    "end": 24.211,
+                    "score": 0.897
+                },
+                {
+                    "word": "market",
+                    "start": 24.251,
+                    "end": 24.791,
+                    "score": 0.824
+                },
+                {
+                    "word": "but",
+                    "start": 25.192,
+                    "end": 25.412,
+                    "score": 0.885
+                },
+                {
+                    "word": "especially",
+                    "start": 25.592,
+                    "end": 26.172,
+                    "score": 0.826
+                },
+                {
+                    "word": "i",
+                    "start": 26.192,
+                    "end": 26.212,
+                    "score": 0.001
+                },
+                {
+                    "word": "was",
+                    "start": 26.712,
+                    "end": 26.913,
+                    "score": 0.904
+                },
+                {
+                    "word": "thinking",
+                    "start": 26.993,
+                    "end": 27.433,
+                    "score": 0.893
+                },
+                {
+                    "word": "that",
+                    "start": 27.533,
+                    "end": 27.733,
+                    "score": 0.8
+                },
+                {
+                    "word": "the",
+                    "start": 27.793,
+                    "end": 27.893,
+                    "score": 0.928
+                },
+                {
+                    "word": "more",
+                    "start": 27.933,
+                    "end": 28.113,
+                    "score": 0.632
+                },
+                {
+                    "word": "important",
+                    "start": 28.173,
+                    "end": 28.734,
+                    "score": 0.963
+                },
+                {
+                    "word": "thing",
+                    "start": 28.874,
+                    "end": 29.194,
+                    "score": 0.873
+                },
+                {
+                    "word": "here",
+                    "start": 29.274,
+                    "end": 29.514,
+                    "score": 0.892
+                },
+                {
+                    "word": "is",
+                    "start": 29.534,
+                    "end": 29.934,
+                    "score": 0.633
+                },
+                {
+                    "word": "when",
+                    "start": 30.755,
+                    "end": 30.955,
+                    "score": 0.917
+                },
+                {
+                    "word": "the",
+                    "start": 30.995,
+                    "end": 31.095,
+                    "score": 0.673
+                },
+                {
+                    "word": "people",
+                    "start": 31.175,
+                    "end": 31.555,
+                    "score": 0.855
+                },
+                {
+                    "word": "can",
+                    "start": 31.675,
+                    "end": 31.995,
+                    "score": 0.809
+                },
+                {
+                    "word": "use",
+                    "start": 32.235,
+                    "end": 32.515,
+                    "score": 0.687
+                },
+                {
+                    "word": "the",
+                    "start": 32.976,
+                    "end": 33.176,
+                    "score": 0.822
+                },
+                {
+                    "word": "bikes",
+                    "start": 33.256,
+                    "end": 33.696,
+                    "score": 0.874
+                },
+                {
+                    "word": "for",
+                    "start": 33.876,
+                    "end": 34.116,
+                    "score": 0.733
+                },
+                {
+                    "word": "make",
+                    "start": 34.196,
+                    "end": 34.457,
+                    "score": 0.912
+                },
+                {
+                    "word": "exercise",
+                    "start": 34.517,
+                    "end": 35.277,
+                    "score": 0.693
+                },
+                {
+                    "word": "and",
+                    "start": 35.857,
+                    "end": 36.037,
+                    "score": 0.82
+                },
+                {
+                    "word": "not",
+                    "start": 36.818,
+                    "end": 37.118,
+                    "score": 0.855
+                },
+                {
+                    "word": "be",
+                    "start": 37.198,
+                    "end": 37.578,
+                    "score": 0.897
+                },
+                {
+                    "word": "don't",
+                    "start": 38.779,
+                    "end": 38.979,
+                    "score": 0.732
+                },
+                {
+                    "word": "be",
+                    "start": 39.039,
+                    "end": 39.239,
+                    "score": 0.898
+                },
+                {
+                    "word": "people",
+                    "start": 39.399,
+                    "end": 39.819,
+                    "score": 0.826
+                },
+                {
+                    "word": "with",
+                    "start": 39.999,
+                    "end": 40.3,
+                    "score": 0.829
+                },
+                {
+                    "word": "how",
+                    "start": 42.061,
+                    "end": 42.181,
+                    "score": 0.274
+                },
+                {
+                    "word": "do",
+                    "start": 42.201,
+                    "end": 42.261,
+                    "score": 0.236
+                },
+                {
+                    "word": "you",
+                    "start": 42.281,
+                    "end": 42.421,
+                    "score": 0.769
+                },
+                {
+                    "word": "say",
+                    "start": 42.461,
+                    "end": 42.661,
+                    "score": 0.948
+                },
+                {
+                    "word": "that",
+                    "start": 42.681,
+                    "end": 42.821,
+                    "score": 0.978
+                }
+            ]
+        },
+        {
+            "start": 45.269,
+            "end": 59.635,
+            "text": " uh obesity or you don't you don't you you have the option for main exercise from the bikes or different mechanical or normal ways settings ready",
+            "words": [
+                {
+                    "word": "uh",
+                    "start": 45.269,
+                    "end": 45.369,
+                    "score": 0.512
+                },
+                {
+                    "word": "obesity",
+                    "start": 46.43,
+                    "end": 47.23,
+                    "score": 0.836
+                },
+                {
+                    "word": "or",
+                    "start": 47.37,
+                    "end": 47.55,
+                    "score": 0.634
+                },
+                {
+                    "word": "you",
+                    "start": 47.57,
+                    "end": 47.63,
+                    "score": 0.002
+                },
+                {
+                    "word": "don't",
+                    "start": 47.65,
+                    "end": 48.43,
+                    "score": 0.673
+                },
+                {
+                    "word": "you",
+                    "start": 48.731,
+                    "end": 48.851,
+                    "score": 0.812
+                },
+                {
+                    "word": "don't",
+                    "start": 48.891,
+                    "end": 49.171,
+                    "score": 0.721
+                },
+                {
+                    "word": "you",
+                    "start": 49.931,
+                    "end": 50.071,
+                    "score": 0.5
+                },
+                {
+                    "word": "you",
+                    "start": 50.111,
+                    "end": 50.271,
+                    "score": 0.875
+                },
+                {
+                    "word": "have",
+                    "start": 50.311,
+                    "end": 50.491,
+                    "score": 0.98
+                },
+                {
+                    "word": "the",
+                    "start": 50.551,
+                    "end": 50.631,
+                    "score": 0.969
+                },
+                {
+                    "word": "option",
+                    "start": 50.731,
+                    "end": 51.071,
+                    "score": 0.907
+                },
+                {
+                    "word": "for",
+                    "start": 51.111,
+                    "end": 51.292,
+                    "score": 0.88
+                },
+                {
+                    "word": "main",
+                    "start": 51.352,
+                    "end": 51.672,
+                    "score": 0.726
+                },
+                {
+                    "word": "exercise",
+                    "start": 51.892,
+                    "end": 52.652,
+                    "score": 0.614
+                },
+                {
+                    "word": "from",
+                    "start": 52.952,
+                    "end": 53.112,
+                    "score": 0.799
+                },
+                {
+                    "word": "the",
+                    "start": 53.132,
+                    "end": 53.212,
+                    "score": 0.824
+                },
+                {
+                    "word": "bikes",
+                    "start": 53.272,
+                    "end": 53.572,
+                    "score": 0.616
+                },
+                {
+                    "word": "or",
+                    "start": 53.673,
+                    "end": 53.793,
+                    "score": 0.69
+                },
+                {
+                    "word": "different",
+                    "start": 53.853,
+                    "end": 54.413,
+                    "score": 0.703
+                },
+                {
+                    "word": "mechanical",
+                    "start": 54.893,
+                    "end": 55.613,
+                    "score": 0.872
+                },
+                {
+                    "word": "or",
+                    "start": 55.693,
+                    "end": 55.773,
+                    "score": 0.772
+                },
+                {
+                    "word": "normal",
+                    "start": 55.873,
+                    "end": 56.274,
+                    "score": 0.889
+                },
+                {
+                    "word": "ways",
+                    "start": 56.514,
+                    "end": 56.814,
+                    "score": 0.969
+                },
+                {
+                    "word": "settings",
+                    "start": 59.075,
+                    "end": 59.355,
+                    "score": 0.465
+                },
+                {
+                    "word": "ready",
+                    "start": 59.415,
+                    "end": 59.635,
+                    "score": 0.482
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "yes",
+            "start": 0.069,
+            "end": 0.369,
+            "score": 0.838
+        },
+        {
+            "word": "i'm",
+            "start": 0.509,
+            "end": 0.65,
+            "score": 0.689
+        },
+        {
+            "word": "really",
+            "start": 0.69,
+            "end": 1.17,
+            "score": 0.627
+        },
+        {
+            "word": "in",
+            "start": 1.41,
+            "end": 1.55,
+            "score": 0.771
+        },
+        {
+            "word": "i",
+            "start": 1.851,
+            "end": 1.991,
+            "score": 0.878
+        },
+        {
+            "word": "agree",
+            "start": 2.131,
+            "end": 2.451,
+            "score": 0.882
+        },
+        {
+            "word": "about",
+            "start": 2.551,
+            "end": 2.872,
+            "score": 0.935
+        },
+        {
+            "word": "about",
+            "start": 3.632,
+            "end": 3.853,
+            "score": 0.945
+        },
+        {
+            "word": "non-car",
+            "start": 3.913,
+            "end": 4.553,
+            "score": 0.845
+        },
+        {
+            "word": "zones",
+            "start": 4.613,
+            "end": 5.034,
+            "score": 0.814
+        },
+        {
+            "word": "especially",
+            "start": 5.494,
+            "end": 5.995,
+            "score": 0.894
+        },
+        {
+            "word": "for",
+            "start": 6.075,
+            "end": 6.375,
+            "score": 0.657
+        },
+        {
+            "word": "the",
+            "start": 6.715,
+            "end": 6.835,
+            "score": 0.897
+        },
+        {
+            "word": "population",
+            "start": 6.876,
+            "end": 7.636,
+            "score": 0.968
+        },
+        {
+            "word": "too",
+            "start": 7.696,
+            "end": 8.017,
+            "score": 0.935
+        },
+        {
+            "word": "or",
+            "start": 8.337,
+            "end": 8.457,
+            "score": 0.704
+        },
+        {
+            "word": "the",
+            "start": 8.557,
+            "end": 8.717,
+            "score": 0.766
+        },
+        {
+            "word": "pollution",
+            "start": 8.777,
+            "end": 9.498,
+            "score": 0.794
+        },
+        {
+            "word": "sorry",
+            "start": 9.678,
+            "end": 10.019,
+            "score": 0.814
+        },
+        {
+            "word": "because",
+            "start": 11.039,
+            "end": 11.54,
+            "score": 0.807
+        },
+        {
+            "word": "the",
+            "start": 11.6,
+            "end": 11.72,
+            "score": 0.714
+        },
+        {
+            "word": "cars",
+            "start": 11.76,
+            "end": 12.06,
+            "score": 0.884
+        },
+        {
+            "word": "are",
+            "start": 12.161,
+            "end": 12.281,
+            "score": 0.747
+        },
+        {
+            "word": "using",
+            "start": 12.441,
+            "end": 12.701,
+            "score": 0.961
+        },
+        {
+            "word": "a",
+            "start": 12.721,
+            "end": 12.741,
+            "score": 0.0
+        },
+        {
+            "word": "lot",
+            "start": 12.961,
+            "end": 13.242,
+            "score": 0.724
+        },
+        {
+            "word": "of",
+            "start": 13.342,
+            "end": 13.522,
+            "score": 0.667
+        },
+        {
+            "word": "chemicals",
+            "start": 14.182,
+            "end": 14.883,
+            "score": 0.709
+        },
+        {
+            "word": "in",
+            "start": 14.943,
+            "end": 15.023,
+            "score": 0.84
+        },
+        {
+            "word": "the",
+            "start": 15.083,
+            "end": 15.243,
+            "score": 0.854
+        },
+        {
+            "word": "gas",
+            "start": 15.284,
+            "end": 15.624,
+            "score": 0.893
+        },
+        {
+            "word": "or",
+            "start": 15.764,
+            "end": 15.904,
+            "score": 0.728
+        },
+        {
+            "word": "oil",
+            "start": 16.124,
+            "end": 16.325,
+            "score": 0.858
+        },
+        {
+            "word": "too",
+            "start": 16.385,
+            "end": 16.625,
+            "score": 0.573
+        },
+        {
+            "word": "so",
+            "start": 17.185,
+            "end": 17.626,
+            "score": 0.538
+        },
+        {
+            "word": "they",
+            "start": 18.166,
+            "end": 18.366,
+            "score": 0.884
+        },
+        {
+            "word": "are",
+            "start": 18.487,
+            "end": 18.667,
+            "score": 0.817
+        },
+        {
+            "word": "not",
+            "start": 18.787,
+            "end": 19.067,
+            "score": 0.924
+        },
+        {
+            "word": "green",
+            "start": 19.367,
+            "end": 19.728,
+            "score": 0.91
+        },
+        {
+            "word": "cars",
+            "start": 19.908,
+            "end": 20.368,
+            "score": 0.692
+        },
+        {
+            "word": "there",
+            "start": 21.289,
+            "end": 21.489,
+            "score": 0.806
+        },
+        {
+            "word": "are",
+            "start": 21.61,
+            "end": 21.71,
+            "score": 0.873
+        },
+        {
+            "word": "green",
+            "start": 23.151,
+            "end": 23.411,
+            "score": 0.906
+        },
+        {
+            "word": "cards",
+            "start": 23.451,
+            "end": 23.711,
+            "score": 0.855
+        },
+        {
+            "word": "too",
+            "start": 23.771,
+            "end": 23.991,
+            "score": 0.888
+        },
+        {
+            "word": "on",
+            "start": 24.031,
+            "end": 24.091,
+            "score": 0.996
+        },
+        {
+            "word": "the",
+            "start": 24.131,
+            "end": 24.211,
+            "score": 0.897
+        },
+        {
+            "word": "market",
+            "start": 24.251,
+            "end": 24.791,
+            "score": 0.824
+        },
+        {
+            "word": "but",
+            "start": 25.192,
+            "end": 25.412,
+            "score": 0.885
+        },
+        {
+            "word": "especially",
+            "start": 25.592,
+            "end": 26.172,
+            "score": 0.826
+        },
+        {
+            "word": "i",
+            "start": 26.192,
+            "end": 26.212,
+            "score": 0.001
+        },
+        {
+            "word": "was",
+            "start": 26.712,
+            "end": 26.913,
+            "score": 0.904
+        },
+        {
+            "word": "thinking",
+            "start": 26.993,
+            "end": 27.433,
+            "score": 0.893
+        },
+        {
+            "word": "that",
+            "start": 27.533,
+            "end": 27.733,
+            "score": 0.8
+        },
+        {
+            "word": "the",
+            "start": 27.793,
+            "end": 27.893,
+            "score": 0.928
+        },
+        {
+            "word": "more",
+            "start": 27.933,
+            "end": 28.113,
+            "score": 0.632
+        },
+        {
+            "word": "important",
+            "start": 28.173,
+            "end": 28.734,
+            "score": 0.963
+        },
+        {
+            "word": "thing",
+            "start": 28.874,
+            "end": 29.194,
+            "score": 0.873
+        },
+        {
+            "word": "here",
+            "start": 29.274,
+            "end": 29.514,
+            "score": 0.892
+        },
+        {
+            "word": "is",
+            "start": 29.534,
+            "end": 29.934,
+            "score": 0.633
+        },
+        {
+            "word": "when",
+            "start": 30.755,
+            "end": 30.955,
+            "score": 0.917
+        },
+        {
+            "word": "the",
+            "start": 30.995,
+            "end": 31.095,
+            "score": 0.673
+        },
+        {
+            "word": "people",
+            "start": 31.175,
+            "end": 31.555,
+            "score": 0.855
+        },
+        {
+            "word": "can",
+            "start": 31.675,
+            "end": 31.995,
+            "score": 0.809
+        },
+        {
+            "word": "use",
+            "start": 32.235,
+            "end": 32.515,
+            "score": 0.687
+        },
+        {
+            "word": "the",
+            "start": 32.976,
+            "end": 33.176,
+            "score": 0.822
+        },
+        {
+            "word": "bikes",
+            "start": 33.256,
+            "end": 33.696,
+            "score": 0.874
+        },
+        {
+            "word": "for",
+            "start": 33.876,
+            "end": 34.116,
+            "score": 0.733
+        },
+        {
+            "word": "make",
+            "start": 34.196,
+            "end": 34.457,
+            "score": 0.912
+        },
+        {
+            "word": "exercise",
+            "start": 34.517,
+            "end": 35.277,
+            "score": 0.693
+        },
+        {
+            "word": "and",
+            "start": 35.857,
+            "end": 36.037,
+            "score": 0.82
+        },
+        {
+            "word": "not",
+            "start": 36.818,
+            "end": 37.118,
+            "score": 0.855
+        },
+        {
+            "word": "be",
+            "start": 37.198,
+            "end": 37.578,
+            "score": 0.897
+        },
+        {
+            "word": "don't",
+            "start": 38.779,
+            "end": 38.979,
+            "score": 0.732
+        },
+        {
+            "word": "be",
+            "start": 39.039,
+            "end": 39.239,
+            "score": 0.898
+        },
+        {
+            "word": "people",
+            "start": 39.399,
+            "end": 39.819,
+            "score": 0.826
+        },
+        {
+            "word": "with",
+            "start": 39.999,
+            "end": 40.3,
+            "score": 0.829
+        },
+        {
+            "word": "how",
+            "start": 42.061,
+            "end": 42.181,
+            "score": 0.274
+        },
+        {
+            "word": "do",
+            "start": 42.201,
+            "end": 42.261,
+            "score": 0.236
+        },
+        {
+            "word": "you",
+            "start": 42.281,
+            "end": 42.421,
+            "score": 0.769
+        },
+        {
+            "word": "say",
+            "start": 42.461,
+            "end": 42.661,
+            "score": 0.948
+        },
+        {
+            "word": "that",
+            "start": 42.681,
+            "end": 42.821,
+            "score": 0.978
+        },
+        {
+            "word": "uh",
+            "start": 45.269,
+            "end": 45.369,
+            "score": 0.512
+        },
+        {
+            "word": "obesity",
+            "start": 46.43,
+            "end": 47.23,
+            "score": 0.836
+        },
+        {
+            "word": "or",
+            "start": 47.37,
+            "end": 47.55,
+            "score": 0.634
+        },
+        {
+            "word": "you",
+            "start": 47.57,
+            "end": 47.63,
+            "score": 0.002
+        },
+        {
+            "word": "don't",
+            "start": 47.65,
+            "end": 48.43,
+            "score": 0.673
+        },
+        {
+            "word": "you",
+            "start": 48.731,
+            "end": 48.851,
+            "score": 0.812
+        },
+        {
+            "word": "don't",
+            "start": 48.891,
+            "end": 49.171,
+            "score": 0.721
+        },
+        {
+            "word": "you",
+            "start": 49.931,
+            "end": 50.071,
+            "score": 0.5
+        },
+        {
+            "word": "you",
+            "start": 50.111,
+            "end": 50.271,
+            "score": 0.875
+        },
+        {
+            "word": "have",
+            "start": 50.311,
+            "end": 50.491,
+            "score": 0.98
+        },
+        {
+            "word": "the",
+            "start": 50.551,
+            "end": 50.631,
+            "score": 0.969
+        },
+        {
+            "word": "option",
+            "start": 50.731,
+            "end": 51.071,
+            "score": 0.907
+        },
+        {
+            "word": "for",
+            "start": 51.111,
+            "end": 51.292,
+            "score": 0.88
+        },
+        {
+            "word": "main",
+            "start": 51.352,
+            "end": 51.672,
+            "score": 0.726
+        },
+        {
+            "word": "exercise",
+            "start": 51.892,
+            "end": 52.652,
+            "score": 0.614
+        },
+        {
+            "word": "from",
+            "start": 52.952,
+            "end": 53.112,
+            "score": 0.799
+        },
+        {
+            "word": "the",
+            "start": 53.132,
+            "end": 53.212,
+            "score": 0.824
+        },
+        {
+            "word": "bikes",
+            "start": 53.272,
+            "end": 53.572,
+            "score": 0.616
+        },
+        {
+            "word": "or",
+            "start": 53.673,
+            "end": 53.793,
+            "score": 0.69
+        },
+        {
+            "word": "different",
+            "start": 53.853,
+            "end": 54.413,
+            "score": 0.703
+        },
+        {
+            "word": "mechanical",
+            "start": 54.893,
+            "end": 55.613,
+            "score": 0.872
+        },
+        {
+            "word": "or",
+            "start": 55.693,
+            "end": 55.773,
+            "score": 0.772
+        },
+        {
+            "word": "normal",
+            "start": 55.873,
+            "end": 56.274,
+            "score": 0.889
+        },
+        {
+            "word": "ways",
+            "start": 56.514,
+            "end": 56.814,
+            "score": 0.969
+        },
+        {
+            "word": "settings",
+            "start": 59.075,
+            "end": 59.355,
+            "score": 0.465
+        },
+        {
+            "word": "ready",
+            "start": 59.415,
+            "end": 59.635,
+            "score": 0.482
+        }
+    ]
+}

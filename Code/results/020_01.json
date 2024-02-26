@@ -1,0 +1,931 @@
+{
+    "segments": [
+        {
+            "start": 0.409,
+            "end": 6.633,
+            "text": " Among all the movies I have seen before, I think Transformers is my favorite movie.",
+            "words": [
+                {
+                    "word": "Among",
+                    "start": 0.409,
+                    "end": 0.689,
+                    "score": 0.543
+                },
+                {
+                    "word": "all",
+                    "start": 0.77,
+                    "end": 0.87,
+                    "score": 0.593
+                },
+                {
+                    "word": "the",
+                    "start": 0.89,
+                    "end": 1.01,
+                    "score": 0.64
+                },
+                {
+                    "word": "movies",
+                    "start": 1.05,
+                    "end": 1.49,
+                    "score": 0.733
+                },
+                {
+                    "word": "I",
+                    "start": 1.57,
+                    "end": 1.65,
+                    "score": 0.825
+                },
+                {
+                    "word": "have",
+                    "start": 1.69,
+                    "end": 1.87,
+                    "score": 0.906
+                },
+                {
+                    "word": "seen",
+                    "start": 1.93,
+                    "end": 2.19,
+                    "score": 0.666
+                },
+                {
+                    "word": "before,",
+                    "start": 2.251,
+                    "end": 2.751,
+                    "score": 0.895
+                },
+                {
+                    "word": "I",
+                    "start": 2.871,
+                    "end": 2.931,
+                    "score": 0.757
+                },
+                {
+                    "word": "think",
+                    "start": 2.971,
+                    "end": 3.691,
+                    "score": 0.837
+                },
+                {
+                    "word": "Transformers",
+                    "start": 3.972,
+                    "end": 4.892,
+                    "score": 0.889
+                },
+                {
+                    "word": "is",
+                    "start": 5.052,
+                    "end": 5.193,
+                    "score": 0.724
+                },
+                {
+                    "word": "my",
+                    "start": 5.273,
+                    "end": 5.433,
+                    "score": 0.996
+                },
+                {
+                    "word": "favorite",
+                    "start": 5.493,
+                    "end": 6.133,
+                    "score": 0.64
+                },
+                {
+                    "word": "movie.",
+                    "start": 6.173,
+                    "end": 6.633,
+                    "score": 0.811
+                }
+            ]
+        },
+        {
+            "start": 7.394,
+            "end": 16.0,
+            "text": "It is an American movie and it is famous worldwide in the last year.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 7.394,
+                    "end": 7.474,
+                    "score": 0.968
+                },
+                {
+                    "word": "is",
+                    "start": 7.574,
+                    "end": 7.654,
+                    "score": 0.841
+                },
+                {
+                    "word": "an",
+                    "start": 7.774,
+                    "end": 7.874,
+                    "score": 0.434
+                },
+                {
+                    "word": "American",
+                    "start": 8.014,
+                    "end": 8.715,
+                    "score": 0.937
+                },
+                {
+                    "word": "movie",
+                    "start": 9.375,
+                    "end": 9.856,
+                    "score": 0.794
+                },
+                {
+                    "word": "and",
+                    "start": 10.016,
+                    "end": 10.436,
+                    "score": 0.769
+                },
+                {
+                    "word": "it",
+                    "start": 10.516,
+                    "end": 10.636,
+                    "score": 0.873
+                },
+                {
+                    "word": "is",
+                    "start": 10.776,
+                    "end": 11.137,
+                    "score": 0.838
+                },
+                {
+                    "word": "famous",
+                    "start": 11.677,
+                    "end": 12.457,
+                    "score": 0.841
+                },
+                {
+                    "word": "worldwide",
+                    "start": 13.838,
+                    "end": 14.579,
+                    "score": 0.65
+                },
+                {
+                    "word": "in",
+                    "start": 14.839,
+                    "end": 14.979,
+                    "score": 0.776
+                },
+                {
+                    "word": "the",
+                    "start": 14.999,
+                    "end": 15.179,
+                    "score": 0.737
+                },
+                {
+                    "word": "last",
+                    "start": 15.219,
+                    "end": 15.68,
+                    "score": 0.899
+                },
+                {
+                    "word": "year.",
+                    "start": 15.72,
+                    "end": 16.0,
+                    "score": 0.843
+                }
+            ]
+        },
+        {
+            "start": 17.421,
+            "end": 23.865,
+            "text": "I like it because I think the computer technology in the movie is perfect.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 17.421,
+                    "end": 17.501,
+                    "score": 0.975
+                },
+                {
+                    "word": "like",
+                    "start": 17.541,
+                    "end": 17.761,
+                    "score": 0.898
+                },
+                {
+                    "word": "it",
+                    "start": 17.841,
+                    "end": 18.001,
+                    "score": 0.807
+                },
+                {
+                    "word": "because",
+                    "start": 18.081,
+                    "end": 18.542,
+                    "score": 0.766
+                },
+                {
+                    "word": "I",
+                    "start": 18.662,
+                    "end": 18.742,
+                    "score": 0.994
+                },
+                {
+                    "word": "think",
+                    "start": 18.802,
+                    "end": 19.062,
+                    "score": 0.833
+                },
+                {
+                    "word": "the",
+                    "start": 19.202,
+                    "end": 19.322,
+                    "score": 0.586
+                },
+                {
+                    "word": "computer",
+                    "start": 19.402,
+                    "end": 19.943,
+                    "score": 0.773
+                },
+                {
+                    "word": "technology",
+                    "start": 20.003,
+                    "end": 20.943,
+                    "score": 0.663
+                },
+                {
+                    "word": "in",
+                    "start": 21.684,
+                    "end": 21.864,
+                    "score": 0.847
+                },
+                {
+                    "word": "the",
+                    "start": 21.924,
+                    "end": 22.184,
+                    "score": 0.865
+                },
+                {
+                    "word": "movie",
+                    "start": 22.264,
+                    "end": 22.744,
+                    "score": 0.858
+                },
+                {
+                    "word": "is",
+                    "start": 22.824,
+                    "end": 23.065,
+                    "score": 0.712
+                },
+                {
+                    "word": "perfect.",
+                    "start": 23.265,
+                    "end": 23.865,
+                    "score": 0.928
+                }
+            ]
+        },
+        {
+            "start": 24.205,
+            "end": 26.227,
+            "text": "You can see the Transformers.",
+            "words": [
+                {
+                    "word": "You",
+                    "start": 24.205,
+                    "end": 24.426,
+                    "score": 0.881
+                },
+                {
+                    "word": "can",
+                    "start": 24.446,
+                    "end": 24.726,
+                    "score": 0.872
+                },
+                {
+                    "word": "see",
+                    "start": 24.806,
+                    "end": 25.086,
+                    "score": 0.798
+                },
+                {
+                    "word": "the",
+                    "start": 25.126,
+                    "end": 25.266,
+                    "score": 0.879
+                },
+                {
+                    "word": "Transformers.",
+                    "start": 25.326,
+                    "end": 26.227,
+                    "score": 0.882
+                }
+            ]
+        },
+        {
+            "start": 26.787,
+            "end": 30.59,
+            "text": " Like real creators live in the world.",
+            "words": [
+                {
+                    "word": "Like",
+                    "start": 26.787,
+                    "end": 27.027,
+                    "score": 0.973
+                },
+                {
+                    "word": "real",
+                    "start": 27.248,
+                    "end": 27.608,
+                    "score": 0.853
+                },
+                {
+                    "word": "creators",
+                    "start": 27.628,
+                    "end": 29.089,
+                    "score": 0.845
+                },
+                {
+                    "word": "live",
+                    "start": 29.369,
+                    "end": 29.63,
+                    "score": 0.902
+                },
+                {
+                    "word": "in",
+                    "start": 29.75,
+                    "end": 29.91,
+                    "score": 0.779
+                },
+                {
+                    "word": "the",
+                    "start": 29.93,
+                    "end": 30.19,
+                    "score": 0.646
+                },
+                {
+                    "word": "world.",
+                    "start": 30.23,
+                    "end": 30.59,
+                    "score": 0.548
+                }
+            ]
+        },
+        {
+            "start": 31.291,
+            "end": 34.754,
+            "text": "And I think the cars in the movie are very cool.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 31.291,
+                    "end": 31.431,
+                    "score": 0.733
+                },
+                {
+                    "word": "I",
+                    "start": 31.591,
+                    "end": 31.691,
+                    "score": 0.958
+                },
+                {
+                    "word": "think",
+                    "start": 31.751,
+                    "end": 32.232,
+                    "score": 0.727
+                },
+                {
+                    "word": "the",
+                    "start": 32.252,
+                    "end": 32.372,
+                    "score": 0.394
+                },
+                {
+                    "word": "cars",
+                    "start": 32.472,
+                    "end": 32.912,
+                    "score": 0.846
+                },
+                {
+                    "word": "in",
+                    "start": 33.092,
+                    "end": 33.192,
+                    "score": 0.756
+                },
+                {
+                    "word": "the",
+                    "start": 33.212,
+                    "end": 33.373,
+                    "score": 0.561
+                },
+                {
+                    "word": "movie",
+                    "start": 33.393,
+                    "end": 33.833,
+                    "score": 0.688
+                },
+                {
+                    "word": "are",
+                    "start": 33.933,
+                    "end": 34.013,
+                    "score": 0.29
+                },
+                {
+                    "word": "very",
+                    "start": 34.033,
+                    "end": 34.313,
+                    "score": 0.57
+                },
+                {
+                    "word": "cool.",
+                    "start": 34.413,
+                    "end": 34.754,
+                    "score": 0.815
+                }
+            ]
+        },
+        {
+            "start": 35.714,
+            "end": 40.058,
+            "text": "I want to buy one like them.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 35.714,
+                    "end": 35.795,
+                    "score": 0.884
+                },
+                {
+                    "word": "want",
+                    "start": 35.855,
+                    "end": 36.175,
+                    "score": 0.849
+                },
+                {
+                    "word": "to",
+                    "start": 36.255,
+                    "end": 36.475,
+                    "score": 0.869
+                },
+                {
+                    "word": "buy",
+                    "start": 36.575,
+                    "end": 36.955,
+                    "score": 0.72
+                },
+                {
+                    "word": "one",
+                    "start": 37.776,
+                    "end": 38.777,
+                    "score": 0.793
+                },
+                {
+                    "word": "like",
+                    "start": 39.377,
+                    "end": 39.598,
+                    "score": 0.983
+                },
+                {
+                    "word": "them.",
+                    "start": 39.778,
+                    "end": 40.058,
+                    "score": 0.704
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Among",
+            "start": 0.409,
+            "end": 0.689,
+            "score": 0.543
+        },
+        {
+            "word": "all",
+            "start": 0.77,
+            "end": 0.87,
+            "score": 0.593
+        },
+        {
+            "word": "the",
+            "start": 0.89,
+            "end": 1.01,
+            "score": 0.64
+        },
+        {
+            "word": "movies",
+            "start": 1.05,
+            "end": 1.49,
+            "score": 0.733
+        },
+        {
+            "word": "I",
+            "start": 1.57,
+            "end": 1.65,
+            "score": 0.825
+        },
+        {
+            "word": "have",
+            "start": 1.69,
+            "end": 1.87,
+            "score": 0.906
+        },
+        {
+            "word": "seen",
+            "start": 1.93,
+            "end": 2.19,
+            "score": 0.666
+        },
+        {
+            "word": "before,",
+            "start": 2.251,
+            "end": 2.751,
+            "score": 0.895
+        },
+        {
+            "word": "I",
+            "start": 2.871,
+            "end": 2.931,
+            "score": 0.757
+        },
+        {
+            "word": "think",
+            "start": 2.971,
+            "end": 3.691,
+            "score": 0.837
+        },
+        {
+            "word": "Transformers",
+            "start": 3.972,
+            "end": 4.892,
+            "score": 0.889
+        },
+        {
+            "word": "is",
+            "start": 5.052,
+            "end": 5.193,
+            "score": 0.724
+        },
+        {
+            "word": "my",
+            "start": 5.273,
+            "end": 5.433,
+            "score": 0.996
+        },
+        {
+            "word": "favorite",
+            "start": 5.493,
+            "end": 6.133,
+            "score": 0.64
+        },
+        {
+            "word": "movie.",
+            "start": 6.173,
+            "end": 6.633,
+            "score": 0.811
+        },
+        {
+            "word": "It",
+            "start": 7.394,
+            "end": 7.474,
+            "score": 0.968
+        },
+        {
+            "word": "is",
+            "start": 7.574,
+            "end": 7.654,
+            "score": 0.841
+        },
+        {
+            "word": "an",
+            "start": 7.774,
+            "end": 7.874,
+            "score": 0.434
+        },
+        {
+            "word": "American",
+            "start": 8.014,
+            "end": 8.715,
+            "score": 0.937
+        },
+        {
+            "word": "movie",
+            "start": 9.375,
+            "end": 9.856,
+            "score": 0.794
+        },
+        {
+            "word": "and",
+            "start": 10.016,
+            "end": 10.436,
+            "score": 0.769
+        },
+        {
+            "word": "it",
+            "start": 10.516,
+            "end": 10.636,
+            "score": 0.873
+        },
+        {
+            "word": "is",
+            "start": 10.776,
+            "end": 11.137,
+            "score": 0.838
+        },
+        {
+            "word": "famous",
+            "start": 11.677,
+            "end": 12.457,
+            "score": 0.841
+        },
+        {
+            "word": "worldwide",
+            "start": 13.838,
+            "end": 14.579,
+            "score": 0.65
+        },
+        {
+            "word": "in",
+            "start": 14.839,
+            "end": 14.979,
+            "score": 0.776
+        },
+        {
+            "word": "the",
+            "start": 14.999,
+            "end": 15.179,
+            "score": 0.737
+        },
+        {
+            "word": "last",
+            "start": 15.219,
+            "end": 15.68,
+            "score": 0.899
+        },
+        {
+            "word": "year.",
+            "start": 15.72,
+            "end": 16.0,
+            "score": 0.843
+        },
+        {
+            "word": "I",
+            "start": 17.421,
+            "end": 17.501,
+            "score": 0.975
+        },
+        {
+            "word": "like",
+            "start": 17.541,
+            "end": 17.761,
+            "score": 0.898
+        },
+        {
+            "word": "it",
+            "start": 17.841,
+            "end": 18.001,
+            "score": 0.807
+        },
+        {
+            "word": "because",
+            "start": 18.081,
+            "end": 18.542,
+            "score": 0.766
+        },
+        {
+            "word": "I",
+            "start": 18.662,
+            "end": 18.742,
+            "score": 0.994
+        },
+        {
+            "word": "think",
+            "start": 18.802,
+            "end": 19.062,
+            "score": 0.833
+        },
+        {
+            "word": "the",
+            "start": 19.202,
+            "end": 19.322,
+            "score": 0.586
+        },
+        {
+            "word": "computer",
+            "start": 19.402,
+            "end": 19.943,
+            "score": 0.773
+        },
+        {
+            "word": "technology",
+            "start": 20.003,
+            "end": 20.943,
+            "score": 0.663
+        },
+        {
+            "word": "in",
+            "start": 21.684,
+            "end": 21.864,
+            "score": 0.847
+        },
+        {
+            "word": "the",
+            "start": 21.924,
+            "end": 22.184,
+            "score": 0.865
+        },
+        {
+            "word": "movie",
+            "start": 22.264,
+            "end": 22.744,
+            "score": 0.858
+        },
+        {
+            "word": "is",
+            "start": 22.824,
+            "end": 23.065,
+            "score": 0.712
+        },
+        {
+            "word": "perfect.",
+            "start": 23.265,
+            "end": 23.865,
+            "score": 0.928
+        },
+        {
+            "word": "You",
+            "start": 24.205,
+            "end": 24.426,
+            "score": 0.881
+        },
+        {
+            "word": "can",
+            "start": 24.446,
+            "end": 24.726,
+            "score": 0.872
+        },
+        {
+            "word": "see",
+            "start": 24.806,
+            "end": 25.086,
+            "score": 0.798
+        },
+        {
+            "word": "the",
+            "start": 25.126,
+            "end": 25.266,
+            "score": 0.879
+        },
+        {
+            "word": "Transformers.",
+            "start": 25.326,
+            "end": 26.227,
+            "score": 0.882
+        },
+        {
+            "word": "Like",
+            "start": 26.787,
+            "end": 27.027,
+            "score": 0.973
+        },
+        {
+            "word": "real",
+            "start": 27.248,
+            "end": 27.608,
+            "score": 0.853
+        },
+        {
+            "word": "creators",
+            "start": 27.628,
+            "end": 29.089,
+            "score": 0.845
+        },
+        {
+            "word": "live",
+            "start": 29.369,
+            "end": 29.63,
+            "score": 0.902
+        },
+        {
+            "word": "in",
+            "start": 29.75,
+            "end": 29.91,
+            "score": 0.779
+        },
+        {
+            "word": "the",
+            "start": 29.93,
+            "end": 30.19,
+            "score": 0.646
+        },
+        {
+            "word": "world.",
+            "start": 30.23,
+            "end": 30.59,
+            "score": 0.548
+        },
+        {
+            "word": "And",
+            "start": 31.291,
+            "end": 31.431,
+            "score": 0.733
+        },
+        {
+            "word": "I",
+            "start": 31.591,
+            "end": 31.691,
+            "score": 0.958
+        },
+        {
+            "word": "think",
+            "start": 31.751,
+            "end": 32.232,
+            "score": 0.727
+        },
+        {
+            "word": "the",
+            "start": 32.252,
+            "end": 32.372,
+            "score": 0.394
+        },
+        {
+            "word": "cars",
+            "start": 32.472,
+            "end": 32.912,
+            "score": 0.846
+        },
+        {
+            "word": "in",
+            "start": 33.092,
+            "end": 33.192,
+            "score": 0.756
+        },
+        {
+            "word": "the",
+            "start": 33.212,
+            "end": 33.373,
+            "score": 0.561
+        },
+        {
+            "word": "movie",
+            "start": 33.393,
+            "end": 33.833,
+            "score": 0.688
+        },
+        {
+            "word": "are",
+            "start": 33.933,
+            "end": 34.013,
+            "score": 0.29
+        },
+        {
+            "word": "very",
+            "start": 34.033,
+            "end": 34.313,
+            "score": 0.57
+        },
+        {
+            "word": "cool.",
+            "start": 34.413,
+            "end": 34.754,
+            "score": 0.815
+        },
+        {
+            "word": "I",
+            "start": 35.714,
+            "end": 35.795,
+            "score": 0.884
+        },
+        {
+            "word": "want",
+            "start": 35.855,
+            "end": 36.175,
+            "score": 0.849
+        },
+        {
+            "word": "to",
+            "start": 36.255,
+            "end": 36.475,
+            "score": 0.869
+        },
+        {
+            "word": "buy",
+            "start": 36.575,
+            "end": 36.955,
+            "score": 0.72
+        },
+        {
+            "word": "one",
+            "start": 37.776,
+            "end": 38.777,
+            "score": 0.793
+        },
+        {
+            "word": "like",
+            "start": 39.377,
+            "end": 39.598,
+            "score": 0.983
+        },
+        {
+            "word": "them.",
+            "start": 39.778,
+            "end": 40.058,
+            "score": 0.704
+        }
+    ]
+}

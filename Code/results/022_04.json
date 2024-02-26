@@ -1,0 +1,800 @@
+{
+    "segments": [
+        {
+            "start": 0.67,
+            "end": 16.632,
+            "text": " Today's weather is very cloudy and it will be remaining until Wednesday and Thursday the weather will be good and shiny.",
+            "words": [
+                {
+                    "word": "Today's",
+                    "start": 0.67,
+                    "end": 1.091,
+                    "score": 0.588
+                },
+                {
+                    "word": "weather",
+                    "start": 1.972,
+                    "end": 2.372,
+                    "score": 0.819
+                },
+                {
+                    "word": "is",
+                    "start": 2.392,
+                    "end": 2.432,
+                    "score": 0.003
+                },
+                {
+                    "word": "very",
+                    "start": 3.894,
+                    "end": 4.095,
+                    "score": 0.897
+                },
+                {
+                    "word": "cloudy",
+                    "start": 4.195,
+                    "end": 4.655,
+                    "score": 0.951
+                },
+                {
+                    "word": "and",
+                    "start": 4.856,
+                    "end": 5.016,
+                    "score": 0.739
+                },
+                {
+                    "word": "it",
+                    "start": 5.276,
+                    "end": 5.477,
+                    "score": 0.699
+                },
+                {
+                    "word": "will",
+                    "start": 7.86,
+                    "end": 8.12,
+                    "score": 0.704
+                },
+                {
+                    "word": "be",
+                    "start": 8.16,
+                    "end": 8.301,
+                    "score": 0.902
+                },
+                {
+                    "word": "remaining",
+                    "start": 8.361,
+                    "end": 9.022,
+                    "score": 0.798
+                },
+                {
+                    "word": "until",
+                    "start": 9.763,
+                    "end": 10.183,
+                    "score": 0.826
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 10.424,
+                    "end": 11.044,
+                    "score": 0.624
+                },
+                {
+                    "word": "and",
+                    "start": 11.545,
+                    "end": 11.745,
+                    "score": 0.819
+                },
+                {
+                    "word": "Thursday",
+                    "start": 13.247,
+                    "end": 13.868,
+                    "score": 0.756
+                },
+                {
+                    "word": "the",
+                    "start": 13.888,
+                    "end": 14.109,
+                    "score": 0.677
+                },
+                {
+                    "word": "weather",
+                    "start": 14.149,
+                    "end": 14.529,
+                    "score": 0.903
+                },
+                {
+                    "word": "will",
+                    "start": 14.649,
+                    "end": 14.87,
+                    "score": 0.801
+                },
+                {
+                    "word": "be",
+                    "start": 14.91,
+                    "end": 15.11,
+                    "score": 0.76
+                },
+                {
+                    "word": "good",
+                    "start": 15.611,
+                    "end": 15.911,
+                    "score": 0.804
+                },
+                {
+                    "word": "and",
+                    "start": 16.071,
+                    "end": 16.192,
+                    "score": 0.788
+                },
+                {
+                    "word": "shiny.",
+                    "start": 16.272,
+                    "end": 16.632,
+                    "score": 0.975
+                }
+            ]
+        },
+        {
+            "start": 18.394,
+            "end": 44.346,
+            "text": " if you are planning to a trip to another cities like Los Angeles it will be good but if you thinking if you are thinking about Chicago or Tokyo it would be very rainy so it's better to think another way to trip and",
+            "words": [
+                {
+                    "word": "if",
+                    "start": 18.394,
+                    "end": 18.474,
+                    "score": 0.986
+                },
+                {
+                    "word": "you",
+                    "start": 18.534,
+                    "end": 18.774,
+                    "score": 0.922
+                },
+                {
+                    "word": "are",
+                    "start": 19.574,
+                    "end": 19.674,
+                    "score": 0.853
+                },
+                {
+                    "word": "planning",
+                    "start": 19.794,
+                    "end": 20.154,
+                    "score": 0.876
+                },
+                {
+                    "word": "to",
+                    "start": 20.234,
+                    "end": 20.435,
+                    "score": 0.869
+                },
+                {
+                    "word": "a",
+                    "start": 20.495,
+                    "end": 20.515,
+                    "score": 0.875
+                },
+                {
+                    "word": "trip",
+                    "start": 20.595,
+                    "end": 20.855,
+                    "score": 0.721
+                },
+                {
+                    "word": "to",
+                    "start": 21.215,
+                    "end": 21.355,
+                    "score": 0.946
+                },
+                {
+                    "word": "another",
+                    "start": 21.415,
+                    "end": 21.895,
+                    "score": 0.815
+                },
+                {
+                    "word": "cities",
+                    "start": 22.015,
+                    "end": 22.455,
+                    "score": 0.806
+                },
+                {
+                    "word": "like",
+                    "start": 22.556,
+                    "end": 22.756,
+                    "score": 0.816
+                },
+                {
+                    "word": "Los",
+                    "start": 23.816,
+                    "end": 24.056,
+                    "score": 0.958
+                },
+                {
+                    "word": "Angeles",
+                    "start": 24.176,
+                    "end": 24.737,
+                    "score": 0.806
+                },
+                {
+                    "word": "it",
+                    "start": 25.277,
+                    "end": 25.337,
+                    "score": 0.952
+                },
+                {
+                    "word": "will",
+                    "start": 25.397,
+                    "end": 25.617,
+                    "score": 0.72
+                },
+                {
+                    "word": "be",
+                    "start": 25.637,
+                    "end": 25.737,
+                    "score": 0.641
+                },
+                {
+                    "word": "good",
+                    "start": 25.857,
+                    "end": 26.177,
+                    "score": 0.86
+                },
+                {
+                    "word": "but",
+                    "start": 26.777,
+                    "end": 26.938,
+                    "score": 0.826
+                },
+                {
+                    "word": "if",
+                    "start": 27.258,
+                    "end": 27.318,
+                    "score": 0.998
+                },
+                {
+                    "word": "you",
+                    "start": 27.358,
+                    "end": 27.638,
+                    "score": 0.88
+                },
+                {
+                    "word": "thinking",
+                    "start": 27.718,
+                    "end": 28.258,
+                    "score": 0.833
+                },
+                {
+                    "word": "if",
+                    "start": 28.558,
+                    "end": 28.618,
+                    "score": 0.996
+                },
+                {
+                    "word": "you",
+                    "start": 28.678,
+                    "end": 28.778,
+                    "score": 0.986
+                },
+                {
+                    "word": "are",
+                    "start": 28.838,
+                    "end": 28.938,
+                    "score": 0.837
+                },
+                {
+                    "word": "thinking",
+                    "start": 28.999,
+                    "end": 29.399,
+                    "score": 0.76
+                },
+                {
+                    "word": "about",
+                    "start": 29.459,
+                    "end": 29.759,
+                    "score": 0.86
+                },
+                {
+                    "word": "Chicago",
+                    "start": 30.279,
+                    "end": 30.939,
+                    "score": 0.789
+                },
+                {
+                    "word": "or",
+                    "start": 31.34,
+                    "end": 31.46,
+                    "score": 0.556
+                },
+                {
+                    "word": "Tokyo",
+                    "start": 31.66,
+                    "end": 32.26,
+                    "score": 0.855
+                },
+                {
+                    "word": "it",
+                    "start": 32.72,
+                    "end": 32.78,
+                    "score": 0.849
+                },
+                {
+                    "word": "would",
+                    "start": 32.82,
+                    "end": 33.02,
+                    "score": 0.735
+                },
+                {
+                    "word": "be",
+                    "start": 33.06,
+                    "end": 33.16,
+                    "score": 0.664
+                },
+                {
+                    "word": "very",
+                    "start": 33.22,
+                    "end": 33.561,
+                    "score": 0.747
+                },
+                {
+                    "word": "rainy",
+                    "start": 35.121,
+                    "end": 35.482,
+                    "score": 0.666
+                },
+                {
+                    "word": "so",
+                    "start": 35.602,
+                    "end": 35.942,
+                    "score": 0.872
+                },
+                {
+                    "word": "it's",
+                    "start": 37.302,
+                    "end": 37.422,
+                    "score": 0.9
+                },
+                {
+                    "word": "better",
+                    "start": 37.482,
+                    "end": 37.803,
+                    "score": 0.942
+                },
+                {
+                    "word": "to",
+                    "start": 37.863,
+                    "end": 38.003,
+                    "score": 0.887
+                },
+                {
+                    "word": "think",
+                    "start": 38.063,
+                    "end": 38.323,
+                    "score": 0.869
+                },
+                {
+                    "word": "another",
+                    "start": 38.783,
+                    "end": 39.363,
+                    "score": 0.791
+                },
+                {
+                    "word": "way",
+                    "start": 39.463,
+                    "end": 39.744,
+                    "score": 0.864
+                },
+                {
+                    "word": "to",
+                    "start": 40.384,
+                    "end": 40.524,
+                    "score": 0.844
+                },
+                {
+                    "word": "trip",
+                    "start": 40.584,
+                    "end": 40.884,
+                    "score": 0.808
+                },
+                {
+                    "word": "and",
+                    "start": 44.226,
+                    "end": 44.346,
+                    "score": 0.664
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Today's",
+            "start": 0.67,
+            "end": 1.091,
+            "score": 0.588
+        },
+        {
+            "word": "weather",
+            "start": 1.972,
+            "end": 2.372,
+            "score": 0.819
+        },
+        {
+            "word": "is",
+            "start": 2.392,
+            "end": 2.432,
+            "score": 0.003
+        },
+        {
+            "word": "very",
+            "start": 3.894,
+            "end": 4.095,
+            "score": 0.897
+        },
+        {
+            "word": "cloudy",
+            "start": 4.195,
+            "end": 4.655,
+            "score": 0.951
+        },
+        {
+            "word": "and",
+            "start": 4.856,
+            "end": 5.016,
+            "score": 0.739
+        },
+        {
+            "word": "it",
+            "start": 5.276,
+            "end": 5.477,
+            "score": 0.699
+        },
+        {
+            "word": "will",
+            "start": 7.86,
+            "end": 8.12,
+            "score": 0.704
+        },
+        {
+            "word": "be",
+            "start": 8.16,
+            "end": 8.301,
+            "score": 0.902
+        },
+        {
+            "word": "remaining",
+            "start": 8.361,
+            "end": 9.022,
+            "score": 0.798
+        },
+        {
+            "word": "until",
+            "start": 9.763,
+            "end": 10.183,
+            "score": 0.826
+        },
+        {
+            "word": "Wednesday",
+            "start": 10.424,
+            "end": 11.044,
+            "score": 0.624
+        },
+        {
+            "word": "and",
+            "start": 11.545,
+            "end": 11.745,
+            "score": 0.819
+        },
+        {
+            "word": "Thursday",
+            "start": 13.247,
+            "end": 13.868,
+            "score": 0.756
+        },
+        {
+            "word": "the",
+            "start": 13.888,
+            "end": 14.109,
+            "score": 0.677
+        },
+        {
+            "word": "weather",
+            "start": 14.149,
+            "end": 14.529,
+            "score": 0.903
+        },
+        {
+            "word": "will",
+            "start": 14.649,
+            "end": 14.87,
+            "score": 0.801
+        },
+        {
+            "word": "be",
+            "start": 14.91,
+            "end": 15.11,
+            "score": 0.76
+        },
+        {
+            "word": "good",
+            "start": 15.611,
+            "end": 15.911,
+            "score": 0.804
+        },
+        {
+            "word": "and",
+            "start": 16.071,
+            "end": 16.192,
+            "score": 0.788
+        },
+        {
+            "word": "shiny.",
+            "start": 16.272,
+            "end": 16.632,
+            "score": 0.975
+        },
+        {
+            "word": "if",
+            "start": 18.394,
+            "end": 18.474,
+            "score": 0.986
+        },
+        {
+            "word": "you",
+            "start": 18.534,
+            "end": 18.774,
+            "score": 0.922
+        },
+        {
+            "word": "are",
+            "start": 19.574,
+            "end": 19.674,
+            "score": 0.853
+        },
+        {
+            "word": "planning",
+            "start": 19.794,
+            "end": 20.154,
+            "score": 0.876
+        },
+        {
+            "word": "to",
+            "start": 20.234,
+            "end": 20.435,
+            "score": 0.869
+        },
+        {
+            "word": "a",
+            "start": 20.495,
+            "end": 20.515,
+            "score": 0.875
+        },
+        {
+            "word": "trip",
+            "start": 20.595,
+            "end": 20.855,
+            "score": 0.721
+        },
+        {
+            "word": "to",
+            "start": 21.215,
+            "end": 21.355,
+            "score": 0.946
+        },
+        {
+            "word": "another",
+            "start": 21.415,
+            "end": 21.895,
+            "score": 0.815
+        },
+        {
+            "word": "cities",
+            "start": 22.015,
+            "end": 22.455,
+            "score": 0.806
+        },
+        {
+            "word": "like",
+            "start": 22.556,
+            "end": 22.756,
+            "score": 0.816
+        },
+        {
+            "word": "Los",
+            "start": 23.816,
+            "end": 24.056,
+            "score": 0.958
+        },
+        {
+            "word": "Angeles",
+            "start": 24.176,
+            "end": 24.737,
+            "score": 0.806
+        },
+        {
+            "word": "it",
+            "start": 25.277,
+            "end": 25.337,
+            "score": 0.952
+        },
+        {
+            "word": "will",
+            "start": 25.397,
+            "end": 25.617,
+            "score": 0.72
+        },
+        {
+            "word": "be",
+            "start": 25.637,
+            "end": 25.737,
+            "score": 0.641
+        },
+        {
+            "word": "good",
+            "start": 25.857,
+            "end": 26.177,
+            "score": 0.86
+        },
+        {
+            "word": "but",
+            "start": 26.777,
+            "end": 26.938,
+            "score": 0.826
+        },
+        {
+            "word": "if",
+            "start": 27.258,
+            "end": 27.318,
+            "score": 0.998
+        },
+        {
+            "word": "you",
+            "start": 27.358,
+            "end": 27.638,
+            "score": 0.88
+        },
+        {
+            "word": "thinking",
+            "start": 27.718,
+            "end": 28.258,
+            "score": 0.833
+        },
+        {
+            "word": "if",
+            "start": 28.558,
+            "end": 28.618,
+            "score": 0.996
+        },
+        {
+            "word": "you",
+            "start": 28.678,
+            "end": 28.778,
+            "score": 0.986
+        },
+        {
+            "word": "are",
+            "start": 28.838,
+            "end": 28.938,
+            "score": 0.837
+        },
+        {
+            "word": "thinking",
+            "start": 28.999,
+            "end": 29.399,
+            "score": 0.76
+        },
+        {
+            "word": "about",
+            "start": 29.459,
+            "end": 29.759,
+            "score": 0.86
+        },
+        {
+            "word": "Chicago",
+            "start": 30.279,
+            "end": 30.939,
+            "score": 0.789
+        },
+        {
+            "word": "or",
+            "start": 31.34,
+            "end": 31.46,
+            "score": 0.556
+        },
+        {
+            "word": "Tokyo",
+            "start": 31.66,
+            "end": 32.26,
+            "score": 0.855
+        },
+        {
+            "word": "it",
+            "start": 32.72,
+            "end": 32.78,
+            "score": 0.849
+        },
+        {
+            "word": "would",
+            "start": 32.82,
+            "end": 33.02,
+            "score": 0.735
+        },
+        {
+            "word": "be",
+            "start": 33.06,
+            "end": 33.16,
+            "score": 0.664
+        },
+        {
+            "word": "very",
+            "start": 33.22,
+            "end": 33.561,
+            "score": 0.747
+        },
+        {
+            "word": "rainy",
+            "start": 35.121,
+            "end": 35.482,
+            "score": 0.666
+        },
+        {
+            "word": "so",
+            "start": 35.602,
+            "end": 35.942,
+            "score": 0.872
+        },
+        {
+            "word": "it's",
+            "start": 37.302,
+            "end": 37.422,
+            "score": 0.9
+        },
+        {
+            "word": "better",
+            "start": 37.482,
+            "end": 37.803,
+            "score": 0.942
+        },
+        {
+            "word": "to",
+            "start": 37.863,
+            "end": 38.003,
+            "score": 0.887
+        },
+        {
+            "word": "think",
+            "start": 38.063,
+            "end": 38.323,
+            "score": 0.869
+        },
+        {
+            "word": "another",
+            "start": 38.783,
+            "end": 39.363,
+            "score": 0.791
+        },
+        {
+            "word": "way",
+            "start": 39.463,
+            "end": 39.744,
+            "score": 0.864
+        },
+        {
+            "word": "to",
+            "start": 40.384,
+            "end": 40.524,
+            "score": 0.844
+        },
+        {
+            "word": "trip",
+            "start": 40.584,
+            "end": 40.884,
+            "score": 0.808
+        },
+        {
+            "word": "and",
+            "start": 44.226,
+            "end": 44.346,
+            "score": 0.664
+        }
+    ]
+}

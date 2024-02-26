@@ -1,0 +1,711 @@
+{
+    "segments": [
+        {
+            "start": 0.209,
+            "end": 29.415,
+            "text": " the place that I would want to go probably is Egypt because I love the movie that called Mummy and I think the mummy and the history the cultural of Egypt is pretty long and mysterious so",
+            "words": [
+                {
+                    "word": "the",
+                    "start": 0.209,
+                    "end": 0.309,
+                    "score": 0.993
+                },
+                {
+                    "word": "place",
+                    "start": 0.369,
+                    "end": 0.749,
+                    "score": 0.931
+                },
+                {
+                    "word": "that",
+                    "start": 0.849,
+                    "end": 1.109,
+                    "score": 0.805
+                },
+                {
+                    "word": "I",
+                    "start": 1.449,
+                    "end": 1.509,
+                    "score": 0.952
+                },
+                {
+                    "word": "would",
+                    "start": 1.549,
+                    "end": 1.769,
+                    "score": 0.831
+                },
+                {
+                    "word": "want",
+                    "start": 1.809,
+                    "end": 2.049,
+                    "score": 0.836
+                },
+                {
+                    "word": "to",
+                    "start": 2.149,
+                    "end": 2.269,
+                    "score": 0.761
+                },
+                {
+                    "word": "go",
+                    "start": 2.389,
+                    "end": 2.83,
+                    "score": 0.398
+                },
+                {
+                    "word": "probably",
+                    "start": 4.59,
+                    "end": 5.01,
+                    "score": 0.874
+                },
+                {
+                    "word": "is",
+                    "start": 5.09,
+                    "end": 5.21,
+                    "score": 0.683
+                },
+                {
+                    "word": "Egypt",
+                    "start": 6.09,
+                    "end": 6.43,
+                    "score": 0.946
+                },
+                {
+                    "word": "because",
+                    "start": 6.97,
+                    "end": 7.45,
+                    "score": 0.847
+                },
+                {
+                    "word": "I",
+                    "start": 8.531,
+                    "end": 8.651,
+                    "score": 0.831
+                },
+                {
+                    "word": "love",
+                    "start": 8.791,
+                    "end": 9.191,
+                    "score": 0.914
+                },
+                {
+                    "word": "the",
+                    "start": 10.831,
+                    "end": 10.931,
+                    "score": 0.856
+                },
+                {
+                    "word": "movie",
+                    "start": 10.951,
+                    "end": 11.311,
+                    "score": 0.718
+                },
+                {
+                    "word": "that",
+                    "start": 11.391,
+                    "end": 11.611,
+                    "score": 0.933
+                },
+                {
+                    "word": "called",
+                    "start": 12.171,
+                    "end": 12.532,
+                    "score": 0.643
+                },
+                {
+                    "word": "Mummy",
+                    "start": 12.872,
+                    "end": 13.192,
+                    "score": 0.848
+                },
+                {
+                    "word": "and",
+                    "start": 13.852,
+                    "end": 14.332,
+                    "score": 0.826
+                },
+                {
+                    "word": "I",
+                    "start": 16.332,
+                    "end": 16.412,
+                    "score": 0.997
+                },
+                {
+                    "word": "think",
+                    "start": 16.512,
+                    "end": 17.252,
+                    "score": 0.823
+                },
+                {
+                    "word": "the",
+                    "start": 17.312,
+                    "end": 17.433,
+                    "score": 0.889
+                },
+                {
+                    "word": "mummy",
+                    "start": 17.513,
+                    "end": 18.093,
+                    "score": 0.904
+                },
+                {
+                    "word": "and",
+                    "start": 18.453,
+                    "end": 18.653,
+                    "score": 0.763
+                },
+                {
+                    "word": "the",
+                    "start": 20.833,
+                    "end": 20.993,
+                    "score": 0.92
+                },
+                {
+                    "word": "history",
+                    "start": 21.073,
+                    "end": 21.713,
+                    "score": 0.901
+                },
+                {
+                    "word": "the",
+                    "start": 21.793,
+                    "end": 21.893,
+                    "score": 0.901
+                },
+                {
+                    "word": "cultural",
+                    "start": 21.953,
+                    "end": 22.574,
+                    "score": 0.652
+                },
+                {
+                    "word": "of",
+                    "start": 22.714,
+                    "end": 22.814,
+                    "score": 0.869
+                },
+                {
+                    "word": "Egypt",
+                    "start": 22.914,
+                    "end": 23.314,
+                    "score": 0.874
+                },
+                {
+                    "word": "is",
+                    "start": 23.494,
+                    "end": 23.654,
+                    "score": 0.749
+                },
+                {
+                    "word": "pretty",
+                    "start": 23.914,
+                    "end": 24.274,
+                    "score": 0.948
+                },
+                {
+                    "word": "long",
+                    "start": 26.994,
+                    "end": 27.395,
+                    "score": 0.913
+                },
+                {
+                    "word": "and",
+                    "start": 27.635,
+                    "end": 27.815,
+                    "score": 0.793
+                },
+                {
+                    "word": "mysterious",
+                    "start": 28.295,
+                    "end": 29.075,
+                    "score": 0.923
+                },
+                {
+                    "word": "so",
+                    "start": 29.195,
+                    "end": 29.415,
+                    "score": 0.993
+                }
+            ]
+        },
+        {
+            "start": 31.156,
+            "end": 35.16,
+            "text": " And I think the food in Egypt is going to be very delicious.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 31.156,
+                    "end": 31.256,
+                    "score": 0.775
+                },
+                {
+                    "word": "I",
+                    "start": 31.276,
+                    "end": 31.356,
+                    "score": 0.581
+                },
+                {
+                    "word": "think",
+                    "start": 31.396,
+                    "end": 31.897,
+                    "score": 0.855
+                },
+                {
+                    "word": "the",
+                    "start": 31.937,
+                    "end": 32.057,
+                    "score": 0.887
+                },
+                {
+                    "word": "food",
+                    "start": 32.117,
+                    "end": 32.477,
+                    "score": 0.817
+                },
+                {
+                    "word": "in",
+                    "start": 32.678,
+                    "end": 32.798,
+                    "score": 0.82
+                },
+                {
+                    "word": "Egypt",
+                    "start": 32.958,
+                    "end": 33.258,
+                    "score": 0.865
+                },
+                {
+                    "word": "is",
+                    "start": 33.358,
+                    "end": 33.438,
+                    "score": 0.384
+                },
+                {
+                    "word": "going",
+                    "start": 33.458,
+                    "end": 33.558,
+                    "score": 0.413
+                },
+                {
+                    "word": "to",
+                    "start": 33.578,
+                    "end": 33.658,
+                    "score": 0.57
+                },
+                {
+                    "word": "be",
+                    "start": 33.678,
+                    "end": 33.759,
+                    "score": 0.902
+                },
+                {
+                    "word": "very",
+                    "start": 33.799,
+                    "end": 34.099,
+                    "score": 0.851
+                },
+                {
+                    "word": "delicious.",
+                    "start": 34.559,
+                    "end": 35.16,
+                    "score": 0.897
+                }
+            ]
+        },
+        {
+            "start": 36.361,
+            "end": 40.605,
+            "text": "And yeah, that's why I love Egypt.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 36.361,
+                    "end": 37.142,
+                    "score": 0.881
+                },
+                {
+                    "word": "yeah,",
+                    "start": 38.823,
+                    "end": 39.043,
+                    "score": 0.732
+                },
+                {
+                    "word": "that's",
+                    "start": 39.083,
+                    "end": 39.304,
+                    "score": 0.822
+                },
+                {
+                    "word": "why",
+                    "start": 39.384,
+                    "end": 39.584,
+                    "score": 0.884
+                },
+                {
+                    "word": "I",
+                    "start": 39.644,
+                    "end": 39.704,
+                    "score": 0.658
+                },
+                {
+                    "word": "love",
+                    "start": 39.784,
+                    "end": 40.044,
+                    "score": 0.895
+                },
+                {
+                    "word": "Egypt.",
+                    "start": 40.325,
+                    "end": 40.605,
+                    "score": 0.909
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "the",
+            "start": 0.209,
+            "end": 0.309,
+            "score": 0.993
+        },
+        {
+            "word": "place",
+            "start": 0.369,
+            "end": 0.749,
+            "score": 0.931
+        },
+        {
+            "word": "that",
+            "start": 0.849,
+            "end": 1.109,
+            "score": 0.805
+        },
+        {
+            "word": "I",
+            "start": 1.449,
+            "end": 1.509,
+            "score": 0.952
+        },
+        {
+            "word": "would",
+            "start": 1.549,
+            "end": 1.769,
+            "score": 0.831
+        },
+        {
+            "word": "want",
+            "start": 1.809,
+            "end": 2.049,
+            "score": 0.836
+        },
+        {
+            "word": "to",
+            "start": 2.149,
+            "end": 2.269,
+            "score": 0.761
+        },
+        {
+            "word": "go",
+            "start": 2.389,
+            "end": 2.83,
+            "score": 0.398
+        },
+        {
+            "word": "probably",
+            "start": 4.59,
+            "end": 5.01,
+            "score": 0.874
+        },
+        {
+            "word": "is",
+            "start": 5.09,
+            "end": 5.21,
+            "score": 0.683
+        },
+        {
+            "word": "Egypt",
+            "start": 6.09,
+            "end": 6.43,
+            "score": 0.946
+        },
+        {
+            "word": "because",
+            "start": 6.97,
+            "end": 7.45,
+            "score": 0.847
+        },
+        {
+            "word": "I",
+            "start": 8.531,
+            "end": 8.651,
+            "score": 0.831
+        },
+        {
+            "word": "love",
+            "start": 8.791,
+            "end": 9.191,
+            "score": 0.914
+        },
+        {
+            "word": "the",
+            "start": 10.831,
+            "end": 10.931,
+            "score": 0.856
+        },
+        {
+            "word": "movie",
+            "start": 10.951,
+            "end": 11.311,
+            "score": 0.718
+        },
+        {
+            "word": "that",
+            "start": 11.391,
+            "end": 11.611,
+            "score": 0.933
+        },
+        {
+            "word": "called",
+            "start": 12.171,
+            "end": 12.532,
+            "score": 0.643
+        },
+        {
+            "word": "Mummy",
+            "start": 12.872,
+            "end": 13.192,
+            "score": 0.848
+        },
+        {
+            "word": "and",
+            "start": 13.852,
+            "end": 14.332,
+            "score": 0.826
+        },
+        {
+            "word": "I",
+            "start": 16.332,
+            "end": 16.412,
+            "score": 0.997
+        },
+        {
+            "word": "think",
+            "start": 16.512,
+            "end": 17.252,
+            "score": 0.823
+        },
+        {
+            "word": "the",
+            "start": 17.312,
+            "end": 17.433,
+            "score": 0.889
+        },
+        {
+            "word": "mummy",
+            "start": 17.513,
+            "end": 18.093,
+            "score": 0.904
+        },
+        {
+            "word": "and",
+            "start": 18.453,
+            "end": 18.653,
+            "score": 0.763
+        },
+        {
+            "word": "the",
+            "start": 20.833,
+            "end": 20.993,
+            "score": 0.92
+        },
+        {
+            "word": "history",
+            "start": 21.073,
+            "end": 21.713,
+            "score": 0.901
+        },
+        {
+            "word": "the",
+            "start": 21.793,
+            "end": 21.893,
+            "score": 0.901
+        },
+        {
+            "word": "cultural",
+            "start": 21.953,
+            "end": 22.574,
+            "score": 0.652
+        },
+        {
+            "word": "of",
+            "start": 22.714,
+            "end": 22.814,
+            "score": 0.869
+        },
+        {
+            "word": "Egypt",
+            "start": 22.914,
+            "end": 23.314,
+            "score": 0.874
+        },
+        {
+            "word": "is",
+            "start": 23.494,
+            "end": 23.654,
+            "score": 0.749
+        },
+        {
+            "word": "pretty",
+            "start": 23.914,
+            "end": 24.274,
+            "score": 0.948
+        },
+        {
+            "word": "long",
+            "start": 26.994,
+            "end": 27.395,
+            "score": 0.913
+        },
+        {
+            "word": "and",
+            "start": 27.635,
+            "end": 27.815,
+            "score": 0.793
+        },
+        {
+            "word": "mysterious",
+            "start": 28.295,
+            "end": 29.075,
+            "score": 0.923
+        },
+        {
+            "word": "so",
+            "start": 29.195,
+            "end": 29.415,
+            "score": 0.993
+        },
+        {
+            "word": "And",
+            "start": 31.156,
+            "end": 31.256,
+            "score": 0.775
+        },
+        {
+            "word": "I",
+            "start": 31.276,
+            "end": 31.356,
+            "score": 0.581
+        },
+        {
+            "word": "think",
+            "start": 31.396,
+            "end": 31.897,
+            "score": 0.855
+        },
+        {
+            "word": "the",
+            "start": 31.937,
+            "end": 32.057,
+            "score": 0.887
+        },
+        {
+            "word": "food",
+            "start": 32.117,
+            "end": 32.477,
+            "score": 0.817
+        },
+        {
+            "word": "in",
+            "start": 32.678,
+            "end": 32.798,
+            "score": 0.82
+        },
+        {
+            "word": "Egypt",
+            "start": 32.958,
+            "end": 33.258,
+            "score": 0.865
+        },
+        {
+            "word": "is",
+            "start": 33.358,
+            "end": 33.438,
+            "score": 0.384
+        },
+        {
+            "word": "going",
+            "start": 33.458,
+            "end": 33.558,
+            "score": 0.413
+        },
+        {
+            "word": "to",
+            "start": 33.578,
+            "end": 33.658,
+            "score": 0.57
+        },
+        {
+            "word": "be",
+            "start": 33.678,
+            "end": 33.759,
+            "score": 0.902
+        },
+        {
+            "word": "very",
+            "start": 33.799,
+            "end": 34.099,
+            "score": 0.851
+        },
+        {
+            "word": "delicious.",
+            "start": 34.559,
+            "end": 35.16,
+            "score": 0.897
+        },
+        {
+            "word": "And",
+            "start": 36.361,
+            "end": 37.142,
+            "score": 0.881
+        },
+        {
+            "word": "yeah,",
+            "start": 38.823,
+            "end": 39.043,
+            "score": 0.732
+        },
+        {
+            "word": "that's",
+            "start": 39.083,
+            "end": 39.304,
+            "score": 0.822
+        },
+        {
+            "word": "why",
+            "start": 39.384,
+            "end": 39.584,
+            "score": 0.884
+        },
+        {
+            "word": "I",
+            "start": 39.644,
+            "end": 39.704,
+            "score": 0.658
+        },
+        {
+            "word": "love",
+            "start": 39.784,
+            "end": 40.044,
+            "score": 0.895
+        },
+        {
+            "word": "Egypt.",
+            "start": 40.325,
+            "end": 40.605,
+            "score": 0.909
+        }
+    ]
+}

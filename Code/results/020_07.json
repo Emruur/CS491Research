@@ -1,0 +1,497 @@
+{
+    "segments": [
+        {
+            "start": 2.731,
+            "end": 9.377,
+            "text": " When you go out to the Franklin Hotel, you will see the Kingdom Avenue.",
+            "words": [
+                {
+                    "word": "When",
+                    "start": 2.731,
+                    "end": 2.912,
+                    "score": 0.9
+                },
+                {
+                    "word": "you",
+                    "start": 2.932,
+                    "end": 3.152,
+                    "score": 0.862
+                },
+                {
+                    "word": "go",
+                    "start": 3.192,
+                    "end": 3.392,
+                    "score": 0.95
+                },
+                {
+                    "word": "out",
+                    "start": 3.532,
+                    "end": 3.712,
+                    "score": 0.87
+                },
+                {
+                    "word": "to",
+                    "start": 3.732,
+                    "end": 3.872,
+                    "score": 0.758
+                },
+                {
+                    "word": "the",
+                    "start": 3.913,
+                    "end": 4.353,
+                    "score": 0.615
+                },
+                {
+                    "word": "Franklin",
+                    "start": 4.833,
+                    "end": 5.494,
+                    "score": 0.872
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 5.574,
+                    "end": 6.115,
+                    "score": 0.889
+                },
+                {
+                    "word": "you",
+                    "start": 6.135,
+                    "end": 6.195,
+                    "score": 0.001
+                },
+                {
+                    "word": "will",
+                    "start": 6.475,
+                    "end": 6.735,
+                    "score": 0.619
+                },
+                {
+                    "word": "see",
+                    "start": 6.775,
+                    "end": 7.075,
+                    "score": 0.659
+                },
+                {
+                    "word": "the",
+                    "start": 7.115,
+                    "end": 7.336,
+                    "score": 0.747
+                },
+                {
+                    "word": "Kingdom",
+                    "start": 8.016,
+                    "end": 8.717,
+                    "score": 0.909
+                },
+                {
+                    "word": "Avenue.",
+                    "start": 8.897,
+                    "end": 9.377,
+                    "score": 0.685
+                }
+            ]
+        },
+        {
+            "start": 10.619,
+            "end": 14.062,
+            "text": "Walk straight on the Kingdom Avenue to the south.",
+            "words": [
+                {
+                    "word": "Walk",
+                    "start": 10.619,
+                    "end": 11.039,
+                    "score": 0.915
+                },
+                {
+                    "word": "straight",
+                    "start": 11.079,
+                    "end": 11.499,
+                    "score": 0.612
+                },
+                {
+                    "word": "on",
+                    "start": 11.66,
+                    "end": 11.76,
+                    "score": 0.915
+                },
+                {
+                    "word": "the",
+                    "start": 11.78,
+                    "end": 11.94,
+                    "score": 0.682
+                },
+                {
+                    "word": "Kingdom",
+                    "start": 12.0,
+                    "end": 12.54,
+                    "score": 0.834
+                },
+                {
+                    "word": "Avenue",
+                    "start": 12.66,
+                    "end": 13.161,
+                    "score": 0.762
+                },
+                {
+                    "word": "to",
+                    "start": 13.201,
+                    "end": 13.441,
+                    "score": 0.78
+                },
+                {
+                    "word": "the",
+                    "start": 13.461,
+                    "end": 13.661,
+                    "score": 0.582
+                },
+                {
+                    "word": "south.",
+                    "start": 13.681,
+                    "end": 14.062,
+                    "score": 0.729
+                }
+            ]
+        },
+        {
+            "start": 16.664,
+            "end": 20.788,
+            "text": "Walk two blocks, you will see the Church Street.",
+            "words": [
+                {
+                    "word": "Walk",
+                    "start": 16.664,
+                    "end": 17.225,
+                    "score": 0.89
+                },
+                {
+                    "word": "two",
+                    "start": 17.385,
+                    "end": 17.665,
+                    "score": 0.89
+                },
+                {
+                    "word": "blocks,",
+                    "start": 17.685,
+                    "end": 18.165,
+                    "score": 0.809
+                },
+                {
+                    "word": "you",
+                    "start": 18.366,
+                    "end": 18.566,
+                    "score": 0.827
+                },
+                {
+                    "word": "will",
+                    "start": 18.606,
+                    "end": 18.866,
+                    "score": 0.641
+                },
+                {
+                    "word": "see",
+                    "start": 18.886,
+                    "end": 19.206,
+                    "score": 0.651
+                },
+                {
+                    "word": "the",
+                    "start": 19.246,
+                    "end": 19.467,
+                    "score": 0.677
+                },
+                {
+                    "word": "Church",
+                    "start": 19.667,
+                    "end": 20.087,
+                    "score": 0.964
+                },
+                {
+                    "word": "Street.",
+                    "start": 20.227,
+                    "end": 20.788,
+                    "score": 0.826
+                }
+            ]
+        },
+        {
+            "start": 22.309,
+            "end": 23.971,
+            "text": "Walk on the Church Street.",
+            "words": [
+                {
+                    "word": "Walk",
+                    "start": 22.309,
+                    "end": 22.549,
+                    "score": 0.902
+                },
+                {
+                    "word": "on",
+                    "start": 22.649,
+                    "end": 22.81,
+                    "score": 0.888
+                },
+                {
+                    "word": "the",
+                    "start": 22.83,
+                    "end": 23.01,
+                    "score": 0.741
+                },
+                {
+                    "word": "Church",
+                    "start": 23.09,
+                    "end": 23.47,
+                    "score": 0.985
+                },
+                {
+                    "word": "Street.",
+                    "start": 23.59,
+                    "end": 23.971,
+                    "score": 0.918
+                }
+            ]
+        },
+        {
+            "start": 35.919,
+            "end": 36.2,
+            "text": " Okay.",
+            "words": [
+                {
+                    "word": "Okay.",
+                    "start": 35.919,
+                    "end": 36.2,
+                    "score": 0.537
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "When",
+            "start": 2.731,
+            "end": 2.912,
+            "score": 0.9
+        },
+        {
+            "word": "you",
+            "start": 2.932,
+            "end": 3.152,
+            "score": 0.862
+        },
+        {
+            "word": "go",
+            "start": 3.192,
+            "end": 3.392,
+            "score": 0.95
+        },
+        {
+            "word": "out",
+            "start": 3.532,
+            "end": 3.712,
+            "score": 0.87
+        },
+        {
+            "word": "to",
+            "start": 3.732,
+            "end": 3.872,
+            "score": 0.758
+        },
+        {
+            "word": "the",
+            "start": 3.913,
+            "end": 4.353,
+            "score": 0.615
+        },
+        {
+            "word": "Franklin",
+            "start": 4.833,
+            "end": 5.494,
+            "score": 0.872
+        },
+        {
+            "word": "Hotel,",
+            "start": 5.574,
+            "end": 6.115,
+            "score": 0.889
+        },
+        {
+            "word": "you",
+            "start": 6.135,
+            "end": 6.195,
+            "score": 0.001
+        },
+        {
+            "word": "will",
+            "start": 6.475,
+            "end": 6.735,
+            "score": 0.619
+        },
+        {
+            "word": "see",
+            "start": 6.775,
+            "end": 7.075,
+            "score": 0.659
+        },
+        {
+            "word": "the",
+            "start": 7.115,
+            "end": 7.336,
+            "score": 0.747
+        },
+        {
+            "word": "Kingdom",
+            "start": 8.016,
+            "end": 8.717,
+            "score": 0.909
+        },
+        {
+            "word": "Avenue.",
+            "start": 8.897,
+            "end": 9.377,
+            "score": 0.685
+        },
+        {
+            "word": "Walk",
+            "start": 10.619,
+            "end": 11.039,
+            "score": 0.915
+        },
+        {
+            "word": "straight",
+            "start": 11.079,
+            "end": 11.499,
+            "score": 0.612
+        },
+        {
+            "word": "on",
+            "start": 11.66,
+            "end": 11.76,
+            "score": 0.915
+        },
+        {
+            "word": "the",
+            "start": 11.78,
+            "end": 11.94,
+            "score": 0.682
+        },
+        {
+            "word": "Kingdom",
+            "start": 12.0,
+            "end": 12.54,
+            "score": 0.834
+        },
+        {
+            "word": "Avenue",
+            "start": 12.66,
+            "end": 13.161,
+            "score": 0.762
+        },
+        {
+            "word": "to",
+            "start": 13.201,
+            "end": 13.441,
+            "score": 0.78
+        },
+        {
+            "word": "the",
+            "start": 13.461,
+            "end": 13.661,
+            "score": 0.582
+        },
+        {
+            "word": "south.",
+            "start": 13.681,
+            "end": 14.062,
+            "score": 0.729
+        },
+        {
+            "word": "Walk",
+            "start": 16.664,
+            "end": 17.225,
+            "score": 0.89
+        },
+        {
+            "word": "two",
+            "start": 17.385,
+            "end": 17.665,
+            "score": 0.89
+        },
+        {
+            "word": "blocks,",
+            "start": 17.685,
+            "end": 18.165,
+            "score": 0.809
+        },
+        {
+            "word": "you",
+            "start": 18.366,
+            "end": 18.566,
+            "score": 0.827
+        },
+        {
+            "word": "will",
+            "start": 18.606,
+            "end": 18.866,
+            "score": 0.641
+        },
+        {
+            "word": "see",
+            "start": 18.886,
+            "end": 19.206,
+            "score": 0.651
+        },
+        {
+            "word": "the",
+            "start": 19.246,
+            "end": 19.467,
+            "score": 0.677
+        },
+        {
+            "word": "Church",
+            "start": 19.667,
+            "end": 20.087,
+            "score": 0.964
+        },
+        {
+            "word": "Street.",
+            "start": 20.227,
+            "end": 20.788,
+            "score": 0.826
+        },
+        {
+            "word": "Walk",
+            "start": 22.309,
+            "end": 22.549,
+            "score": 0.902
+        },
+        {
+            "word": "on",
+            "start": 22.649,
+            "end": 22.81,
+            "score": 0.888
+        },
+        {
+            "word": "the",
+            "start": 22.83,
+            "end": 23.01,
+            "score": 0.741
+        },
+        {
+            "word": "Church",
+            "start": 23.09,
+            "end": 23.47,
+            "score": 0.985
+        },
+        {
+            "word": "Street.",
+            "start": 23.59,
+            "end": 23.971,
+            "score": 0.918
+        },
+        {
+            "word": "Okay.",
+            "start": 35.919,
+            "end": 36.2,
+            "score": 0.537
+        }
+    ]
+}

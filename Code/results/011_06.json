@@ -1,0 +1,1068 @@
+{
+    "segments": [
+        {
+            "start": 0.269,
+            "end": 4.633,
+            "text": " Yes, I do agree with the passenger.",
+            "words": [
+                {
+                    "word": "Yes,",
+                    "start": 0.269,
+                    "end": 0.529,
+                    "score": 0.858
+                },
+                {
+                    "word": "I",
+                    "start": 0.61,
+                    "end": 0.69,
+                    "score": 0.75
+                },
+                {
+                    "word": "do",
+                    "start": 0.75,
+                    "end": 0.91,
+                    "score": 0.913
+                },
+                {
+                    "word": "agree",
+                    "start": 0.97,
+                    "end": 1.33,
+                    "score": 0.783
+                },
+                {
+                    "word": "with",
+                    "start": 1.39,
+                    "end": 1.971,
+                    "score": 0.896
+                },
+                {
+                    "word": "the",
+                    "start": 3.872,
+                    "end": 3.992,
+                    "score": 0.834
+                },
+                {
+                    "word": "passenger.",
+                    "start": 4.052,
+                    "end": 4.633,
+                    "score": 0.933
+                }
+            ]
+        },
+        {
+            "start": 5.113,
+            "end": 16.543,
+            "text": "And I think the government should set up some non-car Zoom at the center of the city.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 5.113,
+                    "end": 5.213,
+                    "score": 0.903
+                },
+                {
+                    "word": "I",
+                    "start": 5.273,
+                    "end": 5.374,
+                    "score": 0.762
+                },
+                {
+                    "word": "think",
+                    "start": 5.474,
+                    "end": 6.114,
+                    "score": 0.91
+                },
+                {
+                    "word": "the",
+                    "start": 6.194,
+                    "end": 6.314,
+                    "score": 0.878
+                },
+                {
+                    "word": "government",
+                    "start": 6.354,
+                    "end": 6.735,
+                    "score": 0.599
+                },
+                {
+                    "word": "should",
+                    "start": 6.775,
+                    "end": 7.535,
+                    "score": 0.894
+                },
+                {
+                    "word": "set",
+                    "start": 8.116,
+                    "end": 8.356,
+                    "score": 0.967
+                },
+                {
+                    "word": "up",
+                    "start": 8.476,
+                    "end": 8.556,
+                    "score": 0.988
+                },
+                {
+                    "word": "some",
+                    "start": 8.997,
+                    "end": 9.317,
+                    "score": 0.852
+                },
+                {
+                    "word": "non-car",
+                    "start": 11.098,
+                    "end": 12.419,
+                    "score": 0.873
+                },
+                {
+                    "word": "Zoom",
+                    "start": 12.439,
+                    "end": 13.4,
+                    "score": 0.35
+                },
+                {
+                    "word": "at",
+                    "start": 14.721,
+                    "end": 14.801,
+                    "score": 0.909
+                },
+                {
+                    "word": "the",
+                    "start": 14.862,
+                    "end": 15.002,
+                    "score": 0.804
+                },
+                {
+                    "word": "center",
+                    "start": 15.062,
+                    "end": 15.602,
+                    "score": 0.72
+                },
+                {
+                    "word": "of",
+                    "start": 15.742,
+                    "end": 15.862,
+                    "score": 0.876
+                },
+                {
+                    "word": "the",
+                    "start": 16.002,
+                    "end": 16.183,
+                    "score": 0.919
+                },
+                {
+                    "word": "city.",
+                    "start": 16.243,
+                    "end": 16.543,
+                    "score": 0.913
+                }
+            ]
+        },
+        {
+            "start": 16.983,
+            "end": 17.844,
+            "text": "Because I think...",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 16.983,
+                    "end": 17.364,
+                    "score": 0.963
+                },
+                {
+                    "word": "I",
+                    "start": 17.484,
+                    "end": 17.564,
+                    "score": 0.792
+                },
+                {
+                    "word": "think...",
+                    "start": 17.624,
+                    "end": 17.844,
+                    "score": 0.949
+                }
+            ]
+        },
+        {
+            "start": 19.606,
+            "end": 34.327,
+            "text": " Lots of cars, they do cause lots of problems, like they pollute the air, and they cause traffic jams, and people should take...",
+            "words": [
+                {
+                    "word": "Lots",
+                    "start": 19.606,
+                    "end": 19.806,
+                    "score": 0.867
+                },
+                {
+                    "word": "of",
+                    "start": 19.846,
+                    "end": 19.926,
+                    "score": 0.85
+                },
+                {
+                    "word": "cars,",
+                    "start": 20.026,
+                    "end": 20.467,
+                    "score": 0.716
+                },
+                {
+                    "word": "they",
+                    "start": 20.607,
+                    "end": 20.788,
+                    "score": 0.85
+                },
+                {
+                    "word": "do",
+                    "start": 20.828,
+                    "end": 21.108,
+                    "score": 0.883
+                },
+                {
+                    "word": "cause",
+                    "start": 21.589,
+                    "end": 21.929,
+                    "score": 0.816
+                },
+                {
+                    "word": "lots",
+                    "start": 22.069,
+                    "end": 22.27,
+                    "score": 0.933
+                },
+                {
+                    "word": "of",
+                    "start": 22.31,
+                    "end": 22.39,
+                    "score": 0.856
+                },
+                {
+                    "word": "problems,",
+                    "start": 22.45,
+                    "end": 22.951,
+                    "score": 0.728
+                },
+                {
+                    "word": "like",
+                    "start": 23.411,
+                    "end": 23.652,
+                    "score": 0.846
+                },
+                {
+                    "word": "they",
+                    "start": 23.672,
+                    "end": 23.892,
+                    "score": 0.691
+                },
+                {
+                    "word": "pollute",
+                    "start": 23.912,
+                    "end": 24.593,
+                    "score": 0.916
+                },
+                {
+                    "word": "the",
+                    "start": 25.054,
+                    "end": 25.194,
+                    "score": 0.874
+                },
+                {
+                    "word": "air,",
+                    "start": 25.374,
+                    "end": 25.614,
+                    "score": 0.468
+                },
+                {
+                    "word": "and",
+                    "start": 26.215,
+                    "end": 26.335,
+                    "score": 0.862
+                },
+                {
+                    "word": "they",
+                    "start": 26.355,
+                    "end": 26.696,
+                    "score": 0.437
+                },
+                {
+                    "word": "cause",
+                    "start": 27.477,
+                    "end": 28.899,
+                    "score": 0.809
+                },
+                {
+                    "word": "traffic",
+                    "start": 29.019,
+                    "end": 29.44,
+                    "score": 0.949
+                },
+                {
+                    "word": "jams,",
+                    "start": 29.5,
+                    "end": 29.88,
+                    "score": 0.909
+                },
+                {
+                    "word": "and",
+                    "start": 30.421,
+                    "end": 30.882,
+                    "score": 0.788
+                },
+                {
+                    "word": "people",
+                    "start": 33.205,
+                    "end": 33.445,
+                    "score": 0.939
+                },
+                {
+                    "word": "should",
+                    "start": 33.505,
+                    "end": 33.746,
+                    "score": 0.933
+                },
+                {
+                    "word": "take...",
+                    "start": 34.086,
+                    "end": 34.327,
+                    "score": 0.986
+                }
+            ]
+        },
+        {
+            "start": 36.65,
+            "end": 50.635,
+            "text": " take public transportation to go to work or anywhere else because it is a healthier way and it's more efficient for our life.",
+            "words": [
+                {
+                    "word": "take",
+                    "start": 36.65,
+                    "end": 37.17,
+                    "score": 0.871
+                },
+                {
+                    "word": "public",
+                    "start": 37.31,
+                    "end": 37.69,
+                    "score": 0.971
+                },
+                {
+                    "word": "transportation",
+                    "start": 37.85,
+                    "end": 38.851,
+                    "score": 0.853
+                },
+                {
+                    "word": "to",
+                    "start": 39.511,
+                    "end": 39.731,
+                    "score": 0.875
+                },
+                {
+                    "word": "go",
+                    "start": 39.811,
+                    "end": 39.991,
+                    "score": 0.826
+                },
+                {
+                    "word": "to",
+                    "start": 40.051,
+                    "end": 40.171,
+                    "score": 0.85
+                },
+                {
+                    "word": "work",
+                    "start": 40.231,
+                    "end": 40.511,
+                    "score": 0.967
+                },
+                {
+                    "word": "or",
+                    "start": 40.711,
+                    "end": 40.791,
+                    "score": 0.95
+                },
+                {
+                    "word": "anywhere",
+                    "start": 40.952,
+                    "end": 41.352,
+                    "score": 0.849
+                },
+                {
+                    "word": "else",
+                    "start": 41.532,
+                    "end": 41.812,
+                    "score": 0.734
+                },
+                {
+                    "word": "because",
+                    "start": 42.192,
+                    "end": 42.592,
+                    "score": 0.956
+                },
+                {
+                    "word": "it",
+                    "start": 42.892,
+                    "end": 42.992,
+                    "score": 0.988
+                },
+                {
+                    "word": "is",
+                    "start": 43.212,
+                    "end": 43.352,
+                    "score": 0.977
+                },
+                {
+                    "word": "a",
+                    "start": 43.632,
+                    "end": 43.652,
+                    "score": 0.008
+                },
+                {
+                    "word": "healthier",
+                    "start": 44.333,
+                    "end": 44.913,
+                    "score": 0.758
+                },
+                {
+                    "word": "way",
+                    "start": 45.013,
+                    "end": 45.373,
+                    "score": 0.854
+                },
+                {
+                    "word": "and",
+                    "start": 45.573,
+                    "end": 45.713,
+                    "score": 0.875
+                },
+                {
+                    "word": "it's",
+                    "start": 45.833,
+                    "end": 46.533,
+                    "score": 0.781
+                },
+                {
+                    "word": "more",
+                    "start": 46.653,
+                    "end": 46.874,
+                    "score": 0.842
+                },
+                {
+                    "word": "efficient",
+                    "start": 46.994,
+                    "end": 47.554,
+                    "score": 0.952
+                },
+                {
+                    "word": "for",
+                    "start": 47.614,
+                    "end": 48.154,
+                    "score": 0.812
+                },
+                {
+                    "word": "our",
+                    "start": 48.174,
+                    "end": 48.234,
+                    "score": 0.004
+                },
+                {
+                    "word": "life.",
+                    "start": 50.315,
+                    "end": 50.635,
+                    "score": 0.964
+                }
+            ]
+        },
+        {
+            "start": 50.855,
+            "end": 56.777,
+            "text": "And sometimes the government gives the public transportation some privilege to go.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 50.855,
+                    "end": 51.255,
+                    "score": 0.758
+                },
+                {
+                    "word": "sometimes",
+                    "start": 51.795,
+                    "end": 52.215,
+                    "score": 0.826
+                },
+                {
+                    "word": "the",
+                    "start": 52.255,
+                    "end": 52.375,
+                    "score": 0.853
+                },
+                {
+                    "word": "government",
+                    "start": 52.395,
+                    "end": 52.736,
+                    "score": 0.635
+                },
+                {
+                    "word": "gives",
+                    "start": 52.956,
+                    "end": 53.156,
+                    "score": 0.79
+                },
+                {
+                    "word": "the",
+                    "start": 53.236,
+                    "end": 53.376,
+                    "score": 0.874
+                },
+                {
+                    "word": "public",
+                    "start": 53.436,
+                    "end": 54.116,
+                    "score": 0.944
+                },
+                {
+                    "word": "transportation",
+                    "start": 54.216,
+                    "end": 55.016,
+                    "score": 0.934
+                },
+                {
+                    "word": "some",
+                    "start": 55.076,
+                    "end": 55.356,
+                    "score": 0.845
+                },
+                {
+                    "word": "privilege",
+                    "start": 55.777,
+                    "end": 56.297,
+                    "score": 0.876
+                },
+                {
+                    "word": "to",
+                    "start": 56.417,
+                    "end": 56.577,
+                    "score": 0.832
+                },
+                {
+                    "word": "go.",
+                    "start": 56.637,
+                    "end": 56.777,
+                    "score": 0.999
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Yes,",
+            "start": 0.269,
+            "end": 0.529,
+            "score": 0.858
+        },
+        {
+            "word": "I",
+            "start": 0.61,
+            "end": 0.69,
+            "score": 0.75
+        },
+        {
+            "word": "do",
+            "start": 0.75,
+            "end": 0.91,
+            "score": 0.913
+        },
+        {
+            "word": "agree",
+            "start": 0.97,
+            "end": 1.33,
+            "score": 0.783
+        },
+        {
+            "word": "with",
+            "start": 1.39,
+            "end": 1.971,
+            "score": 0.896
+        },
+        {
+            "word": "the",
+            "start": 3.872,
+            "end": 3.992,
+            "score": 0.834
+        },
+        {
+            "word": "passenger.",
+            "start": 4.052,
+            "end": 4.633,
+            "score": 0.933
+        },
+        {
+            "word": "And",
+            "start": 5.113,
+            "end": 5.213,
+            "score": 0.903
+        },
+        {
+            "word": "I",
+            "start": 5.273,
+            "end": 5.374,
+            "score": 0.762
+        },
+        {
+            "word": "think",
+            "start": 5.474,
+            "end": 6.114,
+            "score": 0.91
+        },
+        {
+            "word": "the",
+            "start": 6.194,
+            "end": 6.314,
+            "score": 0.878
+        },
+        {
+            "word": "government",
+            "start": 6.354,
+            "end": 6.735,
+            "score": 0.599
+        },
+        {
+            "word": "should",
+            "start": 6.775,
+            "end": 7.535,
+            "score": 0.894
+        },
+        {
+            "word": "set",
+            "start": 8.116,
+            "end": 8.356,
+            "score": 0.967
+        },
+        {
+            "word": "up",
+            "start": 8.476,
+            "end": 8.556,
+            "score": 0.988
+        },
+        {
+            "word": "some",
+            "start": 8.997,
+            "end": 9.317,
+            "score": 0.852
+        },
+        {
+            "word": "non-car",
+            "start": 11.098,
+            "end": 12.419,
+            "score": 0.873
+        },
+        {
+            "word": "Zoom",
+            "start": 12.439,
+            "end": 13.4,
+            "score": 0.35
+        },
+        {
+            "word": "at",
+            "start": 14.721,
+            "end": 14.801,
+            "score": 0.909
+        },
+        {
+            "word": "the",
+            "start": 14.862,
+            "end": 15.002,
+            "score": 0.804
+        },
+        {
+            "word": "center",
+            "start": 15.062,
+            "end": 15.602,
+            "score": 0.72
+        },
+        {
+            "word": "of",
+            "start": 15.742,
+            "end": 15.862,
+            "score": 0.876
+        },
+        {
+            "word": "the",
+            "start": 16.002,
+            "end": 16.183,
+            "score": 0.919
+        },
+        {
+            "word": "city.",
+            "start": 16.243,
+            "end": 16.543,
+            "score": 0.913
+        },
+        {
+            "word": "Because",
+            "start": 16.983,
+            "end": 17.364,
+            "score": 0.963
+        },
+        {
+            "word": "I",
+            "start": 17.484,
+            "end": 17.564,
+            "score": 0.792
+        },
+        {
+            "word": "think...",
+            "start": 17.624,
+            "end": 17.844,
+            "score": 0.949
+        },
+        {
+            "word": "Lots",
+            "start": 19.606,
+            "end": 19.806,
+            "score": 0.867
+        },
+        {
+            "word": "of",
+            "start": 19.846,
+            "end": 19.926,
+            "score": 0.85
+        },
+        {
+            "word": "cars,",
+            "start": 20.026,
+            "end": 20.467,
+            "score": 0.716
+        },
+        {
+            "word": "they",
+            "start": 20.607,
+            "end": 20.788,
+            "score": 0.85
+        },
+        {
+            "word": "do",
+            "start": 20.828,
+            "end": 21.108,
+            "score": 0.883
+        },
+        {
+            "word": "cause",
+            "start": 21.589,
+            "end": 21.929,
+            "score": 0.816
+        },
+        {
+            "word": "lots",
+            "start": 22.069,
+            "end": 22.27,
+            "score": 0.933
+        },
+        {
+            "word": "of",
+            "start": 22.31,
+            "end": 22.39,
+            "score": 0.856
+        },
+        {
+            "word": "problems,",
+            "start": 22.45,
+            "end": 22.951,
+            "score": 0.728
+        },
+        {
+            "word": "like",
+            "start": 23.411,
+            "end": 23.652,
+            "score": 0.846
+        },
+        {
+            "word": "they",
+            "start": 23.672,
+            "end": 23.892,
+            "score": 0.691
+        },
+        {
+            "word": "pollute",
+            "start": 23.912,
+            "end": 24.593,
+            "score": 0.916
+        },
+        {
+            "word": "the",
+            "start": 25.054,
+            "end": 25.194,
+            "score": 0.874
+        },
+        {
+            "word": "air,",
+            "start": 25.374,
+            "end": 25.614,
+            "score": 0.468
+        },
+        {
+            "word": "and",
+            "start": 26.215,
+            "end": 26.335,
+            "score": 0.862
+        },
+        {
+            "word": "they",
+            "start": 26.355,
+            "end": 26.696,
+            "score": 0.437
+        },
+        {
+            "word": "cause",
+            "start": 27.477,
+            "end": 28.899,
+            "score": 0.809
+        },
+        {
+            "word": "traffic",
+            "start": 29.019,
+            "end": 29.44,
+            "score": 0.949
+        },
+        {
+            "word": "jams,",
+            "start": 29.5,
+            "end": 29.88,
+            "score": 0.909
+        },
+        {
+            "word": "and",
+            "start": 30.421,
+            "end": 30.882,
+            "score": 0.788
+        },
+        {
+            "word": "people",
+            "start": 33.205,
+            "end": 33.445,
+            "score": 0.939
+        },
+        {
+            "word": "should",
+            "start": 33.505,
+            "end": 33.746,
+            "score": 0.933
+        },
+        {
+            "word": "take...",
+            "start": 34.086,
+            "end": 34.327,
+            "score": 0.986
+        },
+        {
+            "word": "take",
+            "start": 36.65,
+            "end": 37.17,
+            "score": 0.871
+        },
+        {
+            "word": "public",
+            "start": 37.31,
+            "end": 37.69,
+            "score": 0.971
+        },
+        {
+            "word": "transportation",
+            "start": 37.85,
+            "end": 38.851,
+            "score": 0.853
+        },
+        {
+            "word": "to",
+            "start": 39.511,
+            "end": 39.731,
+            "score": 0.875
+        },
+        {
+            "word": "go",
+            "start": 39.811,
+            "end": 39.991,
+            "score": 0.826
+        },
+        {
+            "word": "to",
+            "start": 40.051,
+            "end": 40.171,
+            "score": 0.85
+        },
+        {
+            "word": "work",
+            "start": 40.231,
+            "end": 40.511,
+            "score": 0.967
+        },
+        {
+            "word": "or",
+            "start": 40.711,
+            "end": 40.791,
+            "score": 0.95
+        },
+        {
+            "word": "anywhere",
+            "start": 40.952,
+            "end": 41.352,
+            "score": 0.849
+        },
+        {
+            "word": "else",
+            "start": 41.532,
+            "end": 41.812,
+            "score": 0.734
+        },
+        {
+            "word": "because",
+            "start": 42.192,
+            "end": 42.592,
+            "score": 0.956
+        },
+        {
+            "word": "it",
+            "start": 42.892,
+            "end": 42.992,
+            "score": 0.988
+        },
+        {
+            "word": "is",
+            "start": 43.212,
+            "end": 43.352,
+            "score": 0.977
+        },
+        {
+            "word": "a",
+            "start": 43.632,
+            "end": 43.652,
+            "score": 0.008
+        },
+        {
+            "word": "healthier",
+            "start": 44.333,
+            "end": 44.913,
+            "score": 0.758
+        },
+        {
+            "word": "way",
+            "start": 45.013,
+            "end": 45.373,
+            "score": 0.854
+        },
+        {
+            "word": "and",
+            "start": 45.573,
+            "end": 45.713,
+            "score": 0.875
+        },
+        {
+            "word": "it's",
+            "start": 45.833,
+            "end": 46.533,
+            "score": 0.781
+        },
+        {
+            "word": "more",
+            "start": 46.653,
+            "end": 46.874,
+            "score": 0.842
+        },
+        {
+            "word": "efficient",
+            "start": 46.994,
+            "end": 47.554,
+            "score": 0.952
+        },
+        {
+            "word": "for",
+            "start": 47.614,
+            "end": 48.154,
+            "score": 0.812
+        },
+        {
+            "word": "our",
+            "start": 48.174,
+            "end": 48.234,
+            "score": 0.004
+        },
+        {
+            "word": "life.",
+            "start": 50.315,
+            "end": 50.635,
+            "score": 0.964
+        },
+        {
+            "word": "And",
+            "start": 50.855,
+            "end": 51.255,
+            "score": 0.758
+        },
+        {
+            "word": "sometimes",
+            "start": 51.795,
+            "end": 52.215,
+            "score": 0.826
+        },
+        {
+            "word": "the",
+            "start": 52.255,
+            "end": 52.375,
+            "score": 0.853
+        },
+        {
+            "word": "government",
+            "start": 52.395,
+            "end": 52.736,
+            "score": 0.635
+        },
+        {
+            "word": "gives",
+            "start": 52.956,
+            "end": 53.156,
+            "score": 0.79
+        },
+        {
+            "word": "the",
+            "start": 53.236,
+            "end": 53.376,
+            "score": 0.874
+        },
+        {
+            "word": "public",
+            "start": 53.436,
+            "end": 54.116,
+            "score": 0.944
+        },
+        {
+            "word": "transportation",
+            "start": 54.216,
+            "end": 55.016,
+            "score": 0.934
+        },
+        {
+            "word": "some",
+            "start": 55.076,
+            "end": 55.356,
+            "score": 0.845
+        },
+        {
+            "word": "privilege",
+            "start": 55.777,
+            "end": 56.297,
+            "score": 0.876
+        },
+        {
+            "word": "to",
+            "start": 56.417,
+            "end": 56.577,
+            "score": 0.832
+        },
+        {
+            "word": "go.",
+            "start": 56.637,
+            "end": 56.777,
+            "score": 0.999
+        }
+    ]
+}

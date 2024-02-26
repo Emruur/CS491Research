@@ -1,0 +1,1008 @@
+{
+    "segments": [
+        {
+            "start": 1.49,
+            "end": 11.916,
+            "text": " First of all, I agree with the government's policy because I think the overweight situation is becoming more serious nowadays.",
+            "words": [
+                {
+                    "word": "First",
+                    "start": 1.49,
+                    "end": 1.69,
+                    "score": 0.83
+                },
+                {
+                    "word": "of",
+                    "start": 1.73,
+                    "end": 1.81,
+                    "score": 0.839
+                },
+                {
+                    "word": "all,",
+                    "start": 1.89,
+                    "end": 2.01,
+                    "score": 0.889
+                },
+                {
+                    "word": "I",
+                    "start": 2.13,
+                    "end": 2.43,
+                    "score": 0.698
+                },
+                {
+                    "word": "agree",
+                    "start": 2.59,
+                    "end": 2.911,
+                    "score": 0.89
+                },
+                {
+                    "word": "with",
+                    "start": 2.931,
+                    "end": 3.011,
+                    "score": 0.02
+                },
+                {
+                    "word": "the",
+                    "start": 3.031,
+                    "end": 3.111,
+                    "score": 0.137
+                },
+                {
+                    "word": "government's",
+                    "start": 3.171,
+                    "end": 3.571,
+                    "score": 0.534
+                },
+                {
+                    "word": "policy",
+                    "start": 4.512,
+                    "end": 4.952,
+                    "score": 0.88
+                },
+                {
+                    "word": "because",
+                    "start": 4.992,
+                    "end": 5.512,
+                    "score": 0.853
+                },
+                {
+                    "word": "I",
+                    "start": 6.913,
+                    "end": 6.973,
+                    "score": 0.996
+                },
+                {
+                    "word": "think",
+                    "start": 7.033,
+                    "end": 7.333,
+                    "score": 0.884
+                },
+                {
+                    "word": "the",
+                    "start": 7.353,
+                    "end": 8.114,
+                    "score": 0.933
+                },
+                {
+                    "word": "overweight",
+                    "start": 8.234,
+                    "end": 8.674,
+                    "score": 0.812
+                },
+                {
+                    "word": "situation",
+                    "start": 8.714,
+                    "end": 9.334,
+                    "score": 0.78
+                },
+                {
+                    "word": "is",
+                    "start": 9.354,
+                    "end": 9.394,
+                    "score": 0.0
+                },
+                {
+                    "word": "becoming",
+                    "start": 9.795,
+                    "end": 10.155,
+                    "score": 0.608
+                },
+                {
+                    "word": "more",
+                    "start": 10.175,
+                    "end": 10.355,
+                    "score": 0.786
+                },
+                {
+                    "word": "serious",
+                    "start": 10.435,
+                    "end": 10.895,
+                    "score": 0.809
+                },
+                {
+                    "word": "nowadays.",
+                    "start": 11.355,
+                    "end": 11.916,
+                    "score": 0.778
+                }
+            ]
+        },
+        {
+            "start": 12.476,
+            "end": 17.019,
+            "text": "On the street, we usually can see many",
+            "words": [
+                {
+                    "word": "On",
+                    "start": 12.476,
+                    "end": 12.996,
+                    "score": 0.364
+                },
+                {
+                    "word": "the",
+                    "start": 15.258,
+                    "end": 15.318,
+                    "score": 0.49
+                },
+                {
+                    "word": "street,",
+                    "start": 15.358,
+                    "end": 15.598,
+                    "score": 0.671
+                },
+                {
+                    "word": "we",
+                    "start": 15.638,
+                    "end": 15.758,
+                    "score": 0.692
+                },
+                {
+                    "word": "usually",
+                    "start": 15.798,
+                    "end": 16.078,
+                    "score": 0.693
+                },
+                {
+                    "word": "can",
+                    "start": 16.118,
+                    "end": 16.278,
+                    "score": 0.878
+                },
+                {
+                    "word": "see",
+                    "start": 16.298,
+                    "end": 16.638,
+                    "score": 0.926
+                },
+                {
+                    "word": "many",
+                    "start": 16.779,
+                    "end": 17.019,
+                    "score": 0.948
+                }
+            ]
+        },
+        {
+            "start": 17.939,
+            "end": 28.467,
+            "text": " overweight people, they might cause some disease like heart disease or blood vessel disease.",
+            "words": [
+                {
+                    "word": "overweight",
+                    "start": 17.939,
+                    "end": 18.28,
+                    "score": 0.659
+                },
+                {
+                    "word": "people,",
+                    "start": 18.32,
+                    "end": 18.68,
+                    "score": 0.848
+                },
+                {
+                    "word": "they",
+                    "start": 19.26,
+                    "end": 19.841,
+                    "score": 0.73
+                },
+                {
+                    "word": "might",
+                    "start": 19.861,
+                    "end": 20.061,
+                    "score": 0.801
+                },
+                {
+                    "word": "cause",
+                    "start": 20.161,
+                    "end": 20.741,
+                    "score": 0.662
+                },
+                {
+                    "word": "some",
+                    "start": 21.622,
+                    "end": 21.922,
+                    "score": 0.845
+                },
+                {
+                    "word": "disease",
+                    "start": 22.363,
+                    "end": 22.803,
+                    "score": 0.899
+                },
+                {
+                    "word": "like",
+                    "start": 23.223,
+                    "end": 23.483,
+                    "score": 0.977
+                },
+                {
+                    "word": "heart",
+                    "start": 24.344,
+                    "end": 24.544,
+                    "score": 0.862
+                },
+                {
+                    "word": "disease",
+                    "start": 24.564,
+                    "end": 25.045,
+                    "score": 0.79
+                },
+                {
+                    "word": "or",
+                    "start": 25.285,
+                    "end": 25.485,
+                    "score": 0.758
+                },
+                {
+                    "word": "blood",
+                    "start": 26.826,
+                    "end": 27.266,
+                    "score": 0.807
+                },
+                {
+                    "word": "vessel",
+                    "start": 27.346,
+                    "end": 27.667,
+                    "score": 0.623
+                },
+                {
+                    "word": "disease.",
+                    "start": 27.687,
+                    "end": 28.467,
+                    "score": 0.72
+                }
+            ]
+        },
+        {
+            "start": 29.248,
+            "end": 35.252,
+            "text": "They will affect people's healthy condition, physical condition.",
+            "words": [
+                {
+                    "word": "They",
+                    "start": 29.248,
+                    "end": 29.368,
+                    "score": 0.883
+                },
+                {
+                    "word": "will",
+                    "start": 29.388,
+                    "end": 30.088,
+                    "score": 0.5
+                },
+                {
+                    "word": "affect",
+                    "start": 32.13,
+                    "end": 32.43,
+                    "score": 0.853
+                },
+                {
+                    "word": "people's",
+                    "start": 32.971,
+                    "end": 33.331,
+                    "score": 0.867
+                },
+                {
+                    "word": "healthy",
+                    "start": 33.371,
+                    "end": 33.751,
+                    "score": 0.6
+                },
+                {
+                    "word": "condition,",
+                    "start": 33.791,
+                    "end": 34.252,
+                    "score": 0.851
+                },
+                {
+                    "word": "physical",
+                    "start": 34.472,
+                    "end": 34.812,
+                    "score": 0.868
+                },
+                {
+                    "word": "condition.",
+                    "start": 34.852,
+                    "end": 35.252,
+                    "score": 0.952
+                }
+            ]
+        },
+        {
+            "start": 35.312,
+            "end": 37.254,
+            "text": "So I agree to",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 35.312,
+                    "end": 35.553,
+                    "score": 0.895
+                },
+                {
+                    "word": "I",
+                    "start": 36.233,
+                    "end": 36.333,
+                    "score": 0.975
+                },
+                {
+                    "word": "agree",
+                    "start": 36.453,
+                    "end": 36.914,
+                    "score": 0.975
+                },
+                {
+                    "word": "to",
+                    "start": 37.034,
+                    "end": 37.254,
+                    "score": 0.969
+                }
+            ]
+        },
+        {
+            "start": 39.176,
+            "end": 54.194,
+            "text": " I think the government's new policy to ban or to reduce how people drink tap water, soap water, I think that would be good for people.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 39.176,
+                    "end": 39.216,
+                    "score": 0.498
+                },
+                {
+                    "word": "think",
+                    "start": 39.256,
+                    "end": 39.496,
+                    "score": 0.548
+                },
+                {
+                    "word": "the",
+                    "start": 39.576,
+                    "end": 39.876,
+                    "score": 0.525
+                },
+                {
+                    "word": "government's",
+                    "start": 39.916,
+                    "end": 40.357,
+                    "score": 0.485
+                },
+                {
+                    "word": "new",
+                    "start": 40.397,
+                    "end": 40.517,
+                    "score": 0.843
+                },
+                {
+                    "word": "policy",
+                    "start": 40.557,
+                    "end": 41.078,
+                    "score": 0.778
+                },
+                {
+                    "word": "to",
+                    "start": 41.158,
+                    "end": 41.438,
+                    "score": 0.811
+                },
+                {
+                    "word": "ban",
+                    "start": 42.9,
+                    "end": 43.2,
+                    "score": 0.696
+                },
+                {
+                    "word": "or",
+                    "start": 43.401,
+                    "end": 43.521,
+                    "score": 0.637
+                },
+                {
+                    "word": "to",
+                    "start": 43.721,
+                    "end": 44.122,
+                    "score": 0.894
+                },
+                {
+                    "word": "reduce",
+                    "start": 44.622,
+                    "end": 45.023,
+                    "score": 0.887
+                },
+                {
+                    "word": "how",
+                    "start": 45.043,
+                    "end": 48.407,
+                    "score": 0.853
+                },
+                {
+                    "word": "people",
+                    "start": 48.427,
+                    "end": 48.867,
+                    "score": 0.739
+                },
+                {
+                    "word": "drink",
+                    "start": 48.907,
+                    "end": 49.308,
+                    "score": 0.816
+                },
+                {
+                    "word": "tap",
+                    "start": 49.969,
+                    "end": 50.209,
+                    "score": 0.794
+                },
+                {
+                    "word": "water,",
+                    "start": 50.249,
+                    "end": 50.629,
+                    "score": 0.918
+                },
+                {
+                    "word": "soap",
+                    "start": 50.649,
+                    "end": 50.83,
+                    "score": 0.471
+                },
+                {
+                    "word": "water,",
+                    "start": 50.87,
+                    "end": 51.23,
+                    "score": 0.891
+                },
+                {
+                    "word": "I",
+                    "start": 51.25,
+                    "end": 51.27,
+                    "score": 0.0
+                },
+                {
+                    "word": "think",
+                    "start": 51.811,
+                    "end": 51.971,
+                    "score": 0.833
+                },
+                {
+                    "word": "that",
+                    "start": 52.011,
+                    "end": 52.091,
+                    "score": 0.5
+                },
+                {
+                    "word": "would",
+                    "start": 52.111,
+                    "end": 52.211,
+                    "score": 0.187
+                },
+                {
+                    "word": "be",
+                    "start": 52.412,
+                    "end": 52.532,
+                    "score": 0.968
+                },
+                {
+                    "word": "good",
+                    "start": 52.572,
+                    "end": 52.772,
+                    "score": 0.967
+                },
+                {
+                    "word": "for",
+                    "start": 52.992,
+                    "end": 53.152,
+                    "score": 0.913
+                },
+                {
+                    "word": "people.",
+                    "start": 53.953,
+                    "end": 54.194,
+                    "score": 0.588
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "First",
+            "start": 1.49,
+            "end": 1.69,
+            "score": 0.83
+        },
+        {
+            "word": "of",
+            "start": 1.73,
+            "end": 1.81,
+            "score": 0.839
+        },
+        {
+            "word": "all,",
+            "start": 1.89,
+            "end": 2.01,
+            "score": 0.889
+        },
+        {
+            "word": "I",
+            "start": 2.13,
+            "end": 2.43,
+            "score": 0.698
+        },
+        {
+            "word": "agree",
+            "start": 2.59,
+            "end": 2.911,
+            "score": 0.89
+        },
+        {
+            "word": "with",
+            "start": 2.931,
+            "end": 3.011,
+            "score": 0.02
+        },
+        {
+            "word": "the",
+            "start": 3.031,
+            "end": 3.111,
+            "score": 0.137
+        },
+        {
+            "word": "government's",
+            "start": 3.171,
+            "end": 3.571,
+            "score": 0.534
+        },
+        {
+            "word": "policy",
+            "start": 4.512,
+            "end": 4.952,
+            "score": 0.88
+        },
+        {
+            "word": "because",
+            "start": 4.992,
+            "end": 5.512,
+            "score": 0.853
+        },
+        {
+            "word": "I",
+            "start": 6.913,
+            "end": 6.973,
+            "score": 0.996
+        },
+        {
+            "word": "think",
+            "start": 7.033,
+            "end": 7.333,
+            "score": 0.884
+        },
+        {
+            "word": "the",
+            "start": 7.353,
+            "end": 8.114,
+            "score": 0.933
+        },
+        {
+            "word": "overweight",
+            "start": 8.234,
+            "end": 8.674,
+            "score": 0.812
+        },
+        {
+            "word": "situation",
+            "start": 8.714,
+            "end": 9.334,
+            "score": 0.78
+        },
+        {
+            "word": "is",
+            "start": 9.354,
+            "end": 9.394,
+            "score": 0.0
+        },
+        {
+            "word": "becoming",
+            "start": 9.795,
+            "end": 10.155,
+            "score": 0.608
+        },
+        {
+            "word": "more",
+            "start": 10.175,
+            "end": 10.355,
+            "score": 0.786
+        },
+        {
+            "word": "serious",
+            "start": 10.435,
+            "end": 10.895,
+            "score": 0.809
+        },
+        {
+            "word": "nowadays.",
+            "start": 11.355,
+            "end": 11.916,
+            "score": 0.778
+        },
+        {
+            "word": "On",
+            "start": 12.476,
+            "end": 12.996,
+            "score": 0.364
+        },
+        {
+            "word": "the",
+            "start": 15.258,
+            "end": 15.318,
+            "score": 0.49
+        },
+        {
+            "word": "street,",
+            "start": 15.358,
+            "end": 15.598,
+            "score": 0.671
+        },
+        {
+            "word": "we",
+            "start": 15.638,
+            "end": 15.758,
+            "score": 0.692
+        },
+        {
+            "word": "usually",
+            "start": 15.798,
+            "end": 16.078,
+            "score": 0.693
+        },
+        {
+            "word": "can",
+            "start": 16.118,
+            "end": 16.278,
+            "score": 0.878
+        },
+        {
+            "word": "see",
+            "start": 16.298,
+            "end": 16.638,
+            "score": 0.926
+        },
+        {
+            "word": "many",
+            "start": 16.779,
+            "end": 17.019,
+            "score": 0.948
+        },
+        {
+            "word": "overweight",
+            "start": 17.939,
+            "end": 18.28,
+            "score": 0.659
+        },
+        {
+            "word": "people,",
+            "start": 18.32,
+            "end": 18.68,
+            "score": 0.848
+        },
+        {
+            "word": "they",
+            "start": 19.26,
+            "end": 19.841,
+            "score": 0.73
+        },
+        {
+            "word": "might",
+            "start": 19.861,
+            "end": 20.061,
+            "score": 0.801
+        },
+        {
+            "word": "cause",
+            "start": 20.161,
+            "end": 20.741,
+            "score": 0.662
+        },
+        {
+            "word": "some",
+            "start": 21.622,
+            "end": 21.922,
+            "score": 0.845
+        },
+        {
+            "word": "disease",
+            "start": 22.363,
+            "end": 22.803,
+            "score": 0.899
+        },
+        {
+            "word": "like",
+            "start": 23.223,
+            "end": 23.483,
+            "score": 0.977
+        },
+        {
+            "word": "heart",
+            "start": 24.344,
+            "end": 24.544,
+            "score": 0.862
+        },
+        {
+            "word": "disease",
+            "start": 24.564,
+            "end": 25.045,
+            "score": 0.79
+        },
+        {
+            "word": "or",
+            "start": 25.285,
+            "end": 25.485,
+            "score": 0.758
+        },
+        {
+            "word": "blood",
+            "start": 26.826,
+            "end": 27.266,
+            "score": 0.807
+        },
+        {
+            "word": "vessel",
+            "start": 27.346,
+            "end": 27.667,
+            "score": 0.623
+        },
+        {
+            "word": "disease.",
+            "start": 27.687,
+            "end": 28.467,
+            "score": 0.72
+        },
+        {
+            "word": "They",
+            "start": 29.248,
+            "end": 29.368,
+            "score": 0.883
+        },
+        {
+            "word": "will",
+            "start": 29.388,
+            "end": 30.088,
+            "score": 0.5
+        },
+        {
+            "word": "affect",
+            "start": 32.13,
+            "end": 32.43,
+            "score": 0.853
+        },
+        {
+            "word": "people's",
+            "start": 32.971,
+            "end": 33.331,
+            "score": 0.867
+        },
+        {
+            "word": "healthy",
+            "start": 33.371,
+            "end": 33.751,
+            "score": 0.6
+        },
+        {
+            "word": "condition,",
+            "start": 33.791,
+            "end": 34.252,
+            "score": 0.851
+        },
+        {
+            "word": "physical",
+            "start": 34.472,
+            "end": 34.812,
+            "score": 0.868
+        },
+        {
+            "word": "condition.",
+            "start": 34.852,
+            "end": 35.252,
+            "score": 0.952
+        },
+        {
+            "word": "So",
+            "start": 35.312,
+            "end": 35.553,
+            "score": 0.895
+        },
+        {
+            "word": "I",
+            "start": 36.233,
+            "end": 36.333,
+            "score": 0.975
+        },
+        {
+            "word": "agree",
+            "start": 36.453,
+            "end": 36.914,
+            "score": 0.975
+        },
+        {
+            "word": "to",
+            "start": 37.034,
+            "end": 37.254,
+            "score": 0.969
+        },
+        {
+            "word": "I",
+            "start": 39.176,
+            "end": 39.216,
+            "score": 0.498
+        },
+        {
+            "word": "think",
+            "start": 39.256,
+            "end": 39.496,
+            "score": 0.548
+        },
+        {
+            "word": "the",
+            "start": 39.576,
+            "end": 39.876,
+            "score": 0.525
+        },
+        {
+            "word": "government's",
+            "start": 39.916,
+            "end": 40.357,
+            "score": 0.485
+        },
+        {
+            "word": "new",
+            "start": 40.397,
+            "end": 40.517,
+            "score": 0.843
+        },
+        {
+            "word": "policy",
+            "start": 40.557,
+            "end": 41.078,
+            "score": 0.778
+        },
+        {
+            "word": "to",
+            "start": 41.158,
+            "end": 41.438,
+            "score": 0.811
+        },
+        {
+            "word": "ban",
+            "start": 42.9,
+            "end": 43.2,
+            "score": 0.696
+        },
+        {
+            "word": "or",
+            "start": 43.401,
+            "end": 43.521,
+            "score": 0.637
+        },
+        {
+            "word": "to",
+            "start": 43.721,
+            "end": 44.122,
+            "score": 0.894
+        },
+        {
+            "word": "reduce",
+            "start": 44.622,
+            "end": 45.023,
+            "score": 0.887
+        },
+        {
+            "word": "how",
+            "start": 45.043,
+            "end": 48.407,
+            "score": 0.853
+        },
+        {
+            "word": "people",
+            "start": 48.427,
+            "end": 48.867,
+            "score": 0.739
+        },
+        {
+            "word": "drink",
+            "start": 48.907,
+            "end": 49.308,
+            "score": 0.816
+        },
+        {
+            "word": "tap",
+            "start": 49.969,
+            "end": 50.209,
+            "score": 0.794
+        },
+        {
+            "word": "water,",
+            "start": 50.249,
+            "end": 50.629,
+            "score": 0.918
+        },
+        {
+            "word": "soap",
+            "start": 50.649,
+            "end": 50.83,
+            "score": 0.471
+        },
+        {
+            "word": "water,",
+            "start": 50.87,
+            "end": 51.23,
+            "score": 0.891
+        },
+        {
+            "word": "I",
+            "start": 51.25,
+            "end": 51.27,
+            "score": 0.0
+        },
+        {
+            "word": "think",
+            "start": 51.811,
+            "end": 51.971,
+            "score": 0.833
+        },
+        {
+            "word": "that",
+            "start": 52.011,
+            "end": 52.091,
+            "score": 0.5
+        },
+        {
+            "word": "would",
+            "start": 52.111,
+            "end": 52.211,
+            "score": 0.187
+        },
+        {
+            "word": "be",
+            "start": 52.412,
+            "end": 52.532,
+            "score": 0.968
+        },
+        {
+            "word": "good",
+            "start": 52.572,
+            "end": 52.772,
+            "score": 0.967
+        },
+        {
+            "word": "for",
+            "start": 52.992,
+            "end": 53.152,
+            "score": 0.913
+        },
+        {
+            "word": "people.",
+            "start": 53.953,
+            "end": 54.194,
+            "score": 0.588
+        }
+    ]
+}
