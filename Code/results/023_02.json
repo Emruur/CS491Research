@@ -1,0 +1,1044 @@
+{
+    "segments": [
+        {
+            "start": 0.309,
+            "end": 14.502,
+            "text": " Yes, if I have a chance to visit a city, actually I would like to visit Hawaii State because it's a famous city and it's a good place to visit.",
+            "words": [
+                {
+                    "word": "Yes,",
+                    "start": 0.309,
+                    "end": 0.59,
+                    "score": 0.873
+                },
+                {
+                    "word": "if",
+                    "start": 0.73,
+                    "end": 0.83,
+                    "score": 0.995
+                },
+                {
+                    "word": "I",
+                    "start": 0.97,
+                    "end": 1.07,
+                    "score": 0.804
+                },
+                {
+                    "word": "have",
+                    "start": 1.11,
+                    "end": 1.39,
+                    "score": 0.842
+                },
+                {
+                    "word": "a",
+                    "start": 1.41,
+                    "end": 1.43,
+                    "score": 0.003
+                },
+                {
+                    "word": "chance",
+                    "start": 1.53,
+                    "end": 1.911,
+                    "score": 0.891
+                },
+                {
+                    "word": "to",
+                    "start": 1.991,
+                    "end": 2.171,
+                    "score": 0.682
+                },
+                {
+                    "word": "visit",
+                    "start": 2.231,
+                    "end": 2.571,
+                    "score": 0.815
+                },
+                {
+                    "word": "a",
+                    "start": 2.591,
+                    "end": 2.611,
+                    "score": 0.0
+                },
+                {
+                    "word": "city,",
+                    "start": 2.852,
+                    "end": 3.312,
+                    "score": 0.92
+                },
+                {
+                    "word": "actually",
+                    "start": 4.693,
+                    "end": 5.034,
+                    "score": 0.899
+                },
+                {
+                    "word": "I",
+                    "start": 5.134,
+                    "end": 5.194,
+                    "score": 0.992
+                },
+                {
+                    "word": "would",
+                    "start": 5.214,
+                    "end": 5.414,
+                    "score": 0.758
+                },
+                {
+                    "word": "like",
+                    "start": 5.474,
+                    "end": 5.694,
+                    "score": 0.934
+                },
+                {
+                    "word": "to",
+                    "start": 5.754,
+                    "end": 5.854,
+                    "score": 0.992
+                },
+                {
+                    "word": "visit",
+                    "start": 5.894,
+                    "end": 6.135,
+                    "score": 0.932
+                },
+                {
+                    "word": "Hawaii",
+                    "start": 6.195,
+                    "end": 6.615,
+                    "score": 0.666
+                },
+                {
+                    "word": "State",
+                    "start": 6.635,
+                    "end": 6.995,
+                    "score": 0.856
+                },
+                {
+                    "word": "because",
+                    "start": 8.216,
+                    "end": 8.597,
+                    "score": 0.901
+                },
+                {
+                    "word": "it's",
+                    "start": 8.917,
+                    "end": 9.097,
+                    "score": 0.743
+                },
+                {
+                    "word": "a",
+                    "start": 9.117,
+                    "end": 9.137,
+                    "score": 0.0
+                },
+                {
+                    "word": "famous",
+                    "start": 9.438,
+                    "end": 10.498,
+                    "score": 0.9
+                },
+                {
+                    "word": "city",
+                    "start": 10.599,
+                    "end": 11.119,
+                    "score": 0.963
+                },
+                {
+                    "word": "and",
+                    "start": 11.399,
+                    "end": 12.12,
+                    "score": 0.792
+                },
+                {
+                    "word": "it's",
+                    "start": 13.001,
+                    "end": 13.121,
+                    "score": 0.91
+                },
+                {
+                    "word": "a",
+                    "start": 13.141,
+                    "end": 13.161,
+                    "score": 0.007
+                },
+                {
+                    "word": "good",
+                    "start": 13.201,
+                    "end": 13.421,
+                    "score": 0.974
+                },
+                {
+                    "word": "place",
+                    "start": 13.501,
+                    "end": 13.841,
+                    "score": 0.854
+                },
+                {
+                    "word": "to",
+                    "start": 13.942,
+                    "end": 14.082,
+                    "score": 0.807
+                },
+                {
+                    "word": "visit.",
+                    "start": 14.162,
+                    "end": 14.502,
+                    "score": 0.938
+                }
+            ]
+        },
+        {
+            "start": 16.163,
+            "end": 26.268,
+            "text": " Also, you know, it has a lot of tourist place and museum and it has also beautiful beach.",
+            "words": [
+                {
+                    "word": "Also,",
+                    "start": 16.163,
+                    "end": 16.564,
+                    "score": 0.748
+                },
+                {
+                    "word": "you",
+                    "start": 16.624,
+                    "end": 16.704,
+                    "score": 0.876
+                },
+                {
+                    "word": "know,",
+                    "start": 16.724,
+                    "end": 16.864,
+                    "score": 0.869
+                },
+                {
+                    "word": "it",
+                    "start": 16.924,
+                    "end": 17.004,
+                    "score": 0.847
+                },
+                {
+                    "word": "has",
+                    "start": 17.064,
+                    "end": 17.384,
+                    "score": 0.864
+                },
+                {
+                    "word": "a",
+                    "start": 17.404,
+                    "end": 17.424,
+                    "score": 0.001
+                },
+                {
+                    "word": "lot",
+                    "start": 17.764,
+                    "end": 19.725,
+                    "score": 0.917
+                },
+                {
+                    "word": "of",
+                    "start": 19.745,
+                    "end": 19.785,
+                    "score": 0.0
+                },
+                {
+                    "word": "tourist",
+                    "start": 20.005,
+                    "end": 20.445,
+                    "score": 0.856
+                },
+                {
+                    "word": "place",
+                    "start": 20.585,
+                    "end": 21.386,
+                    "score": 0.909
+                },
+                {
+                    "word": "and",
+                    "start": 21.406,
+                    "end": 21.466,
+                    "score": 0.001
+                },
+                {
+                    "word": "museum",
+                    "start": 21.606,
+                    "end": 22.526,
+                    "score": 0.852
+                },
+                {
+                    "word": "and",
+                    "start": 22.807,
+                    "end": 23.027,
+                    "score": 0.718
+                },
+                {
+                    "word": "it",
+                    "start": 23.047,
+                    "end": 23.087,
+                    "score": 0.001
+                },
+                {
+                    "word": "has",
+                    "start": 23.107,
+                    "end": 24.107,
+                    "score": 0.817
+                },
+                {
+                    "word": "also",
+                    "start": 24.267,
+                    "end": 24.567,
+                    "score": 0.907
+                },
+                {
+                    "word": "beautiful",
+                    "start": 24.928,
+                    "end": 25.768,
+                    "score": 0.869
+                },
+                {
+                    "word": "beach.",
+                    "start": 25.908,
+                    "end": 26.268,
+                    "score": 0.875
+                }
+            ]
+        },
+        {
+            "start": 27.429,
+            "end": 34.652,
+            "text": "And yeah, you know, my cousin, when he get married, he has been there once.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 27.429,
+                    "end": 27.589,
+                    "score": 0.649
+                },
+                {
+                    "word": "yeah,",
+                    "start": 27.649,
+                    "end": 27.949,
+                    "score": 0.763
+                },
+                {
+                    "word": "you",
+                    "start": 28.089,
+                    "end": 28.189,
+                    "score": 0.738
+                },
+                {
+                    "word": "know,",
+                    "start": 28.229,
+                    "end": 28.409,
+                    "score": 0.686
+                },
+                {
+                    "word": "my",
+                    "start": 28.449,
+                    "end": 28.629,
+                    "score": 0.942
+                },
+                {
+                    "word": "cousin,",
+                    "start": 28.709,
+                    "end": 29.13,
+                    "score": 0.858
+                },
+                {
+                    "word": "when",
+                    "start": 29.71,
+                    "end": 29.85,
+                    "score": 0.913
+                },
+                {
+                    "word": "he",
+                    "start": 29.89,
+                    "end": 29.99,
+                    "score": 0.834
+                },
+                {
+                    "word": "get",
+                    "start": 30.03,
+                    "end": 30.19,
+                    "score": 0.917
+                },
+                {
+                    "word": "married,",
+                    "start": 30.23,
+                    "end": 31.051,
+                    "score": 0.385
+                },
+                {
+                    "word": "he",
+                    "start": 32.271,
+                    "end": 32.651,
+                    "score": 0.774
+                },
+                {
+                    "word": "has",
+                    "start": 33.332,
+                    "end": 33.532,
+                    "score": 0.919
+                },
+                {
+                    "word": "been",
+                    "start": 33.592,
+                    "end": 33.772,
+                    "score": 0.879
+                },
+                {
+                    "word": "there",
+                    "start": 33.792,
+                    "end": 34.552,
+                    "score": 0.657
+                },
+                {
+                    "word": "once.",
+                    "start": 34.572,
+                    "end": 34.652,
+                    "score": 0.0
+                }
+            ]
+        },
+        {
+            "start": 35.193,
+            "end": 38.394,
+            "text": "And also the weather there is so warm.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 35.193,
+                    "end": 35.293,
+                    "score": 0.795
+                },
+                {
+                    "word": "also",
+                    "start": 35.393,
+                    "end": 35.633,
+                    "score": 0.843
+                },
+                {
+                    "word": "the",
+                    "start": 35.673,
+                    "end": 35.773,
+                    "score": 0.943
+                },
+                {
+                    "word": "weather",
+                    "start": 35.813,
+                    "end": 36.133,
+                    "score": 0.708
+                },
+                {
+                    "word": "there",
+                    "start": 36.213,
+                    "end": 36.473,
+                    "score": 0.903
+                },
+                {
+                    "word": "is",
+                    "start": 36.593,
+                    "end": 36.693,
+                    "score": 0.739
+                },
+                {
+                    "word": "so",
+                    "start": 36.713,
+                    "end": 36.753,
+                    "score": 0.0
+                },
+                {
+                    "word": "warm.",
+                    "start": 37.974,
+                    "end": 38.394,
+                    "score": 0.944
+                }
+            ]
+        },
+        {
+            "start": 39.254,
+            "end": 41.696,
+            "text": "And yeah, I like that weather.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 39.254,
+                    "end": 39.435,
+                    "score": 0.813
+                },
+                {
+                    "word": "yeah,",
+                    "start": 40.015,
+                    "end": 40.315,
+                    "score": 0.715
+                },
+                {
+                    "word": "I",
+                    "start": 40.375,
+                    "end": 40.435,
+                    "score": 0.973
+                },
+                {
+                    "word": "like",
+                    "start": 40.495,
+                    "end": 40.735,
+                    "score": 0.892
+                },
+                {
+                    "word": "that",
+                    "start": 40.755,
+                    "end": 41.055,
+                    "score": 0.327
+                },
+                {
+                    "word": "weather.",
+                    "start": 41.095,
+                    "end": 41.696,
+                    "score": 0.614
+                }
+            ]
+        },
+        {
+            "start": 42.616,
+            "end": 44.377,
+            "text": "So I hope I visit it.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 42.616,
+                    "end": 42.896,
+                    "score": 0.968
+                },
+                {
+                    "word": "I",
+                    "start": 43.276,
+                    "end": 43.577,
+                    "score": 0.852
+                },
+                {
+                    "word": "hope",
+                    "start": 43.637,
+                    "end": 43.857,
+                    "score": 0.892
+                },
+                {
+                    "word": "I",
+                    "start": 43.937,
+                    "end": 43.997,
+                    "score": 0.871
+                },
+                {
+                    "word": "visit",
+                    "start": 44.037,
+                    "end": 44.297,
+                    "score": 0.961
+                },
+                {
+                    "word": "it.",
+                    "start": 44.337,
+                    "end": 44.377,
+                    "score": 0.394
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Yes,",
+            "start": 0.309,
+            "end": 0.59,
+            "score": 0.873
+        },
+        {
+            "word": "if",
+            "start": 0.73,
+            "end": 0.83,
+            "score": 0.995
+        },
+        {
+            "word": "I",
+            "start": 0.97,
+            "end": 1.07,
+            "score": 0.804
+        },
+        {
+            "word": "have",
+            "start": 1.11,
+            "end": 1.39,
+            "score": 0.842
+        },
+        {
+            "word": "a",
+            "start": 1.41,
+            "end": 1.43,
+            "score": 0.003
+        },
+        {
+            "word": "chance",
+            "start": 1.53,
+            "end": 1.911,
+            "score": 0.891
+        },
+        {
+            "word": "to",
+            "start": 1.991,
+            "end": 2.171,
+            "score": 0.682
+        },
+        {
+            "word": "visit",
+            "start": 2.231,
+            "end": 2.571,
+            "score": 0.815
+        },
+        {
+            "word": "a",
+            "start": 2.591,
+            "end": 2.611,
+            "score": 0.0
+        },
+        {
+            "word": "city,",
+            "start": 2.852,
+            "end": 3.312,
+            "score": 0.92
+        },
+        {
+            "word": "actually",
+            "start": 4.693,
+            "end": 5.034,
+            "score": 0.899
+        },
+        {
+            "word": "I",
+            "start": 5.134,
+            "end": 5.194,
+            "score": 0.992
+        },
+        {
+            "word": "would",
+            "start": 5.214,
+            "end": 5.414,
+            "score": 0.758
+        },
+        {
+            "word": "like",
+            "start": 5.474,
+            "end": 5.694,
+            "score": 0.934
+        },
+        {
+            "word": "to",
+            "start": 5.754,
+            "end": 5.854,
+            "score": 0.992
+        },
+        {
+            "word": "visit",
+            "start": 5.894,
+            "end": 6.135,
+            "score": 0.932
+        },
+        {
+            "word": "Hawaii",
+            "start": 6.195,
+            "end": 6.615,
+            "score": 0.666
+        },
+        {
+            "word": "State",
+            "start": 6.635,
+            "end": 6.995,
+            "score": 0.856
+        },
+        {
+            "word": "because",
+            "start": 8.216,
+            "end": 8.597,
+            "score": 0.901
+        },
+        {
+            "word": "it's",
+            "start": 8.917,
+            "end": 9.097,
+            "score": 0.743
+        },
+        {
+            "word": "a",
+            "start": 9.117,
+            "end": 9.137,
+            "score": 0.0
+        },
+        {
+            "word": "famous",
+            "start": 9.438,
+            "end": 10.498,
+            "score": 0.9
+        },
+        {
+            "word": "city",
+            "start": 10.599,
+            "end": 11.119,
+            "score": 0.963
+        },
+        {
+            "word": "and",
+            "start": 11.399,
+            "end": 12.12,
+            "score": 0.792
+        },
+        {
+            "word": "it's",
+            "start": 13.001,
+            "end": 13.121,
+            "score": 0.91
+        },
+        {
+            "word": "a",
+            "start": 13.141,
+            "end": 13.161,
+            "score": 0.007
+        },
+        {
+            "word": "good",
+            "start": 13.201,
+            "end": 13.421,
+            "score": 0.974
+        },
+        {
+            "word": "place",
+            "start": 13.501,
+            "end": 13.841,
+            "score": 0.854
+        },
+        {
+            "word": "to",
+            "start": 13.942,
+            "end": 14.082,
+            "score": 0.807
+        },
+        {
+            "word": "visit.",
+            "start": 14.162,
+            "end": 14.502,
+            "score": 0.938
+        },
+        {
+            "word": "Also,",
+            "start": 16.163,
+            "end": 16.564,
+            "score": 0.748
+        },
+        {
+            "word": "you",
+            "start": 16.624,
+            "end": 16.704,
+            "score": 0.876
+        },
+        {
+            "word": "know,",
+            "start": 16.724,
+            "end": 16.864,
+            "score": 0.869
+        },
+        {
+            "word": "it",
+            "start": 16.924,
+            "end": 17.004,
+            "score": 0.847
+        },
+        {
+            "word": "has",
+            "start": 17.064,
+            "end": 17.384,
+            "score": 0.864
+        },
+        {
+            "word": "a",
+            "start": 17.404,
+            "end": 17.424,
+            "score": 0.001
+        },
+        {
+            "word": "lot",
+            "start": 17.764,
+            "end": 19.725,
+            "score": 0.917
+        },
+        {
+            "word": "of",
+            "start": 19.745,
+            "end": 19.785,
+            "score": 0.0
+        },
+        {
+            "word": "tourist",
+            "start": 20.005,
+            "end": 20.445,
+            "score": 0.856
+        },
+        {
+            "word": "place",
+            "start": 20.585,
+            "end": 21.386,
+            "score": 0.909
+        },
+        {
+            "word": "and",
+            "start": 21.406,
+            "end": 21.466,
+            "score": 0.001
+        },
+        {
+            "word": "museum",
+            "start": 21.606,
+            "end": 22.526,
+            "score": 0.852
+        },
+        {
+            "word": "and",
+            "start": 22.807,
+            "end": 23.027,
+            "score": 0.718
+        },
+        {
+            "word": "it",
+            "start": 23.047,
+            "end": 23.087,
+            "score": 0.001
+        },
+        {
+            "word": "has",
+            "start": 23.107,
+            "end": 24.107,
+            "score": 0.817
+        },
+        {
+            "word": "also",
+            "start": 24.267,
+            "end": 24.567,
+            "score": 0.907
+        },
+        {
+            "word": "beautiful",
+            "start": 24.928,
+            "end": 25.768,
+            "score": 0.869
+        },
+        {
+            "word": "beach.",
+            "start": 25.908,
+            "end": 26.268,
+            "score": 0.875
+        },
+        {
+            "word": "And",
+            "start": 27.429,
+            "end": 27.589,
+            "score": 0.649
+        },
+        {
+            "word": "yeah,",
+            "start": 27.649,
+            "end": 27.949,
+            "score": 0.763
+        },
+        {
+            "word": "you",
+            "start": 28.089,
+            "end": 28.189,
+            "score": 0.738
+        },
+        {
+            "word": "know,",
+            "start": 28.229,
+            "end": 28.409,
+            "score": 0.686
+        },
+        {
+            "word": "my",
+            "start": 28.449,
+            "end": 28.629,
+            "score": 0.942
+        },
+        {
+            "word": "cousin,",
+            "start": 28.709,
+            "end": 29.13,
+            "score": 0.858
+        },
+        {
+            "word": "when",
+            "start": 29.71,
+            "end": 29.85,
+            "score": 0.913
+        },
+        {
+            "word": "he",
+            "start": 29.89,
+            "end": 29.99,
+            "score": 0.834
+        },
+        {
+            "word": "get",
+            "start": 30.03,
+            "end": 30.19,
+            "score": 0.917
+        },
+        {
+            "word": "married,",
+            "start": 30.23,
+            "end": 31.051,
+            "score": 0.385
+        },
+        {
+            "word": "he",
+            "start": 32.271,
+            "end": 32.651,
+            "score": 0.774
+        },
+        {
+            "word": "has",
+            "start": 33.332,
+            "end": 33.532,
+            "score": 0.919
+        },
+        {
+            "word": "been",
+            "start": 33.592,
+            "end": 33.772,
+            "score": 0.879
+        },
+        {
+            "word": "there",
+            "start": 33.792,
+            "end": 34.552,
+            "score": 0.657
+        },
+        {
+            "word": "once.",
+            "start": 34.572,
+            "end": 34.652,
+            "score": 0.0
+        },
+        {
+            "word": "And",
+            "start": 35.193,
+            "end": 35.293,
+            "score": 0.795
+        },
+        {
+            "word": "also",
+            "start": 35.393,
+            "end": 35.633,
+            "score": 0.843
+        },
+        {
+            "word": "the",
+            "start": 35.673,
+            "end": 35.773,
+            "score": 0.943
+        },
+        {
+            "word": "weather",
+            "start": 35.813,
+            "end": 36.133,
+            "score": 0.708
+        },
+        {
+            "word": "there",
+            "start": 36.213,
+            "end": 36.473,
+            "score": 0.903
+        },
+        {
+            "word": "is",
+            "start": 36.593,
+            "end": 36.693,
+            "score": 0.739
+        },
+        {
+            "word": "so",
+            "start": 36.713,
+            "end": 36.753,
+            "score": 0.0
+        },
+        {
+            "word": "warm.",
+            "start": 37.974,
+            "end": 38.394,
+            "score": 0.944
+        },
+        {
+            "word": "And",
+            "start": 39.254,
+            "end": 39.435,
+            "score": 0.813
+        },
+        {
+            "word": "yeah,",
+            "start": 40.015,
+            "end": 40.315,
+            "score": 0.715
+        },
+        {
+            "word": "I",
+            "start": 40.375,
+            "end": 40.435,
+            "score": 0.973
+        },
+        {
+            "word": "like",
+            "start": 40.495,
+            "end": 40.735,
+            "score": 0.892
+        },
+        {
+            "word": "that",
+            "start": 40.755,
+            "end": 41.055,
+            "score": 0.327
+        },
+        {
+            "word": "weather.",
+            "start": 41.095,
+            "end": 41.696,
+            "score": 0.614
+        },
+        {
+            "word": "So",
+            "start": 42.616,
+            "end": 42.896,
+            "score": 0.968
+        },
+        {
+            "word": "I",
+            "start": 43.276,
+            "end": 43.577,
+            "score": 0.852
+        },
+        {
+            "word": "hope",
+            "start": 43.637,
+            "end": 43.857,
+            "score": 0.892
+        },
+        {
+            "word": "I",
+            "start": 43.937,
+            "end": 43.997,
+            "score": 0.871
+        },
+        {
+            "word": "visit",
+            "start": 44.037,
+            "end": 44.297,
+            "score": 0.961
+        },
+        {
+            "word": "it.",
+            "start": 44.337,
+            "end": 44.377,
+            "score": 0.394
+        }
+    ]
+}

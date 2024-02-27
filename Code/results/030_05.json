@@ -1,0 +1,1505 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 10.765,
+            "text": " I'm agree with the application require healthy warning labels on the sides of soda cans because they it is an effect of",
+            "words": [
+                {
+                    "word": "I'm",
+                    "start": 0.109,
+                    "end": 0.229,
+                    "score": 0.536
+                },
+                {
+                    "word": "agree",
+                    "start": 0.269,
+                    "end": 0.53,
+                    "score": 0.696
+                },
+                {
+                    "word": "with",
+                    "start": 0.57,
+                    "end": 0.71,
+                    "score": 0.34
+                },
+                {
+                    "word": "the",
+                    "start": 0.75,
+                    "end": 0.81,
+                    "score": 0.084
+                },
+                {
+                    "word": "application",
+                    "start": 0.87,
+                    "end": 1.431,
+                    "score": 0.41
+                },
+                {
+                    "word": "require",
+                    "start": 1.832,
+                    "end": 2.332,
+                    "score": 0.902
+                },
+                {
+                    "word": "healthy",
+                    "start": 2.392,
+                    "end": 2.773,
+                    "score": 0.893
+                },
+                {
+                    "word": "warning",
+                    "start": 2.813,
+                    "end": 3.194,
+                    "score": 0.878
+                },
+                {
+                    "word": "labels",
+                    "start": 3.234,
+                    "end": 3.714,
+                    "score": 0.799
+                },
+                {
+                    "word": "on",
+                    "start": 4.015,
+                    "end": 4.095,
+                    "score": 0.991
+                },
+                {
+                    "word": "the",
+                    "start": 4.155,
+                    "end": 4.255,
+                    "score": 0.709
+                },
+                {
+                    "word": "sides",
+                    "start": 4.315,
+                    "end": 4.616,
+                    "score": 0.888
+                },
+                {
+                    "word": "of",
+                    "start": 4.696,
+                    "end": 4.776,
+                    "score": 0.716
+                },
+                {
+                    "word": "soda",
+                    "start": 4.856,
+                    "end": 5.257,
+                    "score": 0.893
+                },
+                {
+                    "word": "cans",
+                    "start": 5.297,
+                    "end": 5.597,
+                    "score": 0.884
+                },
+                {
+                    "word": "because",
+                    "start": 5.737,
+                    "end": 6.138,
+                    "score": 0.856
+                },
+                {
+                    "word": "they",
+                    "start": 7.58,
+                    "end": 8.041,
+                    "score": 0.902
+                },
+                {
+                    "word": "it",
+                    "start": 9.322,
+                    "end": 9.403,
+                    "score": 0.854
+                },
+                {
+                    "word": "is",
+                    "start": 9.523,
+                    "end": 9.603,
+                    "score": 0.9
+                },
+                {
+                    "word": "an",
+                    "start": 9.623,
+                    "end": 9.663,
+                    "score": 0.001
+                },
+                {
+                    "word": "effect",
+                    "start": 10.124,
+                    "end": 10.584,
+                    "score": 0.644
+                },
+                {
+                    "word": "of",
+                    "start": 10.724,
+                    "end": 10.765,
+                    "score": 0.977
+                }
+            ]
+        },
+        {
+            "start": 13.942,
+            "end": 19.807,
+            "text": " I agree that the government should require healthy warning labels on the sides of soda cans.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 13.942,
+                    "end": 14.042,
+                    "score": 0.812
+                },
+                {
+                    "word": "agree",
+                    "start": 14.102,
+                    "end": 14.422,
+                    "score": 0.833
+                },
+                {
+                    "word": "that",
+                    "start": 14.482,
+                    "end": 14.703,
+                    "score": 0.871
+                },
+                {
+                    "word": "the",
+                    "start": 15.003,
+                    "end": 15.123,
+                    "score": 0.81
+                },
+                {
+                    "word": "government",
+                    "start": 15.183,
+                    "end": 15.803,
+                    "score": 0.833
+                },
+                {
+                    "word": "should",
+                    "start": 15.903,
+                    "end": 16.124,
+                    "score": 0.813
+                },
+                {
+                    "word": "require",
+                    "start": 16.264,
+                    "end": 16.744,
+                    "score": 0.954
+                },
+                {
+                    "word": "healthy",
+                    "start": 16.784,
+                    "end": 17.164,
+                    "score": 0.752
+                },
+                {
+                    "word": "warning",
+                    "start": 17.205,
+                    "end": 17.605,
+                    "score": 0.875
+                },
+                {
+                    "word": "labels",
+                    "start": 17.645,
+                    "end": 18.085,
+                    "score": 0.678
+                },
+                {
+                    "word": "on",
+                    "start": 18.165,
+                    "end": 18.245,
+                    "score": 0.941
+                },
+                {
+                    "word": "the",
+                    "start": 18.265,
+                    "end": 18.345,
+                    "score": 0.682
+                },
+                {
+                    "word": "sides",
+                    "start": 18.426,
+                    "end": 18.746,
+                    "score": 0.965
+                },
+                {
+                    "word": "of",
+                    "start": 18.846,
+                    "end": 18.946,
+                    "score": 0.853
+                },
+                {
+                    "word": "soda",
+                    "start": 19.046,
+                    "end": 19.406,
+                    "score": 0.943
+                },
+                {
+                    "word": "cans.",
+                    "start": 19.426,
+                    "end": 19.807,
+                    "score": 0.772
+                }
+            ]
+        },
+        {
+            "start": 20.507,
+            "end": 38.642,
+            "text": "It is true that more and more people, especially children, like drinking soft drinks all day long instead of drinking water or milk because they are not aware of the",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 20.507,
+                    "end": 20.587,
+                    "score": 0.824
+                },
+                {
+                    "word": "is",
+                    "start": 20.687,
+                    "end": 20.767,
+                    "score": 0.688
+                },
+                {
+                    "word": "true",
+                    "start": 20.908,
+                    "end": 21.208,
+                    "score": 0.868
+                },
+                {
+                    "word": "that",
+                    "start": 21.308,
+                    "end": 21.608,
+                    "score": 0.858
+                },
+                {
+                    "word": "more",
+                    "start": 23.43,
+                    "end": 23.73,
+                    "score": 0.938
+                },
+                {
+                    "word": "and",
+                    "start": 23.81,
+                    "end": 23.91,
+                    "score": 0.947
+                },
+                {
+                    "word": "more",
+                    "start": 24.03,
+                    "end": 24.27,
+                    "score": 0.799
+                },
+                {
+                    "word": "people,",
+                    "start": 24.33,
+                    "end": 24.871,
+                    "score": 0.846
+                },
+                {
+                    "word": "especially",
+                    "start": 25.031,
+                    "end": 25.771,
+                    "score": 0.877
+                },
+                {
+                    "word": "children,",
+                    "start": 25.831,
+                    "end": 26.372,
+                    "score": 0.813
+                },
+                {
+                    "word": "like",
+                    "start": 27.293,
+                    "end": 27.553,
+                    "score": 0.864
+                },
+                {
+                    "word": "drinking",
+                    "start": 27.653,
+                    "end": 28.474,
+                    "score": 0.844
+                },
+                {
+                    "word": "soft",
+                    "start": 29.074,
+                    "end": 29.434,
+                    "score": 0.981
+                },
+                {
+                    "word": "drinks",
+                    "start": 29.534,
+                    "end": 29.935,
+                    "score": 0.813
+                },
+                {
+                    "word": "all",
+                    "start": 30.615,
+                    "end": 30.735,
+                    "score": 0.968
+                },
+                {
+                    "word": "day",
+                    "start": 30.755,
+                    "end": 30.956,
+                    "score": 0.825
+                },
+                {
+                    "word": "long",
+                    "start": 31.016,
+                    "end": 31.236,
+                    "score": 0.822
+                },
+                {
+                    "word": "instead",
+                    "start": 31.296,
+                    "end": 31.696,
+                    "score": 0.917
+                },
+                {
+                    "word": "of",
+                    "start": 31.816,
+                    "end": 31.916,
+                    "score": 0.75
+                },
+                {
+                    "word": "drinking",
+                    "start": 32.036,
+                    "end": 32.457,
+                    "score": 0.819
+                },
+                {
+                    "word": "water",
+                    "start": 32.557,
+                    "end": 33.177,
+                    "score": 0.919
+                },
+                {
+                    "word": "or",
+                    "start": 33.318,
+                    "end": 33.438,
+                    "score": 0.868
+                },
+                {
+                    "word": "milk",
+                    "start": 33.518,
+                    "end": 33.878,
+                    "score": 0.899
+                },
+                {
+                    "word": "because",
+                    "start": 36.7,
+                    "end": 37.041,
+                    "score": 0.896
+                },
+                {
+                    "word": "they",
+                    "start": 37.081,
+                    "end": 37.221,
+                    "score": 0.953
+                },
+                {
+                    "word": "are",
+                    "start": 37.261,
+                    "end": 37.381,
+                    "score": 0.778
+                },
+                {
+                    "word": "not",
+                    "start": 37.441,
+                    "end": 37.661,
+                    "score": 0.885
+                },
+                {
+                    "word": "aware",
+                    "start": 37.761,
+                    "end": 38.141,
+                    "score": 0.871
+                },
+                {
+                    "word": "of",
+                    "start": 38.241,
+                    "end": 38.322,
+                    "score": 0.86
+                },
+                {
+                    "word": "the",
+                    "start": 38.442,
+                    "end": 38.642,
+                    "score": 0.834
+                }
+            ]
+        },
+        {
+            "start": 40.411,
+            "end": 54.628,
+            "text": " uh the nutrition the ingredients in the soda the sugar like that in us in the soft drinks so they gain a lot of weights and fats",
+            "words": [
+                {
+                    "word": "uh",
+                    "start": 40.411,
+                    "end": 40.532,
+                    "score": 0.566
+                },
+                {
+                    "word": "the",
+                    "start": 40.612,
+                    "end": 40.732,
+                    "score": 0.972
+                },
+                {
+                    "word": "nutrition",
+                    "start": 40.792,
+                    "end": 41.493,
+                    "score": 0.93
+                },
+                {
+                    "word": "the",
+                    "start": 42.133,
+                    "end": 42.514,
+                    "score": 0.99
+                },
+                {
+                    "word": "ingredients",
+                    "start": 43.275,
+                    "end": 43.916,
+                    "score": 0.981
+                },
+                {
+                    "word": "in",
+                    "start": 44.136,
+                    "end": 44.236,
+                    "score": 0.799
+                },
+                {
+                    "word": "the",
+                    "start": 44.256,
+                    "end": 44.356,
+                    "score": 0.895
+                },
+                {
+                    "word": "soda",
+                    "start": 44.436,
+                    "end": 44.897,
+                    "score": 0.934
+                },
+                {
+                    "word": "the",
+                    "start": 44.937,
+                    "end": 45.077,
+                    "score": 0.769
+                },
+                {
+                    "word": "sugar",
+                    "start": 45.137,
+                    "end": 45.738,
+                    "score": 0.808
+                },
+                {
+                    "word": "like",
+                    "start": 46.679,
+                    "end": 46.919,
+                    "score": 0.851
+                },
+                {
+                    "word": "that",
+                    "start": 46.959,
+                    "end": 47.259,
+                    "score": 0.947
+                },
+                {
+                    "word": "in",
+                    "start": 47.46,
+                    "end": 47.56,
+                    "score": 0.601
+                },
+                {
+                    "word": "us",
+                    "start": 47.64,
+                    "end": 47.74,
+                    "score": 0.396
+                },
+                {
+                    "word": "in",
+                    "start": 48.421,
+                    "end": 48.541,
+                    "score": 0.84
+                },
+                {
+                    "word": "the",
+                    "start": 48.581,
+                    "end": 48.701,
+                    "score": 0.966
+                },
+                {
+                    "word": "soft",
+                    "start": 48.761,
+                    "end": 49.061,
+                    "score": 0.977
+                },
+                {
+                    "word": "drinks",
+                    "start": 49.102,
+                    "end": 49.462,
+                    "score": 0.869
+                },
+                {
+                    "word": "so",
+                    "start": 49.582,
+                    "end": 49.862,
+                    "score": 0.924
+                },
+                {
+                    "word": "they",
+                    "start": 49.902,
+                    "end": 50.263,
+                    "score": 0.84
+                },
+                {
+                    "word": "gain",
+                    "start": 51.805,
+                    "end": 52.085,
+                    "score": 0.753
+                },
+                {
+                    "word": "a",
+                    "start": 52.125,
+                    "end": 52.165,
+                    "score": 0.589
+                },
+                {
+                    "word": "lot",
+                    "start": 52.225,
+                    "end": 52.465,
+                    "score": 0.985
+                },
+                {
+                    "word": "of",
+                    "start": 52.525,
+                    "end": 52.606,
+                    "score": 0.832
+                },
+                {
+                    "word": "weights",
+                    "start": 52.846,
+                    "end": 53.286,
+                    "score": 0.874
+                },
+                {
+                    "word": "and",
+                    "start": 53.547,
+                    "end": 53.727,
+                    "score": 0.643
+                },
+                {
+                    "word": "fats",
+                    "start": 54.267,
+                    "end": 54.628,
+                    "score": 0.933
+                }
+            ]
+        },
+        {
+            "start": 55.729,
+            "end": 72.58,
+            "text": " actually that's not healthy for them because when people have when the body weight is over than the standard of their like the ratio of their height",
+            "words": [
+                {
+                    "word": "actually",
+                    "start": 55.729,
+                    "end": 56.289,
+                    "score": 0.238
+                },
+                {
+                    "word": "that's",
+                    "start": 56.309,
+                    "end": 56.51,
+                    "score": 0.568
+                },
+                {
+                    "word": "not",
+                    "start": 56.57,
+                    "end": 56.75,
+                    "score": 0.846
+                },
+                {
+                    "word": "healthy",
+                    "start": 56.81,
+                    "end": 57.27,
+                    "score": 0.768
+                },
+                {
+                    "word": "for",
+                    "start": 57.33,
+                    "end": 57.49,
+                    "score": 0.885
+                },
+                {
+                    "word": "them",
+                    "start": 57.51,
+                    "end": 57.73,
+                    "score": 0.87
+                },
+                {
+                    "word": "because",
+                    "start": 57.81,
+                    "end": 58.231,
+                    "score": 0.907
+                },
+                {
+                    "word": "when",
+                    "start": 59.531,
+                    "end": 59.712,
+                    "score": 0.846
+                },
+                {
+                    "word": "people",
+                    "start": 59.752,
+                    "end": 60.232,
+                    "score": 0.845
+                },
+                {
+                    "word": "have",
+                    "start": 61.713,
+                    "end": 61.973,
+                    "score": 0.895
+                },
+                {
+                    "word": "when",
+                    "start": 63.154,
+                    "end": 63.334,
+                    "score": 0.846
+                },
+                {
+                    "word": "the",
+                    "start": 63.514,
+                    "end": 63.714,
+                    "score": 0.984
+                },
+                {
+                    "word": "body",
+                    "start": 63.874,
+                    "end": 64.154,
+                    "score": 0.993
+                },
+                {
+                    "word": "weight",
+                    "start": 64.214,
+                    "end": 64.575,
+                    "score": 0.592
+                },
+                {
+                    "word": "is",
+                    "start": 65.335,
+                    "end": 65.495,
+                    "score": 0.616
+                },
+                {
+                    "word": "over",
+                    "start": 65.915,
+                    "end": 66.356,
+                    "score": 0.692
+                },
+                {
+                    "word": "than",
+                    "start": 66.756,
+                    "end": 66.976,
+                    "score": 0.929
+                },
+                {
+                    "word": "the",
+                    "start": 67.036,
+                    "end": 67.236,
+                    "score": 0.865
+                },
+                {
+                    "word": "standard",
+                    "start": 67.296,
+                    "end": 67.957,
+                    "score": 0.746
+                },
+                {
+                    "word": "of",
+                    "start": 68.957,
+                    "end": 69.057,
+                    "score": 0.894
+                },
+                {
+                    "word": "their",
+                    "start": 69.117,
+                    "end": 69.978,
+                    "score": 0.885
+                },
+                {
+                    "word": "like",
+                    "start": 70.658,
+                    "end": 70.839,
+                    "score": 0.942
+                },
+                {
+                    "word": "the",
+                    "start": 71.479,
+                    "end": 71.599,
+                    "score": 0.883
+                },
+                {
+                    "word": "ratio",
+                    "start": 71.639,
+                    "end": 71.959,
+                    "score": 0.826
+                },
+                {
+                    "word": "of",
+                    "start": 71.979,
+                    "end": 72.059,
+                    "score": 0.938
+                },
+                {
+                    "word": "their",
+                    "start": 72.099,
+                    "end": 72.279,
+                    "score": 0.871
+                },
+                {
+                    "word": "height",
+                    "start": 72.359,
+                    "end": 72.58,
+                    "score": 0.614
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I'm",
+            "start": 0.109,
+            "end": 0.229,
+            "score": 0.536
+        },
+        {
+            "word": "agree",
+            "start": 0.269,
+            "end": 0.53,
+            "score": 0.696
+        },
+        {
+            "word": "with",
+            "start": 0.57,
+            "end": 0.71,
+            "score": 0.34
+        },
+        {
+            "word": "the",
+            "start": 0.75,
+            "end": 0.81,
+            "score": 0.084
+        },
+        {
+            "word": "application",
+            "start": 0.87,
+            "end": 1.431,
+            "score": 0.41
+        },
+        {
+            "word": "require",
+            "start": 1.832,
+            "end": 2.332,
+            "score": 0.902
+        },
+        {
+            "word": "healthy",
+            "start": 2.392,
+            "end": 2.773,
+            "score": 0.893
+        },
+        {
+            "word": "warning",
+            "start": 2.813,
+            "end": 3.194,
+            "score": 0.878
+        },
+        {
+            "word": "labels",
+            "start": 3.234,
+            "end": 3.714,
+            "score": 0.799
+        },
+        {
+            "word": "on",
+            "start": 4.015,
+            "end": 4.095,
+            "score": 0.991
+        },
+        {
+            "word": "the",
+            "start": 4.155,
+            "end": 4.255,
+            "score": 0.709
+        },
+        {
+            "word": "sides",
+            "start": 4.315,
+            "end": 4.616,
+            "score": 0.888
+        },
+        {
+            "word": "of",
+            "start": 4.696,
+            "end": 4.776,
+            "score": 0.716
+        },
+        {
+            "word": "soda",
+            "start": 4.856,
+            "end": 5.257,
+            "score": 0.893
+        },
+        {
+            "word": "cans",
+            "start": 5.297,
+            "end": 5.597,
+            "score": 0.884
+        },
+        {
+            "word": "because",
+            "start": 5.737,
+            "end": 6.138,
+            "score": 0.856
+        },
+        {
+            "word": "they",
+            "start": 7.58,
+            "end": 8.041,
+            "score": 0.902
+        },
+        {
+            "word": "it",
+            "start": 9.322,
+            "end": 9.403,
+            "score": 0.854
+        },
+        {
+            "word": "is",
+            "start": 9.523,
+            "end": 9.603,
+            "score": 0.9
+        },
+        {
+            "word": "an",
+            "start": 9.623,
+            "end": 9.663,
+            "score": 0.001
+        },
+        {
+            "word": "effect",
+            "start": 10.124,
+            "end": 10.584,
+            "score": 0.644
+        },
+        {
+            "word": "of",
+            "start": 10.724,
+            "end": 10.765,
+            "score": 0.977
+        },
+        {
+            "word": "I",
+            "start": 13.942,
+            "end": 14.042,
+            "score": 0.812
+        },
+        {
+            "word": "agree",
+            "start": 14.102,
+            "end": 14.422,
+            "score": 0.833
+        },
+        {
+            "word": "that",
+            "start": 14.482,
+            "end": 14.703,
+            "score": 0.871
+        },
+        {
+            "word": "the",
+            "start": 15.003,
+            "end": 15.123,
+            "score": 0.81
+        },
+        {
+            "word": "government",
+            "start": 15.183,
+            "end": 15.803,
+            "score": 0.833
+        },
+        {
+            "word": "should",
+            "start": 15.903,
+            "end": 16.124,
+            "score": 0.813
+        },
+        {
+            "word": "require",
+            "start": 16.264,
+            "end": 16.744,
+            "score": 0.954
+        },
+        {
+            "word": "healthy",
+            "start": 16.784,
+            "end": 17.164,
+            "score": 0.752
+        },
+        {
+            "word": "warning",
+            "start": 17.205,
+            "end": 17.605,
+            "score": 0.875
+        },
+        {
+            "word": "labels",
+            "start": 17.645,
+            "end": 18.085,
+            "score": 0.678
+        },
+        {
+            "word": "on",
+            "start": 18.165,
+            "end": 18.245,
+            "score": 0.941
+        },
+        {
+            "word": "the",
+            "start": 18.265,
+            "end": 18.345,
+            "score": 0.682
+        },
+        {
+            "word": "sides",
+            "start": 18.426,
+            "end": 18.746,
+            "score": 0.965
+        },
+        {
+            "word": "of",
+            "start": 18.846,
+            "end": 18.946,
+            "score": 0.853
+        },
+        {
+            "word": "soda",
+            "start": 19.046,
+            "end": 19.406,
+            "score": 0.943
+        },
+        {
+            "word": "cans.",
+            "start": 19.426,
+            "end": 19.807,
+            "score": 0.772
+        },
+        {
+            "word": "It",
+            "start": 20.507,
+            "end": 20.587,
+            "score": 0.824
+        },
+        {
+            "word": "is",
+            "start": 20.687,
+            "end": 20.767,
+            "score": 0.688
+        },
+        {
+            "word": "true",
+            "start": 20.908,
+            "end": 21.208,
+            "score": 0.868
+        },
+        {
+            "word": "that",
+            "start": 21.308,
+            "end": 21.608,
+            "score": 0.858
+        },
+        {
+            "word": "more",
+            "start": 23.43,
+            "end": 23.73,
+            "score": 0.938
+        },
+        {
+            "word": "and",
+            "start": 23.81,
+            "end": 23.91,
+            "score": 0.947
+        },
+        {
+            "word": "more",
+            "start": 24.03,
+            "end": 24.27,
+            "score": 0.799
+        },
+        {
+            "word": "people,",
+            "start": 24.33,
+            "end": 24.871,
+            "score": 0.846
+        },
+        {
+            "word": "especially",
+            "start": 25.031,
+            "end": 25.771,
+            "score": 0.877
+        },
+        {
+            "word": "children,",
+            "start": 25.831,
+            "end": 26.372,
+            "score": 0.813
+        },
+        {
+            "word": "like",
+            "start": 27.293,
+            "end": 27.553,
+            "score": 0.864
+        },
+        {
+            "word": "drinking",
+            "start": 27.653,
+            "end": 28.474,
+            "score": 0.844
+        },
+        {
+            "word": "soft",
+            "start": 29.074,
+            "end": 29.434,
+            "score": 0.981
+        },
+        {
+            "word": "drinks",
+            "start": 29.534,
+            "end": 29.935,
+            "score": 0.813
+        },
+        {
+            "word": "all",
+            "start": 30.615,
+            "end": 30.735,
+            "score": 0.968
+        },
+        {
+            "word": "day",
+            "start": 30.755,
+            "end": 30.956,
+            "score": 0.825
+        },
+        {
+            "word": "long",
+            "start": 31.016,
+            "end": 31.236,
+            "score": 0.822
+        },
+        {
+            "word": "instead",
+            "start": 31.296,
+            "end": 31.696,
+            "score": 0.917
+        },
+        {
+            "word": "of",
+            "start": 31.816,
+            "end": 31.916,
+            "score": 0.75
+        },
+        {
+            "word": "drinking",
+            "start": 32.036,
+            "end": 32.457,
+            "score": 0.819
+        },
+        {
+            "word": "water",
+            "start": 32.557,
+            "end": 33.177,
+            "score": 0.919
+        },
+        {
+            "word": "or",
+            "start": 33.318,
+            "end": 33.438,
+            "score": 0.868
+        },
+        {
+            "word": "milk",
+            "start": 33.518,
+            "end": 33.878,
+            "score": 0.899
+        },
+        {
+            "word": "because",
+            "start": 36.7,
+            "end": 37.041,
+            "score": 0.896
+        },
+        {
+            "word": "they",
+            "start": 37.081,
+            "end": 37.221,
+            "score": 0.953
+        },
+        {
+            "word": "are",
+            "start": 37.261,
+            "end": 37.381,
+            "score": 0.778
+        },
+        {
+            "word": "not",
+            "start": 37.441,
+            "end": 37.661,
+            "score": 0.885
+        },
+        {
+            "word": "aware",
+            "start": 37.761,
+            "end": 38.141,
+            "score": 0.871
+        },
+        {
+            "word": "of",
+            "start": 38.241,
+            "end": 38.322,
+            "score": 0.86
+        },
+        {
+            "word": "the",
+            "start": 38.442,
+            "end": 38.642,
+            "score": 0.834
+        },
+        {
+            "word": "uh",
+            "start": 40.411,
+            "end": 40.532,
+            "score": 0.566
+        },
+        {
+            "word": "the",
+            "start": 40.612,
+            "end": 40.732,
+            "score": 0.972
+        },
+        {
+            "word": "nutrition",
+            "start": 40.792,
+            "end": 41.493,
+            "score": 0.93
+        },
+        {
+            "word": "the",
+            "start": 42.133,
+            "end": 42.514,
+            "score": 0.99
+        },
+        {
+            "word": "ingredients",
+            "start": 43.275,
+            "end": 43.916,
+            "score": 0.981
+        },
+        {
+            "word": "in",
+            "start": 44.136,
+            "end": 44.236,
+            "score": 0.799
+        },
+        {
+            "word": "the",
+            "start": 44.256,
+            "end": 44.356,
+            "score": 0.895
+        },
+        {
+            "word": "soda",
+            "start": 44.436,
+            "end": 44.897,
+            "score": 0.934
+        },
+        {
+            "word": "the",
+            "start": 44.937,
+            "end": 45.077,
+            "score": 0.769
+        },
+        {
+            "word": "sugar",
+            "start": 45.137,
+            "end": 45.738,
+            "score": 0.808
+        },
+        {
+            "word": "like",
+            "start": 46.679,
+            "end": 46.919,
+            "score": 0.851
+        },
+        {
+            "word": "that",
+            "start": 46.959,
+            "end": 47.259,
+            "score": 0.947
+        },
+        {
+            "word": "in",
+            "start": 47.46,
+            "end": 47.56,
+            "score": 0.601
+        },
+        {
+            "word": "us",
+            "start": 47.64,
+            "end": 47.74,
+            "score": 0.396
+        },
+        {
+            "word": "in",
+            "start": 48.421,
+            "end": 48.541,
+            "score": 0.84
+        },
+        {
+            "word": "the",
+            "start": 48.581,
+            "end": 48.701,
+            "score": 0.966
+        },
+        {
+            "word": "soft",
+            "start": 48.761,
+            "end": 49.061,
+            "score": 0.977
+        },
+        {
+            "word": "drinks",
+            "start": 49.102,
+            "end": 49.462,
+            "score": 0.869
+        },
+        {
+            "word": "so",
+            "start": 49.582,
+            "end": 49.862,
+            "score": 0.924
+        },
+        {
+            "word": "they",
+            "start": 49.902,
+            "end": 50.263,
+            "score": 0.84
+        },
+        {
+            "word": "gain",
+            "start": 51.805,
+            "end": 52.085,
+            "score": 0.753
+        },
+        {
+            "word": "a",
+            "start": 52.125,
+            "end": 52.165,
+            "score": 0.589
+        },
+        {
+            "word": "lot",
+            "start": 52.225,
+            "end": 52.465,
+            "score": 0.985
+        },
+        {
+            "word": "of",
+            "start": 52.525,
+            "end": 52.606,
+            "score": 0.832
+        },
+        {
+            "word": "weights",
+            "start": 52.846,
+            "end": 53.286,
+            "score": 0.874
+        },
+        {
+            "word": "and",
+            "start": 53.547,
+            "end": 53.727,
+            "score": 0.643
+        },
+        {
+            "word": "fats",
+            "start": 54.267,
+            "end": 54.628,
+            "score": 0.933
+        },
+        {
+            "word": "actually",
+            "start": 55.729,
+            "end": 56.289,
+            "score": 0.238
+        },
+        {
+            "word": "that's",
+            "start": 56.309,
+            "end": 56.51,
+            "score": 0.568
+        },
+        {
+            "word": "not",
+            "start": 56.57,
+            "end": 56.75,
+            "score": 0.846
+        },
+        {
+            "word": "healthy",
+            "start": 56.81,
+            "end": 57.27,
+            "score": 0.768
+        },
+        {
+            "word": "for",
+            "start": 57.33,
+            "end": 57.49,
+            "score": 0.885
+        },
+        {
+            "word": "them",
+            "start": 57.51,
+            "end": 57.73,
+            "score": 0.87
+        },
+        {
+            "word": "because",
+            "start": 57.81,
+            "end": 58.231,
+            "score": 0.907
+        },
+        {
+            "word": "when",
+            "start": 59.531,
+            "end": 59.712,
+            "score": 0.846
+        },
+        {
+            "word": "people",
+            "start": 59.752,
+            "end": 60.232,
+            "score": 0.845
+        },
+        {
+            "word": "have",
+            "start": 61.713,
+            "end": 61.973,
+            "score": 0.895
+        },
+        {
+            "word": "when",
+            "start": 63.154,
+            "end": 63.334,
+            "score": 0.846
+        },
+        {
+            "word": "the",
+            "start": 63.514,
+            "end": 63.714,
+            "score": 0.984
+        },
+        {
+            "word": "body",
+            "start": 63.874,
+            "end": 64.154,
+            "score": 0.993
+        },
+        {
+            "word": "weight",
+            "start": 64.214,
+            "end": 64.575,
+            "score": 0.592
+        },
+        {
+            "word": "is",
+            "start": 65.335,
+            "end": 65.495,
+            "score": 0.616
+        },
+        {
+            "word": "over",
+            "start": 65.915,
+            "end": 66.356,
+            "score": 0.692
+        },
+        {
+            "word": "than",
+            "start": 66.756,
+            "end": 66.976,
+            "score": 0.929
+        },
+        {
+            "word": "the",
+            "start": 67.036,
+            "end": 67.236,
+            "score": 0.865
+        },
+        {
+            "word": "standard",
+            "start": 67.296,
+            "end": 67.957,
+            "score": 0.746
+        },
+        {
+            "word": "of",
+            "start": 68.957,
+            "end": 69.057,
+            "score": 0.894
+        },
+        {
+            "word": "their",
+            "start": 69.117,
+            "end": 69.978,
+            "score": 0.885
+        },
+        {
+            "word": "like",
+            "start": 70.658,
+            "end": 70.839,
+            "score": 0.942
+        },
+        {
+            "word": "the",
+            "start": 71.479,
+            "end": 71.599,
+            "score": 0.883
+        },
+        {
+            "word": "ratio",
+            "start": 71.639,
+            "end": 71.959,
+            "score": 0.826
+        },
+        {
+            "word": "of",
+            "start": 71.979,
+            "end": 72.059,
+            "score": 0.938
+        },
+        {
+            "word": "their",
+            "start": 72.099,
+            "end": 72.279,
+            "score": 0.871
+        },
+        {
+            "word": "height",
+            "start": 72.359,
+            "end": 72.58,
+            "score": 0.614
+        }
+    ]
+}

@@ -1,0 +1,922 @@
+{
+    "segments": [
+        {
+            "start": 0.549,
+            "end": 5.634,
+            "text": " The movie that I like is with the title Until the End of the World.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 0.549,
+                    "end": 0.65,
+                    "score": 0.957
+                },
+                {
+                    "word": "movie",
+                    "start": 0.67,
+                    "end": 0.93,
+                    "score": 0.582
+                },
+                {
+                    "word": "that",
+                    "start": 0.95,
+                    "end": 1.11,
+                    "score": 0.649
+                },
+                {
+                    "word": "I",
+                    "start": 1.19,
+                    "end": 1.27,
+                    "score": 0.927
+                },
+                {
+                    "word": "like",
+                    "start": 1.35,
+                    "end": 1.891,
+                    "score": 0.914
+                },
+                {
+                    "word": "is",
+                    "start": 2.131,
+                    "end": 2.291,
+                    "score": 0.763
+                },
+                {
+                    "word": "with",
+                    "start": 2.892,
+                    "end": 3.052,
+                    "score": 0.926
+                },
+                {
+                    "word": "the",
+                    "start": 3.092,
+                    "end": 3.192,
+                    "score": 0.82
+                },
+                {
+                    "word": "title",
+                    "start": 3.232,
+                    "end": 3.632,
+                    "score": 0.867
+                },
+                {
+                    "word": "Until",
+                    "start": 4.033,
+                    "end": 4.353,
+                    "score": 0.779
+                },
+                {
+                    "word": "the",
+                    "start": 4.393,
+                    "end": 4.513,
+                    "score": 0.531
+                },
+                {
+                    "word": "End",
+                    "start": 4.713,
+                    "end": 4.893,
+                    "score": 0.876
+                },
+                {
+                    "word": "of",
+                    "start": 5.033,
+                    "end": 5.113,
+                    "score": 0.828
+                },
+                {
+                    "word": "the",
+                    "start": 5.154,
+                    "end": 5.254,
+                    "score": 0.843
+                },
+                {
+                    "word": "World.",
+                    "start": 5.314,
+                    "end": 5.634,
+                    "score": 0.87
+                }
+            ]
+        },
+        {
+            "start": 6.174,
+            "end": 23.93,
+            "text": "This is an interesting movie with sci-fi area because they use a lot of technological device in a super early time, especially from the 99 year and they are changing the year 2000.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 6.174,
+                    "end": 6.315,
+                    "score": 0.998
+                },
+                {
+                    "word": "is",
+                    "start": 6.375,
+                    "end": 6.475,
+                    "score": 0.74
+                },
+                {
+                    "word": "an",
+                    "start": 6.615,
+                    "end": 6.755,
+                    "score": 0.693
+                },
+                {
+                    "word": "interesting",
+                    "start": 6.995,
+                    "end": 7.436,
+                    "score": 0.847
+                },
+                {
+                    "word": "movie",
+                    "start": 7.496,
+                    "end": 7.836,
+                    "score": 0.665
+                },
+                {
+                    "word": "with",
+                    "start": 7.896,
+                    "end": 8.096,
+                    "score": 0.828
+                },
+                {
+                    "word": "sci-fi",
+                    "start": 8.176,
+                    "end": 8.957,
+                    "score": 0.7
+                },
+                {
+                    "word": "area",
+                    "start": 9.597,
+                    "end": 10.778,
+                    "score": 0.793
+                },
+                {
+                    "word": "because",
+                    "start": 10.999,
+                    "end": 11.479,
+                    "score": 0.878
+                },
+                {
+                    "word": "they",
+                    "start": 12.44,
+                    "end": 12.64,
+                    "score": 0.837
+                },
+                {
+                    "word": "use",
+                    "start": 12.8,
+                    "end": 12.98,
+                    "score": 0.806
+                },
+                {
+                    "word": "a",
+                    "start": 13.02,
+                    "end": 13.06,
+                    "score": 0.537
+                },
+                {
+                    "word": "lot",
+                    "start": 13.12,
+                    "end": 13.401,
+                    "score": 0.804
+                },
+                {
+                    "word": "of",
+                    "start": 13.461,
+                    "end": 13.581,
+                    "score": 0.383
+                },
+                {
+                    "word": "technological",
+                    "start": 13.701,
+                    "end": 14.582,
+                    "score": 0.931
+                },
+                {
+                    "word": "device",
+                    "start": 14.622,
+                    "end": 15.262,
+                    "score": 0.816
+                },
+                {
+                    "word": "in",
+                    "start": 15.903,
+                    "end": 16.043,
+                    "score": 0.882
+                },
+                {
+                    "word": "a",
+                    "start": 16.343,
+                    "end": 16.463,
+                    "score": 0.864
+                },
+                {
+                    "word": "super",
+                    "start": 16.684,
+                    "end": 17.224,
+                    "score": 0.955
+                },
+                {
+                    "word": "early",
+                    "start": 17.544,
+                    "end": 17.965,
+                    "score": 0.761
+                },
+                {
+                    "word": "time,",
+                    "start": 18.125,
+                    "end": 18.565,
+                    "score": 0.939
+                },
+                {
+                    "word": "especially",
+                    "start": 18.986,
+                    "end": 19.526,
+                    "score": 0.853
+                },
+                {
+                    "word": "from",
+                    "start": 19.586,
+                    "end": 19.766,
+                    "score": 0.728
+                },
+                {
+                    "word": "the",
+                    "start": 19.806,
+                    "end": 19.946,
+                    "score": 0.888
+                },
+                {
+                    "word": "99"
+                },
+                {
+                    "word": "year",
+                    "start": 21.308,
+                    "end": 21.608,
+                    "score": 0.644
+                },
+                {
+                    "word": "and",
+                    "start": 21.628,
+                    "end": 22.369,
+                    "score": 0.755
+                },
+                {
+                    "word": "they",
+                    "start": 22.549,
+                    "end": 22.729,
+                    "score": 0.796
+                },
+                {
+                    "word": "are",
+                    "start": 22.789,
+                    "end": 22.909,
+                    "score": 0.974
+                },
+                {
+                    "word": "changing",
+                    "start": 22.989,
+                    "end": 23.389,
+                    "score": 0.819
+                },
+                {
+                    "word": "the",
+                    "start": 23.43,
+                    "end": 23.55,
+                    "score": 0.982
+                },
+                {
+                    "word": "year",
+                    "start": 23.59,
+                    "end": 23.93,
+                    "score": 0.824
+                },
+                {
+                    "word": "2000."
+                }
+            ]
+        },
+        {
+            "start": 25.351,
+            "end": 37.643,
+            "text": " So they are making the predictables or the predictions about what's happening in the changing for the time when they have 99 to 2000 years.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 25.351,
+                    "end": 25.732,
+                    "score": 0.922
+                },
+                {
+                    "word": "they",
+                    "start": 26.612,
+                    "end": 26.793,
+                    "score": 0.76
+                },
+                {
+                    "word": "are",
+                    "start": 26.873,
+                    "end": 27.013,
+                    "score": 0.682
+                },
+                {
+                    "word": "making",
+                    "start": 27.794,
+                    "end": 28.334,
+                    "score": 0.826
+                },
+                {
+                    "word": "the",
+                    "start": 28.414,
+                    "end": 28.594,
+                    "score": 0.802
+                },
+                {
+                    "word": "predictables",
+                    "start": 28.674,
+                    "end": 29.495,
+                    "score": 0.875
+                },
+                {
+                    "word": "or",
+                    "start": 29.595,
+                    "end": 29.695,
+                    "score": 0.853
+                },
+                {
+                    "word": "the",
+                    "start": 29.715,
+                    "end": 29.855,
+                    "score": 0.8
+                },
+                {
+                    "word": "predictions",
+                    "start": 29.875,
+                    "end": 30.556,
+                    "score": 0.881
+                },
+                {
+                    "word": "about",
+                    "start": 30.736,
+                    "end": 31.097,
+                    "score": 0.875
+                },
+                {
+                    "word": "what's",
+                    "start": 31.277,
+                    "end": 31.497,
+                    "score": 0.965
+                },
+                {
+                    "word": "happening",
+                    "start": 31.537,
+                    "end": 32.138,
+                    "score": 0.844
+                },
+                {
+                    "word": "in",
+                    "start": 32.418,
+                    "end": 32.498,
+                    "score": 0.994
+                },
+                {
+                    "word": "the",
+                    "start": 32.578,
+                    "end": 32.878,
+                    "score": 0.736
+                },
+                {
+                    "word": "changing",
+                    "start": 33.639,
+                    "end": 34.019,
+                    "score": 0.924
+                },
+                {
+                    "word": "for",
+                    "start": 34.079,
+                    "end": 34.24,
+                    "score": 0.915
+                },
+                {
+                    "word": "the",
+                    "start": 34.28,
+                    "end": 34.36,
+                    "score": 0.945
+                },
+                {
+                    "word": "time",
+                    "start": 34.42,
+                    "end": 34.8,
+                    "score": 0.785
+                },
+                {
+                    "word": "when",
+                    "start": 35.661,
+                    "end": 35.901,
+                    "score": 0.812
+                },
+                {
+                    "word": "they",
+                    "start": 36.201,
+                    "end": 36.402,
+                    "score": 0.785
+                },
+                {
+                    "word": "have",
+                    "start": 36.462,
+                    "end": 36.682,
+                    "score": 0.984
+                },
+                {
+                    "word": "99"
+                },
+                {
+                    "word": "to",
+                    "start": 37.242,
+                    "end": 37.342,
+                    "score": 0.368
+                },
+                {
+                    "word": "2000"
+                },
+                {
+                    "word": "years.",
+                    "start": 37.463,
+                    "end": 37.643,
+                    "score": 0.46
+                }
+            ]
+        },
+        {
+            "start": 37.703,
+            "end": 38.383,
+            "text": "So that's it.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 37.703,
+                    "end": 37.883,
+                    "score": 0.621
+                },
+                {
+                    "word": "that's",
+                    "start": 37.943,
+                    "end": 38.303,
+                    "score": 0.491
+                },
+                {
+                    "word": "it.",
+                    "start": 38.323,
+                    "end": 38.383,
+                    "score": 0.705
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 0.549,
+            "end": 0.65,
+            "score": 0.957
+        },
+        {
+            "word": "movie",
+            "start": 0.67,
+            "end": 0.93,
+            "score": 0.582
+        },
+        {
+            "word": "that",
+            "start": 0.95,
+            "end": 1.11,
+            "score": 0.649
+        },
+        {
+            "word": "I",
+            "start": 1.19,
+            "end": 1.27,
+            "score": 0.927
+        },
+        {
+            "word": "like",
+            "start": 1.35,
+            "end": 1.891,
+            "score": 0.914
+        },
+        {
+            "word": "is",
+            "start": 2.131,
+            "end": 2.291,
+            "score": 0.763
+        },
+        {
+            "word": "with",
+            "start": 2.892,
+            "end": 3.052,
+            "score": 0.926
+        },
+        {
+            "word": "the",
+            "start": 3.092,
+            "end": 3.192,
+            "score": 0.82
+        },
+        {
+            "word": "title",
+            "start": 3.232,
+            "end": 3.632,
+            "score": 0.867
+        },
+        {
+            "word": "Until",
+            "start": 4.033,
+            "end": 4.353,
+            "score": 0.779
+        },
+        {
+            "word": "the",
+            "start": 4.393,
+            "end": 4.513,
+            "score": 0.531
+        },
+        {
+            "word": "End",
+            "start": 4.713,
+            "end": 4.893,
+            "score": 0.876
+        },
+        {
+            "word": "of",
+            "start": 5.033,
+            "end": 5.113,
+            "score": 0.828
+        },
+        {
+            "word": "the",
+            "start": 5.154,
+            "end": 5.254,
+            "score": 0.843
+        },
+        {
+            "word": "World.",
+            "start": 5.314,
+            "end": 5.634,
+            "score": 0.87
+        },
+        {
+            "word": "This",
+            "start": 6.174,
+            "end": 6.315,
+            "score": 0.998
+        },
+        {
+            "word": "is",
+            "start": 6.375,
+            "end": 6.475,
+            "score": 0.74
+        },
+        {
+            "word": "an",
+            "start": 6.615,
+            "end": 6.755,
+            "score": 0.693
+        },
+        {
+            "word": "interesting",
+            "start": 6.995,
+            "end": 7.436,
+            "score": 0.847
+        },
+        {
+            "word": "movie",
+            "start": 7.496,
+            "end": 7.836,
+            "score": 0.665
+        },
+        {
+            "word": "with",
+            "start": 7.896,
+            "end": 8.096,
+            "score": 0.828
+        },
+        {
+            "word": "sci-fi",
+            "start": 8.176,
+            "end": 8.957,
+            "score": 0.7
+        },
+        {
+            "word": "area",
+            "start": 9.597,
+            "end": 10.778,
+            "score": 0.793
+        },
+        {
+            "word": "because",
+            "start": 10.999,
+            "end": 11.479,
+            "score": 0.878
+        },
+        {
+            "word": "they",
+            "start": 12.44,
+            "end": 12.64,
+            "score": 0.837
+        },
+        {
+            "word": "use",
+            "start": 12.8,
+            "end": 12.98,
+            "score": 0.806
+        },
+        {
+            "word": "a",
+            "start": 13.02,
+            "end": 13.06,
+            "score": 0.537
+        },
+        {
+            "word": "lot",
+            "start": 13.12,
+            "end": 13.401,
+            "score": 0.804
+        },
+        {
+            "word": "of",
+            "start": 13.461,
+            "end": 13.581,
+            "score": 0.383
+        },
+        {
+            "word": "technological",
+            "start": 13.701,
+            "end": 14.582,
+            "score": 0.931
+        },
+        {
+            "word": "device",
+            "start": 14.622,
+            "end": 15.262,
+            "score": 0.816
+        },
+        {
+            "word": "in",
+            "start": 15.903,
+            "end": 16.043,
+            "score": 0.882
+        },
+        {
+            "word": "a",
+            "start": 16.343,
+            "end": 16.463,
+            "score": 0.864
+        },
+        {
+            "word": "super",
+            "start": 16.684,
+            "end": 17.224,
+            "score": 0.955
+        },
+        {
+            "word": "early",
+            "start": 17.544,
+            "end": 17.965,
+            "score": 0.761
+        },
+        {
+            "word": "time,",
+            "start": 18.125,
+            "end": 18.565,
+            "score": 0.939
+        },
+        {
+            "word": "especially",
+            "start": 18.986,
+            "end": 19.526,
+            "score": 0.853
+        },
+        {
+            "word": "from",
+            "start": 19.586,
+            "end": 19.766,
+            "score": 0.728
+        },
+        {
+            "word": "the",
+            "start": 19.806,
+            "end": 19.946,
+            "score": 0.888
+        },
+        {
+            "word": "99"
+        },
+        {
+            "word": "year",
+            "start": 21.308,
+            "end": 21.608,
+            "score": 0.644
+        },
+        {
+            "word": "and",
+            "start": 21.628,
+            "end": 22.369,
+            "score": 0.755
+        },
+        {
+            "word": "they",
+            "start": 22.549,
+            "end": 22.729,
+            "score": 0.796
+        },
+        {
+            "word": "are",
+            "start": 22.789,
+            "end": 22.909,
+            "score": 0.974
+        },
+        {
+            "word": "changing",
+            "start": 22.989,
+            "end": 23.389,
+            "score": 0.819
+        },
+        {
+            "word": "the",
+            "start": 23.43,
+            "end": 23.55,
+            "score": 0.982
+        },
+        {
+            "word": "year",
+            "start": 23.59,
+            "end": 23.93,
+            "score": 0.824
+        },
+        {
+            "word": "2000."
+        },
+        {
+            "word": "So",
+            "start": 25.351,
+            "end": 25.732,
+            "score": 0.922
+        },
+        {
+            "word": "they",
+            "start": 26.612,
+            "end": 26.793,
+            "score": 0.76
+        },
+        {
+            "word": "are",
+            "start": 26.873,
+            "end": 27.013,
+            "score": 0.682
+        },
+        {
+            "word": "making",
+            "start": 27.794,
+            "end": 28.334,
+            "score": 0.826
+        },
+        {
+            "word": "the",
+            "start": 28.414,
+            "end": 28.594,
+            "score": 0.802
+        },
+        {
+            "word": "predictables",
+            "start": 28.674,
+            "end": 29.495,
+            "score": 0.875
+        },
+        {
+            "word": "or",
+            "start": 29.595,
+            "end": 29.695,
+            "score": 0.853
+        },
+        {
+            "word": "the",
+            "start": 29.715,
+            "end": 29.855,
+            "score": 0.8
+        },
+        {
+            "word": "predictions",
+            "start": 29.875,
+            "end": 30.556,
+            "score": 0.881
+        },
+        {
+            "word": "about",
+            "start": 30.736,
+            "end": 31.097,
+            "score": 0.875
+        },
+        {
+            "word": "what's",
+            "start": 31.277,
+            "end": 31.497,
+            "score": 0.965
+        },
+        {
+            "word": "happening",
+            "start": 31.537,
+            "end": 32.138,
+            "score": 0.844
+        },
+        {
+            "word": "in",
+            "start": 32.418,
+            "end": 32.498,
+            "score": 0.994
+        },
+        {
+            "word": "the",
+            "start": 32.578,
+            "end": 32.878,
+            "score": 0.736
+        },
+        {
+            "word": "changing",
+            "start": 33.639,
+            "end": 34.019,
+            "score": 0.924
+        },
+        {
+            "word": "for",
+            "start": 34.079,
+            "end": 34.24,
+            "score": 0.915
+        },
+        {
+            "word": "the",
+            "start": 34.28,
+            "end": 34.36,
+            "score": 0.945
+        },
+        {
+            "word": "time",
+            "start": 34.42,
+            "end": 34.8,
+            "score": 0.785
+        },
+        {
+            "word": "when",
+            "start": 35.661,
+            "end": 35.901,
+            "score": 0.812
+        },
+        {
+            "word": "they",
+            "start": 36.201,
+            "end": 36.402,
+            "score": 0.785
+        },
+        {
+            "word": "have",
+            "start": 36.462,
+            "end": 36.682,
+            "score": 0.984
+        },
+        {
+            "word": "99"
+        },
+        {
+            "word": "to",
+            "start": 37.242,
+            "end": 37.342,
+            "score": 0.368
+        },
+        {
+            "word": "2000"
+        },
+        {
+            "word": "years.",
+            "start": 37.463,
+            "end": 37.643,
+            "score": 0.46
+        },
+        {
+            "word": "So",
+            "start": 37.703,
+            "end": 37.883,
+            "score": 0.621
+        },
+        {
+            "word": "that's",
+            "start": 37.943,
+            "end": 38.303,
+            "score": 0.491
+        },
+        {
+            "word": "it.",
+            "start": 38.323,
+            "end": 38.383,
+            "score": 0.705
+        }
+    ]
+}

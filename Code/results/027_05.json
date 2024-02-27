@@ -1,0 +1,682 @@
+{
+    "segments": [
+        {
+            "start": 1.189,
+            "end": 18.035,
+            "text": " Obesity is a worldwide problem and any kind of action for slower is useful.",
+            "words": [
+                {
+                    "word": "Obesity",
+                    "start": 1.189,
+                    "end": 1.75,
+                    "score": 0.818
+                },
+                {
+                    "word": "is",
+                    "start": 1.85,
+                    "end": 1.93,
+                    "score": 0.366
+                },
+                {
+                    "word": "a",
+                    "start": 1.95,
+                    "end": 1.97,
+                    "score": 0.172
+                },
+                {
+                    "word": "worldwide",
+                    "start": 2.03,
+                    "end": 2.53,
+                    "score": 0.518
+                },
+                {
+                    "word": "problem",
+                    "start": 2.61,
+                    "end": 3.09,
+                    "score": 0.859
+                },
+                {
+                    "word": "and",
+                    "start": 3.77,
+                    "end": 3.93,
+                    "score": 0.843
+                },
+                {
+                    "word": "any",
+                    "start": 4.31,
+                    "end": 4.671,
+                    "score": 0.871
+                },
+                {
+                    "word": "kind",
+                    "start": 5.291,
+                    "end": 5.811,
+                    "score": 0.745
+                },
+                {
+                    "word": "of",
+                    "start": 8.312,
+                    "end": 8.992,
+                    "score": 0.893
+                },
+                {
+                    "word": "action",
+                    "start": 10.233,
+                    "end": 10.733,
+                    "score": 0.558
+                },
+                {
+                    "word": "for",
+                    "start": 10.933,
+                    "end": 11.193,
+                    "score": 0.796
+                },
+                {
+                    "word": "slower",
+                    "start": 11.973,
+                    "end": 12.553,
+                    "score": 0.833
+                },
+                {
+                    "word": "is",
+                    "start": 14.434,
+                    "end": 15.014,
+                    "score": 0.911
+                },
+                {
+                    "word": "useful.",
+                    "start": 15.955,
+                    "end": 18.035,
+                    "score": 0.801
+                }
+            ]
+        },
+        {
+            "start": 18.475,
+            "end": 26.818,
+            "text": "One of these is to put health warning in the size of soda cans.",
+            "words": [
+                {
+                    "word": "One",
+                    "start": 18.475,
+                    "end": 18.595,
+                    "score": 0.825
+                },
+                {
+                    "word": "of",
+                    "start": 18.635,
+                    "end": 18.715,
+                    "score": 0.948
+                },
+                {
+                    "word": "these",
+                    "start": 19.236,
+                    "end": 20.036,
+                    "score": 0.775
+                },
+                {
+                    "word": "is",
+                    "start": 20.396,
+                    "end": 20.836,
+                    "score": 0.849
+                },
+                {
+                    "word": "to",
+                    "start": 21.737,
+                    "end": 22.257,
+                    "score": 0.718
+                },
+                {
+                    "word": "put",
+                    "start": 24.157,
+                    "end": 24.357,
+                    "score": 0.938
+                },
+                {
+                    "word": "health",
+                    "start": 24.417,
+                    "end": 24.638,
+                    "score": 0.408
+                },
+                {
+                    "word": "warning",
+                    "start": 24.678,
+                    "end": 25.098,
+                    "score": 0.806
+                },
+                {
+                    "word": "in",
+                    "start": 25.198,
+                    "end": 25.318,
+                    "score": 0.58
+                },
+                {
+                    "word": "the",
+                    "start": 25.778,
+                    "end": 25.918,
+                    "score": 0.83
+                },
+                {
+                    "word": "size",
+                    "start": 25.938,
+                    "end": 26.098,
+                    "score": 0.497
+                },
+                {
+                    "word": "of",
+                    "start": 26.138,
+                    "end": 26.218,
+                    "score": 0.689
+                },
+                {
+                    "word": "soda",
+                    "start": 26.278,
+                    "end": 26.578,
+                    "score": 0.812
+                },
+                {
+                    "word": "cans.",
+                    "start": 26.598,
+                    "end": 26.818,
+                    "score": 0.888
+                }
+            ]
+        },
+        {
+            "start": 33.131,
+            "end": 47.104,
+            "text": " Many times when we buy some food, we need to know how many sugar or carbohydrates it has.",
+            "words": [
+                {
+                    "word": "Many",
+                    "start": 33.131,
+                    "end": 33.392,
+                    "score": 0.884
+                },
+                {
+                    "word": "times",
+                    "start": 33.492,
+                    "end": 33.772,
+                    "score": 0.878
+                },
+                {
+                    "word": "when",
+                    "start": 33.852,
+                    "end": 34.032,
+                    "score": 0.996
+                },
+                {
+                    "word": "we",
+                    "start": 34.833,
+                    "end": 35.213,
+                    "score": 0.942
+                },
+                {
+                    "word": "buy",
+                    "start": 35.554,
+                    "end": 35.814,
+                    "score": 0.749
+                },
+                {
+                    "word": "some",
+                    "start": 36.114,
+                    "end": 36.354,
+                    "score": 0.915
+                },
+                {
+                    "word": "food,",
+                    "start": 36.414,
+                    "end": 36.675,
+                    "score": 0.805
+                },
+                {
+                    "word": "we",
+                    "start": 38.096,
+                    "end": 38.236,
+                    "score": 0.88
+                },
+                {
+                    "word": "need",
+                    "start": 38.276,
+                    "end": 38.496,
+                    "score": 0.946
+                },
+                {
+                    "word": "to",
+                    "start": 38.556,
+                    "end": 38.636,
+                    "score": 0.992
+                },
+                {
+                    "word": "know",
+                    "start": 38.697,
+                    "end": 38.977,
+                    "score": 0.737
+                },
+                {
+                    "word": "how",
+                    "start": 39.737,
+                    "end": 39.938,
+                    "score": 0.855
+                },
+                {
+                    "word": "many",
+                    "start": 40.038,
+                    "end": 40.318,
+                    "score": 0.811
+                },
+                {
+                    "word": "sugar",
+                    "start": 40.498,
+                    "end": 41.019,
+                    "score": 0.667
+                },
+                {
+                    "word": "or",
+                    "start": 41.239,
+                    "end": 41.359,
+                    "score": 0.82
+                },
+                {
+                    "word": "carbohydrates",
+                    "start": 42.5,
+                    "end": 44.202,
+                    "score": 0.703
+                },
+                {
+                    "word": "it",
+                    "start": 45.843,
+                    "end": 46.023,
+                    "score": 0.841
+                },
+                {
+                    "word": "has.",
+                    "start": 46.864,
+                    "end": 47.104,
+                    "score": 0.565
+                }
+            ]
+        },
+        {
+            "start": 48.385,
+            "end": 53.25,
+            "text": "And put this label would be very useful.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 48.385,
+                    "end": 48.546,
+                    "score": 0.813
+                },
+                {
+                    "word": "put",
+                    "start": 49.867,
+                    "end": 50.107,
+                    "score": 0.872
+                },
+                {
+                    "word": "this",
+                    "start": 50.187,
+                    "end": 50.347,
+                    "score": 0.566
+                },
+                {
+                    "word": "label",
+                    "start": 50.447,
+                    "end": 50.948,
+                    "score": 0.741
+                },
+                {
+                    "word": "would",
+                    "start": 52.069,
+                    "end": 52.329,
+                    "score": 0.853
+                },
+                {
+                    "word": "be",
+                    "start": 52.409,
+                    "end": 52.569,
+                    "score": 0.875
+                },
+                {
+                    "word": "very",
+                    "start": 52.709,
+                    "end": 52.89,
+                    "score": 0.55
+                },
+                {
+                    "word": "useful.",
+                    "start": 52.93,
+                    "end": 53.25,
+                    "score": 0.482
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Obesity",
+            "start": 1.189,
+            "end": 1.75,
+            "score": 0.818
+        },
+        {
+            "word": "is",
+            "start": 1.85,
+            "end": 1.93,
+            "score": 0.366
+        },
+        {
+            "word": "a",
+            "start": 1.95,
+            "end": 1.97,
+            "score": 0.172
+        },
+        {
+            "word": "worldwide",
+            "start": 2.03,
+            "end": 2.53,
+            "score": 0.518
+        },
+        {
+            "word": "problem",
+            "start": 2.61,
+            "end": 3.09,
+            "score": 0.859
+        },
+        {
+            "word": "and",
+            "start": 3.77,
+            "end": 3.93,
+            "score": 0.843
+        },
+        {
+            "word": "any",
+            "start": 4.31,
+            "end": 4.671,
+            "score": 0.871
+        },
+        {
+            "word": "kind",
+            "start": 5.291,
+            "end": 5.811,
+            "score": 0.745
+        },
+        {
+            "word": "of",
+            "start": 8.312,
+            "end": 8.992,
+            "score": 0.893
+        },
+        {
+            "word": "action",
+            "start": 10.233,
+            "end": 10.733,
+            "score": 0.558
+        },
+        {
+            "word": "for",
+            "start": 10.933,
+            "end": 11.193,
+            "score": 0.796
+        },
+        {
+            "word": "slower",
+            "start": 11.973,
+            "end": 12.553,
+            "score": 0.833
+        },
+        {
+            "word": "is",
+            "start": 14.434,
+            "end": 15.014,
+            "score": 0.911
+        },
+        {
+            "word": "useful.",
+            "start": 15.955,
+            "end": 18.035,
+            "score": 0.801
+        },
+        {
+            "word": "One",
+            "start": 18.475,
+            "end": 18.595,
+            "score": 0.825
+        },
+        {
+            "word": "of",
+            "start": 18.635,
+            "end": 18.715,
+            "score": 0.948
+        },
+        {
+            "word": "these",
+            "start": 19.236,
+            "end": 20.036,
+            "score": 0.775
+        },
+        {
+            "word": "is",
+            "start": 20.396,
+            "end": 20.836,
+            "score": 0.849
+        },
+        {
+            "word": "to",
+            "start": 21.737,
+            "end": 22.257,
+            "score": 0.718
+        },
+        {
+            "word": "put",
+            "start": 24.157,
+            "end": 24.357,
+            "score": 0.938
+        },
+        {
+            "word": "health",
+            "start": 24.417,
+            "end": 24.638,
+            "score": 0.408
+        },
+        {
+            "word": "warning",
+            "start": 24.678,
+            "end": 25.098,
+            "score": 0.806
+        },
+        {
+            "word": "in",
+            "start": 25.198,
+            "end": 25.318,
+            "score": 0.58
+        },
+        {
+            "word": "the",
+            "start": 25.778,
+            "end": 25.918,
+            "score": 0.83
+        },
+        {
+            "word": "size",
+            "start": 25.938,
+            "end": 26.098,
+            "score": 0.497
+        },
+        {
+            "word": "of",
+            "start": 26.138,
+            "end": 26.218,
+            "score": 0.689
+        },
+        {
+            "word": "soda",
+            "start": 26.278,
+            "end": 26.578,
+            "score": 0.812
+        },
+        {
+            "word": "cans.",
+            "start": 26.598,
+            "end": 26.818,
+            "score": 0.888
+        },
+        {
+            "word": "Many",
+            "start": 33.131,
+            "end": 33.392,
+            "score": 0.884
+        },
+        {
+            "word": "times",
+            "start": 33.492,
+            "end": 33.772,
+            "score": 0.878
+        },
+        {
+            "word": "when",
+            "start": 33.852,
+            "end": 34.032,
+            "score": 0.996
+        },
+        {
+            "word": "we",
+            "start": 34.833,
+            "end": 35.213,
+            "score": 0.942
+        },
+        {
+            "word": "buy",
+            "start": 35.554,
+            "end": 35.814,
+            "score": 0.749
+        },
+        {
+            "word": "some",
+            "start": 36.114,
+            "end": 36.354,
+            "score": 0.915
+        },
+        {
+            "word": "food,",
+            "start": 36.414,
+            "end": 36.675,
+            "score": 0.805
+        },
+        {
+            "word": "we",
+            "start": 38.096,
+            "end": 38.236,
+            "score": 0.88
+        },
+        {
+            "word": "need",
+            "start": 38.276,
+            "end": 38.496,
+            "score": 0.946
+        },
+        {
+            "word": "to",
+            "start": 38.556,
+            "end": 38.636,
+            "score": 0.992
+        },
+        {
+            "word": "know",
+            "start": 38.697,
+            "end": 38.977,
+            "score": 0.737
+        },
+        {
+            "word": "how",
+            "start": 39.737,
+            "end": 39.938,
+            "score": 0.855
+        },
+        {
+            "word": "many",
+            "start": 40.038,
+            "end": 40.318,
+            "score": 0.811
+        },
+        {
+            "word": "sugar",
+            "start": 40.498,
+            "end": 41.019,
+            "score": 0.667
+        },
+        {
+            "word": "or",
+            "start": 41.239,
+            "end": 41.359,
+            "score": 0.82
+        },
+        {
+            "word": "carbohydrates",
+            "start": 42.5,
+            "end": 44.202,
+            "score": 0.703
+        },
+        {
+            "word": "it",
+            "start": 45.843,
+            "end": 46.023,
+            "score": 0.841
+        },
+        {
+            "word": "has.",
+            "start": 46.864,
+            "end": 47.104,
+            "score": 0.565
+        },
+        {
+            "word": "And",
+            "start": 48.385,
+            "end": 48.546,
+            "score": 0.813
+        },
+        {
+            "word": "put",
+            "start": 49.867,
+            "end": 50.107,
+            "score": 0.872
+        },
+        {
+            "word": "this",
+            "start": 50.187,
+            "end": 50.347,
+            "score": 0.566
+        },
+        {
+            "word": "label",
+            "start": 50.447,
+            "end": 50.948,
+            "score": 0.741
+        },
+        {
+            "word": "would",
+            "start": 52.069,
+            "end": 52.329,
+            "score": 0.853
+        },
+        {
+            "word": "be",
+            "start": 52.409,
+            "end": 52.569,
+            "score": 0.875
+        },
+        {
+            "word": "very",
+            "start": 52.709,
+            "end": 52.89,
+            "score": 0.55
+        },
+        {
+            "word": "useful.",
+            "start": 52.93,
+            "end": 53.25,
+            "score": 0.482
+        }
+    ]
+}

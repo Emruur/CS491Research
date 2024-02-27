@@ -1,0 +1,840 @@
+{
+    "segments": [
+        {
+            "start": 0.029,
+            "end": 14.243,
+            "text": " I think the attached warning is a little overaction because the obsesity is caused by many factors kind of fast food, junk food or something like that.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.029,
+                    "end": 0.089,
+                    "score": 0.916
+                },
+                {
+                    "word": "think",
+                    "start": 0.129,
+                    "end": 0.329,
+                    "score": 0.67
+                },
+                {
+                    "word": "the",
+                    "start": 0.369,
+                    "end": 0.77,
+                    "score": 0.831
+                },
+                {
+                    "word": "attached",
+                    "start": 0.89,
+                    "end": 1.49,
+                    "score": 0.665
+                },
+                {
+                    "word": "warning",
+                    "start": 1.531,
+                    "end": 1.911,
+                    "score": 0.818
+                },
+                {
+                    "word": "is",
+                    "start": 2.011,
+                    "end": 2.091,
+                    "score": 0.773
+                },
+                {
+                    "word": "a",
+                    "start": 2.151,
+                    "end": 2.231,
+                    "score": 0.653
+                },
+                {
+                    "word": "little",
+                    "start": 2.251,
+                    "end": 2.512,
+                    "score": 0.728
+                },
+                {
+                    "word": "overaction",
+                    "start": 2.592,
+                    "end": 3.072,
+                    "score": 0.585
+                },
+                {
+                    "word": "because",
+                    "start": 3.092,
+                    "end": 3.472,
+                    "score": 0.918
+                },
+                {
+                    "word": "the",
+                    "start": 4.273,
+                    "end": 4.373,
+                    "score": 0.754
+                },
+                {
+                    "word": "obsesity",
+                    "start": 4.413,
+                    "end": 4.954,
+                    "score": 0.79
+                },
+                {
+                    "word": "is",
+                    "start": 4.974,
+                    "end": 5.515,
+                    "score": 0.679
+                },
+                {
+                    "word": "caused",
+                    "start": 5.655,
+                    "end": 5.915,
+                    "score": 0.815
+                },
+                {
+                    "word": "by",
+                    "start": 6.055,
+                    "end": 6.335,
+                    "score": 0.802
+                },
+                {
+                    "word": "many",
+                    "start": 6.656,
+                    "end": 6.876,
+                    "score": 0.87
+                },
+                {
+                    "word": "factors",
+                    "start": 6.936,
+                    "end": 7.316,
+                    "score": 0.687
+                },
+                {
+                    "word": "kind",
+                    "start": 7.416,
+                    "end": 7.677,
+                    "score": 0.824
+                },
+                {
+                    "word": "of",
+                    "start": 7.837,
+                    "end": 8.538,
+                    "score": 0.834
+                },
+                {
+                    "word": "fast",
+                    "start": 8.978,
+                    "end": 9.238,
+                    "score": 0.744
+                },
+                {
+                    "word": "food,",
+                    "start": 9.298,
+                    "end": 9.739,
+                    "score": 0.909
+                },
+                {
+                    "word": "junk",
+                    "start": 9.959,
+                    "end": 10.239,
+                    "score": 0.772
+                },
+                {
+                    "word": "food",
+                    "start": 10.299,
+                    "end": 10.66,
+                    "score": 0.904
+                },
+                {
+                    "word": "or",
+                    "start": 10.8,
+                    "end": 10.96,
+                    "score": 0.596
+                },
+                {
+                    "word": "something",
+                    "start": 13.663,
+                    "end": 13.923,
+                    "score": 0.782
+                },
+                {
+                    "word": "like",
+                    "start": 13.943,
+                    "end": 14.083,
+                    "score": 0.832
+                },
+                {
+                    "word": "that.",
+                    "start": 14.103,
+                    "end": 14.243,
+                    "score": 0.771
+                }
+            ]
+        },
+        {
+            "start": 14.904,
+            "end": 20.67,
+            "text": "So the attached warning at the soda is a little unfair.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 14.904,
+                    "end": 15.184,
+                    "score": 0.905
+                },
+                {
+                    "word": "the",
+                    "start": 15.865,
+                    "end": 16.546,
+                    "score": 0.915
+                },
+                {
+                    "word": "attached",
+                    "start": 17.066,
+                    "end": 17.647,
+                    "score": 0.745
+                },
+                {
+                    "word": "warning",
+                    "start": 17.687,
+                    "end": 18.207,
+                    "score": 0.794
+                },
+                {
+                    "word": "at",
+                    "start": 18.488,
+                    "end": 18.588,
+                    "score": 0.778
+                },
+                {
+                    "word": "the",
+                    "start": 18.688,
+                    "end": 18.868,
+                    "score": 0.957
+                },
+                {
+                    "word": "soda",
+                    "start": 18.968,
+                    "end": 19.228,
+                    "score": 0.663
+                },
+                {
+                    "word": "is",
+                    "start": 19.288,
+                    "end": 19.449,
+                    "score": 0.654
+                },
+                {
+                    "word": "a",
+                    "start": 19.529,
+                    "end": 19.589,
+                    "score": 0.709
+                },
+                {
+                    "word": "little",
+                    "start": 19.609,
+                    "end": 19.889,
+                    "score": 0.799
+                },
+                {
+                    "word": "unfair.",
+                    "start": 20.189,
+                    "end": 20.67,
+                    "score": 0.77
+                }
+            ]
+        },
+        {
+            "start": 21.09,
+            "end": 22.612,
+            "text": "If they wanted to warning",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 21.09,
+                    "end": 21.21,
+                    "score": 0.991
+                },
+                {
+                    "word": "they",
+                    "start": 21.33,
+                    "end": 21.551,
+                    "score": 0.867
+                },
+                {
+                    "word": "wanted",
+                    "start": 21.571,
+                    "end": 21.811,
+                    "score": 0.533
+                },
+                {
+                    "word": "to",
+                    "start": 21.851,
+                    "end": 22.291,
+                    "score": 0.757
+                },
+                {
+                    "word": "warning",
+                    "start": 22.331,
+                    "end": 22.612,
+                    "score": 0.937
+                }
+            ]
+        },
+        {
+            "start": 24.053,
+            "end": 28.295,
+            "text": " They need to attach another junk food or fast food.",
+            "words": [
+                {
+                    "word": "They",
+                    "start": 24.053,
+                    "end": 24.253,
+                    "score": 0.82
+                },
+                {
+                    "word": "need",
+                    "start": 24.273,
+                    "end": 24.513,
+                    "score": 0.926
+                },
+                {
+                    "word": "to",
+                    "start": 25.093,
+                    "end": 25.253,
+                    "score": 0.867
+                },
+                {
+                    "word": "attach",
+                    "start": 25.273,
+                    "end": 25.594,
+                    "score": 0.725
+                },
+                {
+                    "word": "another",
+                    "start": 25.694,
+                    "end": 26.034,
+                    "score": 0.803
+                },
+                {
+                    "word": "junk",
+                    "start": 26.314,
+                    "end": 26.594,
+                    "score": 0.717
+                },
+                {
+                    "word": "food",
+                    "start": 26.614,
+                    "end": 26.794,
+                    "score": 0.81
+                },
+                {
+                    "word": "or",
+                    "start": 26.854,
+                    "end": 27.095,
+                    "score": 0.748
+                },
+                {
+                    "word": "fast",
+                    "start": 27.295,
+                    "end": 27.595,
+                    "score": 0.784
+                },
+                {
+                    "word": "food.",
+                    "start": 27.655,
+                    "end": 28.295,
+                    "score": 0.819
+                }
+            ]
+        },
+        {
+            "start": 28.375,
+            "end": 32.338,
+            "text": "It's a little unfair to attach the soda.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 28.375,
+                    "end": 28.695,
+                    "score": 0.66
+                },
+                {
+                    "word": "a",
+                    "start": 30.056,
+                    "end": 30.136,
+                    "score": 0.708
+                },
+                {
+                    "word": "little",
+                    "start": 30.156,
+                    "end": 30.356,
+                    "score": 0.84
+                },
+                {
+                    "word": "unfair",
+                    "start": 30.417,
+                    "end": 30.877,
+                    "score": 0.812
+                },
+                {
+                    "word": "to",
+                    "start": 31.077,
+                    "end": 31.337,
+                    "score": 0.889
+                },
+                {
+                    "word": "attach",
+                    "start": 31.357,
+                    "end": 31.717,
+                    "score": 0.74
+                },
+                {
+                    "word": "the",
+                    "start": 31.817,
+                    "end": 31.917,
+                    "score": 0.944
+                },
+                {
+                    "word": "soda.",
+                    "start": 31.937,
+                    "end": 32.338,
+                    "score": 0.709
+                }
+            ]
+        },
+        {
+            "start": 32.358,
+            "end": 33.939,
+            "text": "It's a little over action.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 32.358,
+                    "end": 32.658,
+                    "score": 0.694
+                },
+                {
+                    "word": "a",
+                    "start": 32.798,
+                    "end": 32.838,
+                    "score": 0.467
+                },
+                {
+                    "word": "little",
+                    "start": 32.858,
+                    "end": 33.098,
+                    "score": 0.199
+                },
+                {
+                    "word": "over",
+                    "start": 33.558,
+                    "end": 33.678,
+                    "score": 0.153
+                },
+                {
+                    "word": "action.",
+                    "start": 33.698,
+                    "end": 33.939,
+                    "score": 0.375
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.029,
+            "end": 0.089,
+            "score": 0.916
+        },
+        {
+            "word": "think",
+            "start": 0.129,
+            "end": 0.329,
+            "score": 0.67
+        },
+        {
+            "word": "the",
+            "start": 0.369,
+            "end": 0.77,
+            "score": 0.831
+        },
+        {
+            "word": "attached",
+            "start": 0.89,
+            "end": 1.49,
+            "score": 0.665
+        },
+        {
+            "word": "warning",
+            "start": 1.531,
+            "end": 1.911,
+            "score": 0.818
+        },
+        {
+            "word": "is",
+            "start": 2.011,
+            "end": 2.091,
+            "score": 0.773
+        },
+        {
+            "word": "a",
+            "start": 2.151,
+            "end": 2.231,
+            "score": 0.653
+        },
+        {
+            "word": "little",
+            "start": 2.251,
+            "end": 2.512,
+            "score": 0.728
+        },
+        {
+            "word": "overaction",
+            "start": 2.592,
+            "end": 3.072,
+            "score": 0.585
+        },
+        {
+            "word": "because",
+            "start": 3.092,
+            "end": 3.472,
+            "score": 0.918
+        },
+        {
+            "word": "the",
+            "start": 4.273,
+            "end": 4.373,
+            "score": 0.754
+        },
+        {
+            "word": "obsesity",
+            "start": 4.413,
+            "end": 4.954,
+            "score": 0.79
+        },
+        {
+            "word": "is",
+            "start": 4.974,
+            "end": 5.515,
+            "score": 0.679
+        },
+        {
+            "word": "caused",
+            "start": 5.655,
+            "end": 5.915,
+            "score": 0.815
+        },
+        {
+            "word": "by",
+            "start": 6.055,
+            "end": 6.335,
+            "score": 0.802
+        },
+        {
+            "word": "many",
+            "start": 6.656,
+            "end": 6.876,
+            "score": 0.87
+        },
+        {
+            "word": "factors",
+            "start": 6.936,
+            "end": 7.316,
+            "score": 0.687
+        },
+        {
+            "word": "kind",
+            "start": 7.416,
+            "end": 7.677,
+            "score": 0.824
+        },
+        {
+            "word": "of",
+            "start": 7.837,
+            "end": 8.538,
+            "score": 0.834
+        },
+        {
+            "word": "fast",
+            "start": 8.978,
+            "end": 9.238,
+            "score": 0.744
+        },
+        {
+            "word": "food,",
+            "start": 9.298,
+            "end": 9.739,
+            "score": 0.909
+        },
+        {
+            "word": "junk",
+            "start": 9.959,
+            "end": 10.239,
+            "score": 0.772
+        },
+        {
+            "word": "food",
+            "start": 10.299,
+            "end": 10.66,
+            "score": 0.904
+        },
+        {
+            "word": "or",
+            "start": 10.8,
+            "end": 10.96,
+            "score": 0.596
+        },
+        {
+            "word": "something",
+            "start": 13.663,
+            "end": 13.923,
+            "score": 0.782
+        },
+        {
+            "word": "like",
+            "start": 13.943,
+            "end": 14.083,
+            "score": 0.832
+        },
+        {
+            "word": "that.",
+            "start": 14.103,
+            "end": 14.243,
+            "score": 0.771
+        },
+        {
+            "word": "So",
+            "start": 14.904,
+            "end": 15.184,
+            "score": 0.905
+        },
+        {
+            "word": "the",
+            "start": 15.865,
+            "end": 16.546,
+            "score": 0.915
+        },
+        {
+            "word": "attached",
+            "start": 17.066,
+            "end": 17.647,
+            "score": 0.745
+        },
+        {
+            "word": "warning",
+            "start": 17.687,
+            "end": 18.207,
+            "score": 0.794
+        },
+        {
+            "word": "at",
+            "start": 18.488,
+            "end": 18.588,
+            "score": 0.778
+        },
+        {
+            "word": "the",
+            "start": 18.688,
+            "end": 18.868,
+            "score": 0.957
+        },
+        {
+            "word": "soda",
+            "start": 18.968,
+            "end": 19.228,
+            "score": 0.663
+        },
+        {
+            "word": "is",
+            "start": 19.288,
+            "end": 19.449,
+            "score": 0.654
+        },
+        {
+            "word": "a",
+            "start": 19.529,
+            "end": 19.589,
+            "score": 0.709
+        },
+        {
+            "word": "little",
+            "start": 19.609,
+            "end": 19.889,
+            "score": 0.799
+        },
+        {
+            "word": "unfair.",
+            "start": 20.189,
+            "end": 20.67,
+            "score": 0.77
+        },
+        {
+            "word": "If",
+            "start": 21.09,
+            "end": 21.21,
+            "score": 0.991
+        },
+        {
+            "word": "they",
+            "start": 21.33,
+            "end": 21.551,
+            "score": 0.867
+        },
+        {
+            "word": "wanted",
+            "start": 21.571,
+            "end": 21.811,
+            "score": 0.533
+        },
+        {
+            "word": "to",
+            "start": 21.851,
+            "end": 22.291,
+            "score": 0.757
+        },
+        {
+            "word": "warning",
+            "start": 22.331,
+            "end": 22.612,
+            "score": 0.937
+        },
+        {
+            "word": "They",
+            "start": 24.053,
+            "end": 24.253,
+            "score": 0.82
+        },
+        {
+            "word": "need",
+            "start": 24.273,
+            "end": 24.513,
+            "score": 0.926
+        },
+        {
+            "word": "to",
+            "start": 25.093,
+            "end": 25.253,
+            "score": 0.867
+        },
+        {
+            "word": "attach",
+            "start": 25.273,
+            "end": 25.594,
+            "score": 0.725
+        },
+        {
+            "word": "another",
+            "start": 25.694,
+            "end": 26.034,
+            "score": 0.803
+        },
+        {
+            "word": "junk",
+            "start": 26.314,
+            "end": 26.594,
+            "score": 0.717
+        },
+        {
+            "word": "food",
+            "start": 26.614,
+            "end": 26.794,
+            "score": 0.81
+        },
+        {
+            "word": "or",
+            "start": 26.854,
+            "end": 27.095,
+            "score": 0.748
+        },
+        {
+            "word": "fast",
+            "start": 27.295,
+            "end": 27.595,
+            "score": 0.784
+        },
+        {
+            "word": "food.",
+            "start": 27.655,
+            "end": 28.295,
+            "score": 0.819
+        },
+        {
+            "word": "It's",
+            "start": 28.375,
+            "end": 28.695,
+            "score": 0.66
+        },
+        {
+            "word": "a",
+            "start": 30.056,
+            "end": 30.136,
+            "score": 0.708
+        },
+        {
+            "word": "little",
+            "start": 30.156,
+            "end": 30.356,
+            "score": 0.84
+        },
+        {
+            "word": "unfair",
+            "start": 30.417,
+            "end": 30.877,
+            "score": 0.812
+        },
+        {
+            "word": "to",
+            "start": 31.077,
+            "end": 31.337,
+            "score": 0.889
+        },
+        {
+            "word": "attach",
+            "start": 31.357,
+            "end": 31.717,
+            "score": 0.74
+        },
+        {
+            "word": "the",
+            "start": 31.817,
+            "end": 31.917,
+            "score": 0.944
+        },
+        {
+            "word": "soda.",
+            "start": 31.937,
+            "end": 32.338,
+            "score": 0.709
+        },
+        {
+            "word": "It's",
+            "start": 32.358,
+            "end": 32.658,
+            "score": 0.694
+        },
+        {
+            "word": "a",
+            "start": 32.798,
+            "end": 32.838,
+            "score": 0.467
+        },
+        {
+            "word": "little",
+            "start": 32.858,
+            "end": 33.098,
+            "score": 0.199
+        },
+        {
+            "word": "over",
+            "start": 33.558,
+            "end": 33.678,
+            "score": 0.153
+        },
+        {
+            "word": "action.",
+            "start": 33.698,
+            "end": 33.939,
+            "score": 0.375
+        }
+    ]
+}

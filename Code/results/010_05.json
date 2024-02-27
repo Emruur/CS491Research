@@ -1,0 +1,1068 @@
+{
+    "segments": [
+        {
+            "start": 0.129,
+            "end": 18.05,
+            "text": " About this question, I agree with the idea to ask the company to reduce some soda in the drinks because obesity is a very big problem today.",
+            "words": [
+                {
+                    "word": "About",
+                    "start": 0.129,
+                    "end": 0.349,
+                    "score": 0.905
+                },
+                {
+                    "word": "this",
+                    "start": 0.369,
+                    "end": 0.51,
+                    "score": 0.784
+                },
+                {
+                    "word": "question,",
+                    "start": 0.53,
+                    "end": 0.93,
+                    "score": 0.698
+                },
+                {
+                    "word": "I",
+                    "start": 1.11,
+                    "end": 1.19,
+                    "score": 0.88
+                },
+                {
+                    "word": "agree",
+                    "start": 1.29,
+                    "end": 1.611,
+                    "score": 0.802
+                },
+                {
+                    "word": "with",
+                    "start": 1.651,
+                    "end": 1.931,
+                    "score": 0.778
+                },
+                {
+                    "word": "the",
+                    "start": 2.612,
+                    "end": 2.912,
+                    "score": 0.898
+                },
+                {
+                    "word": "idea",
+                    "start": 3.793,
+                    "end": 5.555,
+                    "score": 0.633
+                },
+                {
+                    "word": "to",
+                    "start": 6.096,
+                    "end": 6.456,
+                    "score": 0.958
+                },
+                {
+                    "word": "ask",
+                    "start": 7.197,
+                    "end": 8.278,
+                    "score": 0.504
+                },
+                {
+                    "word": "the",
+                    "start": 8.339,
+                    "end": 8.459,
+                    "score": 0.426
+                },
+                {
+                    "word": "company",
+                    "start": 8.479,
+                    "end": 8.959,
+                    "score": 0.873
+                },
+                {
+                    "word": "to",
+                    "start": 9.48,
+                    "end": 9.64,
+                    "score": 0.833
+                },
+                {
+                    "word": "reduce",
+                    "start": 9.72,
+                    "end": 10.161,
+                    "score": 0.848
+                },
+                {
+                    "word": "some",
+                    "start": 10.481,
+                    "end": 10.861,
+                    "score": 0.825
+                },
+                {
+                    "word": "soda",
+                    "start": 11.082,
+                    "end": 12.223,
+                    "score": 0.755
+                },
+                {
+                    "word": "in",
+                    "start": 12.383,
+                    "end": 12.583,
+                    "score": 0.68
+                },
+                {
+                    "word": "the",
+                    "start": 13.384,
+                    "end": 13.625,
+                    "score": 0.542
+                },
+                {
+                    "word": "drinks",
+                    "start": 14.586,
+                    "end": 14.886,
+                    "score": 0.946
+                },
+                {
+                    "word": "because",
+                    "start": 15.407,
+                    "end": 15.767,
+                    "score": 0.918
+                },
+                {
+                    "word": "obesity",
+                    "start": 16.027,
+                    "end": 16.528,
+                    "score": 0.87
+                },
+                {
+                    "word": "is",
+                    "start": 16.568,
+                    "end": 16.648,
+                    "score": 0.637
+                },
+                {
+                    "word": "a",
+                    "start": 16.688,
+                    "end": 16.728,
+                    "score": 0.602
+                },
+                {
+                    "word": "very",
+                    "start": 16.768,
+                    "end": 16.928,
+                    "score": 0.935
+                },
+                {
+                    "word": "big",
+                    "start": 16.948,
+                    "end": 17.109,
+                    "score": 0.939
+                },
+                {
+                    "word": "problem",
+                    "start": 17.149,
+                    "end": 17.649,
+                    "score": 0.79
+                },
+                {
+                    "word": "today.",
+                    "start": 17.689,
+                    "end": 18.05,
+                    "score": 0.898
+                }
+            ]
+        },
+        {
+            "start": 18.67,
+            "end": 22.035,
+            "text": " and people need to be changed about their living style.",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 18.67,
+                    "end": 18.791,
+                    "score": 0.862
+                },
+                {
+                    "word": "people",
+                    "start": 18.931,
+                    "end": 19.191,
+                    "score": 0.857
+                },
+                {
+                    "word": "need",
+                    "start": 19.231,
+                    "end": 19.412,
+                    "score": 0.916
+                },
+                {
+                    "word": "to",
+                    "start": 19.432,
+                    "end": 19.552,
+                    "score": 0.99
+                },
+                {
+                    "word": "be",
+                    "start": 19.592,
+                    "end": 19.692,
+                    "score": 0.91
+                },
+                {
+                    "word": "changed",
+                    "start": 19.732,
+                    "end": 20.093,
+                    "score": 0.906
+                },
+                {
+                    "word": "about",
+                    "start": 20.333,
+                    "end": 20.613,
+                    "score": 0.905
+                },
+                {
+                    "word": "their",
+                    "start": 20.653,
+                    "end": 21.294,
+                    "score": 0.835
+                },
+                {
+                    "word": "living",
+                    "start": 21.334,
+                    "end": 21.595,
+                    "score": 0.958
+                },
+                {
+                    "word": "style.",
+                    "start": 21.615,
+                    "end": 22.035,
+                    "score": 0.73
+                }
+            ]
+        },
+        {
+            "start": 22.636,
+            "end": 27.063,
+            "text": "Besides about the healthy one, it should be need.",
+            "words": [
+                {
+                    "word": "Besides",
+                    "start": 22.636,
+                    "end": 23.077,
+                    "score": 0.695
+                },
+                {
+                    "word": "about",
+                    "start": 24.319,
+                    "end": 24.72,
+                    "score": 0.94
+                },
+                {
+                    "word": "the",
+                    "start": 24.82,
+                    "end": 24.98,
+                    "score": 0.823
+                },
+                {
+                    "word": "healthy",
+                    "start": 25.04,
+                    "end": 25.521,
+                    "score": 0.833
+                },
+                {
+                    "word": "one,",
+                    "start": 25.661,
+                    "end": 25.941,
+                    "score": 0.549
+                },
+                {
+                    "word": "it",
+                    "start": 25.961,
+                    "end": 26.001,
+                    "score": 0.0
+                },
+                {
+                    "word": "should",
+                    "start": 26.542,
+                    "end": 26.743,
+                    "score": 0.824
+                },
+                {
+                    "word": "be",
+                    "start": 26.763,
+                    "end": 26.823,
+                    "score": 0.997
+                },
+                {
+                    "word": "need.",
+                    "start": 26.863,
+                    "end": 27.063,
+                    "score": 0.83
+                }
+            ]
+        },
+        {
+            "start": 27.223,
+            "end": 27.323,
+            "text": "Why?",
+            "words": [
+                {
+                    "word": "Why?",
+                    "start": 27.223,
+                    "end": 27.323,
+                    "score": 0.268
+                }
+            ]
+        },
+        {
+            "start": 27.343,
+            "end": 28.645,
+            "text": "Because with this kind of requirement,",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 27.343,
+                    "end": 27.564,
+                    "score": 0.281
+                },
+                {
+                    "word": "with",
+                    "start": 27.584,
+                    "end": 27.944,
+                    "score": 0.402
+                },
+                {
+                    "word": "this",
+                    "start": 27.964,
+                    "end": 28.044,
+                    "score": 0.367
+                },
+                {
+                    "word": "kind",
+                    "start": 28.085,
+                    "end": 28.185,
+                    "score": 0.367
+                },
+                {
+                    "word": "of",
+                    "start": 28.225,
+                    "end": 28.305,
+                    "score": 0.498
+                },
+                {
+                    "word": "requirement,",
+                    "start": 28.365,
+                    "end": 28.645,
+                    "score": 0.199
+                }
+            ]
+        },
+        {
+            "start": 34.674,
+            "end": 56.104,
+            "text": " the government can easy to control the citizens healthy situation which will helpful for this city in about and also about people's life besides it is also very important for the people",
+            "words": [
+                {
+                    "word": "the",
+                    "start": 34.674,
+                    "end": 34.994,
+                    "score": 0.942
+                },
+                {
+                    "word": "government",
+                    "start": 35.094,
+                    "end": 35.535,
+                    "score": 0.914
+                },
+                {
+                    "word": "can",
+                    "start": 35.615,
+                    "end": 35.895,
+                    "score": 0.783
+                },
+                {
+                    "word": "easy",
+                    "start": 36.195,
+                    "end": 36.435,
+                    "score": 0.902
+                },
+                {
+                    "word": "to",
+                    "start": 36.455,
+                    "end": 36.575,
+                    "score": 0.826
+                },
+                {
+                    "word": "control",
+                    "start": 36.635,
+                    "end": 37.155,
+                    "score": 0.766
+                },
+                {
+                    "word": "the",
+                    "start": 37.936,
+                    "end": 38.376,
+                    "score": 0.951
+                },
+                {
+                    "word": "citizens",
+                    "start": 38.816,
+                    "end": 39.516,
+                    "score": 0.872
+                },
+                {
+                    "word": "healthy",
+                    "start": 39.917,
+                    "end": 40.297,
+                    "score": 0.745
+                },
+                {
+                    "word": "situation",
+                    "start": 40.337,
+                    "end": 40.977,
+                    "score": 0.913
+                },
+                {
+                    "word": "which",
+                    "start": 41.457,
+                    "end": 41.637,
+                    "score": 0.775
+                },
+                {
+                    "word": "will",
+                    "start": 41.697,
+                    "end": 42.178,
+                    "score": 0.587
+                },
+                {
+                    "word": "helpful",
+                    "start": 42.238,
+                    "end": 42.798,
+                    "score": 0.699
+                },
+                {
+                    "word": "for",
+                    "start": 43.458,
+                    "end": 43.798,
+                    "score": 0.854
+                },
+                {
+                    "word": "this",
+                    "start": 44.279,
+                    "end": 44.479,
+                    "score": 0.873
+                },
+                {
+                    "word": "city",
+                    "start": 44.519,
+                    "end": 44.899,
+                    "score": 0.842
+                },
+                {
+                    "word": "in",
+                    "start": 46.74,
+                    "end": 46.9,
+                    "score": 0.906
+                },
+                {
+                    "word": "about",
+                    "start": 47.42,
+                    "end": 47.82,
+                    "score": 0.868
+                },
+                {
+                    "word": "and",
+                    "start": 48.04,
+                    "end": 48.4,
+                    "score": 0.53
+                },
+                {
+                    "word": "also",
+                    "start": 48.5,
+                    "end": 48.721,
+                    "score": 0.943
+                },
+                {
+                    "word": "about",
+                    "start": 48.741,
+                    "end": 49.021,
+                    "score": 0.791
+                },
+                {
+                    "word": "people's",
+                    "start": 49.061,
+                    "end": 49.341,
+                    "score": 0.871
+                },
+                {
+                    "word": "life",
+                    "start": 49.401,
+                    "end": 49.661,
+                    "score": 0.836
+                },
+                {
+                    "word": "besides",
+                    "start": 51.122,
+                    "end": 51.582,
+                    "score": 0.877
+                },
+                {
+                    "word": "it",
+                    "start": 52.522,
+                    "end": 52.802,
+                    "score": 0.82
+                },
+                {
+                    "word": "is",
+                    "start": 53.183,
+                    "end": 53.343,
+                    "score": 0.608
+                },
+                {
+                    "word": "also",
+                    "start": 53.463,
+                    "end": 53.783,
+                    "score": 0.917
+                },
+                {
+                    "word": "very",
+                    "start": 53.883,
+                    "end": 54.143,
+                    "score": 0.767
+                },
+                {
+                    "word": "important",
+                    "start": 54.183,
+                    "end": 54.743,
+                    "score": 0.924
+                },
+                {
+                    "word": "for",
+                    "start": 55.264,
+                    "end": 55.564,
+                    "score": 0.932
+                },
+                {
+                    "word": "the",
+                    "start": 55.644,
+                    "end": 55.744,
+                    "score": 0.951
+                },
+                {
+                    "word": "people",
+                    "start": 55.784,
+                    "end": 56.104,
+                    "score": 0.9
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "About",
+            "start": 0.129,
+            "end": 0.349,
+            "score": 0.905
+        },
+        {
+            "word": "this",
+            "start": 0.369,
+            "end": 0.51,
+            "score": 0.784
+        },
+        {
+            "word": "question,",
+            "start": 0.53,
+            "end": 0.93,
+            "score": 0.698
+        },
+        {
+            "word": "I",
+            "start": 1.11,
+            "end": 1.19,
+            "score": 0.88
+        },
+        {
+            "word": "agree",
+            "start": 1.29,
+            "end": 1.611,
+            "score": 0.802
+        },
+        {
+            "word": "with",
+            "start": 1.651,
+            "end": 1.931,
+            "score": 0.778
+        },
+        {
+            "word": "the",
+            "start": 2.612,
+            "end": 2.912,
+            "score": 0.898
+        },
+        {
+            "word": "idea",
+            "start": 3.793,
+            "end": 5.555,
+            "score": 0.633
+        },
+        {
+            "word": "to",
+            "start": 6.096,
+            "end": 6.456,
+            "score": 0.958
+        },
+        {
+            "word": "ask",
+            "start": 7.197,
+            "end": 8.278,
+            "score": 0.504
+        },
+        {
+            "word": "the",
+            "start": 8.339,
+            "end": 8.459,
+            "score": 0.426
+        },
+        {
+            "word": "company",
+            "start": 8.479,
+            "end": 8.959,
+            "score": 0.873
+        },
+        {
+            "word": "to",
+            "start": 9.48,
+            "end": 9.64,
+            "score": 0.833
+        },
+        {
+            "word": "reduce",
+            "start": 9.72,
+            "end": 10.161,
+            "score": 0.848
+        },
+        {
+            "word": "some",
+            "start": 10.481,
+            "end": 10.861,
+            "score": 0.825
+        },
+        {
+            "word": "soda",
+            "start": 11.082,
+            "end": 12.223,
+            "score": 0.755
+        },
+        {
+            "word": "in",
+            "start": 12.383,
+            "end": 12.583,
+            "score": 0.68
+        },
+        {
+            "word": "the",
+            "start": 13.384,
+            "end": 13.625,
+            "score": 0.542
+        },
+        {
+            "word": "drinks",
+            "start": 14.586,
+            "end": 14.886,
+            "score": 0.946
+        },
+        {
+            "word": "because",
+            "start": 15.407,
+            "end": 15.767,
+            "score": 0.918
+        },
+        {
+            "word": "obesity",
+            "start": 16.027,
+            "end": 16.528,
+            "score": 0.87
+        },
+        {
+            "word": "is",
+            "start": 16.568,
+            "end": 16.648,
+            "score": 0.637
+        },
+        {
+            "word": "a",
+            "start": 16.688,
+            "end": 16.728,
+            "score": 0.602
+        },
+        {
+            "word": "very",
+            "start": 16.768,
+            "end": 16.928,
+            "score": 0.935
+        },
+        {
+            "word": "big",
+            "start": 16.948,
+            "end": 17.109,
+            "score": 0.939
+        },
+        {
+            "word": "problem",
+            "start": 17.149,
+            "end": 17.649,
+            "score": 0.79
+        },
+        {
+            "word": "today.",
+            "start": 17.689,
+            "end": 18.05,
+            "score": 0.898
+        },
+        {
+            "word": "and",
+            "start": 18.67,
+            "end": 18.791,
+            "score": 0.862
+        },
+        {
+            "word": "people",
+            "start": 18.931,
+            "end": 19.191,
+            "score": 0.857
+        },
+        {
+            "word": "need",
+            "start": 19.231,
+            "end": 19.412,
+            "score": 0.916
+        },
+        {
+            "word": "to",
+            "start": 19.432,
+            "end": 19.552,
+            "score": 0.99
+        },
+        {
+            "word": "be",
+            "start": 19.592,
+            "end": 19.692,
+            "score": 0.91
+        },
+        {
+            "word": "changed",
+            "start": 19.732,
+            "end": 20.093,
+            "score": 0.906
+        },
+        {
+            "word": "about",
+            "start": 20.333,
+            "end": 20.613,
+            "score": 0.905
+        },
+        {
+            "word": "their",
+            "start": 20.653,
+            "end": 21.294,
+            "score": 0.835
+        },
+        {
+            "word": "living",
+            "start": 21.334,
+            "end": 21.595,
+            "score": 0.958
+        },
+        {
+            "word": "style.",
+            "start": 21.615,
+            "end": 22.035,
+            "score": 0.73
+        },
+        {
+            "word": "Besides",
+            "start": 22.636,
+            "end": 23.077,
+            "score": 0.695
+        },
+        {
+            "word": "about",
+            "start": 24.319,
+            "end": 24.72,
+            "score": 0.94
+        },
+        {
+            "word": "the",
+            "start": 24.82,
+            "end": 24.98,
+            "score": 0.823
+        },
+        {
+            "word": "healthy",
+            "start": 25.04,
+            "end": 25.521,
+            "score": 0.833
+        },
+        {
+            "word": "one,",
+            "start": 25.661,
+            "end": 25.941,
+            "score": 0.549
+        },
+        {
+            "word": "it",
+            "start": 25.961,
+            "end": 26.001,
+            "score": 0.0
+        },
+        {
+            "word": "should",
+            "start": 26.542,
+            "end": 26.743,
+            "score": 0.824
+        },
+        {
+            "word": "be",
+            "start": 26.763,
+            "end": 26.823,
+            "score": 0.997
+        },
+        {
+            "word": "need.",
+            "start": 26.863,
+            "end": 27.063,
+            "score": 0.83
+        },
+        {
+            "word": "Why?",
+            "start": 27.223,
+            "end": 27.323,
+            "score": 0.268
+        },
+        {
+            "word": "Because",
+            "start": 27.343,
+            "end": 27.564,
+            "score": 0.281
+        },
+        {
+            "word": "with",
+            "start": 27.584,
+            "end": 27.944,
+            "score": 0.402
+        },
+        {
+            "word": "this",
+            "start": 27.964,
+            "end": 28.044,
+            "score": 0.367
+        },
+        {
+            "word": "kind",
+            "start": 28.085,
+            "end": 28.185,
+            "score": 0.367
+        },
+        {
+            "word": "of",
+            "start": 28.225,
+            "end": 28.305,
+            "score": 0.498
+        },
+        {
+            "word": "requirement,",
+            "start": 28.365,
+            "end": 28.645,
+            "score": 0.199
+        },
+        {
+            "word": "the",
+            "start": 34.674,
+            "end": 34.994,
+            "score": 0.942
+        },
+        {
+            "word": "government",
+            "start": 35.094,
+            "end": 35.535,
+            "score": 0.914
+        },
+        {
+            "word": "can",
+            "start": 35.615,
+            "end": 35.895,
+            "score": 0.783
+        },
+        {
+            "word": "easy",
+            "start": 36.195,
+            "end": 36.435,
+            "score": 0.902
+        },
+        {
+            "word": "to",
+            "start": 36.455,
+            "end": 36.575,
+            "score": 0.826
+        },
+        {
+            "word": "control",
+            "start": 36.635,
+            "end": 37.155,
+            "score": 0.766
+        },
+        {
+            "word": "the",
+            "start": 37.936,
+            "end": 38.376,
+            "score": 0.951
+        },
+        {
+            "word": "citizens",
+            "start": 38.816,
+            "end": 39.516,
+            "score": 0.872
+        },
+        {
+            "word": "healthy",
+            "start": 39.917,
+            "end": 40.297,
+            "score": 0.745
+        },
+        {
+            "word": "situation",
+            "start": 40.337,
+            "end": 40.977,
+            "score": 0.913
+        },
+        {
+            "word": "which",
+            "start": 41.457,
+            "end": 41.637,
+            "score": 0.775
+        },
+        {
+            "word": "will",
+            "start": 41.697,
+            "end": 42.178,
+            "score": 0.587
+        },
+        {
+            "word": "helpful",
+            "start": 42.238,
+            "end": 42.798,
+            "score": 0.699
+        },
+        {
+            "word": "for",
+            "start": 43.458,
+            "end": 43.798,
+            "score": 0.854
+        },
+        {
+            "word": "this",
+            "start": 44.279,
+            "end": 44.479,
+            "score": 0.873
+        },
+        {
+            "word": "city",
+            "start": 44.519,
+            "end": 44.899,
+            "score": 0.842
+        },
+        {
+            "word": "in",
+            "start": 46.74,
+            "end": 46.9,
+            "score": 0.906
+        },
+        {
+            "word": "about",
+            "start": 47.42,
+            "end": 47.82,
+            "score": 0.868
+        },
+        {
+            "word": "and",
+            "start": 48.04,
+            "end": 48.4,
+            "score": 0.53
+        },
+        {
+            "word": "also",
+            "start": 48.5,
+            "end": 48.721,
+            "score": 0.943
+        },
+        {
+            "word": "about",
+            "start": 48.741,
+            "end": 49.021,
+            "score": 0.791
+        },
+        {
+            "word": "people's",
+            "start": 49.061,
+            "end": 49.341,
+            "score": 0.871
+        },
+        {
+            "word": "life",
+            "start": 49.401,
+            "end": 49.661,
+            "score": 0.836
+        },
+        {
+            "word": "besides",
+            "start": 51.122,
+            "end": 51.582,
+            "score": 0.877
+        },
+        {
+            "word": "it",
+            "start": 52.522,
+            "end": 52.802,
+            "score": 0.82
+        },
+        {
+            "word": "is",
+            "start": 53.183,
+            "end": 53.343,
+            "score": 0.608
+        },
+        {
+            "word": "also",
+            "start": 53.463,
+            "end": 53.783,
+            "score": 0.917
+        },
+        {
+            "word": "very",
+            "start": 53.883,
+            "end": 54.143,
+            "score": 0.767
+        },
+        {
+            "word": "important",
+            "start": 54.183,
+            "end": 54.743,
+            "score": 0.924
+        },
+        {
+            "word": "for",
+            "start": 55.264,
+            "end": 55.564,
+            "score": 0.932
+        },
+        {
+            "word": "the",
+            "start": 55.644,
+            "end": 55.744,
+            "score": 0.951
+        },
+        {
+            "word": "people",
+            "start": 55.784,
+            "end": 56.104,
+            "score": 0.9
+        }
+    ]
+}

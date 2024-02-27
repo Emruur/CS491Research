@@ -1,0 +1,728 @@
+{
+    "segments": [
+        {
+            "start": 1.11,
+            "end": 14.622,
+            "text": " Right now you're at the Franklin Hotel, so you turn to the east direction and walk one block to the Kingdom Avenue and then turn south to walk another block to the Church Street.",
+            "words": [
+                {
+                    "word": "Right",
+                    "start": 1.11,
+                    "end": 1.39,
+                    "score": 0.75
+                },
+                {
+                    "word": "now",
+                    "start": 1.47,
+                    "end": 1.65,
+                    "score": 0.843
+                },
+                {
+                    "word": "you're",
+                    "start": 1.711,
+                    "end": 1.971,
+                    "score": 0.8
+                },
+                {
+                    "word": "at",
+                    "start": 2.051,
+                    "end": 2.171,
+                    "score": 0.633
+                },
+                {
+                    "word": "the",
+                    "start": 2.251,
+                    "end": 2.351,
+                    "score": 0.906
+                },
+                {
+                    "word": "Franklin",
+                    "start": 2.411,
+                    "end": 2.852,
+                    "score": 0.818
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 2.912,
+                    "end": 3.372,
+                    "score": 0.757
+                },
+                {
+                    "word": "so",
+                    "start": 3.612,
+                    "end": 3.913,
+                    "score": 0.917
+                },
+                {
+                    "word": "you",
+                    "start": 4.213,
+                    "end": 4.533,
+                    "score": 0.887
+                },
+                {
+                    "word": "turn",
+                    "start": 5.294,
+                    "end": 5.574,
+                    "score": 0.863
+                },
+                {
+                    "word": "to",
+                    "start": 5.654,
+                    "end": 5.854,
+                    "score": 0.93
+                },
+                {
+                    "word": "the",
+                    "start": 5.894,
+                    "end": 6.034,
+                    "score": 0.874
+                },
+                {
+                    "word": "east",
+                    "start": 6.195,
+                    "end": 6.355,
+                    "score": 0.568
+                },
+                {
+                    "word": "direction",
+                    "start": 6.395,
+                    "end": 7.015,
+                    "score": 0.92
+                },
+                {
+                    "word": "and",
+                    "start": 7.135,
+                    "end": 7.235,
+                    "score": 0.813
+                },
+                {
+                    "word": "walk",
+                    "start": 7.316,
+                    "end": 7.576,
+                    "score": 0.985
+                },
+                {
+                    "word": "one",
+                    "start": 7.716,
+                    "end": 7.836,
+                    "score": 0.85
+                },
+                {
+                    "word": "block",
+                    "start": 7.856,
+                    "end": 8.136,
+                    "score": 0.909
+                },
+                {
+                    "word": "to",
+                    "start": 8.176,
+                    "end": 8.377,
+                    "score": 0.818
+                },
+                {
+                    "word": "the",
+                    "start": 8.397,
+                    "end": 8.497,
+                    "score": 0.669
+                },
+                {
+                    "word": "Kingdom",
+                    "start": 8.557,
+                    "end": 9.137,
+                    "score": 0.931
+                },
+                {
+                    "word": "Avenue",
+                    "start": 9.297,
+                    "end": 9.658,
+                    "score": 0.785
+                },
+                {
+                    "word": "and",
+                    "start": 10.318,
+                    "end": 10.418,
+                    "score": 0.835
+                },
+                {
+                    "word": "then",
+                    "start": 10.458,
+                    "end": 10.639,
+                    "score": 0.918
+                },
+                {
+                    "word": "turn",
+                    "start": 10.719,
+                    "end": 11.019,
+                    "score": 0.86
+                },
+                {
+                    "word": "south",
+                    "start": 11.119,
+                    "end": 11.459,
+                    "score": 0.942
+                },
+                {
+                    "word": "to",
+                    "start": 12.0,
+                    "end": 12.24,
+                    "score": 0.882
+                },
+                {
+                    "word": "walk",
+                    "start": 12.3,
+                    "end": 12.76,
+                    "score": 0.879
+                },
+                {
+                    "word": "another",
+                    "start": 12.901,
+                    "end": 13.181,
+                    "score": 0.813
+                },
+                {
+                    "word": "block",
+                    "start": 13.221,
+                    "end": 13.521,
+                    "score": 0.752
+                },
+                {
+                    "word": "to",
+                    "start": 13.581,
+                    "end": 13.741,
+                    "score": 0.764
+                },
+                {
+                    "word": "the",
+                    "start": 13.761,
+                    "end": 13.841,
+                    "score": 0.828
+                },
+                {
+                    "word": "Church",
+                    "start": 13.881,
+                    "end": 14.162,
+                    "score": 0.823
+                },
+                {
+                    "word": "Street.",
+                    "start": 14.242,
+                    "end": 14.622,
+                    "score": 0.735
+                }
+            ]
+        },
+        {
+            "start": 15.423,
+            "end": 24.351,
+            "text": "Now if you are on the Church Street, just walk straight for three blocks and the limelight disco is just at the right hand side.",
+            "words": [
+                {
+                    "word": "Now",
+                    "start": 15.423,
+                    "end": 15.643,
+                    "score": 0.835
+                },
+                {
+                    "word": "if",
+                    "start": 15.843,
+                    "end": 15.923,
+                    "score": 0.982
+                },
+                {
+                    "word": "you",
+                    "start": 15.963,
+                    "end": 16.063,
+                    "score": 0.885
+                },
+                {
+                    "word": "are",
+                    "start": 16.103,
+                    "end": 16.204,
+                    "score": 0.424
+                },
+                {
+                    "word": "on",
+                    "start": 16.224,
+                    "end": 16.304,
+                    "score": 0.669
+                },
+                {
+                    "word": "the",
+                    "start": 16.324,
+                    "end": 16.384,
+                    "score": 0.987
+                },
+                {
+                    "word": "Church",
+                    "start": 16.424,
+                    "end": 16.684,
+                    "score": 0.726
+                },
+                {
+                    "word": "Street,",
+                    "start": 16.724,
+                    "end": 17.044,
+                    "score": 0.813
+                },
+                {
+                    "word": "just",
+                    "start": 17.124,
+                    "end": 17.325,
+                    "score": 0.81
+                },
+                {
+                    "word": "walk",
+                    "start": 17.405,
+                    "end": 17.605,
+                    "score": 0.991
+                },
+                {
+                    "word": "straight",
+                    "start": 17.685,
+                    "end": 18.085,
+                    "score": 0.653
+                },
+                {
+                    "word": "for",
+                    "start": 19.306,
+                    "end": 19.527,
+                    "score": 0.802
+                },
+                {
+                    "word": "three",
+                    "start": 19.587,
+                    "end": 19.807,
+                    "score": 0.929
+                },
+                {
+                    "word": "blocks",
+                    "start": 19.847,
+                    "end": 20.207,
+                    "score": 0.878
+                },
+                {
+                    "word": "and",
+                    "start": 20.948,
+                    "end": 21.108,
+                    "score": 0.69
+                },
+                {
+                    "word": "the",
+                    "start": 21.348,
+                    "end": 21.468,
+                    "score": 0.696
+                },
+                {
+                    "word": "limelight",
+                    "start": 21.528,
+                    "end": 22.149,
+                    "score": 0.951
+                },
+                {
+                    "word": "disco",
+                    "start": 22.169,
+                    "end": 22.569,
+                    "score": 0.854
+                },
+                {
+                    "word": "is",
+                    "start": 22.589,
+                    "end": 22.729,
+                    "score": 0.66
+                },
+                {
+                    "word": "just",
+                    "start": 22.769,
+                    "end": 22.95,
+                    "score": 0.909
+                },
+                {
+                    "word": "at",
+                    "start": 23.17,
+                    "end": 23.23,
+                    "score": 0.942
+                },
+                {
+                    "word": "the",
+                    "start": 23.27,
+                    "end": 23.35,
+                    "score": 0.798
+                },
+                {
+                    "word": "right",
+                    "start": 23.41,
+                    "end": 23.65,
+                    "score": 0.756
+                },
+                {
+                    "word": "hand",
+                    "start": 23.71,
+                    "end": 23.95,
+                    "score": 0.796
+                },
+                {
+                    "word": "side.",
+                    "start": 24.031,
+                    "end": 24.351,
+                    "score": 0.936
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Right",
+            "start": 1.11,
+            "end": 1.39,
+            "score": 0.75
+        },
+        {
+            "word": "now",
+            "start": 1.47,
+            "end": 1.65,
+            "score": 0.843
+        },
+        {
+            "word": "you're",
+            "start": 1.711,
+            "end": 1.971,
+            "score": 0.8
+        },
+        {
+            "word": "at",
+            "start": 2.051,
+            "end": 2.171,
+            "score": 0.633
+        },
+        {
+            "word": "the",
+            "start": 2.251,
+            "end": 2.351,
+            "score": 0.906
+        },
+        {
+            "word": "Franklin",
+            "start": 2.411,
+            "end": 2.852,
+            "score": 0.818
+        },
+        {
+            "word": "Hotel,",
+            "start": 2.912,
+            "end": 3.372,
+            "score": 0.757
+        },
+        {
+            "word": "so",
+            "start": 3.612,
+            "end": 3.913,
+            "score": 0.917
+        },
+        {
+            "word": "you",
+            "start": 4.213,
+            "end": 4.533,
+            "score": 0.887
+        },
+        {
+            "word": "turn",
+            "start": 5.294,
+            "end": 5.574,
+            "score": 0.863
+        },
+        {
+            "word": "to",
+            "start": 5.654,
+            "end": 5.854,
+            "score": 0.93
+        },
+        {
+            "word": "the",
+            "start": 5.894,
+            "end": 6.034,
+            "score": 0.874
+        },
+        {
+            "word": "east",
+            "start": 6.195,
+            "end": 6.355,
+            "score": 0.568
+        },
+        {
+            "word": "direction",
+            "start": 6.395,
+            "end": 7.015,
+            "score": 0.92
+        },
+        {
+            "word": "and",
+            "start": 7.135,
+            "end": 7.235,
+            "score": 0.813
+        },
+        {
+            "word": "walk",
+            "start": 7.316,
+            "end": 7.576,
+            "score": 0.985
+        },
+        {
+            "word": "one",
+            "start": 7.716,
+            "end": 7.836,
+            "score": 0.85
+        },
+        {
+            "word": "block",
+            "start": 7.856,
+            "end": 8.136,
+            "score": 0.909
+        },
+        {
+            "word": "to",
+            "start": 8.176,
+            "end": 8.377,
+            "score": 0.818
+        },
+        {
+            "word": "the",
+            "start": 8.397,
+            "end": 8.497,
+            "score": 0.669
+        },
+        {
+            "word": "Kingdom",
+            "start": 8.557,
+            "end": 9.137,
+            "score": 0.931
+        },
+        {
+            "word": "Avenue",
+            "start": 9.297,
+            "end": 9.658,
+            "score": 0.785
+        },
+        {
+            "word": "and",
+            "start": 10.318,
+            "end": 10.418,
+            "score": 0.835
+        },
+        {
+            "word": "then",
+            "start": 10.458,
+            "end": 10.639,
+            "score": 0.918
+        },
+        {
+            "word": "turn",
+            "start": 10.719,
+            "end": 11.019,
+            "score": 0.86
+        },
+        {
+            "word": "south",
+            "start": 11.119,
+            "end": 11.459,
+            "score": 0.942
+        },
+        {
+            "word": "to",
+            "start": 12.0,
+            "end": 12.24,
+            "score": 0.882
+        },
+        {
+            "word": "walk",
+            "start": 12.3,
+            "end": 12.76,
+            "score": 0.879
+        },
+        {
+            "word": "another",
+            "start": 12.901,
+            "end": 13.181,
+            "score": 0.813
+        },
+        {
+            "word": "block",
+            "start": 13.221,
+            "end": 13.521,
+            "score": 0.752
+        },
+        {
+            "word": "to",
+            "start": 13.581,
+            "end": 13.741,
+            "score": 0.764
+        },
+        {
+            "word": "the",
+            "start": 13.761,
+            "end": 13.841,
+            "score": 0.828
+        },
+        {
+            "word": "Church",
+            "start": 13.881,
+            "end": 14.162,
+            "score": 0.823
+        },
+        {
+            "word": "Street.",
+            "start": 14.242,
+            "end": 14.622,
+            "score": 0.735
+        },
+        {
+            "word": "Now",
+            "start": 15.423,
+            "end": 15.643,
+            "score": 0.835
+        },
+        {
+            "word": "if",
+            "start": 15.843,
+            "end": 15.923,
+            "score": 0.982
+        },
+        {
+            "word": "you",
+            "start": 15.963,
+            "end": 16.063,
+            "score": 0.885
+        },
+        {
+            "word": "are",
+            "start": 16.103,
+            "end": 16.204,
+            "score": 0.424
+        },
+        {
+            "word": "on",
+            "start": 16.224,
+            "end": 16.304,
+            "score": 0.669
+        },
+        {
+            "word": "the",
+            "start": 16.324,
+            "end": 16.384,
+            "score": 0.987
+        },
+        {
+            "word": "Church",
+            "start": 16.424,
+            "end": 16.684,
+            "score": 0.726
+        },
+        {
+            "word": "Street,",
+            "start": 16.724,
+            "end": 17.044,
+            "score": 0.813
+        },
+        {
+            "word": "just",
+            "start": 17.124,
+            "end": 17.325,
+            "score": 0.81
+        },
+        {
+            "word": "walk",
+            "start": 17.405,
+            "end": 17.605,
+            "score": 0.991
+        },
+        {
+            "word": "straight",
+            "start": 17.685,
+            "end": 18.085,
+            "score": 0.653
+        },
+        {
+            "word": "for",
+            "start": 19.306,
+            "end": 19.527,
+            "score": 0.802
+        },
+        {
+            "word": "three",
+            "start": 19.587,
+            "end": 19.807,
+            "score": 0.929
+        },
+        {
+            "word": "blocks",
+            "start": 19.847,
+            "end": 20.207,
+            "score": 0.878
+        },
+        {
+            "word": "and",
+            "start": 20.948,
+            "end": 21.108,
+            "score": 0.69
+        },
+        {
+            "word": "the",
+            "start": 21.348,
+            "end": 21.468,
+            "score": 0.696
+        },
+        {
+            "word": "limelight",
+            "start": 21.528,
+            "end": 22.149,
+            "score": 0.951
+        },
+        {
+            "word": "disco",
+            "start": 22.169,
+            "end": 22.569,
+            "score": 0.854
+        },
+        {
+            "word": "is",
+            "start": 22.589,
+            "end": 22.729,
+            "score": 0.66
+        },
+        {
+            "word": "just",
+            "start": 22.769,
+            "end": 22.95,
+            "score": 0.909
+        },
+        {
+            "word": "at",
+            "start": 23.17,
+            "end": 23.23,
+            "score": 0.942
+        },
+        {
+            "word": "the",
+            "start": 23.27,
+            "end": 23.35,
+            "score": 0.798
+        },
+        {
+            "word": "right",
+            "start": 23.41,
+            "end": 23.65,
+            "score": 0.756
+        },
+        {
+            "word": "hand",
+            "start": 23.71,
+            "end": 23.95,
+            "score": 0.796
+        },
+        {
+            "word": "side.",
+            "start": 24.031,
+            "end": 24.351,
+            "score": 0.936
+        }
+    ]
+}

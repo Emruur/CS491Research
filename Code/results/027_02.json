@@ -1,0 +1,476 @@
+{
+    "segments": [
+        {
+            "start": 3.891,
+            "end": 12.436,
+            "text": " I want to go to the south of Chile, the Patagonia is the most austral territory in all world.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 3.891,
+                    "end": 3.951,
+                    "score": 0.671
+                },
+                {
+                    "word": "want",
+                    "start": 3.991,
+                    "end": 4.171,
+                    "score": 0.561
+                },
+                {
+                    "word": "to",
+                    "start": 4.231,
+                    "end": 4.352,
+                    "score": 0.978
+                },
+                {
+                    "word": "go",
+                    "start": 4.412,
+                    "end": 4.612,
+                    "score": 0.983
+                },
+                {
+                    "word": "to",
+                    "start": 4.692,
+                    "end": 5.032,
+                    "score": 0.932
+                },
+                {
+                    "word": "the",
+                    "start": 5.212,
+                    "end": 5.372,
+                    "score": 0.804
+                },
+                {
+                    "word": "south",
+                    "start": 5.492,
+                    "end": 5.832,
+                    "score": 0.651
+                },
+                {
+                    "word": "of",
+                    "start": 5.912,
+                    "end": 6.012,
+                    "score": 0.858
+                },
+                {
+                    "word": "Chile,",
+                    "start": 6.113,
+                    "end": 6.473,
+                    "score": 0.86
+                },
+                {
+                    "word": "the",
+                    "start": 7.313,
+                    "end": 7.413,
+                    "score": 0.978
+                },
+                {
+                    "word": "Patagonia",
+                    "start": 7.473,
+                    "end": 8.154,
+                    "score": 0.958
+                },
+                {
+                    "word": "is",
+                    "start": 8.494,
+                    "end": 8.614,
+                    "score": 0.895
+                },
+                {
+                    "word": "the",
+                    "start": 8.714,
+                    "end": 8.994,
+                    "score": 0.867
+                },
+                {
+                    "word": "most",
+                    "start": 9.254,
+                    "end": 9.575,
+                    "score": 0.95
+                },
+                {
+                    "word": "austral",
+                    "start": 9.895,
+                    "end": 10.535,
+                    "score": 0.767
+                },
+                {
+                    "word": "territory",
+                    "start": 10.735,
+                    "end": 11.416,
+                    "score": 0.803
+                },
+                {
+                    "word": "in",
+                    "start": 11.576,
+                    "end": 11.696,
+                    "score": 0.89
+                },
+                {
+                    "word": "all",
+                    "start": 11.916,
+                    "end": 12.076,
+                    "score": 0.676
+                },
+                {
+                    "word": "world.",
+                    "start": 12.136,
+                    "end": 12.436,
+                    "score": 0.371
+                }
+            ]
+        },
+        {
+            "start": 14.437,
+            "end": 26.825,
+            "text": "This place is special because it's so lonely and pretty quiet and it's a place of very difficult access.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 14.437,
+                    "end": 14.658,
+                    "score": 0.965
+                },
+                {
+                    "word": "place",
+                    "start": 14.798,
+                    "end": 15.038,
+                    "score": 0.727
+                },
+                {
+                    "word": "is",
+                    "start": 15.098,
+                    "end": 15.158,
+                    "score": 0.352
+                },
+                {
+                    "word": "special",
+                    "start": 15.178,
+                    "end": 15.618,
+                    "score": 0.759
+                },
+                {
+                    "word": "because",
+                    "start": 15.658,
+                    "end": 16.058,
+                    "score": 0.876
+                },
+                {
+                    "word": "it's",
+                    "start": 16.359,
+                    "end": 16.659,
+                    "score": 0.783
+                },
+                {
+                    "word": "so",
+                    "start": 16.739,
+                    "end": 16.979,
+                    "score": 0.899
+                },
+                {
+                    "word": "lonely",
+                    "start": 17.079,
+                    "end": 17.579,
+                    "score": 0.842
+                },
+                {
+                    "word": "and",
+                    "start": 17.979,
+                    "end": 18.12,
+                    "score": 0.781
+                },
+                {
+                    "word": "pretty",
+                    "start": 18.5,
+                    "end": 18.76,
+                    "score": 0.984
+                },
+                {
+                    "word": "quiet",
+                    "start": 18.88,
+                    "end": 19.34,
+                    "score": 0.933
+                },
+                {
+                    "word": "and",
+                    "start": 20.481,
+                    "end": 21.141,
+                    "score": 0.884
+                },
+                {
+                    "word": "it's",
+                    "start": 22.722,
+                    "end": 24.283,
+                    "score": 0.596
+                },
+                {
+                    "word": "a",
+                    "start": 24.843,
+                    "end": 24.883,
+                    "score": 0.992
+                },
+                {
+                    "word": "place",
+                    "start": 24.944,
+                    "end": 25.184,
+                    "score": 0.948
+                },
+                {
+                    "word": "of",
+                    "start": 25.224,
+                    "end": 25.304,
+                    "score": 0.818
+                },
+                {
+                    "word": "very",
+                    "start": 25.524,
+                    "end": 25.784,
+                    "score": 0.928
+                },
+                {
+                    "word": "difficult",
+                    "start": 25.864,
+                    "end": 26.304,
+                    "score": 0.869
+                },
+                {
+                    "word": "access.",
+                    "start": 26.464,
+                    "end": 26.825,
+                    "score": 0.901
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 3.891,
+            "end": 3.951,
+            "score": 0.671
+        },
+        {
+            "word": "want",
+            "start": 3.991,
+            "end": 4.171,
+            "score": 0.561
+        },
+        {
+            "word": "to",
+            "start": 4.231,
+            "end": 4.352,
+            "score": 0.978
+        },
+        {
+            "word": "go",
+            "start": 4.412,
+            "end": 4.612,
+            "score": 0.983
+        },
+        {
+            "word": "to",
+            "start": 4.692,
+            "end": 5.032,
+            "score": 0.932
+        },
+        {
+            "word": "the",
+            "start": 5.212,
+            "end": 5.372,
+            "score": 0.804
+        },
+        {
+            "word": "south",
+            "start": 5.492,
+            "end": 5.832,
+            "score": 0.651
+        },
+        {
+            "word": "of",
+            "start": 5.912,
+            "end": 6.012,
+            "score": 0.858
+        },
+        {
+            "word": "Chile,",
+            "start": 6.113,
+            "end": 6.473,
+            "score": 0.86
+        },
+        {
+            "word": "the",
+            "start": 7.313,
+            "end": 7.413,
+            "score": 0.978
+        },
+        {
+            "word": "Patagonia",
+            "start": 7.473,
+            "end": 8.154,
+            "score": 0.958
+        },
+        {
+            "word": "is",
+            "start": 8.494,
+            "end": 8.614,
+            "score": 0.895
+        },
+        {
+            "word": "the",
+            "start": 8.714,
+            "end": 8.994,
+            "score": 0.867
+        },
+        {
+            "word": "most",
+            "start": 9.254,
+            "end": 9.575,
+            "score": 0.95
+        },
+        {
+            "word": "austral",
+            "start": 9.895,
+            "end": 10.535,
+            "score": 0.767
+        },
+        {
+            "word": "territory",
+            "start": 10.735,
+            "end": 11.416,
+            "score": 0.803
+        },
+        {
+            "word": "in",
+            "start": 11.576,
+            "end": 11.696,
+            "score": 0.89
+        },
+        {
+            "word": "all",
+            "start": 11.916,
+            "end": 12.076,
+            "score": 0.676
+        },
+        {
+            "word": "world.",
+            "start": 12.136,
+            "end": 12.436,
+            "score": 0.371
+        },
+        {
+            "word": "This",
+            "start": 14.437,
+            "end": 14.658,
+            "score": 0.965
+        },
+        {
+            "word": "place",
+            "start": 14.798,
+            "end": 15.038,
+            "score": 0.727
+        },
+        {
+            "word": "is",
+            "start": 15.098,
+            "end": 15.158,
+            "score": 0.352
+        },
+        {
+            "word": "special",
+            "start": 15.178,
+            "end": 15.618,
+            "score": 0.759
+        },
+        {
+            "word": "because",
+            "start": 15.658,
+            "end": 16.058,
+            "score": 0.876
+        },
+        {
+            "word": "it's",
+            "start": 16.359,
+            "end": 16.659,
+            "score": 0.783
+        },
+        {
+            "word": "so",
+            "start": 16.739,
+            "end": 16.979,
+            "score": 0.899
+        },
+        {
+            "word": "lonely",
+            "start": 17.079,
+            "end": 17.579,
+            "score": 0.842
+        },
+        {
+            "word": "and",
+            "start": 17.979,
+            "end": 18.12,
+            "score": 0.781
+        },
+        {
+            "word": "pretty",
+            "start": 18.5,
+            "end": 18.76,
+            "score": 0.984
+        },
+        {
+            "word": "quiet",
+            "start": 18.88,
+            "end": 19.34,
+            "score": 0.933
+        },
+        {
+            "word": "and",
+            "start": 20.481,
+            "end": 21.141,
+            "score": 0.884
+        },
+        {
+            "word": "it's",
+            "start": 22.722,
+            "end": 24.283,
+            "score": 0.596
+        },
+        {
+            "word": "a",
+            "start": 24.843,
+            "end": 24.883,
+            "score": 0.992
+        },
+        {
+            "word": "place",
+            "start": 24.944,
+            "end": 25.184,
+            "score": 0.948
+        },
+        {
+            "word": "of",
+            "start": 25.224,
+            "end": 25.304,
+            "score": 0.818
+        },
+        {
+            "word": "very",
+            "start": 25.524,
+            "end": 25.784,
+            "score": 0.928
+        },
+        {
+            "word": "difficult",
+            "start": 25.864,
+            "end": 26.304,
+            "score": 0.869
+        },
+        {
+            "word": "access.",
+            "start": 26.464,
+            "end": 26.825,
+            "score": 0.901
+        }
+    ]
+}

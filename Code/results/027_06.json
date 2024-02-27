@@ -1,0 +1,819 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 20.3,
+            "text": " Today the number of cars in many cities of the world are very high and this makes a series of different problems for the people that walk in the city.",
+            "words": [
+                {
+                    "word": "Today",
+                    "start": 0.049,
+                    "end": 0.389,
+                    "score": 0.863
+                },
+                {
+                    "word": "the",
+                    "start": 0.429,
+                    "end": 0.709,
+                    "score": 0.162
+                },
+                {
+                    "word": "number",
+                    "start": 0.789,
+                    "end": 1.17,
+                    "score": 0.958
+                },
+                {
+                    "word": "of",
+                    "start": 1.25,
+                    "end": 1.33,
+                    "score": 0.822
+                },
+                {
+                    "word": "cars",
+                    "start": 1.51,
+                    "end": 1.77,
+                    "score": 0.55
+                },
+                {
+                    "word": "in",
+                    "start": 1.97,
+                    "end": 2.11,
+                    "score": 0.986
+                },
+                {
+                    "word": "many",
+                    "start": 2.81,
+                    "end": 3.031,
+                    "score": 0.904
+                },
+                {
+                    "word": "cities",
+                    "start": 3.091,
+                    "end": 3.371,
+                    "score": 0.547
+                },
+                {
+                    "word": "of",
+                    "start": 3.411,
+                    "end": 3.491,
+                    "score": 0.402
+                },
+                {
+                    "word": "the",
+                    "start": 3.531,
+                    "end": 3.591,
+                    "score": 0.015
+                },
+                {
+                    "word": "world",
+                    "start": 3.731,
+                    "end": 3.931,
+                    "score": 0.496
+                },
+                {
+                    "word": "are",
+                    "start": 4.451,
+                    "end": 4.571,
+                    "score": 0.644
+                },
+                {
+                    "word": "very",
+                    "start": 5.732,
+                    "end": 6.012,
+                    "score": 0.952
+                },
+                {
+                    "word": "high",
+                    "start": 6.092,
+                    "end": 6.432,
+                    "score": 0.805
+                },
+                {
+                    "word": "and",
+                    "start": 6.773,
+                    "end": 10.855,
+                    "score": 0.917
+                },
+                {
+                    "word": "this",
+                    "start": 11.975,
+                    "end": 12.175,
+                    "score": 0.744
+                },
+                {
+                    "word": "makes",
+                    "start": 12.215,
+                    "end": 12.376,
+                    "score": 0.449
+                },
+                {
+                    "word": "a",
+                    "start": 12.496,
+                    "end": 12.636,
+                    "score": 0.616
+                },
+                {
+                    "word": "series",
+                    "start": 13.136,
+                    "end": 13.336,
+                    "score": 0.202
+                },
+                {
+                    "word": "of",
+                    "start": 13.416,
+                    "end": 13.516,
+                    "score": 0.455
+                },
+                {
+                    "word": "different",
+                    "start": 13.796,
+                    "end": 14.137,
+                    "score": 0.431
+                },
+                {
+                    "word": "problems",
+                    "start": 14.177,
+                    "end": 14.537,
+                    "score": 0.774
+                },
+                {
+                    "word": "for",
+                    "start": 14.557,
+                    "end": 14.757,
+                    "score": 0.76
+                },
+                {
+                    "word": "the",
+                    "start": 17.138,
+                    "end": 17.258,
+                    "score": 0.839
+                },
+                {
+                    "word": "people",
+                    "start": 17.298,
+                    "end": 17.618,
+                    "score": 0.745
+                },
+                {
+                    "word": "that",
+                    "start": 17.658,
+                    "end": 17.838,
+                    "score": 0.557
+                },
+                {
+                    "word": "walk",
+                    "start": 18.959,
+                    "end": 19.259,
+                    "score": 0.914
+                },
+                {
+                    "word": "in",
+                    "start": 19.479,
+                    "end": 19.599,
+                    "score": 0.958
+                },
+                {
+                    "word": "the",
+                    "start": 19.92,
+                    "end": 20.06,
+                    "score": 0.821
+                },
+                {
+                    "word": "city.",
+                    "start": 20.08,
+                    "end": 20.3,
+                    "score": 0.716
+                }
+            ]
+        },
+        {
+            "start": 27.788,
+            "end": 51.517,
+            "text": " make sense of that in city center that don't have car is a good idea because this will permit that the person who work in the city have a more clean air",
+            "words": [
+                {
+                    "word": "make",
+                    "start": 27.788,
+                    "end": 28.068,
+                    "score": 0.932
+                },
+                {
+                    "word": "sense",
+                    "start": 28.268,
+                    "end": 28.729,
+                    "score": 0.736
+                },
+                {
+                    "word": "of",
+                    "start": 28.909,
+                    "end": 29.009,
+                    "score": 0.876
+                },
+                {
+                    "word": "that",
+                    "start": 29.029,
+                    "end": 30.049,
+                    "score": 0.806
+                },
+                {
+                    "word": "in",
+                    "start": 30.89,
+                    "end": 31.03,
+                    "score": 0.262
+                },
+                {
+                    "word": "city",
+                    "start": 31.33,
+                    "end": 31.59,
+                    "score": 0.749
+                },
+                {
+                    "word": "center",
+                    "start": 31.63,
+                    "end": 31.99,
+                    "score": 0.839
+                },
+                {
+                    "word": "that",
+                    "start": 32.01,
+                    "end": 32.17,
+                    "score": 0.495
+                },
+                {
+                    "word": "don't",
+                    "start": 32.25,
+                    "end": 32.43,
+                    "score": 0.289
+                },
+                {
+                    "word": "have",
+                    "start": 32.49,
+                    "end": 32.73,
+                    "score": 0.577
+                },
+                {
+                    "word": "car",
+                    "start": 32.79,
+                    "end": 32.99,
+                    "score": 0.653
+                },
+                {
+                    "word": "is",
+                    "start": 33.811,
+                    "end": 33.951,
+                    "score": 0.797
+                },
+                {
+                    "word": "a",
+                    "start": 34.071,
+                    "end": 34.191,
+                    "score": 0.569
+                },
+                {
+                    "word": "good",
+                    "start": 34.271,
+                    "end": 34.511,
+                    "score": 0.826
+                },
+                {
+                    "word": "idea",
+                    "start": 34.991,
+                    "end": 35.271,
+                    "score": 0.732
+                },
+                {
+                    "word": "because",
+                    "start": 35.991,
+                    "end": 36.392,
+                    "score": 0.892
+                },
+                {
+                    "word": "this",
+                    "start": 38.432,
+                    "end": 38.612,
+                    "score": 0.85
+                },
+                {
+                    "word": "will",
+                    "start": 39.333,
+                    "end": 39.593,
+                    "score": 0.803
+                },
+                {
+                    "word": "permit",
+                    "start": 40.133,
+                    "end": 40.673,
+                    "score": 0.923
+                },
+                {
+                    "word": "that",
+                    "start": 40.853,
+                    "end": 41.173,
+                    "score": 0.906
+                },
+                {
+                    "word": "the",
+                    "start": 41.414,
+                    "end": 41.554,
+                    "score": 0.952
+                },
+                {
+                    "word": "person",
+                    "start": 41.854,
+                    "end": 42.214,
+                    "score": 0.953
+                },
+                {
+                    "word": "who",
+                    "start": 42.234,
+                    "end": 42.474,
+                    "score": 0.761
+                },
+                {
+                    "word": "work",
+                    "start": 42.534,
+                    "end": 42.874,
+                    "score": 0.691
+                },
+                {
+                    "word": "in",
+                    "start": 43.314,
+                    "end": 43.414,
+                    "score": 0.9
+                },
+                {
+                    "word": "the",
+                    "start": 43.454,
+                    "end": 43.734,
+                    "score": 0.869
+                },
+                {
+                    "word": "city",
+                    "start": 43.835,
+                    "end": 44.175,
+                    "score": 0.961
+                },
+                {
+                    "word": "have",
+                    "start": 47.596,
+                    "end": 47.796,
+                    "score": 0.668
+                },
+                {
+                    "word": "a",
+                    "start": 47.896,
+                    "end": 48.036,
+                    "score": 0.543
+                },
+                {
+                    "word": "more",
+                    "start": 48.836,
+                    "end": 49.257,
+                    "score": 0.849
+                },
+                {
+                    "word": "clean",
+                    "start": 50.717,
+                    "end": 51.077,
+                    "score": 0.883
+                },
+                {
+                    "word": "air",
+                    "start": 51.397,
+                    "end": 51.517,
+                    "score": 0.692
+                }
+            ]
+        },
+        {
+            "start": 55.35,
+            "end": 56.957,
+            "text": " and more quiet environment",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 55.35,
+                    "end": 55.471,
+                    "score": 0.551
+                },
+                {
+                    "word": "more",
+                    "start": 55.591,
+                    "end": 55.852,
+                    "score": 0.936
+                },
+                {
+                    "word": "quiet",
+                    "start": 56.013,
+                    "end": 56.374,
+                    "score": 0.985
+                },
+                {
+                    "word": "environment",
+                    "start": 56.455,
+                    "end": 56.957,
+                    "score": 0.787
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Today",
+            "start": 0.049,
+            "end": 0.389,
+            "score": 0.863
+        },
+        {
+            "word": "the",
+            "start": 0.429,
+            "end": 0.709,
+            "score": 0.162
+        },
+        {
+            "word": "number",
+            "start": 0.789,
+            "end": 1.17,
+            "score": 0.958
+        },
+        {
+            "word": "of",
+            "start": 1.25,
+            "end": 1.33,
+            "score": 0.822
+        },
+        {
+            "word": "cars",
+            "start": 1.51,
+            "end": 1.77,
+            "score": 0.55
+        },
+        {
+            "word": "in",
+            "start": 1.97,
+            "end": 2.11,
+            "score": 0.986
+        },
+        {
+            "word": "many",
+            "start": 2.81,
+            "end": 3.031,
+            "score": 0.904
+        },
+        {
+            "word": "cities",
+            "start": 3.091,
+            "end": 3.371,
+            "score": 0.547
+        },
+        {
+            "word": "of",
+            "start": 3.411,
+            "end": 3.491,
+            "score": 0.402
+        },
+        {
+            "word": "the",
+            "start": 3.531,
+            "end": 3.591,
+            "score": 0.015
+        },
+        {
+            "word": "world",
+            "start": 3.731,
+            "end": 3.931,
+            "score": 0.496
+        },
+        {
+            "word": "are",
+            "start": 4.451,
+            "end": 4.571,
+            "score": 0.644
+        },
+        {
+            "word": "very",
+            "start": 5.732,
+            "end": 6.012,
+            "score": 0.952
+        },
+        {
+            "word": "high",
+            "start": 6.092,
+            "end": 6.432,
+            "score": 0.805
+        },
+        {
+            "word": "and",
+            "start": 6.773,
+            "end": 10.855,
+            "score": 0.917
+        },
+        {
+            "word": "this",
+            "start": 11.975,
+            "end": 12.175,
+            "score": 0.744
+        },
+        {
+            "word": "makes",
+            "start": 12.215,
+            "end": 12.376,
+            "score": 0.449
+        },
+        {
+            "word": "a",
+            "start": 12.496,
+            "end": 12.636,
+            "score": 0.616
+        },
+        {
+            "word": "series",
+            "start": 13.136,
+            "end": 13.336,
+            "score": 0.202
+        },
+        {
+            "word": "of",
+            "start": 13.416,
+            "end": 13.516,
+            "score": 0.455
+        },
+        {
+            "word": "different",
+            "start": 13.796,
+            "end": 14.137,
+            "score": 0.431
+        },
+        {
+            "word": "problems",
+            "start": 14.177,
+            "end": 14.537,
+            "score": 0.774
+        },
+        {
+            "word": "for",
+            "start": 14.557,
+            "end": 14.757,
+            "score": 0.76
+        },
+        {
+            "word": "the",
+            "start": 17.138,
+            "end": 17.258,
+            "score": 0.839
+        },
+        {
+            "word": "people",
+            "start": 17.298,
+            "end": 17.618,
+            "score": 0.745
+        },
+        {
+            "word": "that",
+            "start": 17.658,
+            "end": 17.838,
+            "score": 0.557
+        },
+        {
+            "word": "walk",
+            "start": 18.959,
+            "end": 19.259,
+            "score": 0.914
+        },
+        {
+            "word": "in",
+            "start": 19.479,
+            "end": 19.599,
+            "score": 0.958
+        },
+        {
+            "word": "the",
+            "start": 19.92,
+            "end": 20.06,
+            "score": 0.821
+        },
+        {
+            "word": "city.",
+            "start": 20.08,
+            "end": 20.3,
+            "score": 0.716
+        },
+        {
+            "word": "make",
+            "start": 27.788,
+            "end": 28.068,
+            "score": 0.932
+        },
+        {
+            "word": "sense",
+            "start": 28.268,
+            "end": 28.729,
+            "score": 0.736
+        },
+        {
+            "word": "of",
+            "start": 28.909,
+            "end": 29.009,
+            "score": 0.876
+        },
+        {
+            "word": "that",
+            "start": 29.029,
+            "end": 30.049,
+            "score": 0.806
+        },
+        {
+            "word": "in",
+            "start": 30.89,
+            "end": 31.03,
+            "score": 0.262
+        },
+        {
+            "word": "city",
+            "start": 31.33,
+            "end": 31.59,
+            "score": 0.749
+        },
+        {
+            "word": "center",
+            "start": 31.63,
+            "end": 31.99,
+            "score": 0.839
+        },
+        {
+            "word": "that",
+            "start": 32.01,
+            "end": 32.17,
+            "score": 0.495
+        },
+        {
+            "word": "don't",
+            "start": 32.25,
+            "end": 32.43,
+            "score": 0.289
+        },
+        {
+            "word": "have",
+            "start": 32.49,
+            "end": 32.73,
+            "score": 0.577
+        },
+        {
+            "word": "car",
+            "start": 32.79,
+            "end": 32.99,
+            "score": 0.653
+        },
+        {
+            "word": "is",
+            "start": 33.811,
+            "end": 33.951,
+            "score": 0.797
+        },
+        {
+            "word": "a",
+            "start": 34.071,
+            "end": 34.191,
+            "score": 0.569
+        },
+        {
+            "word": "good",
+            "start": 34.271,
+            "end": 34.511,
+            "score": 0.826
+        },
+        {
+            "word": "idea",
+            "start": 34.991,
+            "end": 35.271,
+            "score": 0.732
+        },
+        {
+            "word": "because",
+            "start": 35.991,
+            "end": 36.392,
+            "score": 0.892
+        },
+        {
+            "word": "this",
+            "start": 38.432,
+            "end": 38.612,
+            "score": 0.85
+        },
+        {
+            "word": "will",
+            "start": 39.333,
+            "end": 39.593,
+            "score": 0.803
+        },
+        {
+            "word": "permit",
+            "start": 40.133,
+            "end": 40.673,
+            "score": 0.923
+        },
+        {
+            "word": "that",
+            "start": 40.853,
+            "end": 41.173,
+            "score": 0.906
+        },
+        {
+            "word": "the",
+            "start": 41.414,
+            "end": 41.554,
+            "score": 0.952
+        },
+        {
+            "word": "person",
+            "start": 41.854,
+            "end": 42.214,
+            "score": 0.953
+        },
+        {
+            "word": "who",
+            "start": 42.234,
+            "end": 42.474,
+            "score": 0.761
+        },
+        {
+            "word": "work",
+            "start": 42.534,
+            "end": 42.874,
+            "score": 0.691
+        },
+        {
+            "word": "in",
+            "start": 43.314,
+            "end": 43.414,
+            "score": 0.9
+        },
+        {
+            "word": "the",
+            "start": 43.454,
+            "end": 43.734,
+            "score": 0.869
+        },
+        {
+            "word": "city",
+            "start": 43.835,
+            "end": 44.175,
+            "score": 0.961
+        },
+        {
+            "word": "have",
+            "start": 47.596,
+            "end": 47.796,
+            "score": 0.668
+        },
+        {
+            "word": "a",
+            "start": 47.896,
+            "end": 48.036,
+            "score": 0.543
+        },
+        {
+            "word": "more",
+            "start": 48.836,
+            "end": 49.257,
+            "score": 0.849
+        },
+        {
+            "word": "clean",
+            "start": 50.717,
+            "end": 51.077,
+            "score": 0.883
+        },
+        {
+            "word": "air",
+            "start": 51.397,
+            "end": 51.517,
+            "score": 0.692
+        },
+        {
+            "word": "and",
+            "start": 55.35,
+            "end": 55.471,
+            "score": 0.551
+        },
+        {
+            "word": "more",
+            "start": 55.591,
+            "end": 55.852,
+            "score": 0.936
+        },
+        {
+            "word": "quiet",
+            "start": 56.013,
+            "end": 56.374,
+            "score": 0.985
+        },
+        {
+            "word": "environment",
+            "start": 56.455,
+            "end": 56.957,
+            "score": 0.787
+        }
+    ]
+}

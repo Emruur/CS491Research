@@ -1,0 +1,1277 @@
+{
+    "segments": [
+        {
+            "start": 0.029,
+            "end": 5.472,
+            "text": " Well, some no-car zones in the city area will not be a bad idea.",
+            "words": [
+                {
+                    "word": "Well,",
+                    "start": 0.029,
+                    "end": 0.389,
+                    "score": 0.925
+                },
+                {
+                    "word": "some",
+                    "start": 1.09,
+                    "end": 1.35,
+                    "score": 0.903
+                },
+                {
+                    "word": "no-car",
+                    "start": 1.39,
+                    "end": 1.95,
+                    "score": 0.785
+                },
+                {
+                    "word": "zones",
+                    "start": 2.03,
+                    "end": 2.43,
+                    "score": 0.824
+                },
+                {
+                    "word": "in",
+                    "start": 2.551,
+                    "end": 2.651,
+                    "score": 0.758
+                },
+                {
+                    "word": "the",
+                    "start": 2.711,
+                    "end": 2.831,
+                    "score": 0.905
+                },
+                {
+                    "word": "city",
+                    "start": 2.911,
+                    "end": 3.231,
+                    "score": 0.98
+                },
+                {
+                    "word": "area",
+                    "start": 3.371,
+                    "end": 3.711,
+                    "score": 0.775
+                },
+                {
+                    "word": "will",
+                    "start": 3.791,
+                    "end": 4.011,
+                    "score": 0.905
+                },
+                {
+                    "word": "not",
+                    "start": 4.091,
+                    "end": 4.272,
+                    "score": 0.887
+                },
+                {
+                    "word": "be",
+                    "start": 4.352,
+                    "end": 4.492,
+                    "score": 0.863
+                },
+                {
+                    "word": "a",
+                    "start": 4.552,
+                    "end": 4.592,
+                    "score": 0.509
+                },
+                {
+                    "word": "bad",
+                    "start": 4.652,
+                    "end": 4.892,
+                    "score": 0.885
+                },
+                {
+                    "word": "idea.",
+                    "start": 4.972,
+                    "end": 5.472,
+                    "score": 0.831
+                }
+            ]
+        },
+        {
+            "start": 7.073,
+            "end": 18.4,
+            "text": "If there are so many no-car zones that people cannot comfortably move inside the city, then it's not a bad idea.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 7.073,
+                    "end": 8.794,
+                    "score": 0.842
+                },
+                {
+                    "word": "there",
+                    "start": 9.295,
+                    "end": 9.475,
+                    "score": 0.907
+                },
+                {
+                    "word": "are",
+                    "start": 9.515,
+                    "end": 9.635,
+                    "score": 0.655
+                },
+                {
+                    "word": "so",
+                    "start": 9.735,
+                    "end": 9.915,
+                    "score": 0.911
+                },
+                {
+                    "word": "many",
+                    "start": 9.975,
+                    "end": 10.175,
+                    "score": 0.859
+                },
+                {
+                    "word": "no-car",
+                    "start": 10.235,
+                    "end": 10.675,
+                    "score": 0.836
+                },
+                {
+                    "word": "zones",
+                    "start": 10.736,
+                    "end": 11.096,
+                    "score": 0.811
+                },
+                {
+                    "word": "that",
+                    "start": 11.736,
+                    "end": 11.956,
+                    "score": 0.956
+                },
+                {
+                    "word": "people",
+                    "start": 12.356,
+                    "end": 12.817,
+                    "score": 0.908
+                },
+                {
+                    "word": "cannot",
+                    "start": 14.378,
+                    "end": 14.798,
+                    "score": 0.944
+                },
+                {
+                    "word": "comfortably",
+                    "start": 15.118,
+                    "end": 15.719,
+                    "score": 0.952
+                },
+                {
+                    "word": "move",
+                    "start": 15.799,
+                    "end": 16.019,
+                    "score": 0.879
+                },
+                {
+                    "word": "inside",
+                    "start": 16.059,
+                    "end": 16.399,
+                    "score": 0.839
+                },
+                {
+                    "word": "the",
+                    "start": 16.439,
+                    "end": 16.519,
+                    "score": 0.476
+                },
+                {
+                    "word": "city,",
+                    "start": 16.559,
+                    "end": 16.899,
+                    "score": 0.874
+                },
+                {
+                    "word": "then",
+                    "start": 17.119,
+                    "end": 17.299,
+                    "score": 0.913
+                },
+                {
+                    "word": "it's",
+                    "start": 17.36,
+                    "end": 17.52,
+                    "score": 0.864
+                },
+                {
+                    "word": "not",
+                    "start": 17.56,
+                    "end": 17.7,
+                    "score": 0.897
+                },
+                {
+                    "word": "a",
+                    "start": 17.74,
+                    "end": 17.76,
+                    "score": 0.995
+                },
+                {
+                    "word": "bad",
+                    "start": 17.8,
+                    "end": 17.96,
+                    "score": 0.992
+                },
+                {
+                    "word": "idea.",
+                    "start": 18.04,
+                    "end": 18.4,
+                    "score": 0.898
+                }
+            ]
+        },
+        {
+            "start": 18.54,
+            "end": 24.924,
+            "text": "But if there are so many no-car zones, that may be a problem in this busy time.",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 18.54,
+                    "end": 18.82,
+                    "score": 0.893
+                },
+                {
+                    "word": "if",
+                    "start": 19.881,
+                    "end": 19.981,
+                    "score": 0.998
+                },
+                {
+                    "word": "there",
+                    "start": 20.521,
+                    "end": 20.702,
+                    "score": 0.839
+                },
+                {
+                    "word": "are",
+                    "start": 20.762,
+                    "end": 20.862,
+                    "score": 0.747
+                },
+                {
+                    "word": "so",
+                    "start": 20.922,
+                    "end": 21.082,
+                    "score": 0.948
+                },
+                {
+                    "word": "many",
+                    "start": 21.122,
+                    "end": 21.302,
+                    "score": 0.805
+                },
+                {
+                    "word": "no-car",
+                    "start": 21.362,
+                    "end": 21.802,
+                    "score": 0.842
+                },
+                {
+                    "word": "zones,",
+                    "start": 21.842,
+                    "end": 22.263,
+                    "score": 0.749
+                },
+                {
+                    "word": "that",
+                    "start": 22.323,
+                    "end": 22.483,
+                    "score": 0.821
+                },
+                {
+                    "word": "may",
+                    "start": 22.543,
+                    "end": 22.703,
+                    "score": 0.929
+                },
+                {
+                    "word": "be",
+                    "start": 22.723,
+                    "end": 22.843,
+                    "score": 0.838
+                },
+                {
+                    "word": "a",
+                    "start": 22.883,
+                    "end": 22.923,
+                    "score": 0.499
+                },
+                {
+                    "word": "problem",
+                    "start": 23.003,
+                    "end": 23.523,
+                    "score": 0.899
+                },
+                {
+                    "word": "in",
+                    "start": 23.583,
+                    "end": 23.643,
+                    "score": 0.956
+                },
+                {
+                    "word": "this",
+                    "start": 23.683,
+                    "end": 23.823,
+                    "score": 0.795
+                },
+                {
+                    "word": "busy",
+                    "start": 23.944,
+                    "end": 24.444,
+                    "score": 0.951
+                },
+                {
+                    "word": "time.",
+                    "start": 24.464,
+                    "end": 24.924,
+                    "score": 0.358
+                }
+            ]
+        },
+        {
+            "start": 30.067,
+            "end": 50.535,
+            "text": " So, I think the more practical way to reduce the pollution caused by the number of cars is to facilitate making environment-friendly cars such as the electronic cars so that people can use those cars.",
+            "words": [
+                {
+                    "word": "So,",
+                    "start": 30.067,
+                    "end": 30.487,
+                    "score": 0.922
+                },
+                {
+                    "word": "I",
+                    "start": 31.208,
+                    "end": 31.268,
+                    "score": 0.995
+                },
+                {
+                    "word": "think",
+                    "start": 31.308,
+                    "end": 31.528,
+                    "score": 0.916
+                },
+                {
+                    "word": "the",
+                    "start": 31.648,
+                    "end": 31.988,
+                    "score": 0.938
+                },
+                {
+                    "word": "more",
+                    "start": 32.268,
+                    "end": 32.588,
+                    "score": 0.705
+                },
+                {
+                    "word": "practical",
+                    "start": 32.928,
+                    "end": 33.648,
+                    "score": 0.943
+                },
+                {
+                    "word": "way",
+                    "start": 33.809,
+                    "end": 34.169,
+                    "score": 0.785
+                },
+                {
+                    "word": "to",
+                    "start": 34.289,
+                    "end": 34.569,
+                    "score": 0.834
+                },
+                {
+                    "word": "reduce",
+                    "start": 34.709,
+                    "end": 35.089,
+                    "score": 0.924
+                },
+                {
+                    "word": "the",
+                    "start": 35.149,
+                    "end": 35.249,
+                    "score": 0.948
+                },
+                {
+                    "word": "pollution",
+                    "start": 35.309,
+                    "end": 35.889,
+                    "score": 0.835
+                },
+                {
+                    "word": "caused",
+                    "start": 36.65,
+                    "end": 36.97,
+                    "score": 0.986
+                },
+                {
+                    "word": "by",
+                    "start": 37.07,
+                    "end": 37.31,
+                    "score": 0.802
+                },
+                {
+                    "word": "the",
+                    "start": 37.39,
+                    "end": 37.65,
+                    "score": 0.891
+                },
+                {
+                    "word": "number",
+                    "start": 38.09,
+                    "end": 38.35,
+                    "score": 0.914
+                },
+                {
+                    "word": "of",
+                    "start": 38.39,
+                    "end": 38.45,
+                    "score": 0.75
+                },
+                {
+                    "word": "cars",
+                    "start": 38.57,
+                    "end": 38.97,
+                    "score": 0.771
+                },
+                {
+                    "word": "is",
+                    "start": 39.531,
+                    "end": 39.671,
+                    "score": 0.94
+                },
+                {
+                    "word": "to",
+                    "start": 39.791,
+                    "end": 40.071,
+                    "score": 0.924
+                },
+                {
+                    "word": "facilitate",
+                    "start": 40.371,
+                    "end": 41.231,
+                    "score": 0.91
+                },
+                {
+                    "word": "making",
+                    "start": 41.531,
+                    "end": 42.032,
+                    "score": 0.851
+                },
+                {
+                    "word": "environment-friendly",
+                    "start": 42.592,
+                    "end": 44.092,
+                    "score": 0.876
+                },
+                {
+                    "word": "cars",
+                    "start": 44.192,
+                    "end": 44.593,
+                    "score": 0.724
+                },
+                {
+                    "word": "such",
+                    "start": 44.993,
+                    "end": 45.213,
+                    "score": 0.795
+                },
+                {
+                    "word": "as",
+                    "start": 45.373,
+                    "end": 45.513,
+                    "score": 0.704
+                },
+                {
+                    "word": "the",
+                    "start": 45.633,
+                    "end": 45.833,
+                    "score": 0.801
+                },
+                {
+                    "word": "electronic",
+                    "start": 46.033,
+                    "end": 46.593,
+                    "score": 0.887
+                },
+                {
+                    "word": "cars",
+                    "start": 46.653,
+                    "end": 47.073,
+                    "score": 0.823
+                },
+                {
+                    "word": "so",
+                    "start": 47.854,
+                    "end": 48.214,
+                    "score": 0.92
+                },
+                {
+                    "word": "that",
+                    "start": 48.314,
+                    "end": 48.614,
+                    "score": 0.629
+                },
+                {
+                    "word": "people",
+                    "start": 48.974,
+                    "end": 49.274,
+                    "score": 0.808
+                },
+                {
+                    "word": "can",
+                    "start": 49.314,
+                    "end": 49.454,
+                    "score": 1.0
+                },
+                {
+                    "word": "use",
+                    "start": 49.574,
+                    "end": 49.714,
+                    "score": 0.595
+                },
+                {
+                    "word": "those",
+                    "start": 49.774,
+                    "end": 50.095,
+                    "score": 0.78
+                },
+                {
+                    "word": "cars.",
+                    "start": 50.175,
+                    "end": 50.535,
+                    "score": 0.837
+                }
+            ]
+        },
+        {
+            "start": 54.076,
+            "end": 61.189,
+            "text": " By facilitating making those cars and using those cars, the government officers can solve the problem.",
+            "words": [
+                {
+                    "word": "By",
+                    "start": 54.076,
+                    "end": 54.818,
+                    "score": 0.88
+                },
+                {
+                    "word": "facilitating",
+                    "start": 55.519,
+                    "end": 56.24,
+                    "score": 0.95
+                },
+                {
+                    "word": "making",
+                    "start": 56.28,
+                    "end": 56.581,
+                    "score": 0.912
+                },
+                {
+                    "word": "those",
+                    "start": 56.641,
+                    "end": 56.861,
+                    "score": 0.706
+                },
+                {
+                    "word": "cars",
+                    "start": 56.942,
+                    "end": 57.202,
+                    "score": 0.739
+                },
+                {
+                    "word": "and",
+                    "start": 57.262,
+                    "end": 57.342,
+                    "score": 0.531
+                },
+                {
+                    "word": "using",
+                    "start": 57.443,
+                    "end": 57.643,
+                    "score": 0.917
+                },
+                {
+                    "word": "those",
+                    "start": 57.703,
+                    "end": 57.943,
+                    "score": 0.743
+                },
+                {
+                    "word": "cars,",
+                    "start": 58.024,
+                    "end": 58.444,
+                    "score": 0.66
+                },
+                {
+                    "word": "the",
+                    "start": 58.585,
+                    "end": 58.785,
+                    "score": 0.808
+                },
+                {
+                    "word": "government",
+                    "start": 59.065,
+                    "end": 59.486,
+                    "score": 0.75
+                },
+                {
+                    "word": "officers",
+                    "start": 59.526,
+                    "end": 60.007,
+                    "score": 0.881
+                },
+                {
+                    "word": "can",
+                    "start": 60.107,
+                    "end": 60.268,
+                    "score": 0.944
+                },
+                {
+                    "word": "solve",
+                    "start": 60.328,
+                    "end": 60.588,
+                    "score": 0.828
+                },
+                {
+                    "word": "the",
+                    "start": 60.628,
+                    "end": 60.729,
+                    "score": 0.887
+                },
+                {
+                    "word": "problem.",
+                    "start": 60.789,
+                    "end": 61.189,
+                    "score": 0.861
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Well,",
+            "start": 0.029,
+            "end": 0.389,
+            "score": 0.925
+        },
+        {
+            "word": "some",
+            "start": 1.09,
+            "end": 1.35,
+            "score": 0.903
+        },
+        {
+            "word": "no-car",
+            "start": 1.39,
+            "end": 1.95,
+            "score": 0.785
+        },
+        {
+            "word": "zones",
+            "start": 2.03,
+            "end": 2.43,
+            "score": 0.824
+        },
+        {
+            "word": "in",
+            "start": 2.551,
+            "end": 2.651,
+            "score": 0.758
+        },
+        {
+            "word": "the",
+            "start": 2.711,
+            "end": 2.831,
+            "score": 0.905
+        },
+        {
+            "word": "city",
+            "start": 2.911,
+            "end": 3.231,
+            "score": 0.98
+        },
+        {
+            "word": "area",
+            "start": 3.371,
+            "end": 3.711,
+            "score": 0.775
+        },
+        {
+            "word": "will",
+            "start": 3.791,
+            "end": 4.011,
+            "score": 0.905
+        },
+        {
+            "word": "not",
+            "start": 4.091,
+            "end": 4.272,
+            "score": 0.887
+        },
+        {
+            "word": "be",
+            "start": 4.352,
+            "end": 4.492,
+            "score": 0.863
+        },
+        {
+            "word": "a",
+            "start": 4.552,
+            "end": 4.592,
+            "score": 0.509
+        },
+        {
+            "word": "bad",
+            "start": 4.652,
+            "end": 4.892,
+            "score": 0.885
+        },
+        {
+            "word": "idea.",
+            "start": 4.972,
+            "end": 5.472,
+            "score": 0.831
+        },
+        {
+            "word": "If",
+            "start": 7.073,
+            "end": 8.794,
+            "score": 0.842
+        },
+        {
+            "word": "there",
+            "start": 9.295,
+            "end": 9.475,
+            "score": 0.907
+        },
+        {
+            "word": "are",
+            "start": 9.515,
+            "end": 9.635,
+            "score": 0.655
+        },
+        {
+            "word": "so",
+            "start": 9.735,
+            "end": 9.915,
+            "score": 0.911
+        },
+        {
+            "word": "many",
+            "start": 9.975,
+            "end": 10.175,
+            "score": 0.859
+        },
+        {
+            "word": "no-car",
+            "start": 10.235,
+            "end": 10.675,
+            "score": 0.836
+        },
+        {
+            "word": "zones",
+            "start": 10.736,
+            "end": 11.096,
+            "score": 0.811
+        },
+        {
+            "word": "that",
+            "start": 11.736,
+            "end": 11.956,
+            "score": 0.956
+        },
+        {
+            "word": "people",
+            "start": 12.356,
+            "end": 12.817,
+            "score": 0.908
+        },
+        {
+            "word": "cannot",
+            "start": 14.378,
+            "end": 14.798,
+            "score": 0.944
+        },
+        {
+            "word": "comfortably",
+            "start": 15.118,
+            "end": 15.719,
+            "score": 0.952
+        },
+        {
+            "word": "move",
+            "start": 15.799,
+            "end": 16.019,
+            "score": 0.879
+        },
+        {
+            "word": "inside",
+            "start": 16.059,
+            "end": 16.399,
+            "score": 0.839
+        },
+        {
+            "word": "the",
+            "start": 16.439,
+            "end": 16.519,
+            "score": 0.476
+        },
+        {
+            "word": "city,",
+            "start": 16.559,
+            "end": 16.899,
+            "score": 0.874
+        },
+        {
+            "word": "then",
+            "start": 17.119,
+            "end": 17.299,
+            "score": 0.913
+        },
+        {
+            "word": "it's",
+            "start": 17.36,
+            "end": 17.52,
+            "score": 0.864
+        },
+        {
+            "word": "not",
+            "start": 17.56,
+            "end": 17.7,
+            "score": 0.897
+        },
+        {
+            "word": "a",
+            "start": 17.74,
+            "end": 17.76,
+            "score": 0.995
+        },
+        {
+            "word": "bad",
+            "start": 17.8,
+            "end": 17.96,
+            "score": 0.992
+        },
+        {
+            "word": "idea.",
+            "start": 18.04,
+            "end": 18.4,
+            "score": 0.898
+        },
+        {
+            "word": "But",
+            "start": 18.54,
+            "end": 18.82,
+            "score": 0.893
+        },
+        {
+            "word": "if",
+            "start": 19.881,
+            "end": 19.981,
+            "score": 0.998
+        },
+        {
+            "word": "there",
+            "start": 20.521,
+            "end": 20.702,
+            "score": 0.839
+        },
+        {
+            "word": "are",
+            "start": 20.762,
+            "end": 20.862,
+            "score": 0.747
+        },
+        {
+            "word": "so",
+            "start": 20.922,
+            "end": 21.082,
+            "score": 0.948
+        },
+        {
+            "word": "many",
+            "start": 21.122,
+            "end": 21.302,
+            "score": 0.805
+        },
+        {
+            "word": "no-car",
+            "start": 21.362,
+            "end": 21.802,
+            "score": 0.842
+        },
+        {
+            "word": "zones,",
+            "start": 21.842,
+            "end": 22.263,
+            "score": 0.749
+        },
+        {
+            "word": "that",
+            "start": 22.323,
+            "end": 22.483,
+            "score": 0.821
+        },
+        {
+            "word": "may",
+            "start": 22.543,
+            "end": 22.703,
+            "score": 0.929
+        },
+        {
+            "word": "be",
+            "start": 22.723,
+            "end": 22.843,
+            "score": 0.838
+        },
+        {
+            "word": "a",
+            "start": 22.883,
+            "end": 22.923,
+            "score": 0.499
+        },
+        {
+            "word": "problem",
+            "start": 23.003,
+            "end": 23.523,
+            "score": 0.899
+        },
+        {
+            "word": "in",
+            "start": 23.583,
+            "end": 23.643,
+            "score": 0.956
+        },
+        {
+            "word": "this",
+            "start": 23.683,
+            "end": 23.823,
+            "score": 0.795
+        },
+        {
+            "word": "busy",
+            "start": 23.944,
+            "end": 24.444,
+            "score": 0.951
+        },
+        {
+            "word": "time.",
+            "start": 24.464,
+            "end": 24.924,
+            "score": 0.358
+        },
+        {
+            "word": "So,",
+            "start": 30.067,
+            "end": 30.487,
+            "score": 0.922
+        },
+        {
+            "word": "I",
+            "start": 31.208,
+            "end": 31.268,
+            "score": 0.995
+        },
+        {
+            "word": "think",
+            "start": 31.308,
+            "end": 31.528,
+            "score": 0.916
+        },
+        {
+            "word": "the",
+            "start": 31.648,
+            "end": 31.988,
+            "score": 0.938
+        },
+        {
+            "word": "more",
+            "start": 32.268,
+            "end": 32.588,
+            "score": 0.705
+        },
+        {
+            "word": "practical",
+            "start": 32.928,
+            "end": 33.648,
+            "score": 0.943
+        },
+        {
+            "word": "way",
+            "start": 33.809,
+            "end": 34.169,
+            "score": 0.785
+        },
+        {
+            "word": "to",
+            "start": 34.289,
+            "end": 34.569,
+            "score": 0.834
+        },
+        {
+            "word": "reduce",
+            "start": 34.709,
+            "end": 35.089,
+            "score": 0.924
+        },
+        {
+            "word": "the",
+            "start": 35.149,
+            "end": 35.249,
+            "score": 0.948
+        },
+        {
+            "word": "pollution",
+            "start": 35.309,
+            "end": 35.889,
+            "score": 0.835
+        },
+        {
+            "word": "caused",
+            "start": 36.65,
+            "end": 36.97,
+            "score": 0.986
+        },
+        {
+            "word": "by",
+            "start": 37.07,
+            "end": 37.31,
+            "score": 0.802
+        },
+        {
+            "word": "the",
+            "start": 37.39,
+            "end": 37.65,
+            "score": 0.891
+        },
+        {
+            "word": "number",
+            "start": 38.09,
+            "end": 38.35,
+            "score": 0.914
+        },
+        {
+            "word": "of",
+            "start": 38.39,
+            "end": 38.45,
+            "score": 0.75
+        },
+        {
+            "word": "cars",
+            "start": 38.57,
+            "end": 38.97,
+            "score": 0.771
+        },
+        {
+            "word": "is",
+            "start": 39.531,
+            "end": 39.671,
+            "score": 0.94
+        },
+        {
+            "word": "to",
+            "start": 39.791,
+            "end": 40.071,
+            "score": 0.924
+        },
+        {
+            "word": "facilitate",
+            "start": 40.371,
+            "end": 41.231,
+            "score": 0.91
+        },
+        {
+            "word": "making",
+            "start": 41.531,
+            "end": 42.032,
+            "score": 0.851
+        },
+        {
+            "word": "environment-friendly",
+            "start": 42.592,
+            "end": 44.092,
+            "score": 0.876
+        },
+        {
+            "word": "cars",
+            "start": 44.192,
+            "end": 44.593,
+            "score": 0.724
+        },
+        {
+            "word": "such",
+            "start": 44.993,
+            "end": 45.213,
+            "score": 0.795
+        },
+        {
+            "word": "as",
+            "start": 45.373,
+            "end": 45.513,
+            "score": 0.704
+        },
+        {
+            "word": "the",
+            "start": 45.633,
+            "end": 45.833,
+            "score": 0.801
+        },
+        {
+            "word": "electronic",
+            "start": 46.033,
+            "end": 46.593,
+            "score": 0.887
+        },
+        {
+            "word": "cars",
+            "start": 46.653,
+            "end": 47.073,
+            "score": 0.823
+        },
+        {
+            "word": "so",
+            "start": 47.854,
+            "end": 48.214,
+            "score": 0.92
+        },
+        {
+            "word": "that",
+            "start": 48.314,
+            "end": 48.614,
+            "score": 0.629
+        },
+        {
+            "word": "people",
+            "start": 48.974,
+            "end": 49.274,
+            "score": 0.808
+        },
+        {
+            "word": "can",
+            "start": 49.314,
+            "end": 49.454,
+            "score": 1.0
+        },
+        {
+            "word": "use",
+            "start": 49.574,
+            "end": 49.714,
+            "score": 0.595
+        },
+        {
+            "word": "those",
+            "start": 49.774,
+            "end": 50.095,
+            "score": 0.78
+        },
+        {
+            "word": "cars.",
+            "start": 50.175,
+            "end": 50.535,
+            "score": 0.837
+        },
+        {
+            "word": "By",
+            "start": 54.076,
+            "end": 54.818,
+            "score": 0.88
+        },
+        {
+            "word": "facilitating",
+            "start": 55.519,
+            "end": 56.24,
+            "score": 0.95
+        },
+        {
+            "word": "making",
+            "start": 56.28,
+            "end": 56.581,
+            "score": 0.912
+        },
+        {
+            "word": "those",
+            "start": 56.641,
+            "end": 56.861,
+            "score": 0.706
+        },
+        {
+            "word": "cars",
+            "start": 56.942,
+            "end": 57.202,
+            "score": 0.739
+        },
+        {
+            "word": "and",
+            "start": 57.262,
+            "end": 57.342,
+            "score": 0.531
+        },
+        {
+            "word": "using",
+            "start": 57.443,
+            "end": 57.643,
+            "score": 0.917
+        },
+        {
+            "word": "those",
+            "start": 57.703,
+            "end": 57.943,
+            "score": 0.743
+        },
+        {
+            "word": "cars,",
+            "start": 58.024,
+            "end": 58.444,
+            "score": 0.66
+        },
+        {
+            "word": "the",
+            "start": 58.585,
+            "end": 58.785,
+            "score": 0.808
+        },
+        {
+            "word": "government",
+            "start": 59.065,
+            "end": 59.486,
+            "score": 0.75
+        },
+        {
+            "word": "officers",
+            "start": 59.526,
+            "end": 60.007,
+            "score": 0.881
+        },
+        {
+            "word": "can",
+            "start": 60.107,
+            "end": 60.268,
+            "score": 0.944
+        },
+        {
+            "word": "solve",
+            "start": 60.328,
+            "end": 60.588,
+            "score": 0.828
+        },
+        {
+            "word": "the",
+            "start": 60.628,
+            "end": 60.729,
+            "score": 0.887
+        },
+        {
+            "word": "problem.",
+            "start": 60.789,
+            "end": 61.189,
+            "score": 0.861
+        }
+    ]
+}

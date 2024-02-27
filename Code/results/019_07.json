@@ -1,0 +1,465 @@
+{
+    "segments": [
+        {
+            "start": 0.009,
+            "end": 7.631,
+            "text": " First, you have to take up number 10 bus until Harrison Avenue.",
+            "words": [
+                {
+                    "word": "First,",
+                    "start": 0.009,
+                    "end": 0.329,
+                    "score": 0.829
+                },
+                {
+                    "word": "you",
+                    "start": 0.509,
+                    "end": 0.669,
+                    "score": 0.905
+                },
+                {
+                    "word": "have",
+                    "start": 0.689,
+                    "end": 0.829,
+                    "score": 0.975
+                },
+                {
+                    "word": "to",
+                    "start": 0.889,
+                    "end": 0.989,
+                    "score": 0.818
+                },
+                {
+                    "word": "take",
+                    "start": 1.049,
+                    "end": 1.349,
+                    "score": 0.848
+                },
+                {
+                    "word": "up",
+                    "start": 2.11,
+                    "end": 2.87,
+                    "score": 0.698
+                },
+                {
+                    "word": "number",
+                    "start": 2.99,
+                    "end": 3.25,
+                    "score": 0.865
+                },
+                {
+                    "word": "10"
+                },
+                {
+                    "word": "bus",
+                    "start": 3.83,
+                    "end": 4.33,
+                    "score": 0.81
+                },
+                {
+                    "word": "until",
+                    "start": 4.911,
+                    "end": 5.391,
+                    "score": 0.85
+                },
+                {
+                    "word": "Harrison",
+                    "start": 5.411,
+                    "end": 7.071,
+                    "score": 0.848
+                },
+                {
+                    "word": "Avenue.",
+                    "start": 7.191,
+                    "end": 7.631,
+                    "score": 0.609
+                }
+            ]
+        },
+        {
+            "start": 9.272,
+            "end": 18.655,
+            "text": "You get off at Harrison Avenue and then cross the street and go one blocks.",
+            "words": [
+                {
+                    "word": "You",
+                    "start": 9.272,
+                    "end": 10.532,
+                    "score": 0.811
+                },
+                {
+                    "word": "get",
+                    "start": 10.953,
+                    "end": 11.153,
+                    "score": 0.977
+                },
+                {
+                    "word": "off",
+                    "start": 11.213,
+                    "end": 11.393,
+                    "score": 0.954
+                },
+                {
+                    "word": "at",
+                    "start": 11.793,
+                    "end": 11.913,
+                    "score": 0.93
+                },
+                {
+                    "word": "Harrison",
+                    "start": 12.113,
+                    "end": 12.473,
+                    "score": 0.65
+                },
+                {
+                    "word": "Avenue",
+                    "start": 12.533,
+                    "end": 12.893,
+                    "score": 0.796
+                },
+                {
+                    "word": "and",
+                    "start": 13.373,
+                    "end": 13.453,
+                    "score": 0.85
+                },
+                {
+                    "word": "then",
+                    "start": 13.473,
+                    "end": 13.653,
+                    "score": 0.866
+                },
+                {
+                    "word": "cross",
+                    "start": 13.773,
+                    "end": 14.034,
+                    "score": 0.856
+                },
+                {
+                    "word": "the",
+                    "start": 14.074,
+                    "end": 14.174,
+                    "score": 0.857
+                },
+                {
+                    "word": "street",
+                    "start": 14.214,
+                    "end": 14.694,
+                    "score": 0.891
+                },
+                {
+                    "word": "and",
+                    "start": 14.994,
+                    "end": 15.154,
+                    "score": 0.669
+                },
+                {
+                    "word": "go",
+                    "start": 15.254,
+                    "end": 15.594,
+                    "score": 0.918
+                },
+                {
+                    "word": "one",
+                    "start": 15.974,
+                    "end": 16.114,
+                    "score": 0.884
+                },
+                {
+                    "word": "blocks.",
+                    "start": 16.174,
+                    "end": 18.655,
+                    "score": 0.906
+                }
+            ]
+        },
+        {
+            "start": 19.035,
+            "end": 25.357,
+            "text": "You can get to Church Street and then go straight.",
+            "words": [
+                {
+                    "word": "You",
+                    "start": 19.035,
+                    "end": 19.415,
+                    "score": 0.929
+                },
+                {
+                    "word": "can",
+                    "start": 21.096,
+                    "end": 21.396,
+                    "score": 0.856
+                },
+                {
+                    "word": "get",
+                    "start": 21.436,
+                    "end": 21.696,
+                    "score": 0.836
+                },
+                {
+                    "word": "to",
+                    "start": 21.836,
+                    "end": 22.116,
+                    "score": 0.738
+                },
+                {
+                    "word": "Church",
+                    "start": 22.176,
+                    "end": 22.496,
+                    "score": 0.934
+                },
+                {
+                    "word": "Street",
+                    "start": 22.556,
+                    "end": 22.936,
+                    "score": 0.878
+                },
+                {
+                    "word": "and",
+                    "start": 23.617,
+                    "end": 23.717,
+                    "score": 0.757
+                },
+                {
+                    "word": "then",
+                    "start": 23.757,
+                    "end": 23.977,
+                    "score": 0.967
+                },
+                {
+                    "word": "go",
+                    "start": 23.997,
+                    "end": 24.037,
+                    "score": 0.0
+                },
+                {
+                    "word": "straight.",
+                    "start": 24.877,
+                    "end": 25.357,
+                    "score": 0.481
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "First,",
+            "start": 0.009,
+            "end": 0.329,
+            "score": 0.829
+        },
+        {
+            "word": "you",
+            "start": 0.509,
+            "end": 0.669,
+            "score": 0.905
+        },
+        {
+            "word": "have",
+            "start": 0.689,
+            "end": 0.829,
+            "score": 0.975
+        },
+        {
+            "word": "to",
+            "start": 0.889,
+            "end": 0.989,
+            "score": 0.818
+        },
+        {
+            "word": "take",
+            "start": 1.049,
+            "end": 1.349,
+            "score": 0.848
+        },
+        {
+            "word": "up",
+            "start": 2.11,
+            "end": 2.87,
+            "score": 0.698
+        },
+        {
+            "word": "number",
+            "start": 2.99,
+            "end": 3.25,
+            "score": 0.865
+        },
+        {
+            "word": "10"
+        },
+        {
+            "word": "bus",
+            "start": 3.83,
+            "end": 4.33,
+            "score": 0.81
+        },
+        {
+            "word": "until",
+            "start": 4.911,
+            "end": 5.391,
+            "score": 0.85
+        },
+        {
+            "word": "Harrison",
+            "start": 5.411,
+            "end": 7.071,
+            "score": 0.848
+        },
+        {
+            "word": "Avenue.",
+            "start": 7.191,
+            "end": 7.631,
+            "score": 0.609
+        },
+        {
+            "word": "You",
+            "start": 9.272,
+            "end": 10.532,
+            "score": 0.811
+        },
+        {
+            "word": "get",
+            "start": 10.953,
+            "end": 11.153,
+            "score": 0.977
+        },
+        {
+            "word": "off",
+            "start": 11.213,
+            "end": 11.393,
+            "score": 0.954
+        },
+        {
+            "word": "at",
+            "start": 11.793,
+            "end": 11.913,
+            "score": 0.93
+        },
+        {
+            "word": "Harrison",
+            "start": 12.113,
+            "end": 12.473,
+            "score": 0.65
+        },
+        {
+            "word": "Avenue",
+            "start": 12.533,
+            "end": 12.893,
+            "score": 0.796
+        },
+        {
+            "word": "and",
+            "start": 13.373,
+            "end": 13.453,
+            "score": 0.85
+        },
+        {
+            "word": "then",
+            "start": 13.473,
+            "end": 13.653,
+            "score": 0.866
+        },
+        {
+            "word": "cross",
+            "start": 13.773,
+            "end": 14.034,
+            "score": 0.856
+        },
+        {
+            "word": "the",
+            "start": 14.074,
+            "end": 14.174,
+            "score": 0.857
+        },
+        {
+            "word": "street",
+            "start": 14.214,
+            "end": 14.694,
+            "score": 0.891
+        },
+        {
+            "word": "and",
+            "start": 14.994,
+            "end": 15.154,
+            "score": 0.669
+        },
+        {
+            "word": "go",
+            "start": 15.254,
+            "end": 15.594,
+            "score": 0.918
+        },
+        {
+            "word": "one",
+            "start": 15.974,
+            "end": 16.114,
+            "score": 0.884
+        },
+        {
+            "word": "blocks.",
+            "start": 16.174,
+            "end": 18.655,
+            "score": 0.906
+        },
+        {
+            "word": "You",
+            "start": 19.035,
+            "end": 19.415,
+            "score": 0.929
+        },
+        {
+            "word": "can",
+            "start": 21.096,
+            "end": 21.396,
+            "score": 0.856
+        },
+        {
+            "word": "get",
+            "start": 21.436,
+            "end": 21.696,
+            "score": 0.836
+        },
+        {
+            "word": "to",
+            "start": 21.836,
+            "end": 22.116,
+            "score": 0.738
+        },
+        {
+            "word": "Church",
+            "start": 22.176,
+            "end": 22.496,
+            "score": 0.934
+        },
+        {
+            "word": "Street",
+            "start": 22.556,
+            "end": 22.936,
+            "score": 0.878
+        },
+        {
+            "word": "and",
+            "start": 23.617,
+            "end": 23.717,
+            "score": 0.757
+        },
+        {
+            "word": "then",
+            "start": 23.757,
+            "end": 23.977,
+            "score": 0.967
+        },
+        {
+            "word": "go",
+            "start": 23.997,
+            "end": 24.037,
+            "score": 0.0
+        },
+        {
+            "word": "straight.",
+            "start": 24.877,
+            "end": 25.357,
+            "score": 0.481
+        }
+    ]
+}

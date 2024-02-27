@@ -1,0 +1,1467 @@
+{
+    "segments": [
+        {
+            "start": 0.149,
+            "end": 20.844,
+            "text": " i disagree with making no car zones in the city center because the first one is maybe they can think about another option such as they will increase the parking meters fee or maybe they can sell some of the parking tickets to the people so",
+            "words": [
+                {
+                    "word": "i",
+                    "start": 0.149,
+                    "end": 0.249,
+                    "score": 0.799
+                },
+                {
+                    "word": "disagree",
+                    "start": 0.289,
+                    "end": 0.99,
+                    "score": 0.886
+                },
+                {
+                    "word": "with",
+                    "start": 1.23,
+                    "end": 1.43,
+                    "score": 0.907
+                },
+                {
+                    "word": "making",
+                    "start": 1.55,
+                    "end": 1.95,
+                    "score": 0.847
+                },
+                {
+                    "word": "no",
+                    "start": 2.051,
+                    "end": 2.211,
+                    "score": 0.906
+                },
+                {
+                    "word": "car",
+                    "start": 2.311,
+                    "end": 2.591,
+                    "score": 0.821
+                },
+                {
+                    "word": "zones",
+                    "start": 2.671,
+                    "end": 3.031,
+                    "score": 0.563
+                },
+                {
+                    "word": "in",
+                    "start": 3.211,
+                    "end": 3.271,
+                    "score": 0.986
+                },
+                {
+                    "word": "the",
+                    "start": 3.291,
+                    "end": 3.391,
+                    "score": 0.79
+                },
+                {
+                    "word": "city",
+                    "start": 3.432,
+                    "end": 3.692,
+                    "score": 0.863
+                },
+                {
+                    "word": "center",
+                    "start": 3.732,
+                    "end": 4.092,
+                    "score": 0.788
+                },
+                {
+                    "word": "because",
+                    "start": 5.093,
+                    "end": 5.393,
+                    "score": 0.918
+                },
+                {
+                    "word": "the",
+                    "start": 5.473,
+                    "end": 5.573,
+                    "score": 0.845
+                },
+                {
+                    "word": "first",
+                    "start": 5.653,
+                    "end": 5.993,
+                    "score": 0.949
+                },
+                {
+                    "word": "one",
+                    "start": 6.534,
+                    "end": 6.714,
+                    "score": 0.691
+                },
+                {
+                    "word": "is",
+                    "start": 7.014,
+                    "end": 7.134,
+                    "score": 0.766
+                },
+                {
+                    "word": "maybe",
+                    "start": 7.394,
+                    "end": 7.655,
+                    "score": 0.925
+                },
+                {
+                    "word": "they",
+                    "start": 7.695,
+                    "end": 7.855,
+                    "score": 0.912
+                },
+                {
+                    "word": "can",
+                    "start": 7.915,
+                    "end": 8.295,
+                    "score": 0.803
+                },
+                {
+                    "word": "think",
+                    "start": 8.415,
+                    "end": 8.635,
+                    "score": 0.941
+                },
+                {
+                    "word": "about",
+                    "start": 8.695,
+                    "end": 8.936,
+                    "score": 0.961
+                },
+                {
+                    "word": "another",
+                    "start": 9.116,
+                    "end": 9.396,
+                    "score": 0.973
+                },
+                {
+                    "word": "option",
+                    "start": 9.516,
+                    "end": 9.976,
+                    "score": 0.956
+                },
+                {
+                    "word": "such",
+                    "start": 10.076,
+                    "end": 10.317,
+                    "score": 0.913
+                },
+                {
+                    "word": "as",
+                    "start": 10.497,
+                    "end": 10.617,
+                    "score": 0.744
+                },
+                {
+                    "word": "they",
+                    "start": 11.457,
+                    "end": 11.658,
+                    "score": 0.901
+                },
+                {
+                    "word": "will",
+                    "start": 11.698,
+                    "end": 11.958,
+                    "score": 0.716
+                },
+                {
+                    "word": "increase",
+                    "start": 12.118,
+                    "end": 12.618,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 12.678,
+                    "end": 12.798,
+                    "score": 0.782
+                },
+                {
+                    "word": "parking",
+                    "start": 12.858,
+                    "end": 13.359,
+                    "score": 0.818
+                },
+                {
+                    "word": "meters",
+                    "start": 13.499,
+                    "end": 13.879,
+                    "score": 0.854
+                },
+                {
+                    "word": "fee",
+                    "start": 13.999,
+                    "end": 14.34,
+                    "score": 0.899
+                },
+                {
+                    "word": "or",
+                    "start": 15.38,
+                    "end": 15.54,
+                    "score": 0.478
+                },
+                {
+                    "word": "maybe",
+                    "start": 16.381,
+                    "end": 16.701,
+                    "score": 0.908
+                },
+                {
+                    "word": "they",
+                    "start": 16.781,
+                    "end": 16.941,
+                    "score": 0.876
+                },
+                {
+                    "word": "can",
+                    "start": 16.982,
+                    "end": 17.142,
+                    "score": 0.585
+                },
+                {
+                    "word": "sell",
+                    "start": 17.182,
+                    "end": 17.502,
+                    "score": 0.79
+                },
+                {
+                    "word": "some",
+                    "start": 17.642,
+                    "end": 17.822,
+                    "score": 0.978
+                },
+                {
+                    "word": "of",
+                    "start": 17.862,
+                    "end": 17.942,
+                    "score": 0.837
+                },
+                {
+                    "word": "the",
+                    "start": 17.982,
+                    "end": 18.062,
+                    "score": 0.894
+                },
+                {
+                    "word": "parking",
+                    "start": 18.102,
+                    "end": 18.463,
+                    "score": 0.899
+                },
+                {
+                    "word": "tickets",
+                    "start": 18.483,
+                    "end": 18.903,
+                    "score": 0.668
+                },
+                {
+                    "word": "to",
+                    "start": 19.103,
+                    "end": 19.864,
+                    "score": 0.922
+                },
+                {
+                    "word": "the",
+                    "start": 20.204,
+                    "end": 20.324,
+                    "score": 0.84
+                },
+                {
+                    "word": "people",
+                    "start": 20.384,
+                    "end": 20.784,
+                    "score": 0.96
+                },
+                {
+                    "word": "so",
+                    "start": 20.804,
+                    "end": 20.844,
+                    "score": 0.002
+                }
+            ]
+        },
+        {
+            "start": 23.266,
+            "end": 48.653,
+            "text": " think that that can make the people bring less car to the city centers but to some people the bringing cars are absolutely necessary so for example disabilities or old people or just some people just who need the car at the time so I think that making new car zones",
+            "words": [
+                {
+                    "word": "think",
+                    "start": 23.266,
+                    "end": 23.466,
+                    "score": 0.836
+                },
+                {
+                    "word": "that",
+                    "start": 23.506,
+                    "end": 23.646,
+                    "score": 0.638
+                },
+                {
+                    "word": "that",
+                    "start": 23.806,
+                    "end": 24.066,
+                    "score": 0.576
+                },
+                {
+                    "word": "can",
+                    "start": 24.166,
+                    "end": 24.426,
+                    "score": 0.973
+                },
+                {
+                    "word": "make",
+                    "start": 24.486,
+                    "end": 24.746,
+                    "score": 0.995
+                },
+                {
+                    "word": "the",
+                    "start": 24.826,
+                    "end": 24.927,
+                    "score": 0.884
+                },
+                {
+                    "word": "people",
+                    "start": 24.987,
+                    "end": 25.467,
+                    "score": 0.694
+                },
+                {
+                    "word": "bring",
+                    "start": 26.127,
+                    "end": 26.447,
+                    "score": 0.829
+                },
+                {
+                    "word": "less",
+                    "start": 26.707,
+                    "end": 26.947,
+                    "score": 0.986
+                },
+                {
+                    "word": "car",
+                    "start": 27.047,
+                    "end": 27.447,
+                    "score": 0.798
+                },
+                {
+                    "word": "to",
+                    "start": 27.667,
+                    "end": 27.927,
+                    "score": 0.884
+                },
+                {
+                    "word": "the",
+                    "start": 27.987,
+                    "end": 28.087,
+                    "score": 0.785
+                },
+                {
+                    "word": "city",
+                    "start": 28.147,
+                    "end": 28.427,
+                    "score": 0.858
+                },
+                {
+                    "word": "centers",
+                    "start": 28.467,
+                    "end": 28.988,
+                    "score": 0.862
+                },
+                {
+                    "word": "but",
+                    "start": 29.548,
+                    "end": 29.788,
+                    "score": 0.883
+                },
+                {
+                    "word": "to",
+                    "start": 30.008,
+                    "end": 30.208,
+                    "score": 0.998
+                },
+                {
+                    "word": "some",
+                    "start": 30.368,
+                    "end": 30.628,
+                    "score": 0.875
+                },
+                {
+                    "word": "people",
+                    "start": 30.668,
+                    "end": 31.108,
+                    "score": 0.811
+                },
+                {
+                    "word": "the",
+                    "start": 31.128,
+                    "end": 31.188,
+                    "score": 0.0
+                },
+                {
+                    "word": "bringing",
+                    "start": 31.788,
+                    "end": 32.148,
+                    "score": 0.896
+                },
+                {
+                    "word": "cars",
+                    "start": 32.248,
+                    "end": 32.829,
+                    "score": 0.646
+                },
+                {
+                    "word": "are",
+                    "start": 32.989,
+                    "end": 33.089,
+                    "score": 0.835
+                },
+                {
+                    "word": "absolutely",
+                    "start": 33.389,
+                    "end": 34.089,
+                    "score": 0.809
+                },
+                {
+                    "word": "necessary",
+                    "start": 34.209,
+                    "end": 34.829,
+                    "score": 0.913
+                },
+                {
+                    "word": "so",
+                    "start": 35.029,
+                    "end": 35.329,
+                    "score": 0.932
+                },
+                {
+                    "word": "for",
+                    "start": 35.369,
+                    "end": 35.489,
+                    "score": 0.709
+                },
+                {
+                    "word": "example",
+                    "start": 35.529,
+                    "end": 36.11,
+                    "score": 0.903
+                },
+                {
+                    "word": "disabilities",
+                    "start": 36.21,
+                    "end": 37.29,
+                    "score": 0.908
+                },
+                {
+                    "word": "or",
+                    "start": 37.89,
+                    "end": 38.01,
+                    "score": 0.706
+                },
+                {
+                    "word": "old",
+                    "start": 38.49,
+                    "end": 38.67,
+                    "score": 0.832
+                },
+                {
+                    "word": "people",
+                    "start": 38.85,
+                    "end": 39.33,
+                    "score": 0.767
+                },
+                {
+                    "word": "or",
+                    "start": 39.911,
+                    "end": 40.031,
+                    "score": 0.502
+                },
+                {
+                    "word": "just",
+                    "start": 40.391,
+                    "end": 40.711,
+                    "score": 0.672
+                },
+                {
+                    "word": "some",
+                    "start": 40.831,
+                    "end": 41.011,
+                    "score": 0.859
+                },
+                {
+                    "word": "people",
+                    "start": 41.051,
+                    "end": 41.471,
+                    "score": 0.782
+                },
+                {
+                    "word": "just",
+                    "start": 41.591,
+                    "end": 41.791,
+                    "score": 0.909
+                },
+                {
+                    "word": "who",
+                    "start": 42.251,
+                    "end": 42.391,
+                    "score": 0.892
+                },
+                {
+                    "word": "need",
+                    "start": 42.431,
+                    "end": 42.671,
+                    "score": 0.91
+                },
+                {
+                    "word": "the",
+                    "start": 42.811,
+                    "end": 42.931,
+                    "score": 0.976
+                },
+                {
+                    "word": "car",
+                    "start": 43.011,
+                    "end": 43.432,
+                    "score": 0.802
+                },
+                {
+                    "word": "at",
+                    "start": 43.572,
+                    "end": 43.632,
+                    "score": 0.996
+                },
+                {
+                    "word": "the",
+                    "start": 43.672,
+                    "end": 43.792,
+                    "score": 0.813
+                },
+                {
+                    "word": "time",
+                    "start": 43.852,
+                    "end": 44.272,
+                    "score": 0.81
+                },
+                {
+                    "word": "so",
+                    "start": 44.872,
+                    "end": 45.292,
+                    "score": 0.928
+                },
+                {
+                    "word": "I",
+                    "start": 45.772,
+                    "end": 45.852,
+                    "score": 0.999
+                },
+                {
+                    "word": "think",
+                    "start": 45.932,
+                    "end": 46.132,
+                    "score": 0.933
+                },
+                {
+                    "word": "that",
+                    "start": 46.212,
+                    "end": 46.332,
+                    "score": 0.89
+                },
+                {
+                    "word": "making",
+                    "start": 47.133,
+                    "end": 47.533,
+                    "score": 0.79
+                },
+                {
+                    "word": "new",
+                    "start": 47.613,
+                    "end": 47.793,
+                    "score": 0.848
+                },
+                {
+                    "word": "car",
+                    "start": 47.913,
+                    "end": 48.173,
+                    "score": 0.859
+                },
+                {
+                    "word": "zones",
+                    "start": 48.233,
+                    "end": 48.653,
+                    "score": 0.843
+                }
+            ]
+        },
+        {
+            "start": 49.473,
+            "end": 60.798,
+            "text": " means there will be no absolutely private cars allowed in the center I think it sounds too strong so maybe we better to",
+            "words": [
+                {
+                    "word": "means",
+                    "start": 49.473,
+                    "end": 50.174,
+                    "score": 0.757
+                },
+                {
+                    "word": "there",
+                    "start": 50.634,
+                    "end": 50.834,
+                    "score": 0.856
+                },
+                {
+                    "word": "will",
+                    "start": 50.874,
+                    "end": 51.094,
+                    "score": 0.828
+                },
+                {
+                    "word": "be",
+                    "start": 51.154,
+                    "end": 51.274,
+                    "score": 0.832
+                },
+                {
+                    "word": "no",
+                    "start": 51.934,
+                    "end": 52.294,
+                    "score": 0.881
+                },
+                {
+                    "word": "absolutely",
+                    "start": 52.534,
+                    "end": 53.455,
+                    "score": 0.847
+                },
+                {
+                    "word": "private",
+                    "start": 53.755,
+                    "end": 54.255,
+                    "score": 0.926
+                },
+                {
+                    "word": "cars",
+                    "start": 54.435,
+                    "end": 54.915,
+                    "score": 0.674
+                },
+                {
+                    "word": "allowed",
+                    "start": 55.096,
+                    "end": 55.536,
+                    "score": 0.821
+                },
+                {
+                    "word": "in",
+                    "start": 55.716,
+                    "end": 55.816,
+                    "score": 0.937
+                },
+                {
+                    "word": "the",
+                    "start": 55.876,
+                    "end": 56.016,
+                    "score": 0.925
+                },
+                {
+                    "word": "center",
+                    "start": 56.056,
+                    "end": 56.416,
+                    "score": 0.786
+                },
+                {
+                    "word": "I",
+                    "start": 56.776,
+                    "end": 56.836,
+                    "score": 0.855
+                },
+                {
+                    "word": "think",
+                    "start": 56.856,
+                    "end": 57.036,
+                    "score": 0.916
+                },
+                {
+                    "word": "it",
+                    "start": 57.116,
+                    "end": 57.196,
+                    "score": 0.218
+                },
+                {
+                    "word": "sounds",
+                    "start": 57.236,
+                    "end": 57.577,
+                    "score": 0.792
+                },
+                {
+                    "word": "too",
+                    "start": 57.637,
+                    "end": 57.817,
+                    "score": 0.816
+                },
+                {
+                    "word": "strong",
+                    "start": 57.857,
+                    "end": 58.317,
+                    "score": 0.797
+                },
+                {
+                    "word": "so",
+                    "start": 58.517,
+                    "end": 58.817,
+                    "score": 0.901
+                },
+                {
+                    "word": "maybe",
+                    "start": 59.097,
+                    "end": 59.457,
+                    "score": 0.944
+                },
+                {
+                    "word": "we",
+                    "start": 59.497,
+                    "end": 59.657,
+                    "score": 0.882
+                },
+                {
+                    "word": "better",
+                    "start": 59.697,
+                    "end": 60.038,
+                    "score": 0.844
+                },
+                {
+                    "word": "to",
+                    "start": 60.538,
+                    "end": 60.798,
+                    "score": 0.966
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "i",
+            "start": 0.149,
+            "end": 0.249,
+            "score": 0.799
+        },
+        {
+            "word": "disagree",
+            "start": 0.289,
+            "end": 0.99,
+            "score": 0.886
+        },
+        {
+            "word": "with",
+            "start": 1.23,
+            "end": 1.43,
+            "score": 0.907
+        },
+        {
+            "word": "making",
+            "start": 1.55,
+            "end": 1.95,
+            "score": 0.847
+        },
+        {
+            "word": "no",
+            "start": 2.051,
+            "end": 2.211,
+            "score": 0.906
+        },
+        {
+            "word": "car",
+            "start": 2.311,
+            "end": 2.591,
+            "score": 0.821
+        },
+        {
+            "word": "zones",
+            "start": 2.671,
+            "end": 3.031,
+            "score": 0.563
+        },
+        {
+            "word": "in",
+            "start": 3.211,
+            "end": 3.271,
+            "score": 0.986
+        },
+        {
+            "word": "the",
+            "start": 3.291,
+            "end": 3.391,
+            "score": 0.79
+        },
+        {
+            "word": "city",
+            "start": 3.432,
+            "end": 3.692,
+            "score": 0.863
+        },
+        {
+            "word": "center",
+            "start": 3.732,
+            "end": 4.092,
+            "score": 0.788
+        },
+        {
+            "word": "because",
+            "start": 5.093,
+            "end": 5.393,
+            "score": 0.918
+        },
+        {
+            "word": "the",
+            "start": 5.473,
+            "end": 5.573,
+            "score": 0.845
+        },
+        {
+            "word": "first",
+            "start": 5.653,
+            "end": 5.993,
+            "score": 0.949
+        },
+        {
+            "word": "one",
+            "start": 6.534,
+            "end": 6.714,
+            "score": 0.691
+        },
+        {
+            "word": "is",
+            "start": 7.014,
+            "end": 7.134,
+            "score": 0.766
+        },
+        {
+            "word": "maybe",
+            "start": 7.394,
+            "end": 7.655,
+            "score": 0.925
+        },
+        {
+            "word": "they",
+            "start": 7.695,
+            "end": 7.855,
+            "score": 0.912
+        },
+        {
+            "word": "can",
+            "start": 7.915,
+            "end": 8.295,
+            "score": 0.803
+        },
+        {
+            "word": "think",
+            "start": 8.415,
+            "end": 8.635,
+            "score": 0.941
+        },
+        {
+            "word": "about",
+            "start": 8.695,
+            "end": 8.936,
+            "score": 0.961
+        },
+        {
+            "word": "another",
+            "start": 9.116,
+            "end": 9.396,
+            "score": 0.973
+        },
+        {
+            "word": "option",
+            "start": 9.516,
+            "end": 9.976,
+            "score": 0.956
+        },
+        {
+            "word": "such",
+            "start": 10.076,
+            "end": 10.317,
+            "score": 0.913
+        },
+        {
+            "word": "as",
+            "start": 10.497,
+            "end": 10.617,
+            "score": 0.744
+        },
+        {
+            "word": "they",
+            "start": 11.457,
+            "end": 11.658,
+            "score": 0.901
+        },
+        {
+            "word": "will",
+            "start": 11.698,
+            "end": 11.958,
+            "score": 0.716
+        },
+        {
+            "word": "increase",
+            "start": 12.118,
+            "end": 12.618,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 12.678,
+            "end": 12.798,
+            "score": 0.782
+        },
+        {
+            "word": "parking",
+            "start": 12.858,
+            "end": 13.359,
+            "score": 0.818
+        },
+        {
+            "word": "meters",
+            "start": 13.499,
+            "end": 13.879,
+            "score": 0.854
+        },
+        {
+            "word": "fee",
+            "start": 13.999,
+            "end": 14.34,
+            "score": 0.899
+        },
+        {
+            "word": "or",
+            "start": 15.38,
+            "end": 15.54,
+            "score": 0.478
+        },
+        {
+            "word": "maybe",
+            "start": 16.381,
+            "end": 16.701,
+            "score": 0.908
+        },
+        {
+            "word": "they",
+            "start": 16.781,
+            "end": 16.941,
+            "score": 0.876
+        },
+        {
+            "word": "can",
+            "start": 16.982,
+            "end": 17.142,
+            "score": 0.585
+        },
+        {
+            "word": "sell",
+            "start": 17.182,
+            "end": 17.502,
+            "score": 0.79
+        },
+        {
+            "word": "some",
+            "start": 17.642,
+            "end": 17.822,
+            "score": 0.978
+        },
+        {
+            "word": "of",
+            "start": 17.862,
+            "end": 17.942,
+            "score": 0.837
+        },
+        {
+            "word": "the",
+            "start": 17.982,
+            "end": 18.062,
+            "score": 0.894
+        },
+        {
+            "word": "parking",
+            "start": 18.102,
+            "end": 18.463,
+            "score": 0.899
+        },
+        {
+            "word": "tickets",
+            "start": 18.483,
+            "end": 18.903,
+            "score": 0.668
+        },
+        {
+            "word": "to",
+            "start": 19.103,
+            "end": 19.864,
+            "score": 0.922
+        },
+        {
+            "word": "the",
+            "start": 20.204,
+            "end": 20.324,
+            "score": 0.84
+        },
+        {
+            "word": "people",
+            "start": 20.384,
+            "end": 20.784,
+            "score": 0.96
+        },
+        {
+            "word": "so",
+            "start": 20.804,
+            "end": 20.844,
+            "score": 0.002
+        },
+        {
+            "word": "think",
+            "start": 23.266,
+            "end": 23.466,
+            "score": 0.836
+        },
+        {
+            "word": "that",
+            "start": 23.506,
+            "end": 23.646,
+            "score": 0.638
+        },
+        {
+            "word": "that",
+            "start": 23.806,
+            "end": 24.066,
+            "score": 0.576
+        },
+        {
+            "word": "can",
+            "start": 24.166,
+            "end": 24.426,
+            "score": 0.973
+        },
+        {
+            "word": "make",
+            "start": 24.486,
+            "end": 24.746,
+            "score": 0.995
+        },
+        {
+            "word": "the",
+            "start": 24.826,
+            "end": 24.927,
+            "score": 0.884
+        },
+        {
+            "word": "people",
+            "start": 24.987,
+            "end": 25.467,
+            "score": 0.694
+        },
+        {
+            "word": "bring",
+            "start": 26.127,
+            "end": 26.447,
+            "score": 0.829
+        },
+        {
+            "word": "less",
+            "start": 26.707,
+            "end": 26.947,
+            "score": 0.986
+        },
+        {
+            "word": "car",
+            "start": 27.047,
+            "end": 27.447,
+            "score": 0.798
+        },
+        {
+            "word": "to",
+            "start": 27.667,
+            "end": 27.927,
+            "score": 0.884
+        },
+        {
+            "word": "the",
+            "start": 27.987,
+            "end": 28.087,
+            "score": 0.785
+        },
+        {
+            "word": "city",
+            "start": 28.147,
+            "end": 28.427,
+            "score": 0.858
+        },
+        {
+            "word": "centers",
+            "start": 28.467,
+            "end": 28.988,
+            "score": 0.862
+        },
+        {
+            "word": "but",
+            "start": 29.548,
+            "end": 29.788,
+            "score": 0.883
+        },
+        {
+            "word": "to",
+            "start": 30.008,
+            "end": 30.208,
+            "score": 0.998
+        },
+        {
+            "word": "some",
+            "start": 30.368,
+            "end": 30.628,
+            "score": 0.875
+        },
+        {
+            "word": "people",
+            "start": 30.668,
+            "end": 31.108,
+            "score": 0.811
+        },
+        {
+            "word": "the",
+            "start": 31.128,
+            "end": 31.188,
+            "score": 0.0
+        },
+        {
+            "word": "bringing",
+            "start": 31.788,
+            "end": 32.148,
+            "score": 0.896
+        },
+        {
+            "word": "cars",
+            "start": 32.248,
+            "end": 32.829,
+            "score": 0.646
+        },
+        {
+            "word": "are",
+            "start": 32.989,
+            "end": 33.089,
+            "score": 0.835
+        },
+        {
+            "word": "absolutely",
+            "start": 33.389,
+            "end": 34.089,
+            "score": 0.809
+        },
+        {
+            "word": "necessary",
+            "start": 34.209,
+            "end": 34.829,
+            "score": 0.913
+        },
+        {
+            "word": "so",
+            "start": 35.029,
+            "end": 35.329,
+            "score": 0.932
+        },
+        {
+            "word": "for",
+            "start": 35.369,
+            "end": 35.489,
+            "score": 0.709
+        },
+        {
+            "word": "example",
+            "start": 35.529,
+            "end": 36.11,
+            "score": 0.903
+        },
+        {
+            "word": "disabilities",
+            "start": 36.21,
+            "end": 37.29,
+            "score": 0.908
+        },
+        {
+            "word": "or",
+            "start": 37.89,
+            "end": 38.01,
+            "score": 0.706
+        },
+        {
+            "word": "old",
+            "start": 38.49,
+            "end": 38.67,
+            "score": 0.832
+        },
+        {
+            "word": "people",
+            "start": 38.85,
+            "end": 39.33,
+            "score": 0.767
+        },
+        {
+            "word": "or",
+            "start": 39.911,
+            "end": 40.031,
+            "score": 0.502
+        },
+        {
+            "word": "just",
+            "start": 40.391,
+            "end": 40.711,
+            "score": 0.672
+        },
+        {
+            "word": "some",
+            "start": 40.831,
+            "end": 41.011,
+            "score": 0.859
+        },
+        {
+            "word": "people",
+            "start": 41.051,
+            "end": 41.471,
+            "score": 0.782
+        },
+        {
+            "word": "just",
+            "start": 41.591,
+            "end": 41.791,
+            "score": 0.909
+        },
+        {
+            "word": "who",
+            "start": 42.251,
+            "end": 42.391,
+            "score": 0.892
+        },
+        {
+            "word": "need",
+            "start": 42.431,
+            "end": 42.671,
+            "score": 0.91
+        },
+        {
+            "word": "the",
+            "start": 42.811,
+            "end": 42.931,
+            "score": 0.976
+        },
+        {
+            "word": "car",
+            "start": 43.011,
+            "end": 43.432,
+            "score": 0.802
+        },
+        {
+            "word": "at",
+            "start": 43.572,
+            "end": 43.632,
+            "score": 0.996
+        },
+        {
+            "word": "the",
+            "start": 43.672,
+            "end": 43.792,
+            "score": 0.813
+        },
+        {
+            "word": "time",
+            "start": 43.852,
+            "end": 44.272,
+            "score": 0.81
+        },
+        {
+            "word": "so",
+            "start": 44.872,
+            "end": 45.292,
+            "score": 0.928
+        },
+        {
+            "word": "I",
+            "start": 45.772,
+            "end": 45.852,
+            "score": 0.999
+        },
+        {
+            "word": "think",
+            "start": 45.932,
+            "end": 46.132,
+            "score": 0.933
+        },
+        {
+            "word": "that",
+            "start": 46.212,
+            "end": 46.332,
+            "score": 0.89
+        },
+        {
+            "word": "making",
+            "start": 47.133,
+            "end": 47.533,
+            "score": 0.79
+        },
+        {
+            "word": "new",
+            "start": 47.613,
+            "end": 47.793,
+            "score": 0.848
+        },
+        {
+            "word": "car",
+            "start": 47.913,
+            "end": 48.173,
+            "score": 0.859
+        },
+        {
+            "word": "zones",
+            "start": 48.233,
+            "end": 48.653,
+            "score": 0.843
+        },
+        {
+            "word": "means",
+            "start": 49.473,
+            "end": 50.174,
+            "score": 0.757
+        },
+        {
+            "word": "there",
+            "start": 50.634,
+            "end": 50.834,
+            "score": 0.856
+        },
+        {
+            "word": "will",
+            "start": 50.874,
+            "end": 51.094,
+            "score": 0.828
+        },
+        {
+            "word": "be",
+            "start": 51.154,
+            "end": 51.274,
+            "score": 0.832
+        },
+        {
+            "word": "no",
+            "start": 51.934,
+            "end": 52.294,
+            "score": 0.881
+        },
+        {
+            "word": "absolutely",
+            "start": 52.534,
+            "end": 53.455,
+            "score": 0.847
+        },
+        {
+            "word": "private",
+            "start": 53.755,
+            "end": 54.255,
+            "score": 0.926
+        },
+        {
+            "word": "cars",
+            "start": 54.435,
+            "end": 54.915,
+            "score": 0.674
+        },
+        {
+            "word": "allowed",
+            "start": 55.096,
+            "end": 55.536,
+            "score": 0.821
+        },
+        {
+            "word": "in",
+            "start": 55.716,
+            "end": 55.816,
+            "score": 0.937
+        },
+        {
+            "word": "the",
+            "start": 55.876,
+            "end": 56.016,
+            "score": 0.925
+        },
+        {
+            "word": "center",
+            "start": 56.056,
+            "end": 56.416,
+            "score": 0.786
+        },
+        {
+            "word": "I",
+            "start": 56.776,
+            "end": 56.836,
+            "score": 0.855
+        },
+        {
+            "word": "think",
+            "start": 56.856,
+            "end": 57.036,
+            "score": 0.916
+        },
+        {
+            "word": "it",
+            "start": 57.116,
+            "end": 57.196,
+            "score": 0.218
+        },
+        {
+            "word": "sounds",
+            "start": 57.236,
+            "end": 57.577,
+            "score": 0.792
+        },
+        {
+            "word": "too",
+            "start": 57.637,
+            "end": 57.817,
+            "score": 0.816
+        },
+        {
+            "word": "strong",
+            "start": 57.857,
+            "end": 58.317,
+            "score": 0.797
+        },
+        {
+            "word": "so",
+            "start": 58.517,
+            "end": 58.817,
+            "score": 0.901
+        },
+        {
+            "word": "maybe",
+            "start": 59.097,
+            "end": 59.457,
+            "score": 0.944
+        },
+        {
+            "word": "we",
+            "start": 59.497,
+            "end": 59.657,
+            "score": 0.882
+        },
+        {
+            "word": "better",
+            "start": 59.697,
+            "end": 60.038,
+            "score": 0.844
+        },
+        {
+            "word": "to",
+            "start": 60.538,
+            "end": 60.798,
+            "score": 0.966
+        }
+    ]
+}

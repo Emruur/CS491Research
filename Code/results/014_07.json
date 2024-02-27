@@ -1,0 +1,381 @@
+{
+    "segments": [
+        {
+            "start": 0.009,
+            "end": 12.095,
+            "text": " Franklin Hotel is located on Kingdom Avenue and Jerole Street You can go there by bus number 10",
+            "words": [
+                {
+                    "word": "Franklin",
+                    "start": 0.009,
+                    "end": 0.549,
+                    "score": 0.518
+                },
+                {
+                    "word": "Hotel",
+                    "start": 0.569,
+                    "end": 0.869,
+                    "score": 0.668
+                },
+                {
+                    "word": "is",
+                    "start": 0.909,
+                    "end": 0.969,
+                    "score": 0.132
+                },
+                {
+                    "word": "located",
+                    "start": 0.989,
+                    "end": 1.43,
+                    "score": 0.895
+                },
+                {
+                    "word": "on",
+                    "start": 1.77,
+                    "end": 1.93,
+                    "score": 0.79
+                },
+                {
+                    "word": "Kingdom",
+                    "start": 2.11,
+                    "end": 2.45,
+                    "score": 0.911
+                },
+                {
+                    "word": "Avenue",
+                    "start": 2.49,
+                    "end": 2.91,
+                    "score": 0.616
+                },
+                {
+                    "word": "and",
+                    "start": 3.01,
+                    "end": 3.151,
+                    "score": 0.783
+                },
+                {
+                    "word": "Jerole",
+                    "start": 3.371,
+                    "end": 3.731,
+                    "score": 0.49
+                },
+                {
+                    "word": "Street",
+                    "start": 3.771,
+                    "end": 4.291,
+                    "score": 0.877
+                },
+                {
+                    "word": "You",
+                    "start": 9.354,
+                    "end": 9.454,
+                    "score": 0.993
+                },
+                {
+                    "word": "can",
+                    "start": 9.494,
+                    "end": 9.774,
+                    "score": 0.866
+                },
+                {
+                    "word": "go",
+                    "start": 10.674,
+                    "end": 10.854,
+                    "score": 0.903
+                },
+                {
+                    "word": "there",
+                    "start": 10.874,
+                    "end": 11.114,
+                    "score": 0.559
+                },
+                {
+                    "word": "by",
+                    "start": 11.174,
+                    "end": 11.455,
+                    "score": 0.894
+                },
+                {
+                    "word": "bus",
+                    "start": 11.595,
+                    "end": 11.815,
+                    "score": 0.919
+                },
+                {
+                    "word": "number",
+                    "start": 11.835,
+                    "end": 12.095,
+                    "score": 0.362
+                },
+                {
+                    "word": "10"
+                }
+            ]
+        },
+        {
+            "start": 20.823,
+            "end": 24.29,
+            "text": " The Franklin Hotel is a little north-west.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 20.823,
+                    "end": 20.984,
+                    "score": 0.761
+                },
+                {
+                    "word": "Franklin",
+                    "start": 21.024,
+                    "end": 21.344,
+                    "score": 0.462
+                },
+                {
+                    "word": "Hotel",
+                    "start": 21.364,
+                    "end": 21.545,
+                    "score": 0.405
+                },
+                {
+                    "word": "is",
+                    "start": 21.605,
+                    "end": 21.745,
+                    "score": 0.74
+                },
+                {
+                    "word": "a",
+                    "start": 22.025,
+                    "end": 22.186,
+                    "score": 0.859
+                },
+                {
+                    "word": "little",
+                    "start": 22.306,
+                    "end": 22.586,
+                    "score": 0.57
+                },
+                {
+                    "word": "north-west.",
+                    "start": 22.727,
+                    "end": 24.29,
+                    "score": 0.788
+                }
+            ]
+        },
+        {
+            "start": 25.331,
+            "end": 28.898,
+            "text": "The Franklin Hotel is nearby.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 25.331,
+                    "end": 26.193,
+                    "score": 0.716
+                },
+                {
+                    "word": "Franklin",
+                    "start": 26.213,
+                    "end": 28.016,
+                    "score": 0.609
+                },
+                {
+                    "word": "Hotel",
+                    "start": 28.056,
+                    "end": 28.297,
+                    "score": 0.584
+                },
+                {
+                    "word": "is",
+                    "start": 28.377,
+                    "end": 28.457,
+                    "score": 0.782
+                },
+                {
+                    "word": "nearby.",
+                    "start": 28.537,
+                    "end": 28.898,
+                    "score": 0.561
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Franklin",
+            "start": 0.009,
+            "end": 0.549,
+            "score": 0.518
+        },
+        {
+            "word": "Hotel",
+            "start": 0.569,
+            "end": 0.869,
+            "score": 0.668
+        },
+        {
+            "word": "is",
+            "start": 0.909,
+            "end": 0.969,
+            "score": 0.132
+        },
+        {
+            "word": "located",
+            "start": 0.989,
+            "end": 1.43,
+            "score": 0.895
+        },
+        {
+            "word": "on",
+            "start": 1.77,
+            "end": 1.93,
+            "score": 0.79
+        },
+        {
+            "word": "Kingdom",
+            "start": 2.11,
+            "end": 2.45,
+            "score": 0.911
+        },
+        {
+            "word": "Avenue",
+            "start": 2.49,
+            "end": 2.91,
+            "score": 0.616
+        },
+        {
+            "word": "and",
+            "start": 3.01,
+            "end": 3.151,
+            "score": 0.783
+        },
+        {
+            "word": "Jerole",
+            "start": 3.371,
+            "end": 3.731,
+            "score": 0.49
+        },
+        {
+            "word": "Street",
+            "start": 3.771,
+            "end": 4.291,
+            "score": 0.877
+        },
+        {
+            "word": "You",
+            "start": 9.354,
+            "end": 9.454,
+            "score": 0.993
+        },
+        {
+            "word": "can",
+            "start": 9.494,
+            "end": 9.774,
+            "score": 0.866
+        },
+        {
+            "word": "go",
+            "start": 10.674,
+            "end": 10.854,
+            "score": 0.903
+        },
+        {
+            "word": "there",
+            "start": 10.874,
+            "end": 11.114,
+            "score": 0.559
+        },
+        {
+            "word": "by",
+            "start": 11.174,
+            "end": 11.455,
+            "score": 0.894
+        },
+        {
+            "word": "bus",
+            "start": 11.595,
+            "end": 11.815,
+            "score": 0.919
+        },
+        {
+            "word": "number",
+            "start": 11.835,
+            "end": 12.095,
+            "score": 0.362
+        },
+        {
+            "word": "10"
+        },
+        {
+            "word": "The",
+            "start": 20.823,
+            "end": 20.984,
+            "score": 0.761
+        },
+        {
+            "word": "Franklin",
+            "start": 21.024,
+            "end": 21.344,
+            "score": 0.462
+        },
+        {
+            "word": "Hotel",
+            "start": 21.364,
+            "end": 21.545,
+            "score": 0.405
+        },
+        {
+            "word": "is",
+            "start": 21.605,
+            "end": 21.745,
+            "score": 0.74
+        },
+        {
+            "word": "a",
+            "start": 22.025,
+            "end": 22.186,
+            "score": 0.859
+        },
+        {
+            "word": "little",
+            "start": 22.306,
+            "end": 22.586,
+            "score": 0.57
+        },
+        {
+            "word": "north-west.",
+            "start": 22.727,
+            "end": 24.29,
+            "score": 0.788
+        },
+        {
+            "word": "The",
+            "start": 25.331,
+            "end": 26.193,
+            "score": 0.716
+        },
+        {
+            "word": "Franklin",
+            "start": 26.213,
+            "end": 28.016,
+            "score": 0.609
+        },
+        {
+            "word": "Hotel",
+            "start": 28.056,
+            "end": 28.297,
+            "score": 0.584
+        },
+        {
+            "word": "is",
+            "start": 28.377,
+            "end": 28.457,
+            "score": 0.782
+        },
+        {
+            "word": "nearby.",
+            "start": 28.537,
+            "end": 28.898,
+            "score": 0.561
+        }
+    ]
+}

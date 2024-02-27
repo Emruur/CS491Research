@@ -1,0 +1,548 @@
+{
+    "segments": [
+        {
+            "start": 1.83,
+            "end": 18.202,
+            "text": " If I should go to the post office, I can find easily because the post office location is the corner between High Street and 11th Street.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 1.83,
+                    "end": 2.211,
+                    "score": 0.876
+                },
+                {
+                    "word": "I",
+                    "start": 2.771,
+                    "end": 2.851,
+                    "score": 0.974
+                },
+                {
+                    "word": "should",
+                    "start": 2.911,
+                    "end": 3.151,
+                    "score": 0.848
+                },
+                {
+                    "word": "go",
+                    "start": 3.231,
+                    "end": 3.411,
+                    "score": 0.941
+                },
+                {
+                    "word": "to",
+                    "start": 3.491,
+                    "end": 3.592,
+                    "score": 0.978
+                },
+                {
+                    "word": "the",
+                    "start": 3.652,
+                    "end": 3.852,
+                    "score": 0.911
+                },
+                {
+                    "word": "post",
+                    "start": 4.352,
+                    "end": 4.712,
+                    "score": 0.91
+                },
+                {
+                    "word": "office,",
+                    "start": 4.852,
+                    "end": 5.773,
+                    "score": 0.93
+                },
+                {
+                    "word": "I",
+                    "start": 6.474,
+                    "end": 6.554,
+                    "score": 0.755
+                },
+                {
+                    "word": "can",
+                    "start": 6.574,
+                    "end": 6.734,
+                    "score": 0.984
+                },
+                {
+                    "word": "find",
+                    "start": 6.794,
+                    "end": 7.094,
+                    "score": 0.856
+                },
+                {
+                    "word": "easily",
+                    "start": 7.314,
+                    "end": 7.714,
+                    "score": 0.775
+                },
+                {
+                    "word": "because",
+                    "start": 8.435,
+                    "end": 8.855,
+                    "score": 0.853
+                },
+                {
+                    "word": "the",
+                    "start": 8.875,
+                    "end": 9.095,
+                    "score": 0.713
+                },
+                {
+                    "word": "post",
+                    "start": 9.576,
+                    "end": 9.836,
+                    "score": 0.887
+                },
+                {
+                    "word": "office",
+                    "start": 9.916,
+                    "end": 10.236,
+                    "score": 0.984
+                },
+                {
+                    "word": "location",
+                    "start": 11.237,
+                    "end": 11.977,
+                    "score": 0.8
+                },
+                {
+                    "word": "is",
+                    "start": 12.037,
+                    "end": 12.117,
+                    "score": 0.746
+                },
+                {
+                    "word": "the",
+                    "start": 12.157,
+                    "end": 12.558,
+                    "score": 0.7
+                },
+                {
+                    "word": "corner",
+                    "start": 12.718,
+                    "end": 13.078,
+                    "score": 0.834
+                },
+                {
+                    "word": "between",
+                    "start": 13.158,
+                    "end": 13.819,
+                    "score": 0.591
+                },
+                {
+                    "word": "High",
+                    "start": 14.259,
+                    "end": 14.499,
+                    "score": 0.916
+                },
+                {
+                    "word": "Street",
+                    "start": 14.539,
+                    "end": 14.899,
+                    "score": 0.887
+                },
+                {
+                    "word": "and",
+                    "start": 15.12,
+                    "end": 15.26,
+                    "score": 0.679
+                },
+                {
+                    "word": "11th",
+                    "start": 15.28,
+                    "end": 15.32,
+                    "score": 0.0
+                },
+                {
+                    "word": "Street.",
+                    "start": 16.881,
+                    "end": 18.202,
+                    "score": 0.763
+                }
+            ]
+        },
+        {
+            "start": 19.403,
+            "end": 28.409,
+            "text": "Usually, I want to meet some of my friends, so I need to go to the post office.",
+            "words": [
+                {
+                    "word": "Usually,",
+                    "start": 19.403,
+                    "end": 19.963,
+                    "score": 0.844
+                },
+                {
+                    "word": "I",
+                    "start": 20.323,
+                    "end": 20.443,
+                    "score": 0.83
+                },
+                {
+                    "word": "want",
+                    "start": 20.864,
+                    "end": 21.064,
+                    "score": 0.736
+                },
+                {
+                    "word": "to",
+                    "start": 21.084,
+                    "end": 21.244,
+                    "score": 0.726
+                },
+                {
+                    "word": "meet",
+                    "start": 21.324,
+                    "end": 21.984,
+                    "score": 0.763
+                },
+                {
+                    "word": "some",
+                    "start": 23.085,
+                    "end": 23.285,
+                    "score": 0.887
+                },
+                {
+                    "word": "of",
+                    "start": 23.305,
+                    "end": 23.345,
+                    "score": 0.0
+                },
+                {
+                    "word": "my",
+                    "start": 23.365,
+                    "end": 23.606,
+                    "score": 0.96
+                },
+                {
+                    "word": "friends,",
+                    "start": 23.746,
+                    "end": 24.286,
+                    "score": 0.79
+                },
+                {
+                    "word": "so",
+                    "start": 24.346,
+                    "end": 24.606,
+                    "score": 0.848
+                },
+                {
+                    "word": "I",
+                    "start": 25.467,
+                    "end": 25.587,
+                    "score": 0.852
+                },
+                {
+                    "word": "need",
+                    "start": 25.647,
+                    "end": 25.907,
+                    "score": 0.794
+                },
+                {
+                    "word": "to",
+                    "start": 25.967,
+                    "end": 26.207,
+                    "score": 0.913
+                },
+                {
+                    "word": "go",
+                    "start": 26.387,
+                    "end": 26.568,
+                    "score": 0.952
+                },
+                {
+                    "word": "to",
+                    "start": 26.648,
+                    "end": 26.828,
+                    "score": 0.99
+                },
+                {
+                    "word": "the",
+                    "start": 26.848,
+                    "end": 27.588,
+                    "score": 0.532
+                },
+                {
+                    "word": "post",
+                    "start": 27.728,
+                    "end": 27.989,
+                    "score": 0.822
+                },
+                {
+                    "word": "office.",
+                    "start": 28.109,
+                    "end": 28.409,
+                    "score": 0.895
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 1.83,
+            "end": 2.211,
+            "score": 0.876
+        },
+        {
+            "word": "I",
+            "start": 2.771,
+            "end": 2.851,
+            "score": 0.974
+        },
+        {
+            "word": "should",
+            "start": 2.911,
+            "end": 3.151,
+            "score": 0.848
+        },
+        {
+            "word": "go",
+            "start": 3.231,
+            "end": 3.411,
+            "score": 0.941
+        },
+        {
+            "word": "to",
+            "start": 3.491,
+            "end": 3.592,
+            "score": 0.978
+        },
+        {
+            "word": "the",
+            "start": 3.652,
+            "end": 3.852,
+            "score": 0.911
+        },
+        {
+            "word": "post",
+            "start": 4.352,
+            "end": 4.712,
+            "score": 0.91
+        },
+        {
+            "word": "office,",
+            "start": 4.852,
+            "end": 5.773,
+            "score": 0.93
+        },
+        {
+            "word": "I",
+            "start": 6.474,
+            "end": 6.554,
+            "score": 0.755
+        },
+        {
+            "word": "can",
+            "start": 6.574,
+            "end": 6.734,
+            "score": 0.984
+        },
+        {
+            "word": "find",
+            "start": 6.794,
+            "end": 7.094,
+            "score": 0.856
+        },
+        {
+            "word": "easily",
+            "start": 7.314,
+            "end": 7.714,
+            "score": 0.775
+        },
+        {
+            "word": "because",
+            "start": 8.435,
+            "end": 8.855,
+            "score": 0.853
+        },
+        {
+            "word": "the",
+            "start": 8.875,
+            "end": 9.095,
+            "score": 0.713
+        },
+        {
+            "word": "post",
+            "start": 9.576,
+            "end": 9.836,
+            "score": 0.887
+        },
+        {
+            "word": "office",
+            "start": 9.916,
+            "end": 10.236,
+            "score": 0.984
+        },
+        {
+            "word": "location",
+            "start": 11.237,
+            "end": 11.977,
+            "score": 0.8
+        },
+        {
+            "word": "is",
+            "start": 12.037,
+            "end": 12.117,
+            "score": 0.746
+        },
+        {
+            "word": "the",
+            "start": 12.157,
+            "end": 12.558,
+            "score": 0.7
+        },
+        {
+            "word": "corner",
+            "start": 12.718,
+            "end": 13.078,
+            "score": 0.834
+        },
+        {
+            "word": "between",
+            "start": 13.158,
+            "end": 13.819,
+            "score": 0.591
+        },
+        {
+            "word": "High",
+            "start": 14.259,
+            "end": 14.499,
+            "score": 0.916
+        },
+        {
+            "word": "Street",
+            "start": 14.539,
+            "end": 14.899,
+            "score": 0.887
+        },
+        {
+            "word": "and",
+            "start": 15.12,
+            "end": 15.26,
+            "score": 0.679
+        },
+        {
+            "word": "11th",
+            "start": 15.28,
+            "end": 15.32,
+            "score": 0.0
+        },
+        {
+            "word": "Street.",
+            "start": 16.881,
+            "end": 18.202,
+            "score": 0.763
+        },
+        {
+            "word": "Usually,",
+            "start": 19.403,
+            "end": 19.963,
+            "score": 0.844
+        },
+        {
+            "word": "I",
+            "start": 20.323,
+            "end": 20.443,
+            "score": 0.83
+        },
+        {
+            "word": "want",
+            "start": 20.864,
+            "end": 21.064,
+            "score": 0.736
+        },
+        {
+            "word": "to",
+            "start": 21.084,
+            "end": 21.244,
+            "score": 0.726
+        },
+        {
+            "word": "meet",
+            "start": 21.324,
+            "end": 21.984,
+            "score": 0.763
+        },
+        {
+            "word": "some",
+            "start": 23.085,
+            "end": 23.285,
+            "score": 0.887
+        },
+        {
+            "word": "of",
+            "start": 23.305,
+            "end": 23.345,
+            "score": 0.0
+        },
+        {
+            "word": "my",
+            "start": 23.365,
+            "end": 23.606,
+            "score": 0.96
+        },
+        {
+            "word": "friends,",
+            "start": 23.746,
+            "end": 24.286,
+            "score": 0.79
+        },
+        {
+            "word": "so",
+            "start": 24.346,
+            "end": 24.606,
+            "score": 0.848
+        },
+        {
+            "word": "I",
+            "start": 25.467,
+            "end": 25.587,
+            "score": 0.852
+        },
+        {
+            "word": "need",
+            "start": 25.647,
+            "end": 25.907,
+            "score": 0.794
+        },
+        {
+            "word": "to",
+            "start": 25.967,
+            "end": 26.207,
+            "score": 0.913
+        },
+        {
+            "word": "go",
+            "start": 26.387,
+            "end": 26.568,
+            "score": 0.952
+        },
+        {
+            "word": "to",
+            "start": 26.648,
+            "end": 26.828,
+            "score": 0.99
+        },
+        {
+            "word": "the",
+            "start": 26.848,
+            "end": 27.588,
+            "score": 0.532
+        },
+        {
+            "word": "post",
+            "start": 27.728,
+            "end": 27.989,
+            "score": 0.822
+        },
+        {
+            "word": "office.",
+            "start": 28.109,
+            "end": 28.409,
+            "score": 0.895
+        }
+    ]
+}

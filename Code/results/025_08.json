@@ -1,0 +1,572 @@
+{
+    "segments": [
+        {
+            "start": 0.83,
+            "end": 9.677,
+            "text": " I am in front of Lincoln School and I need to buy some cold medicine for my wife.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.83,
+                    "end": 0.89,
+                    "score": 0.937
+                },
+                {
+                    "word": "am",
+                    "start": 0.95,
+                    "end": 1.05,
+                    "score": 0.524
+                },
+                {
+                    "word": "in",
+                    "start": 1.57,
+                    "end": 1.65,
+                    "score": 0.977
+                },
+                {
+                    "word": "front",
+                    "start": 1.71,
+                    "end": 1.991,
+                    "score": 0.783
+                },
+                {
+                    "word": "of",
+                    "start": 2.171,
+                    "end": 2.271,
+                    "score": 0.874
+                },
+                {
+                    "word": "Lincoln",
+                    "start": 2.751,
+                    "end": 3.292,
+                    "score": 0.808
+                },
+                {
+                    "word": "School",
+                    "start": 3.312,
+                    "end": 3.652,
+                    "score": 0.587
+                },
+                {
+                    "word": "and",
+                    "start": 5.093,
+                    "end": 5.213,
+                    "score": 0.852
+                },
+                {
+                    "word": "I",
+                    "start": 5.313,
+                    "end": 5.373,
+                    "score": 0.831
+                },
+                {
+                    "word": "need",
+                    "start": 5.413,
+                    "end": 5.513,
+                    "score": 0.375
+                },
+                {
+                    "word": "to",
+                    "start": 5.533,
+                    "end": 5.633,
+                    "score": 0.604
+                },
+                {
+                    "word": "buy",
+                    "start": 5.673,
+                    "end": 5.974,
+                    "score": 0.884
+                },
+                {
+                    "word": "some",
+                    "start": 6.074,
+                    "end": 6.354,
+                    "score": 0.935
+                },
+                {
+                    "word": "cold",
+                    "start": 6.734,
+                    "end": 7.095,
+                    "score": 0.868
+                },
+                {
+                    "word": "medicine",
+                    "start": 7.135,
+                    "end": 7.715,
+                    "score": 0.945
+                },
+                {
+                    "word": "for",
+                    "start": 8.496,
+                    "end": 8.816,
+                    "score": 0.995
+                },
+                {
+                    "word": "my",
+                    "start": 9.196,
+                    "end": 9.336,
+                    "score": 0.962
+                },
+                {
+                    "word": "wife.",
+                    "start": 9.396,
+                    "end": 9.677,
+                    "score": 0.914
+                }
+            ]
+        },
+        {
+            "start": 11.438,
+            "end": 29.192,
+            "text": "So in front of Lincoln School, I will make turn right along the 10th street and go straight and I can find the drugstore on my right side.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 11.438,
+                    "end": 11.738,
+                    "score": 0.994
+                },
+                {
+                    "word": "in",
+                    "start": 12.279,
+                    "end": 12.359,
+                    "score": 0.95
+                },
+                {
+                    "word": "front",
+                    "start": 12.399,
+                    "end": 12.679,
+                    "score": 0.828
+                },
+                {
+                    "word": "of",
+                    "start": 12.799,
+                    "end": 12.899,
+                    "score": 0.901
+                },
+                {
+                    "word": "Lincoln",
+                    "start": 13.94,
+                    "end": 14.42,
+                    "score": 0.777
+                },
+                {
+                    "word": "School,",
+                    "start": 14.44,
+                    "end": 14.801,
+                    "score": 0.655
+                },
+                {
+                    "word": "I",
+                    "start": 15.962,
+                    "end": 16.102,
+                    "score": 0.629
+                },
+                {
+                    "word": "will",
+                    "start": 16.122,
+                    "end": 16.362,
+                    "score": 0.776
+                },
+                {
+                    "word": "make",
+                    "start": 17.082,
+                    "end": 17.303,
+                    "score": 0.612
+                },
+                {
+                    "word": "turn",
+                    "start": 17.363,
+                    "end": 17.663,
+                    "score": 0.608
+                },
+                {
+                    "word": "right",
+                    "start": 17.723,
+                    "end": 18.083,
+                    "score": 0.768
+                },
+                {
+                    "word": "along",
+                    "start": 19.184,
+                    "end": 19.504,
+                    "score": 0.861
+                },
+                {
+                    "word": "the",
+                    "start": 20.285,
+                    "end": 20.525,
+                    "score": 0.782
+                },
+                {
+                    "word": "10th",
+                    "start": 20.545,
+                    "end": 20.705,
+                    "score": 0.413
+                },
+                {
+                    "word": "street",
+                    "start": 20.785,
+                    "end": 21.146,
+                    "score": 0.861
+                },
+                {
+                    "word": "and",
+                    "start": 22.407,
+                    "end": 22.527,
+                    "score": 0.858
+                },
+                {
+                    "word": "go",
+                    "start": 22.607,
+                    "end": 22.787,
+                    "score": 0.964
+                },
+                {
+                    "word": "straight",
+                    "start": 22.827,
+                    "end": 23.187,
+                    "score": 0.73
+                },
+                {
+                    "word": "and",
+                    "start": 23.808,
+                    "end": 23.948,
+                    "score": 0.754
+                },
+                {
+                    "word": "I",
+                    "start": 25.249,
+                    "end": 25.329,
+                    "score": 0.933
+                },
+                {
+                    "word": "can",
+                    "start": 25.369,
+                    "end": 25.529,
+                    "score": 0.989
+                },
+                {
+                    "word": "find",
+                    "start": 25.589,
+                    "end": 25.889,
+                    "score": 0.771
+                },
+                {
+                    "word": "the",
+                    "start": 25.949,
+                    "end": 26.15,
+                    "score": 0.676
+                },
+                {
+                    "word": "drugstore",
+                    "start": 26.25,
+                    "end": 26.83,
+                    "score": 0.713
+                },
+                {
+                    "word": "on",
+                    "start": 27.19,
+                    "end": 27.29,
+                    "score": 0.846
+                },
+                {
+                    "word": "my",
+                    "start": 27.35,
+                    "end": 27.651,
+                    "score": 0.869
+                },
+                {
+                    "word": "right",
+                    "start": 28.491,
+                    "end": 28.752,
+                    "score": 0.89
+                },
+                {
+                    "word": "side.",
+                    "start": 28.892,
+                    "end": 29.192,
+                    "score": 0.836
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.83,
+            "end": 0.89,
+            "score": 0.937
+        },
+        {
+            "word": "am",
+            "start": 0.95,
+            "end": 1.05,
+            "score": 0.524
+        },
+        {
+            "word": "in",
+            "start": 1.57,
+            "end": 1.65,
+            "score": 0.977
+        },
+        {
+            "word": "front",
+            "start": 1.71,
+            "end": 1.991,
+            "score": 0.783
+        },
+        {
+            "word": "of",
+            "start": 2.171,
+            "end": 2.271,
+            "score": 0.874
+        },
+        {
+            "word": "Lincoln",
+            "start": 2.751,
+            "end": 3.292,
+            "score": 0.808
+        },
+        {
+            "word": "School",
+            "start": 3.312,
+            "end": 3.652,
+            "score": 0.587
+        },
+        {
+            "word": "and",
+            "start": 5.093,
+            "end": 5.213,
+            "score": 0.852
+        },
+        {
+            "word": "I",
+            "start": 5.313,
+            "end": 5.373,
+            "score": 0.831
+        },
+        {
+            "word": "need",
+            "start": 5.413,
+            "end": 5.513,
+            "score": 0.375
+        },
+        {
+            "word": "to",
+            "start": 5.533,
+            "end": 5.633,
+            "score": 0.604
+        },
+        {
+            "word": "buy",
+            "start": 5.673,
+            "end": 5.974,
+            "score": 0.884
+        },
+        {
+            "word": "some",
+            "start": 6.074,
+            "end": 6.354,
+            "score": 0.935
+        },
+        {
+            "word": "cold",
+            "start": 6.734,
+            "end": 7.095,
+            "score": 0.868
+        },
+        {
+            "word": "medicine",
+            "start": 7.135,
+            "end": 7.715,
+            "score": 0.945
+        },
+        {
+            "word": "for",
+            "start": 8.496,
+            "end": 8.816,
+            "score": 0.995
+        },
+        {
+            "word": "my",
+            "start": 9.196,
+            "end": 9.336,
+            "score": 0.962
+        },
+        {
+            "word": "wife.",
+            "start": 9.396,
+            "end": 9.677,
+            "score": 0.914
+        },
+        {
+            "word": "So",
+            "start": 11.438,
+            "end": 11.738,
+            "score": 0.994
+        },
+        {
+            "word": "in",
+            "start": 12.279,
+            "end": 12.359,
+            "score": 0.95
+        },
+        {
+            "word": "front",
+            "start": 12.399,
+            "end": 12.679,
+            "score": 0.828
+        },
+        {
+            "word": "of",
+            "start": 12.799,
+            "end": 12.899,
+            "score": 0.901
+        },
+        {
+            "word": "Lincoln",
+            "start": 13.94,
+            "end": 14.42,
+            "score": 0.777
+        },
+        {
+            "word": "School,",
+            "start": 14.44,
+            "end": 14.801,
+            "score": 0.655
+        },
+        {
+            "word": "I",
+            "start": 15.962,
+            "end": 16.102,
+            "score": 0.629
+        },
+        {
+            "word": "will",
+            "start": 16.122,
+            "end": 16.362,
+            "score": 0.776
+        },
+        {
+            "word": "make",
+            "start": 17.082,
+            "end": 17.303,
+            "score": 0.612
+        },
+        {
+            "word": "turn",
+            "start": 17.363,
+            "end": 17.663,
+            "score": 0.608
+        },
+        {
+            "word": "right",
+            "start": 17.723,
+            "end": 18.083,
+            "score": 0.768
+        },
+        {
+            "word": "along",
+            "start": 19.184,
+            "end": 19.504,
+            "score": 0.861
+        },
+        {
+            "word": "the",
+            "start": 20.285,
+            "end": 20.525,
+            "score": 0.782
+        },
+        {
+            "word": "10th",
+            "start": 20.545,
+            "end": 20.705,
+            "score": 0.413
+        },
+        {
+            "word": "street",
+            "start": 20.785,
+            "end": 21.146,
+            "score": 0.861
+        },
+        {
+            "word": "and",
+            "start": 22.407,
+            "end": 22.527,
+            "score": 0.858
+        },
+        {
+            "word": "go",
+            "start": 22.607,
+            "end": 22.787,
+            "score": 0.964
+        },
+        {
+            "word": "straight",
+            "start": 22.827,
+            "end": 23.187,
+            "score": 0.73
+        },
+        {
+            "word": "and",
+            "start": 23.808,
+            "end": 23.948,
+            "score": 0.754
+        },
+        {
+            "word": "I",
+            "start": 25.249,
+            "end": 25.329,
+            "score": 0.933
+        },
+        {
+            "word": "can",
+            "start": 25.369,
+            "end": 25.529,
+            "score": 0.989
+        },
+        {
+            "word": "find",
+            "start": 25.589,
+            "end": 25.889,
+            "score": 0.771
+        },
+        {
+            "word": "the",
+            "start": 25.949,
+            "end": 26.15,
+            "score": 0.676
+        },
+        {
+            "word": "drugstore",
+            "start": 26.25,
+            "end": 26.83,
+            "score": 0.713
+        },
+        {
+            "word": "on",
+            "start": 27.19,
+            "end": 27.29,
+            "score": 0.846
+        },
+        {
+            "word": "my",
+            "start": 27.35,
+            "end": 27.651,
+            "score": 0.869
+        },
+        {
+            "word": "right",
+            "start": 28.491,
+            "end": 28.752,
+            "score": 0.89
+        },
+        {
+            "word": "side.",
+            "start": 28.892,
+            "end": 29.192,
+            "score": 0.836
+        }
+    ]
+}

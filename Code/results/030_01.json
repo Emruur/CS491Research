@@ -1,0 +1,723 @@
+{
+    "segments": [
+        {
+            "start": 0.269,
+            "end": 26.362,
+            "text": " my favorite movie is Forrest Gump because in that movie it across the several important periods in American history and it talks about the Vietnam wars and after the wars and some",
+            "words": [
+                {
+                    "word": "my",
+                    "start": 0.269,
+                    "end": 0.409,
+                    "score": 0.838
+                },
+                {
+                    "word": "favorite",
+                    "start": 0.449,
+                    "end": 2.09,
+                    "score": 0.77
+                },
+                {
+                    "word": "movie",
+                    "start": 2.15,
+                    "end": 2.57,
+                    "score": 0.701
+                },
+                {
+                    "word": "is",
+                    "start": 2.65,
+                    "end": 2.89,
+                    "score": 0.788
+                },
+                {
+                    "word": "Forrest",
+                    "start": 3.151,
+                    "end": 3.531,
+                    "score": 0.585
+                },
+                {
+                    "word": "Gump",
+                    "start": 3.611,
+                    "end": 3.971,
+                    "score": 0.878
+                },
+                {
+                    "word": "because",
+                    "start": 6.052,
+                    "end": 6.592,
+                    "score": 0.833
+                },
+                {
+                    "word": "in",
+                    "start": 7.253,
+                    "end": 7.353,
+                    "score": 0.868
+                },
+                {
+                    "word": "that",
+                    "start": 7.393,
+                    "end": 7.593,
+                    "score": 0.914
+                },
+                {
+                    "word": "movie",
+                    "start": 7.653,
+                    "end": 8.153,
+                    "score": 0.655
+                },
+                {
+                    "word": "it",
+                    "start": 8.894,
+                    "end": 8.994,
+                    "score": 0.878
+                },
+                {
+                    "word": "across",
+                    "start": 9.394,
+                    "end": 10.054,
+                    "score": 0.891
+                },
+                {
+                    "word": "the",
+                    "start": 10.294,
+                    "end": 10.835,
+                    "score": 0.86
+                },
+                {
+                    "word": "several",
+                    "start": 12.155,
+                    "end": 12.675,
+                    "score": 0.915
+                },
+                {
+                    "word": "important",
+                    "start": 13.336,
+                    "end": 14.016,
+                    "score": 0.884
+                },
+                {
+                    "word": "periods",
+                    "start": 14.516,
+                    "end": 15.077,
+                    "score": 0.697
+                },
+                {
+                    "word": "in",
+                    "start": 15.497,
+                    "end": 15.577,
+                    "score": 0.931
+                },
+                {
+                    "word": "American",
+                    "start": 15.677,
+                    "end": 16.257,
+                    "score": 0.854
+                },
+                {
+                    "word": "history",
+                    "start": 16.297,
+                    "end": 16.818,
+                    "score": 0.715
+                },
+                {
+                    "word": "and",
+                    "start": 17.538,
+                    "end": 17.738,
+                    "score": 0.923
+                },
+                {
+                    "word": "it",
+                    "start": 18.719,
+                    "end": 18.799,
+                    "score": 0.99
+                },
+                {
+                    "word": "talks",
+                    "start": 18.959,
+                    "end": 19.279,
+                    "score": 0.93
+                },
+                {
+                    "word": "about",
+                    "start": 19.379,
+                    "end": 20.059,
+                    "score": 0.964
+                },
+                {
+                    "word": "the",
+                    "start": 20.8,
+                    "end": 20.98,
+                    "score": 0.982
+                },
+                {
+                    "word": "Vietnam",
+                    "start": 21.1,
+                    "end": 21.54,
+                    "score": 0.719
+                },
+                {
+                    "word": "wars",
+                    "start": 21.64,
+                    "end": 22.12,
+                    "score": 0.856
+                },
+                {
+                    "word": "and",
+                    "start": 22.741,
+                    "end": 22.901,
+                    "score": 0.748
+                },
+                {
+                    "word": "after",
+                    "start": 23.121,
+                    "end": 23.521,
+                    "score": 0.891
+                },
+                {
+                    "word": "the",
+                    "start": 23.601,
+                    "end": 23.961,
+                    "score": 0.971
+                },
+                {
+                    "word": "wars",
+                    "start": 24.181,
+                    "end": 24.682,
+                    "score": 0.765
+                },
+                {
+                    "word": "and",
+                    "start": 25.522,
+                    "end": 25.762,
+                    "score": 0.83
+                },
+                {
+                    "word": "some",
+                    "start": 26.002,
+                    "end": 26.362,
+                    "score": 0.889
+                }
+            ]
+        },
+        {
+            "start": 28.684,
+            "end": 44.201,
+            "text": " some American presidents were attacked by shooters and of course the character Forrest was the most important thing, the feature in the movie.",
+            "words": [
+                {
+                    "word": "some",
+                    "start": 28.684,
+                    "end": 28.985,
+                    "score": 0.838
+                },
+                {
+                    "word": "American",
+                    "start": 29.225,
+                    "end": 29.765,
+                    "score": 0.919
+                },
+                {
+                    "word": "presidents",
+                    "start": 29.846,
+                    "end": 30.526,
+                    "score": 0.783
+                },
+                {
+                    "word": "were",
+                    "start": 31.227,
+                    "end": 31.507,
+                    "score": 0.701
+                },
+                {
+                    "word": "attacked",
+                    "start": 31.587,
+                    "end": 31.988,
+                    "score": 0.921
+                },
+                {
+                    "word": "by",
+                    "start": 32.108,
+                    "end": 32.528,
+                    "score": 0.774
+                },
+                {
+                    "word": "shooters",
+                    "start": 32.829,
+                    "end": 33.409,
+                    "score": 0.803
+                },
+                {
+                    "word": "and",
+                    "start": 34.39,
+                    "end": 34.591,
+                    "score": 0.734
+                },
+                {
+                    "word": "of",
+                    "start": 34.991,
+                    "end": 35.071,
+                    "score": 0.874
+                },
+                {
+                    "word": "course",
+                    "start": 35.151,
+                    "end": 35.952,
+                    "score": 0.886
+                },
+                {
+                    "word": "the",
+                    "start": 37.694,
+                    "end": 37.814,
+                    "score": 0.864
+                },
+                {
+                    "word": "character",
+                    "start": 37.874,
+                    "end": 38.435,
+                    "score": 0.926
+                },
+                {
+                    "word": "Forrest",
+                    "start": 38.515,
+                    "end": 38.955,
+                    "score": 0.824
+                },
+                {
+                    "word": "was",
+                    "start": 39.756,
+                    "end": 39.956,
+                    "score": 0.835
+                },
+                {
+                    "word": "the",
+                    "start": 40.016,
+                    "end": 40.116,
+                    "score": 0.854
+                },
+                {
+                    "word": "most",
+                    "start": 40.157,
+                    "end": 40.457,
+                    "score": 0.844
+                },
+                {
+                    "word": "important",
+                    "start": 40.497,
+                    "end": 41.178,
+                    "score": 0.929
+                },
+                {
+                    "word": "thing,",
+                    "start": 42.099,
+                    "end": 42.459,
+                    "score": 0.931
+                },
+                {
+                    "word": "the",
+                    "start": 42.939,
+                    "end": 43.1,
+                    "score": 0.828
+                },
+                {
+                    "word": "feature",
+                    "start": 43.24,
+                    "end": 43.56,
+                    "score": 0.932
+                },
+                {
+                    "word": "in",
+                    "start": 43.58,
+                    "end": 43.66,
+                    "score": 0.975
+                },
+                {
+                    "word": "the",
+                    "start": 43.68,
+                    "end": 43.76,
+                    "score": 0.37
+                },
+                {
+                    "word": "movie.",
+                    "start": 43.8,
+                    "end": 44.201,
+                    "score": 0.685
+                }
+            ]
+        },
+        {
+            "start": 44.721,
+            "end": 45.142,
+            "text": "He has a",
+            "words": [
+                {
+                    "word": "He",
+                    "start": 44.721,
+                    "end": 44.882,
+                    "score": 0.77
+                },
+                {
+                    "word": "has",
+                    "start": 44.922,
+                    "end": 45.102,
+                    "score": 0.997
+                },
+                {
+                    "word": "a",
+                    "start": 45.122,
+                    "end": 45.142,
+                    "score": 0.0
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "my",
+            "start": 0.269,
+            "end": 0.409,
+            "score": 0.838
+        },
+        {
+            "word": "favorite",
+            "start": 0.449,
+            "end": 2.09,
+            "score": 0.77
+        },
+        {
+            "word": "movie",
+            "start": 2.15,
+            "end": 2.57,
+            "score": 0.701
+        },
+        {
+            "word": "is",
+            "start": 2.65,
+            "end": 2.89,
+            "score": 0.788
+        },
+        {
+            "word": "Forrest",
+            "start": 3.151,
+            "end": 3.531,
+            "score": 0.585
+        },
+        {
+            "word": "Gump",
+            "start": 3.611,
+            "end": 3.971,
+            "score": 0.878
+        },
+        {
+            "word": "because",
+            "start": 6.052,
+            "end": 6.592,
+            "score": 0.833
+        },
+        {
+            "word": "in",
+            "start": 7.253,
+            "end": 7.353,
+            "score": 0.868
+        },
+        {
+            "word": "that",
+            "start": 7.393,
+            "end": 7.593,
+            "score": 0.914
+        },
+        {
+            "word": "movie",
+            "start": 7.653,
+            "end": 8.153,
+            "score": 0.655
+        },
+        {
+            "word": "it",
+            "start": 8.894,
+            "end": 8.994,
+            "score": 0.878
+        },
+        {
+            "word": "across",
+            "start": 9.394,
+            "end": 10.054,
+            "score": 0.891
+        },
+        {
+            "word": "the",
+            "start": 10.294,
+            "end": 10.835,
+            "score": 0.86
+        },
+        {
+            "word": "several",
+            "start": 12.155,
+            "end": 12.675,
+            "score": 0.915
+        },
+        {
+            "word": "important",
+            "start": 13.336,
+            "end": 14.016,
+            "score": 0.884
+        },
+        {
+            "word": "periods",
+            "start": 14.516,
+            "end": 15.077,
+            "score": 0.697
+        },
+        {
+            "word": "in",
+            "start": 15.497,
+            "end": 15.577,
+            "score": 0.931
+        },
+        {
+            "word": "American",
+            "start": 15.677,
+            "end": 16.257,
+            "score": 0.854
+        },
+        {
+            "word": "history",
+            "start": 16.297,
+            "end": 16.818,
+            "score": 0.715
+        },
+        {
+            "word": "and",
+            "start": 17.538,
+            "end": 17.738,
+            "score": 0.923
+        },
+        {
+            "word": "it",
+            "start": 18.719,
+            "end": 18.799,
+            "score": 0.99
+        },
+        {
+            "word": "talks",
+            "start": 18.959,
+            "end": 19.279,
+            "score": 0.93
+        },
+        {
+            "word": "about",
+            "start": 19.379,
+            "end": 20.059,
+            "score": 0.964
+        },
+        {
+            "word": "the",
+            "start": 20.8,
+            "end": 20.98,
+            "score": 0.982
+        },
+        {
+            "word": "Vietnam",
+            "start": 21.1,
+            "end": 21.54,
+            "score": 0.719
+        },
+        {
+            "word": "wars",
+            "start": 21.64,
+            "end": 22.12,
+            "score": 0.856
+        },
+        {
+            "word": "and",
+            "start": 22.741,
+            "end": 22.901,
+            "score": 0.748
+        },
+        {
+            "word": "after",
+            "start": 23.121,
+            "end": 23.521,
+            "score": 0.891
+        },
+        {
+            "word": "the",
+            "start": 23.601,
+            "end": 23.961,
+            "score": 0.971
+        },
+        {
+            "word": "wars",
+            "start": 24.181,
+            "end": 24.682,
+            "score": 0.765
+        },
+        {
+            "word": "and",
+            "start": 25.522,
+            "end": 25.762,
+            "score": 0.83
+        },
+        {
+            "word": "some",
+            "start": 26.002,
+            "end": 26.362,
+            "score": 0.889
+        },
+        {
+            "word": "some",
+            "start": 28.684,
+            "end": 28.985,
+            "score": 0.838
+        },
+        {
+            "word": "American",
+            "start": 29.225,
+            "end": 29.765,
+            "score": 0.919
+        },
+        {
+            "word": "presidents",
+            "start": 29.846,
+            "end": 30.526,
+            "score": 0.783
+        },
+        {
+            "word": "were",
+            "start": 31.227,
+            "end": 31.507,
+            "score": 0.701
+        },
+        {
+            "word": "attacked",
+            "start": 31.587,
+            "end": 31.988,
+            "score": 0.921
+        },
+        {
+            "word": "by",
+            "start": 32.108,
+            "end": 32.528,
+            "score": 0.774
+        },
+        {
+            "word": "shooters",
+            "start": 32.829,
+            "end": 33.409,
+            "score": 0.803
+        },
+        {
+            "word": "and",
+            "start": 34.39,
+            "end": 34.591,
+            "score": 0.734
+        },
+        {
+            "word": "of",
+            "start": 34.991,
+            "end": 35.071,
+            "score": 0.874
+        },
+        {
+            "word": "course",
+            "start": 35.151,
+            "end": 35.952,
+            "score": 0.886
+        },
+        {
+            "word": "the",
+            "start": 37.694,
+            "end": 37.814,
+            "score": 0.864
+        },
+        {
+            "word": "character",
+            "start": 37.874,
+            "end": 38.435,
+            "score": 0.926
+        },
+        {
+            "word": "Forrest",
+            "start": 38.515,
+            "end": 38.955,
+            "score": 0.824
+        },
+        {
+            "word": "was",
+            "start": 39.756,
+            "end": 39.956,
+            "score": 0.835
+        },
+        {
+            "word": "the",
+            "start": 40.016,
+            "end": 40.116,
+            "score": 0.854
+        },
+        {
+            "word": "most",
+            "start": 40.157,
+            "end": 40.457,
+            "score": 0.844
+        },
+        {
+            "word": "important",
+            "start": 40.497,
+            "end": 41.178,
+            "score": 0.929
+        },
+        {
+            "word": "thing,",
+            "start": 42.099,
+            "end": 42.459,
+            "score": 0.931
+        },
+        {
+            "word": "the",
+            "start": 42.939,
+            "end": 43.1,
+            "score": 0.828
+        },
+        {
+            "word": "feature",
+            "start": 43.24,
+            "end": 43.56,
+            "score": 0.932
+        },
+        {
+            "word": "in",
+            "start": 43.58,
+            "end": 43.66,
+            "score": 0.975
+        },
+        {
+            "word": "the",
+            "start": 43.68,
+            "end": 43.76,
+            "score": 0.37
+        },
+        {
+            "word": "movie.",
+            "start": 43.8,
+            "end": 44.201,
+            "score": 0.685
+        },
+        {
+            "word": "He",
+            "start": 44.721,
+            "end": 44.882,
+            "score": 0.77
+        },
+        {
+            "word": "has",
+            "start": 44.922,
+            "end": 45.102,
+            "score": 0.997
+        },
+        {
+            "word": "a",
+            "start": 45.122,
+            "end": 45.142,
+            "score": 0.0
+        }
+    ]
+}

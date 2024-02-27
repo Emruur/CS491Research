@@ -1,0 +1,195 @@
+{
+    "segments": [
+        {
+            "start": 1.289,
+            "end": 5.011,
+            "text": " I recommend you go Town Hall.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.289,
+                    "end": 1.43,
+                    "score": 0.86
+                },
+                {
+                    "word": "recommend",
+                    "start": 1.49,
+                    "end": 2.33,
+                    "score": 0.867
+                },
+                {
+                    "word": "you",
+                    "start": 2.53,
+                    "end": 2.93,
+                    "score": 0.804
+                },
+                {
+                    "word": "go",
+                    "start": 3.13,
+                    "end": 3.55,
+                    "score": 0.862
+                },
+                {
+                    "word": "Town",
+                    "start": 4.391,
+                    "end": 4.691,
+                    "score": 0.908
+                },
+                {
+                    "word": "Hall.",
+                    "start": 4.751,
+                    "end": 5.011,
+                    "score": 0.861
+                }
+            ]
+        },
+        {
+            "start": 6.631,
+            "end": 7.912,
+            "text": "It's on Main Avenue.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 6.631,
+                    "end": 6.792,
+                    "score": 0.884
+                },
+                {
+                    "word": "on",
+                    "start": 6.872,
+                    "end": 6.992,
+                    "score": 0.888
+                },
+                {
+                    "word": "Main",
+                    "start": 7.032,
+                    "end": 7.292,
+                    "score": 0.673
+                },
+                {
+                    "word": "Avenue.",
+                    "start": 7.412,
+                    "end": 7.912,
+                    "score": 0.603
+                }
+            ]
+        },
+        {
+            "start": 10.253,
+            "end": 12.954,
+            "text": "You can reach there.",
+            "words": [
+                {
+                    "word": "You",
+                    "start": 10.253,
+                    "end": 10.393,
+                    "score": 0.987
+                },
+                {
+                    "word": "can",
+                    "start": 11.173,
+                    "end": 11.553,
+                    "score": 0.834
+                },
+                {
+                    "word": "reach",
+                    "start": 12.073,
+                    "end": 12.554,
+                    "score": 0.439
+                },
+                {
+                    "word": "there.",
+                    "start": 12.614,
+                    "end": 12.954,
+                    "score": 0.851
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.289,
+            "end": 1.43,
+            "score": 0.86
+        },
+        {
+            "word": "recommend",
+            "start": 1.49,
+            "end": 2.33,
+            "score": 0.867
+        },
+        {
+            "word": "you",
+            "start": 2.53,
+            "end": 2.93,
+            "score": 0.804
+        },
+        {
+            "word": "go",
+            "start": 3.13,
+            "end": 3.55,
+            "score": 0.862
+        },
+        {
+            "word": "Town",
+            "start": 4.391,
+            "end": 4.691,
+            "score": 0.908
+        },
+        {
+            "word": "Hall.",
+            "start": 4.751,
+            "end": 5.011,
+            "score": 0.861
+        },
+        {
+            "word": "It's",
+            "start": 6.631,
+            "end": 6.792,
+            "score": 0.884
+        },
+        {
+            "word": "on",
+            "start": 6.872,
+            "end": 6.992,
+            "score": 0.888
+        },
+        {
+            "word": "Main",
+            "start": 7.032,
+            "end": 7.292,
+            "score": 0.673
+        },
+        {
+            "word": "Avenue.",
+            "start": 7.412,
+            "end": 7.912,
+            "score": 0.603
+        },
+        {
+            "word": "You",
+            "start": 10.253,
+            "end": 10.393,
+            "score": 0.987
+        },
+        {
+            "word": "can",
+            "start": 11.173,
+            "end": 11.553,
+            "score": 0.834
+        },
+        {
+            "word": "reach",
+            "start": 12.073,
+            "end": 12.554,
+            "score": 0.439
+        },
+        {
+            "word": "there.",
+            "start": 12.614,
+            "end": 12.954,
+            "score": 0.851
+        }
+    ]
+}

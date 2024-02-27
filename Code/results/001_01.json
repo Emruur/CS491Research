@@ -1,0 +1,1193 @@
+{
+    "segments": [
+        {
+            "start": 0.329,
+            "end": 2.67,
+            "text": " First of all, I want to introduce one movie.",
+            "words": [
+                {
+                    "word": "First",
+                    "start": 0.329,
+                    "end": 0.509,
+                    "score": 0.877
+                },
+                {
+                    "word": "of",
+                    "start": 0.589,
+                    "end": 0.629,
+                    "score": 0.349
+                },
+                {
+                    "word": "all,",
+                    "start": 0.709,
+                    "end": 0.769,
+                    "score": 0.048
+                },
+                {
+                    "word": "I",
+                    "start": 0.829,
+                    "end": 0.889,
+                    "score": 0.974
+                },
+                {
+                    "word": "want",
+                    "start": 0.929,
+                    "end": 1.109,
+                    "score": 0.854
+                },
+                {
+                    "word": "to",
+                    "start": 1.169,
+                    "end": 1.289,
+                    "score": 0.868
+                },
+                {
+                    "word": "introduce",
+                    "start": 1.349,
+                    "end": 1.81,
+                    "score": 0.633
+                },
+                {
+                    "word": "one",
+                    "start": 1.97,
+                    "end": 2.35,
+                    "score": 0.62
+                },
+                {
+                    "word": "movie.",
+                    "start": 2.37,
+                    "end": 2.67,
+                    "score": 0.698
+                }
+            ]
+        },
+        {
+            "start": 2.71,
+            "end": 7.091,
+            "text": "It's a Chinese movie, but I forgot the name of the Chinese movie.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 2.71,
+                    "end": 2.79,
+                    "score": 0.412
+                },
+                {
+                    "word": "a",
+                    "start": 2.81,
+                    "end": 2.83,
+                    "score": 0.001
+                },
+                {
+                    "word": "Chinese",
+                    "start": 2.87,
+                    "end": 3.25,
+                    "score": 0.607
+                },
+                {
+                    "word": "movie,",
+                    "start": 3.29,
+                    "end": 3.59,
+                    "score": 0.769
+                },
+                {
+                    "word": "but",
+                    "start": 3.63,
+                    "end": 3.87,
+                    "score": 0.94
+                },
+                {
+                    "word": "I",
+                    "start": 5.271,
+                    "end": 5.331,
+                    "score": 0.967
+                },
+                {
+                    "word": "forgot",
+                    "start": 5.371,
+                    "end": 5.631,
+                    "score": 0.83
+                },
+                {
+                    "word": "the",
+                    "start": 5.651,
+                    "end": 5.711,
+                    "score": 0.142
+                },
+                {
+                    "word": "name",
+                    "start": 5.891,
+                    "end": 6.051,
+                    "score": 0.871
+                },
+                {
+                    "word": "of",
+                    "start": 6.071,
+                    "end": 6.111,
+                    "score": 0.992
+                },
+                {
+                    "word": "the",
+                    "start": 6.131,
+                    "end": 6.191,
+                    "score": 0.02
+                },
+                {
+                    "word": "Chinese",
+                    "start": 6.211,
+                    "end": 6.511,
+                    "score": 0.471
+                },
+                {
+                    "word": "movie.",
+                    "start": 6.551,
+                    "end": 7.091,
+                    "score": 0.621
+                }
+            ]
+        },
+        {
+            "start": 7.571,
+            "end": 19.135,
+            "text": "But it describes a young kid, how he worked hard because he had a poor family and the environment is not good.",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 7.571,
+                    "end": 7.751,
+                    "score": 0.842
+                },
+                {
+                    "word": "it",
+                    "start": 7.851,
+                    "end": 8.031,
+                    "score": 0.879
+                },
+                {
+                    "word": "describes",
+                    "start": 8.191,
+                    "end": 9.212,
+                    "score": 0.908
+                },
+                {
+                    "word": "a",
+                    "start": 9.652,
+                    "end": 9.692,
+                    "score": 0.996
+                },
+                {
+                    "word": "young",
+                    "start": 9.752,
+                    "end": 9.932,
+                    "score": 0.88
+                },
+                {
+                    "word": "kid,",
+                    "start": 9.972,
+                    "end": 10.272,
+                    "score": 0.824
+                },
+                {
+                    "word": "how",
+                    "start": 10.412,
+                    "end": 10.972,
+                    "score": 0.883
+                },
+                {
+                    "word": "he",
+                    "start": 11.032,
+                    "end": 11.192,
+                    "score": 0.97
+                },
+                {
+                    "word": "worked",
+                    "start": 11.252,
+                    "end": 11.452,
+                    "score": 0.903
+                },
+                {
+                    "word": "hard",
+                    "start": 11.512,
+                    "end": 11.732,
+                    "score": 0.902
+                },
+                {
+                    "word": "because",
+                    "start": 11.772,
+                    "end": 13.773,
+                    "score": 0.688
+                },
+                {
+                    "word": "he",
+                    "start": 14.533,
+                    "end": 15.013,
+                    "score": 0.656
+                },
+                {
+                    "word": "had",
+                    "start": 15.053,
+                    "end": 15.213,
+                    "score": 0.841
+                },
+                {
+                    "word": "a",
+                    "start": 15.233,
+                    "end": 15.253,
+                    "score": 0.0
+                },
+                {
+                    "word": "poor",
+                    "start": 15.714,
+                    "end": 16.034,
+                    "score": 0.821
+                },
+                {
+                    "word": "family",
+                    "start": 16.094,
+                    "end": 16.534,
+                    "score": 0.871
+                },
+                {
+                    "word": "and",
+                    "start": 16.694,
+                    "end": 16.854,
+                    "score": 0.641
+                },
+                {
+                    "word": "the",
+                    "start": 17.574,
+                    "end": 17.654,
+                    "score": 0.991
+                },
+                {
+                    "word": "environment",
+                    "start": 17.734,
+                    "end": 18.314,
+                    "score": 0.753
+                },
+                {
+                    "word": "is",
+                    "start": 18.514,
+                    "end": 18.594,
+                    "score": 0.834
+                },
+                {
+                    "word": "not",
+                    "start": 18.674,
+                    "end": 18.854,
+                    "score": 0.787
+                },
+                {
+                    "word": "good.",
+                    "start": 18.874,
+                    "end": 19.135,
+                    "score": 0.792
+                }
+            ]
+        },
+        {
+            "start": 19.535,
+            "end": 26.217,
+            "text": "But he tried his best to work hard and then finally he became a professor and",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 19.535,
+                    "end": 19.695,
+                    "score": 0.977
+                },
+                {
+                    "word": "he",
+                    "start": 19.775,
+                    "end": 20.255,
+                    "score": 0.79
+                },
+                {
+                    "word": "tried",
+                    "start": 20.475,
+                    "end": 20.695,
+                    "score": 0.86
+                },
+                {
+                    "word": "his",
+                    "start": 20.755,
+                    "end": 20.895,
+                    "score": 0.67
+                },
+                {
+                    "word": "best",
+                    "start": 20.955,
+                    "end": 21.595,
+                    "score": 0.835
+                },
+                {
+                    "word": "to",
+                    "start": 23.476,
+                    "end": 23.576,
+                    "score": 0.993
+                },
+                {
+                    "word": "work",
+                    "start": 23.616,
+                    "end": 23.796,
+                    "score": 0.823
+                },
+                {
+                    "word": "hard",
+                    "start": 23.856,
+                    "end": 24.136,
+                    "score": 0.829
+                },
+                {
+                    "word": "and",
+                    "start": 24.256,
+                    "end": 24.356,
+                    "score": 0.834
+                },
+                {
+                    "word": "then",
+                    "start": 24.396,
+                    "end": 24.576,
+                    "score": 0.946
+                },
+                {
+                    "word": "finally",
+                    "start": 24.636,
+                    "end": 24.996,
+                    "score": 0.864
+                },
+                {
+                    "word": "he",
+                    "start": 25.056,
+                    "end": 25.196,
+                    "score": 0.844
+                },
+                {
+                    "word": "became",
+                    "start": 25.216,
+                    "end": 25.576,
+                    "score": 0.876
+                },
+                {
+                    "word": "a",
+                    "start": 25.596,
+                    "end": 25.636,
+                    "score": 0.498
+                },
+                {
+                    "word": "professor",
+                    "start": 25.696,
+                    "end": 26.137,
+                    "score": 0.999
+                },
+                {
+                    "word": "and",
+                    "start": 26.157,
+                    "end": 26.217,
+                    "score": 0.0
+                }
+            ]
+        },
+        {
+            "start": 29.059,
+            "end": 43.558,
+            "text": " and he's very famous in his research or in my country so that really improved me a lot to to know how hard work should i do and there we are they give many people courage",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 29.059,
+                    "end": 29.219,
+                    "score": 0.693
+                },
+                {
+                    "word": "he's",
+                    "start": 29.299,
+                    "end": 29.539,
+                    "score": 0.807
+                },
+                {
+                    "word": "very",
+                    "start": 29.64,
+                    "end": 29.84,
+                    "score": 0.793
+                },
+                {
+                    "word": "famous",
+                    "start": 29.88,
+                    "end": 30.3,
+                    "score": 0.932
+                },
+                {
+                    "word": "in",
+                    "start": 30.401,
+                    "end": 30.501,
+                    "score": 0.913
+                },
+                {
+                    "word": "his",
+                    "start": 30.861,
+                    "end": 31.021,
+                    "score": 0.77
+                },
+                {
+                    "word": "research",
+                    "start": 31.222,
+                    "end": 31.642,
+                    "score": 0.875
+                },
+                {
+                    "word": "or",
+                    "start": 32.303,
+                    "end": 32.403,
+                    "score": 0.825
+                },
+                {
+                    "word": "in",
+                    "start": 32.523,
+                    "end": 32.603,
+                    "score": 0.831
+                },
+                {
+                    "word": "my",
+                    "start": 32.643,
+                    "end": 32.764,
+                    "score": 0.832
+                },
+                {
+                    "word": "country",
+                    "start": 32.804,
+                    "end": 33.264,
+                    "score": 0.837
+                },
+                {
+                    "word": "so",
+                    "start": 33.284,
+                    "end": 33.705,
+                    "score": 0.85
+                },
+                {
+                    "word": "that",
+                    "start": 33.725,
+                    "end": 35.067,
+                    "score": 0.66
+                },
+                {
+                    "word": "really",
+                    "start": 35.227,
+                    "end": 35.507,
+                    "score": 0.954
+                },
+                {
+                    "word": "improved",
+                    "start": 35.587,
+                    "end": 35.968,
+                    "score": 0.777
+                },
+                {
+                    "word": "me",
+                    "start": 35.988,
+                    "end": 36.088,
+                    "score": 0.95
+                },
+                {
+                    "word": "a",
+                    "start": 36.128,
+                    "end": 36.168,
+                    "score": 0.667
+                },
+                {
+                    "word": "lot",
+                    "start": 36.228,
+                    "end": 36.529,
+                    "score": 0.781
+                },
+                {
+                    "word": "to",
+                    "start": 36.629,
+                    "end": 36.969,
+                    "score": 0.914
+                },
+                {
+                    "word": "to",
+                    "start": 37.57,
+                    "end": 37.71,
+                    "score": 0.772
+                },
+                {
+                    "word": "know",
+                    "start": 37.75,
+                    "end": 37.99,
+                    "score": 0.847
+                },
+                {
+                    "word": "how",
+                    "start": 38.551,
+                    "end": 38.751,
+                    "score": 0.935
+                },
+                {
+                    "word": "hard",
+                    "start": 38.852,
+                    "end": 39.012,
+                    "score": 0.726
+                },
+                {
+                    "word": "work",
+                    "start": 39.032,
+                    "end": 39.232,
+                    "score": 0.876
+                },
+                {
+                    "word": "should",
+                    "start": 39.272,
+                    "end": 39.472,
+                    "score": 0.819
+                },
+                {
+                    "word": "i",
+                    "start": 39.552,
+                    "end": 39.633,
+                    "score": 0.752
+                },
+                {
+                    "word": "do",
+                    "start": 39.673,
+                    "end": 39.893,
+                    "score": 0.853
+                },
+                {
+                    "word": "and",
+                    "start": 40.273,
+                    "end": 40.394,
+                    "score": 0.865
+                },
+                {
+                    "word": "there",
+                    "start": 40.474,
+                    "end": 40.634,
+                    "score": 0.511
+                },
+                {
+                    "word": "we",
+                    "start": 40.654,
+                    "end": 40.754,
+                    "score": 0.798
+                },
+                {
+                    "word": "are",
+                    "start": 40.894,
+                    "end": 41.034,
+                    "score": 0.466
+                },
+                {
+                    "word": "they",
+                    "start": 41.435,
+                    "end": 41.615,
+                    "score": 0.882
+                },
+                {
+                    "word": "give",
+                    "start": 41.635,
+                    "end": 41.815,
+                    "score": 0.895
+                },
+                {
+                    "word": "many",
+                    "start": 41.835,
+                    "end": 42.036,
+                    "score": 0.84
+                },
+                {
+                    "word": "people",
+                    "start": 42.076,
+                    "end": 42.416,
+                    "score": 0.937
+                },
+                {
+                    "word": "courage",
+                    "start": 42.436,
+                    "end": 43.558,
+                    "score": 0.368
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "First",
+            "start": 0.329,
+            "end": 0.509,
+            "score": 0.877
+        },
+        {
+            "word": "of",
+            "start": 0.589,
+            "end": 0.629,
+            "score": 0.349
+        },
+        {
+            "word": "all,",
+            "start": 0.709,
+            "end": 0.769,
+            "score": 0.048
+        },
+        {
+            "word": "I",
+            "start": 0.829,
+            "end": 0.889,
+            "score": 0.974
+        },
+        {
+            "word": "want",
+            "start": 0.929,
+            "end": 1.109,
+            "score": 0.854
+        },
+        {
+            "word": "to",
+            "start": 1.169,
+            "end": 1.289,
+            "score": 0.868
+        },
+        {
+            "word": "introduce",
+            "start": 1.349,
+            "end": 1.81,
+            "score": 0.633
+        },
+        {
+            "word": "one",
+            "start": 1.97,
+            "end": 2.35,
+            "score": 0.62
+        },
+        {
+            "word": "movie.",
+            "start": 2.37,
+            "end": 2.67,
+            "score": 0.698
+        },
+        {
+            "word": "It's",
+            "start": 2.71,
+            "end": 2.79,
+            "score": 0.412
+        },
+        {
+            "word": "a",
+            "start": 2.81,
+            "end": 2.83,
+            "score": 0.001
+        },
+        {
+            "word": "Chinese",
+            "start": 2.87,
+            "end": 3.25,
+            "score": 0.607
+        },
+        {
+            "word": "movie,",
+            "start": 3.29,
+            "end": 3.59,
+            "score": 0.769
+        },
+        {
+            "word": "but",
+            "start": 3.63,
+            "end": 3.87,
+            "score": 0.94
+        },
+        {
+            "word": "I",
+            "start": 5.271,
+            "end": 5.331,
+            "score": 0.967
+        },
+        {
+            "word": "forgot",
+            "start": 5.371,
+            "end": 5.631,
+            "score": 0.83
+        },
+        {
+            "word": "the",
+            "start": 5.651,
+            "end": 5.711,
+            "score": 0.142
+        },
+        {
+            "word": "name",
+            "start": 5.891,
+            "end": 6.051,
+            "score": 0.871
+        },
+        {
+            "word": "of",
+            "start": 6.071,
+            "end": 6.111,
+            "score": 0.992
+        },
+        {
+            "word": "the",
+            "start": 6.131,
+            "end": 6.191,
+            "score": 0.02
+        },
+        {
+            "word": "Chinese",
+            "start": 6.211,
+            "end": 6.511,
+            "score": 0.471
+        },
+        {
+            "word": "movie.",
+            "start": 6.551,
+            "end": 7.091,
+            "score": 0.621
+        },
+        {
+            "word": "But",
+            "start": 7.571,
+            "end": 7.751,
+            "score": 0.842
+        },
+        {
+            "word": "it",
+            "start": 7.851,
+            "end": 8.031,
+            "score": 0.879
+        },
+        {
+            "word": "describes",
+            "start": 8.191,
+            "end": 9.212,
+            "score": 0.908
+        },
+        {
+            "word": "a",
+            "start": 9.652,
+            "end": 9.692,
+            "score": 0.996
+        },
+        {
+            "word": "young",
+            "start": 9.752,
+            "end": 9.932,
+            "score": 0.88
+        },
+        {
+            "word": "kid,",
+            "start": 9.972,
+            "end": 10.272,
+            "score": 0.824
+        },
+        {
+            "word": "how",
+            "start": 10.412,
+            "end": 10.972,
+            "score": 0.883
+        },
+        {
+            "word": "he",
+            "start": 11.032,
+            "end": 11.192,
+            "score": 0.97
+        },
+        {
+            "word": "worked",
+            "start": 11.252,
+            "end": 11.452,
+            "score": 0.903
+        },
+        {
+            "word": "hard",
+            "start": 11.512,
+            "end": 11.732,
+            "score": 0.902
+        },
+        {
+            "word": "because",
+            "start": 11.772,
+            "end": 13.773,
+            "score": 0.688
+        },
+        {
+            "word": "he",
+            "start": 14.533,
+            "end": 15.013,
+            "score": 0.656
+        },
+        {
+            "word": "had",
+            "start": 15.053,
+            "end": 15.213,
+            "score": 0.841
+        },
+        {
+            "word": "a",
+            "start": 15.233,
+            "end": 15.253,
+            "score": 0.0
+        },
+        {
+            "word": "poor",
+            "start": 15.714,
+            "end": 16.034,
+            "score": 0.821
+        },
+        {
+            "word": "family",
+            "start": 16.094,
+            "end": 16.534,
+            "score": 0.871
+        },
+        {
+            "word": "and",
+            "start": 16.694,
+            "end": 16.854,
+            "score": 0.641
+        },
+        {
+            "word": "the",
+            "start": 17.574,
+            "end": 17.654,
+            "score": 0.991
+        },
+        {
+            "word": "environment",
+            "start": 17.734,
+            "end": 18.314,
+            "score": 0.753
+        },
+        {
+            "word": "is",
+            "start": 18.514,
+            "end": 18.594,
+            "score": 0.834
+        },
+        {
+            "word": "not",
+            "start": 18.674,
+            "end": 18.854,
+            "score": 0.787
+        },
+        {
+            "word": "good.",
+            "start": 18.874,
+            "end": 19.135,
+            "score": 0.792
+        },
+        {
+            "word": "But",
+            "start": 19.535,
+            "end": 19.695,
+            "score": 0.977
+        },
+        {
+            "word": "he",
+            "start": 19.775,
+            "end": 20.255,
+            "score": 0.79
+        },
+        {
+            "word": "tried",
+            "start": 20.475,
+            "end": 20.695,
+            "score": 0.86
+        },
+        {
+            "word": "his",
+            "start": 20.755,
+            "end": 20.895,
+            "score": 0.67
+        },
+        {
+            "word": "best",
+            "start": 20.955,
+            "end": 21.595,
+            "score": 0.835
+        },
+        {
+            "word": "to",
+            "start": 23.476,
+            "end": 23.576,
+            "score": 0.993
+        },
+        {
+            "word": "work",
+            "start": 23.616,
+            "end": 23.796,
+            "score": 0.823
+        },
+        {
+            "word": "hard",
+            "start": 23.856,
+            "end": 24.136,
+            "score": 0.829
+        },
+        {
+            "word": "and",
+            "start": 24.256,
+            "end": 24.356,
+            "score": 0.834
+        },
+        {
+            "word": "then",
+            "start": 24.396,
+            "end": 24.576,
+            "score": 0.946
+        },
+        {
+            "word": "finally",
+            "start": 24.636,
+            "end": 24.996,
+            "score": 0.864
+        },
+        {
+            "word": "he",
+            "start": 25.056,
+            "end": 25.196,
+            "score": 0.844
+        },
+        {
+            "word": "became",
+            "start": 25.216,
+            "end": 25.576,
+            "score": 0.876
+        },
+        {
+            "word": "a",
+            "start": 25.596,
+            "end": 25.636,
+            "score": 0.498
+        },
+        {
+            "word": "professor",
+            "start": 25.696,
+            "end": 26.137,
+            "score": 0.999
+        },
+        {
+            "word": "and",
+            "start": 26.157,
+            "end": 26.217,
+            "score": 0.0
+        },
+        {
+            "word": "and",
+            "start": 29.059,
+            "end": 29.219,
+            "score": 0.693
+        },
+        {
+            "word": "he's",
+            "start": 29.299,
+            "end": 29.539,
+            "score": 0.807
+        },
+        {
+            "word": "very",
+            "start": 29.64,
+            "end": 29.84,
+            "score": 0.793
+        },
+        {
+            "word": "famous",
+            "start": 29.88,
+            "end": 30.3,
+            "score": 0.932
+        },
+        {
+            "word": "in",
+            "start": 30.401,
+            "end": 30.501,
+            "score": 0.913
+        },
+        {
+            "word": "his",
+            "start": 30.861,
+            "end": 31.021,
+            "score": 0.77
+        },
+        {
+            "word": "research",
+            "start": 31.222,
+            "end": 31.642,
+            "score": 0.875
+        },
+        {
+            "word": "or",
+            "start": 32.303,
+            "end": 32.403,
+            "score": 0.825
+        },
+        {
+            "word": "in",
+            "start": 32.523,
+            "end": 32.603,
+            "score": 0.831
+        },
+        {
+            "word": "my",
+            "start": 32.643,
+            "end": 32.764,
+            "score": 0.832
+        },
+        {
+            "word": "country",
+            "start": 32.804,
+            "end": 33.264,
+            "score": 0.837
+        },
+        {
+            "word": "so",
+            "start": 33.284,
+            "end": 33.705,
+            "score": 0.85
+        },
+        {
+            "word": "that",
+            "start": 33.725,
+            "end": 35.067,
+            "score": 0.66
+        },
+        {
+            "word": "really",
+            "start": 35.227,
+            "end": 35.507,
+            "score": 0.954
+        },
+        {
+            "word": "improved",
+            "start": 35.587,
+            "end": 35.968,
+            "score": 0.777
+        },
+        {
+            "word": "me",
+            "start": 35.988,
+            "end": 36.088,
+            "score": 0.95
+        },
+        {
+            "word": "a",
+            "start": 36.128,
+            "end": 36.168,
+            "score": 0.667
+        },
+        {
+            "word": "lot",
+            "start": 36.228,
+            "end": 36.529,
+            "score": 0.781
+        },
+        {
+            "word": "to",
+            "start": 36.629,
+            "end": 36.969,
+            "score": 0.914
+        },
+        {
+            "word": "to",
+            "start": 37.57,
+            "end": 37.71,
+            "score": 0.772
+        },
+        {
+            "word": "know",
+            "start": 37.75,
+            "end": 37.99,
+            "score": 0.847
+        },
+        {
+            "word": "how",
+            "start": 38.551,
+            "end": 38.751,
+            "score": 0.935
+        },
+        {
+            "word": "hard",
+            "start": 38.852,
+            "end": 39.012,
+            "score": 0.726
+        },
+        {
+            "word": "work",
+            "start": 39.032,
+            "end": 39.232,
+            "score": 0.876
+        },
+        {
+            "word": "should",
+            "start": 39.272,
+            "end": 39.472,
+            "score": 0.819
+        },
+        {
+            "word": "i",
+            "start": 39.552,
+            "end": 39.633,
+            "score": 0.752
+        },
+        {
+            "word": "do",
+            "start": 39.673,
+            "end": 39.893,
+            "score": 0.853
+        },
+        {
+            "word": "and",
+            "start": 40.273,
+            "end": 40.394,
+            "score": 0.865
+        },
+        {
+            "word": "there",
+            "start": 40.474,
+            "end": 40.634,
+            "score": 0.511
+        },
+        {
+            "word": "we",
+            "start": 40.654,
+            "end": 40.754,
+            "score": 0.798
+        },
+        {
+            "word": "are",
+            "start": 40.894,
+            "end": 41.034,
+            "score": 0.466
+        },
+        {
+            "word": "they",
+            "start": 41.435,
+            "end": 41.615,
+            "score": 0.882
+        },
+        {
+            "word": "give",
+            "start": 41.635,
+            "end": 41.815,
+            "score": 0.895
+        },
+        {
+            "word": "many",
+            "start": 41.835,
+            "end": 42.036,
+            "score": 0.84
+        },
+        {
+            "word": "people",
+            "start": 42.076,
+            "end": 42.416,
+            "score": 0.937
+        },
+        {
+            "word": "courage",
+            "start": 42.436,
+            "end": 43.558,
+            "score": 0.368
+        }
+    ]
+}

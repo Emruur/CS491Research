@@ -1,0 +1,764 @@
+{
+    "segments": [
+        {
+            "start": 0.81,
+            "end": 27.387,
+            "text": " you can go to park hotel and now you are 11th street and you should go straight first when you see the park you should turn right and you should go you should follow this way and when you see the park road you should turn right and on the corner of the 12th and park road",
+            "words": [
+                {
+                    "word": "you",
+                    "start": 0.81,
+                    "end": 0.91,
+                    "score": 0.997
+                },
+                {
+                    "word": "can",
+                    "start": 0.95,
+                    "end": 1.13,
+                    "score": 0.742
+                },
+                {
+                    "word": "go",
+                    "start": 1.17,
+                    "end": 1.41,
+                    "score": 0.358
+                },
+                {
+                    "word": "to",
+                    "start": 1.61,
+                    "end": 1.77,
+                    "score": 0.618
+                },
+                {
+                    "word": "park",
+                    "start": 2.17,
+                    "end": 2.431,
+                    "score": 0.861
+                },
+                {
+                    "word": "hotel",
+                    "start": 2.471,
+                    "end": 2.851,
+                    "score": 0.736
+                },
+                {
+                    "word": "and",
+                    "start": 3.932,
+                    "end": 4.112,
+                    "score": 0.561
+                },
+                {
+                    "word": "now",
+                    "start": 4.592,
+                    "end": 4.852,
+                    "score": 0.892
+                },
+                {
+                    "word": "you",
+                    "start": 4.872,
+                    "end": 4.932,
+                    "score": 0.001
+                },
+                {
+                    "word": "are",
+                    "start": 5.473,
+                    "end": 5.593,
+                    "score": 0.742
+                },
+                {
+                    "word": "11th",
+                    "start": 5.613,
+                    "end": 7.014,
+                    "score": 0.414
+                },
+                {
+                    "word": "street",
+                    "start": 7.074,
+                    "end": 7.514,
+                    "score": 0.757
+                },
+                {
+                    "word": "and",
+                    "start": 7.834,
+                    "end": 7.954,
+                    "score": 0.764
+                },
+                {
+                    "word": "you",
+                    "start": 8.014,
+                    "end": 8.114,
+                    "score": 0.967
+                },
+                {
+                    "word": "should",
+                    "start": 8.134,
+                    "end": 8.335,
+                    "score": 0.478
+                },
+                {
+                    "word": "go",
+                    "start": 8.355,
+                    "end": 8.535,
+                    "score": 0.772
+                },
+                {
+                    "word": "straight",
+                    "start": 8.635,
+                    "end": 9.035,
+                    "score": 0.651
+                },
+                {
+                    "word": "first",
+                    "start": 9.155,
+                    "end": 9.595,
+                    "score": 0.839
+                },
+                {
+                    "word": "when",
+                    "start": 9.956,
+                    "end": 10.156,
+                    "score": 0.824
+                },
+                {
+                    "word": "you",
+                    "start": 10.196,
+                    "end": 10.356,
+                    "score": 0.941
+                },
+                {
+                    "word": "see",
+                    "start": 10.456,
+                    "end": 10.696,
+                    "score": 0.886
+                },
+                {
+                    "word": "the",
+                    "start": 10.756,
+                    "end": 10.856,
+                    "score": 0.838
+                },
+                {
+                    "word": "park",
+                    "start": 10.916,
+                    "end": 11.297,
+                    "score": 0.82
+                },
+                {
+                    "word": "you",
+                    "start": 11.957,
+                    "end": 12.057,
+                    "score": 0.828
+                },
+                {
+                    "word": "should",
+                    "start": 12.077,
+                    "end": 12.277,
+                    "score": 0.511
+                },
+                {
+                    "word": "turn",
+                    "start": 12.377,
+                    "end": 12.677,
+                    "score": 0.825
+                },
+                {
+                    "word": "right",
+                    "start": 12.798,
+                    "end": 13.178,
+                    "score": 0.851
+                },
+                {
+                    "word": "and",
+                    "start": 13.858,
+                    "end": 13.958,
+                    "score": 0.811
+                },
+                {
+                    "word": "you",
+                    "start": 13.978,
+                    "end": 14.058,
+                    "score": 0.929
+                },
+                {
+                    "word": "should",
+                    "start": 14.078,
+                    "end": 14.299,
+                    "score": 0.589
+                },
+                {
+                    "word": "go",
+                    "start": 14.419,
+                    "end": 14.739,
+                    "score": 0.432
+                },
+                {
+                    "word": "you",
+                    "start": 15.619,
+                    "end": 15.72,
+                    "score": 0.903
+                },
+                {
+                    "word": "should",
+                    "start": 15.74,
+                    "end": 15.94,
+                    "score": 0.578
+                },
+                {
+                    "word": "follow",
+                    "start": 17.401,
+                    "end": 17.801,
+                    "score": 0.801
+                },
+                {
+                    "word": "this",
+                    "start": 17.841,
+                    "end": 18.021,
+                    "score": 0.904
+                },
+                {
+                    "word": "way",
+                    "start": 18.101,
+                    "end": 18.321,
+                    "score": 0.877
+                },
+                {
+                    "word": "and",
+                    "start": 19.022,
+                    "end": 19.162,
+                    "score": 0.564
+                },
+                {
+                    "word": "when",
+                    "start": 19.882,
+                    "end": 20.042,
+                    "score": 0.897
+                },
+                {
+                    "word": "you",
+                    "start": 20.062,
+                    "end": 20.183,
+                    "score": 0.997
+                },
+                {
+                    "word": "see",
+                    "start": 20.223,
+                    "end": 20.423,
+                    "score": 0.779
+                },
+                {
+                    "word": "the",
+                    "start": 20.463,
+                    "end": 20.563,
+                    "score": 0.846
+                },
+                {
+                    "word": "park",
+                    "start": 20.603,
+                    "end": 20.883,
+                    "score": 0.891
+                },
+                {
+                    "word": "road",
+                    "start": 20.943,
+                    "end": 21.183,
+                    "score": 0.82
+                },
+                {
+                    "word": "you",
+                    "start": 21.263,
+                    "end": 21.343,
+                    "score": 0.997
+                },
+                {
+                    "word": "should",
+                    "start": 21.363,
+                    "end": 21.583,
+                    "score": 0.549
+                },
+                {
+                    "word": "turn",
+                    "start": 21.944,
+                    "end": 22.144,
+                    "score": 0.86
+                },
+                {
+                    "word": "right",
+                    "start": 22.224,
+                    "end": 22.604,
+                    "score": 0.847
+                },
+                {
+                    "word": "and",
+                    "start": 23.425,
+                    "end": 23.605,
+                    "score": 0.673
+                },
+                {
+                    "word": "on",
+                    "start": 23.825,
+                    "end": 23.905,
+                    "score": 0.748
+                },
+                {
+                    "word": "the",
+                    "start": 23.945,
+                    "end": 24.025,
+                    "score": 0.845
+                },
+                {
+                    "word": "corner",
+                    "start": 24.045,
+                    "end": 24.385,
+                    "score": 0.793
+                },
+                {
+                    "word": "of",
+                    "start": 24.445,
+                    "end": 24.585,
+                    "score": 0.984
+                },
+                {
+                    "word": "the",
+                    "start": 25.106,
+                    "end": 25.246,
+                    "score": 0.858
+                },
+                {
+                    "word": "12th",
+                    "start": 25.286,
+                    "end": 25.346,
+                    "score": 0.246
+                },
+                {
+                    "word": "and",
+                    "start": 25.966,
+                    "end": 26.106,
+                    "score": 0.405
+                },
+                {
+                    "word": "park",
+                    "start": 26.907,
+                    "end": 27.067,
+                    "score": 0.264
+                },
+                {
+                    "word": "road",
+                    "start": 27.107,
+                    "end": 27.387,
+                    "score": 0.389
+                }
+            ]
+        },
+        {
+            "start": 30.274,
+            "end": 31.488,
+            "text": " you can see Park Road.",
+            "words": [
+                {
+                    "word": "you",
+                    "start": 30.274,
+                    "end": 30.375,
+                    "score": 0.999
+                },
+                {
+                    "word": "can",
+                    "start": 30.415,
+                    "end": 30.618,
+                    "score": 0.873
+                },
+                {
+                    "word": "see",
+                    "start": 30.658,
+                    "end": 30.901,
+                    "score": 0.859
+                },
+                {
+                    "word": "Park",
+                    "start": 31.043,
+                    "end": 31.245,
+                    "score": 0.819
+                },
+                {
+                    "word": "Road.",
+                    "start": 31.326,
+                    "end": 31.488,
+                    "score": 0.674
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "you",
+            "start": 0.81,
+            "end": 0.91,
+            "score": 0.997
+        },
+        {
+            "word": "can",
+            "start": 0.95,
+            "end": 1.13,
+            "score": 0.742
+        },
+        {
+            "word": "go",
+            "start": 1.17,
+            "end": 1.41,
+            "score": 0.358
+        },
+        {
+            "word": "to",
+            "start": 1.61,
+            "end": 1.77,
+            "score": 0.618
+        },
+        {
+            "word": "park",
+            "start": 2.17,
+            "end": 2.431,
+            "score": 0.861
+        },
+        {
+            "word": "hotel",
+            "start": 2.471,
+            "end": 2.851,
+            "score": 0.736
+        },
+        {
+            "word": "and",
+            "start": 3.932,
+            "end": 4.112,
+            "score": 0.561
+        },
+        {
+            "word": "now",
+            "start": 4.592,
+            "end": 4.852,
+            "score": 0.892
+        },
+        {
+            "word": "you",
+            "start": 4.872,
+            "end": 4.932,
+            "score": 0.001
+        },
+        {
+            "word": "are",
+            "start": 5.473,
+            "end": 5.593,
+            "score": 0.742
+        },
+        {
+            "word": "11th",
+            "start": 5.613,
+            "end": 7.014,
+            "score": 0.414
+        },
+        {
+            "word": "street",
+            "start": 7.074,
+            "end": 7.514,
+            "score": 0.757
+        },
+        {
+            "word": "and",
+            "start": 7.834,
+            "end": 7.954,
+            "score": 0.764
+        },
+        {
+            "word": "you",
+            "start": 8.014,
+            "end": 8.114,
+            "score": 0.967
+        },
+        {
+            "word": "should",
+            "start": 8.134,
+            "end": 8.335,
+            "score": 0.478
+        },
+        {
+            "word": "go",
+            "start": 8.355,
+            "end": 8.535,
+            "score": 0.772
+        },
+        {
+            "word": "straight",
+            "start": 8.635,
+            "end": 9.035,
+            "score": 0.651
+        },
+        {
+            "word": "first",
+            "start": 9.155,
+            "end": 9.595,
+            "score": 0.839
+        },
+        {
+            "word": "when",
+            "start": 9.956,
+            "end": 10.156,
+            "score": 0.824
+        },
+        {
+            "word": "you",
+            "start": 10.196,
+            "end": 10.356,
+            "score": 0.941
+        },
+        {
+            "word": "see",
+            "start": 10.456,
+            "end": 10.696,
+            "score": 0.886
+        },
+        {
+            "word": "the",
+            "start": 10.756,
+            "end": 10.856,
+            "score": 0.838
+        },
+        {
+            "word": "park",
+            "start": 10.916,
+            "end": 11.297,
+            "score": 0.82
+        },
+        {
+            "word": "you",
+            "start": 11.957,
+            "end": 12.057,
+            "score": 0.828
+        },
+        {
+            "word": "should",
+            "start": 12.077,
+            "end": 12.277,
+            "score": 0.511
+        },
+        {
+            "word": "turn",
+            "start": 12.377,
+            "end": 12.677,
+            "score": 0.825
+        },
+        {
+            "word": "right",
+            "start": 12.798,
+            "end": 13.178,
+            "score": 0.851
+        },
+        {
+            "word": "and",
+            "start": 13.858,
+            "end": 13.958,
+            "score": 0.811
+        },
+        {
+            "word": "you",
+            "start": 13.978,
+            "end": 14.058,
+            "score": 0.929
+        },
+        {
+            "word": "should",
+            "start": 14.078,
+            "end": 14.299,
+            "score": 0.589
+        },
+        {
+            "word": "go",
+            "start": 14.419,
+            "end": 14.739,
+            "score": 0.432
+        },
+        {
+            "word": "you",
+            "start": 15.619,
+            "end": 15.72,
+            "score": 0.903
+        },
+        {
+            "word": "should",
+            "start": 15.74,
+            "end": 15.94,
+            "score": 0.578
+        },
+        {
+            "word": "follow",
+            "start": 17.401,
+            "end": 17.801,
+            "score": 0.801
+        },
+        {
+            "word": "this",
+            "start": 17.841,
+            "end": 18.021,
+            "score": 0.904
+        },
+        {
+            "word": "way",
+            "start": 18.101,
+            "end": 18.321,
+            "score": 0.877
+        },
+        {
+            "word": "and",
+            "start": 19.022,
+            "end": 19.162,
+            "score": 0.564
+        },
+        {
+            "word": "when",
+            "start": 19.882,
+            "end": 20.042,
+            "score": 0.897
+        },
+        {
+            "word": "you",
+            "start": 20.062,
+            "end": 20.183,
+            "score": 0.997
+        },
+        {
+            "word": "see",
+            "start": 20.223,
+            "end": 20.423,
+            "score": 0.779
+        },
+        {
+            "word": "the",
+            "start": 20.463,
+            "end": 20.563,
+            "score": 0.846
+        },
+        {
+            "word": "park",
+            "start": 20.603,
+            "end": 20.883,
+            "score": 0.891
+        },
+        {
+            "word": "road",
+            "start": 20.943,
+            "end": 21.183,
+            "score": 0.82
+        },
+        {
+            "word": "you",
+            "start": 21.263,
+            "end": 21.343,
+            "score": 0.997
+        },
+        {
+            "word": "should",
+            "start": 21.363,
+            "end": 21.583,
+            "score": 0.549
+        },
+        {
+            "word": "turn",
+            "start": 21.944,
+            "end": 22.144,
+            "score": 0.86
+        },
+        {
+            "word": "right",
+            "start": 22.224,
+            "end": 22.604,
+            "score": 0.847
+        },
+        {
+            "word": "and",
+            "start": 23.425,
+            "end": 23.605,
+            "score": 0.673
+        },
+        {
+            "word": "on",
+            "start": 23.825,
+            "end": 23.905,
+            "score": 0.748
+        },
+        {
+            "word": "the",
+            "start": 23.945,
+            "end": 24.025,
+            "score": 0.845
+        },
+        {
+            "word": "corner",
+            "start": 24.045,
+            "end": 24.385,
+            "score": 0.793
+        },
+        {
+            "word": "of",
+            "start": 24.445,
+            "end": 24.585,
+            "score": 0.984
+        },
+        {
+            "word": "the",
+            "start": 25.106,
+            "end": 25.246,
+            "score": 0.858
+        },
+        {
+            "word": "12th",
+            "start": 25.286,
+            "end": 25.346,
+            "score": 0.246
+        },
+        {
+            "word": "and",
+            "start": 25.966,
+            "end": 26.106,
+            "score": 0.405
+        },
+        {
+            "word": "park",
+            "start": 26.907,
+            "end": 27.067,
+            "score": 0.264
+        },
+        {
+            "word": "road",
+            "start": 27.107,
+            "end": 27.387,
+            "score": 0.389
+        },
+        {
+            "word": "you",
+            "start": 30.274,
+            "end": 30.375,
+            "score": 0.999
+        },
+        {
+            "word": "can",
+            "start": 30.415,
+            "end": 30.618,
+            "score": 0.873
+        },
+        {
+            "word": "see",
+            "start": 30.658,
+            "end": 30.901,
+            "score": 0.859
+        },
+        {
+            "word": "Park",
+            "start": 31.043,
+            "end": 31.245,
+            "score": 0.819
+        },
+        {
+            "word": "Road.",
+            "start": 31.326,
+            "end": 31.488,
+            "score": 0.674
+        }
+    ]
+}

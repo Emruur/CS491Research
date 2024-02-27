@@ -1,0 +1,927 @@
+{
+    "segments": [
+        {
+            "start": 0.17,
+            "end": 3.846,
+            "text": " I agree with this claim because",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.17,
+                    "end": 0.29,
+                    "score": 0.996
+                },
+                {
+                    "word": "agree",
+                    "start": 0.391,
+                    "end": 0.893,
+                    "score": 0.886
+                },
+                {
+                    "word": "with",
+                    "start": 1.034,
+                    "end": 1.315,
+                    "score": 0.971
+                },
+                {
+                    "word": "this",
+                    "start": 2.179,
+                    "end": 2.4,
+                    "score": 0.792
+                },
+                {
+                    "word": "claim",
+                    "start": 2.882,
+                    "end": 3.283,
+                    "score": 0.887
+                },
+                {
+                    "word": "because",
+                    "start": 3.444,
+                    "end": 3.846,
+                    "score": 0.936
+                }
+            ]
+        },
+        {
+            "start": 5.393,
+            "end": 31.203,
+            "text": " we drink we can buy soda everywhere but people don't know about this dangerous and they drink a lot of sodas so government should government have to warning the dangerous for the citizen and then they take",
+            "words": [
+                {
+                    "word": "we",
+                    "start": 5.393,
+                    "end": 5.553,
+                    "score": 0.897
+                },
+                {
+                    "word": "drink",
+                    "start": 5.593,
+                    "end": 7.434,
+                    "score": 0.947
+                },
+                {
+                    "word": "we",
+                    "start": 7.554,
+                    "end": 7.654,
+                    "score": 0.997
+                },
+                {
+                    "word": "can",
+                    "start": 7.694,
+                    "end": 7.854,
+                    "score": 0.968
+                },
+                {
+                    "word": "buy",
+                    "start": 7.894,
+                    "end": 8.254,
+                    "score": 0.695
+                },
+                {
+                    "word": "soda",
+                    "start": 8.434,
+                    "end": 8.874,
+                    "score": 0.925
+                },
+                {
+                    "word": "everywhere",
+                    "start": 8.974,
+                    "end": 9.535,
+                    "score": 0.692
+                },
+                {
+                    "word": "but",
+                    "start": 10.015,
+                    "end": 10.275,
+                    "score": 0.871
+                },
+                {
+                    "word": "people",
+                    "start": 11.255,
+                    "end": 11.695,
+                    "score": 0.872
+                },
+                {
+                    "word": "don't",
+                    "start": 11.795,
+                    "end": 11.976,
+                    "score": 0.866
+                },
+                {
+                    "word": "know",
+                    "start": 12.016,
+                    "end": 12.316,
+                    "score": 0.842
+                },
+                {
+                    "word": "about",
+                    "start": 12.396,
+                    "end": 12.716,
+                    "score": 0.99
+                },
+                {
+                    "word": "this",
+                    "start": 12.896,
+                    "end": 13.076,
+                    "score": 0.934
+                },
+                {
+                    "word": "dangerous",
+                    "start": 13.156,
+                    "end": 13.796,
+                    "score": 0.907
+                },
+                {
+                    "word": "and",
+                    "start": 14.837,
+                    "end": 15.017,
+                    "score": 0.558
+                },
+                {
+                    "word": "they",
+                    "start": 15.437,
+                    "end": 15.637,
+                    "score": 0.91
+                },
+                {
+                    "word": "drink",
+                    "start": 15.677,
+                    "end": 15.957,
+                    "score": 0.766
+                },
+                {
+                    "word": "a",
+                    "start": 16.197,
+                    "end": 16.217,
+                    "score": 0.925
+                },
+                {
+                    "word": "lot",
+                    "start": 16.277,
+                    "end": 16.497,
+                    "score": 0.933
+                },
+                {
+                    "word": "of",
+                    "start": 16.557,
+                    "end": 16.617,
+                    "score": 0.721
+                },
+                {
+                    "word": "sodas",
+                    "start": 17.578,
+                    "end": 18.098,
+                    "score": 0.629
+                },
+                {
+                    "word": "so",
+                    "start": 18.918,
+                    "end": 19.298,
+                    "score": 0.931
+                },
+                {
+                    "word": "government",
+                    "start": 19.639,
+                    "end": 20.279,
+                    "score": 0.883
+                },
+                {
+                    "word": "should",
+                    "start": 20.399,
+                    "end": 20.659,
+                    "score": 0.889
+                },
+                {
+                    "word": "government",
+                    "start": 21.659,
+                    "end": 22.199,
+                    "score": 0.886
+                },
+                {
+                    "word": "have",
+                    "start": 22.82,
+                    "end": 23.12,
+                    "score": 0.823
+                },
+                {
+                    "word": "to",
+                    "start": 23.8,
+                    "end": 24.2,
+                    "score": 0.928
+                },
+                {
+                    "word": "warning",
+                    "start": 24.22,
+                    "end": 25.461,
+                    "score": 0.672
+                },
+                {
+                    "word": "the",
+                    "start": 26.401,
+                    "end": 26.641,
+                    "score": 0.853
+                },
+                {
+                    "word": "dangerous",
+                    "start": 26.681,
+                    "end": 27.261,
+                    "score": 0.884
+                },
+                {
+                    "word": "for",
+                    "start": 27.381,
+                    "end": 27.662,
+                    "score": 0.959
+                },
+                {
+                    "word": "the",
+                    "start": 27.722,
+                    "end": 27.982,
+                    "score": 0.791
+                },
+                {
+                    "word": "citizen",
+                    "start": 28.042,
+                    "end": 28.562,
+                    "score": 0.902
+                },
+                {
+                    "word": "and",
+                    "start": 29.102,
+                    "end": 29.202,
+                    "score": 0.815
+                },
+                {
+                    "word": "then",
+                    "start": 29.242,
+                    "end": 29.522,
+                    "score": 0.867
+                },
+                {
+                    "word": "they",
+                    "start": 29.642,
+                    "end": 29.942,
+                    "score": 0.888
+                },
+                {
+                    "word": "take",
+                    "start": 30.863,
+                    "end": 31.203,
+                    "score": 0.56
+                }
+            ]
+        },
+        {
+            "start": 33.824,
+            "end": 56.461,
+            "text": " uh they don't have to obviously i think government have have responsible for the citizens health so government have to warning put require health warning level on the side of soda cans",
+            "words": [
+                {
+                    "word": "uh",
+                    "start": 33.824,
+                    "end": 33.984,
+                    "score": 0.312
+                },
+                {
+                    "word": "they",
+                    "start": 35.205,
+                    "end": 35.405,
+                    "score": 0.894
+                },
+                {
+                    "word": "don't",
+                    "start": 35.465,
+                    "end": 35.846,
+                    "score": 0.726
+                },
+                {
+                    "word": "have",
+                    "start": 36.006,
+                    "end": 36.226,
+                    "score": 0.966
+                },
+                {
+                    "word": "to",
+                    "start": 36.326,
+                    "end": 36.486,
+                    "score": 0.966
+                },
+                {
+                    "word": "obviously",
+                    "start": 36.506,
+                    "end": 39.669,
+                    "score": 0.561
+                },
+                {
+                    "word": "i",
+                    "start": 41.65,
+                    "end": 41.71,
+                    "score": 0.853
+                },
+                {
+                    "word": "think",
+                    "start": 41.75,
+                    "end": 41.95,
+                    "score": 0.93
+                },
+                {
+                    "word": "government",
+                    "start": 42.01,
+                    "end": 42.531,
+                    "score": 0.885
+                },
+                {
+                    "word": "have",
+                    "start": 42.891,
+                    "end": 43.131,
+                    "score": 0.914
+                },
+                {
+                    "word": "have",
+                    "start": 43.471,
+                    "end": 43.852,
+                    "score": 0.851
+                },
+                {
+                    "word": "responsible",
+                    "start": 44.212,
+                    "end": 44.992,
+                    "score": 0.887
+                },
+                {
+                    "word": "for",
+                    "start": 45.053,
+                    "end": 45.313,
+                    "score": 0.97
+                },
+                {
+                    "word": "the",
+                    "start": 45.353,
+                    "end": 45.493,
+                    "score": 0.874
+                },
+                {
+                    "word": "citizens",
+                    "start": 45.913,
+                    "end": 46.574,
+                    "score": 0.878
+                },
+                {
+                    "word": "health",
+                    "start": 46.714,
+                    "end": 47.054,
+                    "score": 0.446
+                },
+                {
+                    "word": "so",
+                    "start": 47.634,
+                    "end": 48.035,
+                    "score": 0.847
+                },
+                {
+                    "word": "government",
+                    "start": 49.416,
+                    "end": 49.916,
+                    "score": 0.829
+                },
+                {
+                    "word": "have",
+                    "start": 50.016,
+                    "end": 50.236,
+                    "score": 0.861
+                },
+                {
+                    "word": "to",
+                    "start": 50.276,
+                    "end": 50.537,
+                    "score": 0.871
+                },
+                {
+                    "word": "warning",
+                    "start": 50.797,
+                    "end": 51.197,
+                    "score": 0.868
+                },
+                {
+                    "word": "put",
+                    "start": 51.597,
+                    "end": 51.757,
+                    "score": 0.843
+                },
+                {
+                    "word": "require",
+                    "start": 52.698,
+                    "end": 53.299,
+                    "score": 0.933
+                },
+                {
+                    "word": "health",
+                    "start": 53.319,
+                    "end": 54.059,
+                    "score": 0.301
+                },
+                {
+                    "word": "warning",
+                    "start": 54.159,
+                    "end": 54.479,
+                    "score": 0.829
+                },
+                {
+                    "word": "level",
+                    "start": 54.56,
+                    "end": 54.88,
+                    "score": 0.722
+                },
+                {
+                    "word": "on",
+                    "start": 54.94,
+                    "end": 55.02,
+                    "score": 0.95
+                },
+                {
+                    "word": "the",
+                    "start": 55.06,
+                    "end": 55.16,
+                    "score": 0.837
+                },
+                {
+                    "word": "side",
+                    "start": 55.2,
+                    "end": 55.42,
+                    "score": 0.949
+                },
+                {
+                    "word": "of",
+                    "start": 55.48,
+                    "end": 55.62,
+                    "score": 0.904
+                },
+                {
+                    "word": "soda",
+                    "start": 55.84,
+                    "end": 56.141,
+                    "score": 0.744
+                },
+                {
+                    "word": "cans",
+                    "start": 56.181,
+                    "end": 56.461,
+                    "score": 0.747
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.17,
+            "end": 0.29,
+            "score": 0.996
+        },
+        {
+            "word": "agree",
+            "start": 0.391,
+            "end": 0.893,
+            "score": 0.886
+        },
+        {
+            "word": "with",
+            "start": 1.034,
+            "end": 1.315,
+            "score": 0.971
+        },
+        {
+            "word": "this",
+            "start": 2.179,
+            "end": 2.4,
+            "score": 0.792
+        },
+        {
+            "word": "claim",
+            "start": 2.882,
+            "end": 3.283,
+            "score": 0.887
+        },
+        {
+            "word": "because",
+            "start": 3.444,
+            "end": 3.846,
+            "score": 0.936
+        },
+        {
+            "word": "we",
+            "start": 5.393,
+            "end": 5.553,
+            "score": 0.897
+        },
+        {
+            "word": "drink",
+            "start": 5.593,
+            "end": 7.434,
+            "score": 0.947
+        },
+        {
+            "word": "we",
+            "start": 7.554,
+            "end": 7.654,
+            "score": 0.997
+        },
+        {
+            "word": "can",
+            "start": 7.694,
+            "end": 7.854,
+            "score": 0.968
+        },
+        {
+            "word": "buy",
+            "start": 7.894,
+            "end": 8.254,
+            "score": 0.695
+        },
+        {
+            "word": "soda",
+            "start": 8.434,
+            "end": 8.874,
+            "score": 0.925
+        },
+        {
+            "word": "everywhere",
+            "start": 8.974,
+            "end": 9.535,
+            "score": 0.692
+        },
+        {
+            "word": "but",
+            "start": 10.015,
+            "end": 10.275,
+            "score": 0.871
+        },
+        {
+            "word": "people",
+            "start": 11.255,
+            "end": 11.695,
+            "score": 0.872
+        },
+        {
+            "word": "don't",
+            "start": 11.795,
+            "end": 11.976,
+            "score": 0.866
+        },
+        {
+            "word": "know",
+            "start": 12.016,
+            "end": 12.316,
+            "score": 0.842
+        },
+        {
+            "word": "about",
+            "start": 12.396,
+            "end": 12.716,
+            "score": 0.99
+        },
+        {
+            "word": "this",
+            "start": 12.896,
+            "end": 13.076,
+            "score": 0.934
+        },
+        {
+            "word": "dangerous",
+            "start": 13.156,
+            "end": 13.796,
+            "score": 0.907
+        },
+        {
+            "word": "and",
+            "start": 14.837,
+            "end": 15.017,
+            "score": 0.558
+        },
+        {
+            "word": "they",
+            "start": 15.437,
+            "end": 15.637,
+            "score": 0.91
+        },
+        {
+            "word": "drink",
+            "start": 15.677,
+            "end": 15.957,
+            "score": 0.766
+        },
+        {
+            "word": "a",
+            "start": 16.197,
+            "end": 16.217,
+            "score": 0.925
+        },
+        {
+            "word": "lot",
+            "start": 16.277,
+            "end": 16.497,
+            "score": 0.933
+        },
+        {
+            "word": "of",
+            "start": 16.557,
+            "end": 16.617,
+            "score": 0.721
+        },
+        {
+            "word": "sodas",
+            "start": 17.578,
+            "end": 18.098,
+            "score": 0.629
+        },
+        {
+            "word": "so",
+            "start": 18.918,
+            "end": 19.298,
+            "score": 0.931
+        },
+        {
+            "word": "government",
+            "start": 19.639,
+            "end": 20.279,
+            "score": 0.883
+        },
+        {
+            "word": "should",
+            "start": 20.399,
+            "end": 20.659,
+            "score": 0.889
+        },
+        {
+            "word": "government",
+            "start": 21.659,
+            "end": 22.199,
+            "score": 0.886
+        },
+        {
+            "word": "have",
+            "start": 22.82,
+            "end": 23.12,
+            "score": 0.823
+        },
+        {
+            "word": "to",
+            "start": 23.8,
+            "end": 24.2,
+            "score": 0.928
+        },
+        {
+            "word": "warning",
+            "start": 24.22,
+            "end": 25.461,
+            "score": 0.672
+        },
+        {
+            "word": "the",
+            "start": 26.401,
+            "end": 26.641,
+            "score": 0.853
+        },
+        {
+            "word": "dangerous",
+            "start": 26.681,
+            "end": 27.261,
+            "score": 0.884
+        },
+        {
+            "word": "for",
+            "start": 27.381,
+            "end": 27.662,
+            "score": 0.959
+        },
+        {
+            "word": "the",
+            "start": 27.722,
+            "end": 27.982,
+            "score": 0.791
+        },
+        {
+            "word": "citizen",
+            "start": 28.042,
+            "end": 28.562,
+            "score": 0.902
+        },
+        {
+            "word": "and",
+            "start": 29.102,
+            "end": 29.202,
+            "score": 0.815
+        },
+        {
+            "word": "then",
+            "start": 29.242,
+            "end": 29.522,
+            "score": 0.867
+        },
+        {
+            "word": "they",
+            "start": 29.642,
+            "end": 29.942,
+            "score": 0.888
+        },
+        {
+            "word": "take",
+            "start": 30.863,
+            "end": 31.203,
+            "score": 0.56
+        },
+        {
+            "word": "uh",
+            "start": 33.824,
+            "end": 33.984,
+            "score": 0.312
+        },
+        {
+            "word": "they",
+            "start": 35.205,
+            "end": 35.405,
+            "score": 0.894
+        },
+        {
+            "word": "don't",
+            "start": 35.465,
+            "end": 35.846,
+            "score": 0.726
+        },
+        {
+            "word": "have",
+            "start": 36.006,
+            "end": 36.226,
+            "score": 0.966
+        },
+        {
+            "word": "to",
+            "start": 36.326,
+            "end": 36.486,
+            "score": 0.966
+        },
+        {
+            "word": "obviously",
+            "start": 36.506,
+            "end": 39.669,
+            "score": 0.561
+        },
+        {
+            "word": "i",
+            "start": 41.65,
+            "end": 41.71,
+            "score": 0.853
+        },
+        {
+            "word": "think",
+            "start": 41.75,
+            "end": 41.95,
+            "score": 0.93
+        },
+        {
+            "word": "government",
+            "start": 42.01,
+            "end": 42.531,
+            "score": 0.885
+        },
+        {
+            "word": "have",
+            "start": 42.891,
+            "end": 43.131,
+            "score": 0.914
+        },
+        {
+            "word": "have",
+            "start": 43.471,
+            "end": 43.852,
+            "score": 0.851
+        },
+        {
+            "word": "responsible",
+            "start": 44.212,
+            "end": 44.992,
+            "score": 0.887
+        },
+        {
+            "word": "for",
+            "start": 45.053,
+            "end": 45.313,
+            "score": 0.97
+        },
+        {
+            "word": "the",
+            "start": 45.353,
+            "end": 45.493,
+            "score": 0.874
+        },
+        {
+            "word": "citizens",
+            "start": 45.913,
+            "end": 46.574,
+            "score": 0.878
+        },
+        {
+            "word": "health",
+            "start": 46.714,
+            "end": 47.054,
+            "score": 0.446
+        },
+        {
+            "word": "so",
+            "start": 47.634,
+            "end": 48.035,
+            "score": 0.847
+        },
+        {
+            "word": "government",
+            "start": 49.416,
+            "end": 49.916,
+            "score": 0.829
+        },
+        {
+            "word": "have",
+            "start": 50.016,
+            "end": 50.236,
+            "score": 0.861
+        },
+        {
+            "word": "to",
+            "start": 50.276,
+            "end": 50.537,
+            "score": 0.871
+        },
+        {
+            "word": "warning",
+            "start": 50.797,
+            "end": 51.197,
+            "score": 0.868
+        },
+        {
+            "word": "put",
+            "start": 51.597,
+            "end": 51.757,
+            "score": 0.843
+        },
+        {
+            "word": "require",
+            "start": 52.698,
+            "end": 53.299,
+            "score": 0.933
+        },
+        {
+            "word": "health",
+            "start": 53.319,
+            "end": 54.059,
+            "score": 0.301
+        },
+        {
+            "word": "warning",
+            "start": 54.159,
+            "end": 54.479,
+            "score": 0.829
+        },
+        {
+            "word": "level",
+            "start": 54.56,
+            "end": 54.88,
+            "score": 0.722
+        },
+        {
+            "word": "on",
+            "start": 54.94,
+            "end": 55.02,
+            "score": 0.95
+        },
+        {
+            "word": "the",
+            "start": 55.06,
+            "end": 55.16,
+            "score": 0.837
+        },
+        {
+            "word": "side",
+            "start": 55.2,
+            "end": 55.42,
+            "score": 0.949
+        },
+        {
+            "word": "of",
+            "start": 55.48,
+            "end": 55.62,
+            "score": 0.904
+        },
+        {
+            "word": "soda",
+            "start": 55.84,
+            "end": 56.141,
+            "score": 0.744
+        },
+        {
+            "word": "cans",
+            "start": 56.181,
+            "end": 56.461,
+            "score": 0.747
+        }
+    ]
+}

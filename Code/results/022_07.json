@@ -1,0 +1,704 @@
+{
+    "segments": [
+        {
+            "start": 0.53,
+            "end": 4.678,
+            "text": " When you exit the door of the Franklin Hotel, you should",
+            "words": [
+                {
+                    "word": "When",
+                    "start": 0.53,
+                    "end": 0.71,
+                    "score": 0.941
+                },
+                {
+                    "word": "you",
+                    "start": 0.75,
+                    "end": 0.991,
+                    "score": 0.872
+                },
+                {
+                    "word": "exit",
+                    "start": 1.171,
+                    "end": 1.552,
+                    "score": 0.802
+                },
+                {
+                    "word": "the",
+                    "start": 1.592,
+                    "end": 1.692,
+                    "score": 0.817
+                },
+                {
+                    "word": "door",
+                    "start": 1.732,
+                    "end": 2.113,
+                    "score": 0.824
+                },
+                {
+                    "word": "of",
+                    "start": 2.213,
+                    "end": 2.313,
+                    "score": 0.644
+                },
+                {
+                    "word": "the",
+                    "start": 2.353,
+                    "end": 2.434,
+                    "score": 0.816
+                },
+                {
+                    "word": "Franklin",
+                    "start": 2.474,
+                    "end": 2.934,
+                    "score": 0.833
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 2.975,
+                    "end": 3.395,
+                    "score": 0.825
+                },
+                {
+                    "word": "you",
+                    "start": 4.257,
+                    "end": 4.377,
+                    "score": 0.912
+                },
+                {
+                    "word": "should",
+                    "start": 4.437,
+                    "end": 4.678,
+                    "score": 0.911
+                }
+            ]
+        },
+        {
+            "start": 6.536,
+            "end": 31.251,
+            "text": " go down about two blocks on your left side until you meet harrison avenue and then you can turn right and go down the one more block until meet a church street and you turn left you can see the limelight disco on your right side",
+            "words": [
+                {
+                    "word": "go",
+                    "start": 6.536,
+                    "end": 6.736,
+                    "score": 0.832
+                },
+                {
+                    "word": "down",
+                    "start": 6.816,
+                    "end": 7.216,
+                    "score": 0.84
+                },
+                {
+                    "word": "about",
+                    "start": 8.137,
+                    "end": 8.417,
+                    "score": 0.906
+                },
+                {
+                    "word": "two",
+                    "start": 8.497,
+                    "end": 8.697,
+                    "score": 0.921
+                },
+                {
+                    "word": "blocks",
+                    "start": 8.717,
+                    "end": 9.118,
+                    "score": 0.692
+                },
+                {
+                    "word": "on",
+                    "start": 9.258,
+                    "end": 9.318,
+                    "score": 0.996
+                },
+                {
+                    "word": "your",
+                    "start": 9.358,
+                    "end": 9.518,
+                    "score": 0.885
+                },
+                {
+                    "word": "left",
+                    "start": 9.558,
+                    "end": 9.758,
+                    "score": 0.867
+                },
+                {
+                    "word": "side",
+                    "start": 9.858,
+                    "end": 10.238,
+                    "score": 0.79
+                },
+                {
+                    "word": "until",
+                    "start": 10.899,
+                    "end": 11.199,
+                    "score": 0.847
+                },
+                {
+                    "word": "you",
+                    "start": 11.239,
+                    "end": 11.379,
+                    "score": 0.877
+                },
+                {
+                    "word": "meet",
+                    "start": 11.399,
+                    "end": 11.619,
+                    "score": 0.939
+                },
+                {
+                    "word": "harrison",
+                    "start": 12.4,
+                    "end": 13.22,
+                    "score": 0.873
+                },
+                {
+                    "word": "avenue",
+                    "start": 13.36,
+                    "end": 13.981,
+                    "score": 0.634
+                },
+                {
+                    "word": "and",
+                    "start": 14.981,
+                    "end": 15.101,
+                    "score": 0.57
+                },
+                {
+                    "word": "then",
+                    "start": 15.181,
+                    "end": 15.401,
+                    "score": 0.801
+                },
+                {
+                    "word": "you",
+                    "start": 15.421,
+                    "end": 17.062,
+                    "score": 0.592
+                },
+                {
+                    "word": "can",
+                    "start": 17.803,
+                    "end": 18.083,
+                    "score": 0.795
+                },
+                {
+                    "word": "turn",
+                    "start": 18.944,
+                    "end": 19.204,
+                    "score": 0.857
+                },
+                {
+                    "word": "right",
+                    "start": 19.344,
+                    "end": 19.644,
+                    "score": 0.635
+                },
+                {
+                    "word": "and",
+                    "start": 19.984,
+                    "end": 20.144,
+                    "score": 0.709
+                },
+                {
+                    "word": "go",
+                    "start": 21.605,
+                    "end": 21.785,
+                    "score": 0.91
+                },
+                {
+                    "word": "down",
+                    "start": 21.825,
+                    "end": 22.105,
+                    "score": 0.78
+                },
+                {
+                    "word": "the",
+                    "start": 22.125,
+                    "end": 22.326,
+                    "score": 0.593
+                },
+                {
+                    "word": "one",
+                    "start": 22.466,
+                    "end": 22.586,
+                    "score": 0.89
+                },
+                {
+                    "word": "more",
+                    "start": 22.646,
+                    "end": 22.886,
+                    "score": 0.757
+                },
+                {
+                    "word": "block",
+                    "start": 22.926,
+                    "end": 23.266,
+                    "score": 0.636
+                },
+                {
+                    "word": "until",
+                    "start": 23.967,
+                    "end": 24.307,
+                    "score": 0.81
+                },
+                {
+                    "word": "meet",
+                    "start": 24.607,
+                    "end": 24.827,
+                    "score": 0.591
+                },
+                {
+                    "word": "a",
+                    "start": 25.227,
+                    "end": 25.267,
+                    "score": 0.98
+                },
+                {
+                    "word": "church",
+                    "start": 25.367,
+                    "end": 25.768,
+                    "score": 0.892
+                },
+                {
+                    "word": "street",
+                    "start": 25.868,
+                    "end": 26.228,
+                    "score": 0.878
+                },
+                {
+                    "word": "and",
+                    "start": 26.908,
+                    "end": 26.988,
+                    "score": 0.681
+                },
+                {
+                    "word": "you",
+                    "start": 27.028,
+                    "end": 27.188,
+                    "score": 0.888
+                },
+                {
+                    "word": "turn",
+                    "start": 27.228,
+                    "end": 27.489,
+                    "score": 0.828
+                },
+                {
+                    "word": "left",
+                    "start": 27.549,
+                    "end": 27.829,
+                    "score": 0.755
+                },
+                {
+                    "word": "you",
+                    "start": 28.429,
+                    "end": 28.549,
+                    "score": 0.885
+                },
+                {
+                    "word": "can",
+                    "start": 28.589,
+                    "end": 28.749,
+                    "score": 0.841
+                },
+                {
+                    "word": "see",
+                    "start": 28.789,
+                    "end": 28.97,
+                    "score": 0.982
+                },
+                {
+                    "word": "the",
+                    "start": 29.01,
+                    "end": 29.09,
+                    "score": 0.98
+                },
+                {
+                    "word": "limelight",
+                    "start": 29.15,
+                    "end": 29.63,
+                    "score": 0.878
+                },
+                {
+                    "word": "disco",
+                    "start": 29.67,
+                    "end": 30.11,
+                    "score": 0.71
+                },
+                {
+                    "word": "on",
+                    "start": 30.19,
+                    "end": 30.27,
+                    "score": 0.851
+                },
+                {
+                    "word": "your",
+                    "start": 30.31,
+                    "end": 30.47,
+                    "score": 0.906
+                },
+                {
+                    "word": "right",
+                    "start": 30.731,
+                    "end": 30.951,
+                    "score": 0.882
+                },
+                {
+                    "word": "side",
+                    "start": 31.011,
+                    "end": 31.251,
+                    "score": 0.954
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "When",
+            "start": 0.53,
+            "end": 0.71,
+            "score": 0.941
+        },
+        {
+            "word": "you",
+            "start": 0.75,
+            "end": 0.991,
+            "score": 0.872
+        },
+        {
+            "word": "exit",
+            "start": 1.171,
+            "end": 1.552,
+            "score": 0.802
+        },
+        {
+            "word": "the",
+            "start": 1.592,
+            "end": 1.692,
+            "score": 0.817
+        },
+        {
+            "word": "door",
+            "start": 1.732,
+            "end": 2.113,
+            "score": 0.824
+        },
+        {
+            "word": "of",
+            "start": 2.213,
+            "end": 2.313,
+            "score": 0.644
+        },
+        {
+            "word": "the",
+            "start": 2.353,
+            "end": 2.434,
+            "score": 0.816
+        },
+        {
+            "word": "Franklin",
+            "start": 2.474,
+            "end": 2.934,
+            "score": 0.833
+        },
+        {
+            "word": "Hotel,",
+            "start": 2.975,
+            "end": 3.395,
+            "score": 0.825
+        },
+        {
+            "word": "you",
+            "start": 4.257,
+            "end": 4.377,
+            "score": 0.912
+        },
+        {
+            "word": "should",
+            "start": 4.437,
+            "end": 4.678,
+            "score": 0.911
+        },
+        {
+            "word": "go",
+            "start": 6.536,
+            "end": 6.736,
+            "score": 0.832
+        },
+        {
+            "word": "down",
+            "start": 6.816,
+            "end": 7.216,
+            "score": 0.84
+        },
+        {
+            "word": "about",
+            "start": 8.137,
+            "end": 8.417,
+            "score": 0.906
+        },
+        {
+            "word": "two",
+            "start": 8.497,
+            "end": 8.697,
+            "score": 0.921
+        },
+        {
+            "word": "blocks",
+            "start": 8.717,
+            "end": 9.118,
+            "score": 0.692
+        },
+        {
+            "word": "on",
+            "start": 9.258,
+            "end": 9.318,
+            "score": 0.996
+        },
+        {
+            "word": "your",
+            "start": 9.358,
+            "end": 9.518,
+            "score": 0.885
+        },
+        {
+            "word": "left",
+            "start": 9.558,
+            "end": 9.758,
+            "score": 0.867
+        },
+        {
+            "word": "side",
+            "start": 9.858,
+            "end": 10.238,
+            "score": 0.79
+        },
+        {
+            "word": "until",
+            "start": 10.899,
+            "end": 11.199,
+            "score": 0.847
+        },
+        {
+            "word": "you",
+            "start": 11.239,
+            "end": 11.379,
+            "score": 0.877
+        },
+        {
+            "word": "meet",
+            "start": 11.399,
+            "end": 11.619,
+            "score": 0.939
+        },
+        {
+            "word": "harrison",
+            "start": 12.4,
+            "end": 13.22,
+            "score": 0.873
+        },
+        {
+            "word": "avenue",
+            "start": 13.36,
+            "end": 13.981,
+            "score": 0.634
+        },
+        {
+            "word": "and",
+            "start": 14.981,
+            "end": 15.101,
+            "score": 0.57
+        },
+        {
+            "word": "then",
+            "start": 15.181,
+            "end": 15.401,
+            "score": 0.801
+        },
+        {
+            "word": "you",
+            "start": 15.421,
+            "end": 17.062,
+            "score": 0.592
+        },
+        {
+            "word": "can",
+            "start": 17.803,
+            "end": 18.083,
+            "score": 0.795
+        },
+        {
+            "word": "turn",
+            "start": 18.944,
+            "end": 19.204,
+            "score": 0.857
+        },
+        {
+            "word": "right",
+            "start": 19.344,
+            "end": 19.644,
+            "score": 0.635
+        },
+        {
+            "word": "and",
+            "start": 19.984,
+            "end": 20.144,
+            "score": 0.709
+        },
+        {
+            "word": "go",
+            "start": 21.605,
+            "end": 21.785,
+            "score": 0.91
+        },
+        {
+            "word": "down",
+            "start": 21.825,
+            "end": 22.105,
+            "score": 0.78
+        },
+        {
+            "word": "the",
+            "start": 22.125,
+            "end": 22.326,
+            "score": 0.593
+        },
+        {
+            "word": "one",
+            "start": 22.466,
+            "end": 22.586,
+            "score": 0.89
+        },
+        {
+            "word": "more",
+            "start": 22.646,
+            "end": 22.886,
+            "score": 0.757
+        },
+        {
+            "word": "block",
+            "start": 22.926,
+            "end": 23.266,
+            "score": 0.636
+        },
+        {
+            "word": "until",
+            "start": 23.967,
+            "end": 24.307,
+            "score": 0.81
+        },
+        {
+            "word": "meet",
+            "start": 24.607,
+            "end": 24.827,
+            "score": 0.591
+        },
+        {
+            "word": "a",
+            "start": 25.227,
+            "end": 25.267,
+            "score": 0.98
+        },
+        {
+            "word": "church",
+            "start": 25.367,
+            "end": 25.768,
+            "score": 0.892
+        },
+        {
+            "word": "street",
+            "start": 25.868,
+            "end": 26.228,
+            "score": 0.878
+        },
+        {
+            "word": "and",
+            "start": 26.908,
+            "end": 26.988,
+            "score": 0.681
+        },
+        {
+            "word": "you",
+            "start": 27.028,
+            "end": 27.188,
+            "score": 0.888
+        },
+        {
+            "word": "turn",
+            "start": 27.228,
+            "end": 27.489,
+            "score": 0.828
+        },
+        {
+            "word": "left",
+            "start": 27.549,
+            "end": 27.829,
+            "score": 0.755
+        },
+        {
+            "word": "you",
+            "start": 28.429,
+            "end": 28.549,
+            "score": 0.885
+        },
+        {
+            "word": "can",
+            "start": 28.589,
+            "end": 28.749,
+            "score": 0.841
+        },
+        {
+            "word": "see",
+            "start": 28.789,
+            "end": 28.97,
+            "score": 0.982
+        },
+        {
+            "word": "the",
+            "start": 29.01,
+            "end": 29.09,
+            "score": 0.98
+        },
+        {
+            "word": "limelight",
+            "start": 29.15,
+            "end": 29.63,
+            "score": 0.878
+        },
+        {
+            "word": "disco",
+            "start": 29.67,
+            "end": 30.11,
+            "score": 0.71
+        },
+        {
+            "word": "on",
+            "start": 30.19,
+            "end": 30.27,
+            "score": 0.851
+        },
+        {
+            "word": "your",
+            "start": 30.31,
+            "end": 30.47,
+            "score": 0.906
+        },
+        {
+            "word": "right",
+            "start": 30.731,
+            "end": 30.951,
+            "score": 0.882
+        },
+        {
+            "word": "side",
+            "start": 31.011,
+            "end": 31.251,
+            "score": 0.954
+        }
+    ]
+}

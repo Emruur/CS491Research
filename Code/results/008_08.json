@@ -1,0 +1,708 @@
+{
+    "segments": [
+        {
+            "start": 1.55,
+            "end": 4.111,
+            "text": " I recommend you go to the women's clothes.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.55,
+                    "end": 1.63,
+                    "score": 0.999
+                },
+                {
+                    "word": "recommend",
+                    "start": 1.71,
+                    "end": 2.17,
+                    "score": 0.787
+                },
+                {
+                    "word": "you",
+                    "start": 2.21,
+                    "end": 2.41,
+                    "score": 0.922
+                },
+                {
+                    "word": "go",
+                    "start": 2.43,
+                    "end": 2.63,
+                    "score": 0.868
+                },
+                {
+                    "word": "to",
+                    "start": 2.69,
+                    "end": 2.95,
+                    "score": 0.933
+                },
+                {
+                    "word": "the",
+                    "start": 2.97,
+                    "end": 3.15,
+                    "score": 0.503
+                },
+                {
+                    "word": "women's",
+                    "start": 3.23,
+                    "end": 3.63,
+                    "score": 0.809
+                },
+                {
+                    "word": "clothes.",
+                    "start": 3.71,
+                    "end": 4.111,
+                    "score": 0.461
+                }
+            ]
+        },
+        {
+            "start": 4.211,
+            "end": 7.232,
+            "text": "It is just near the Central Park.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 4.211,
+                    "end": 4.451,
+                    "score": 0.829
+                },
+                {
+                    "word": "is",
+                    "start": 4.611,
+                    "end": 4.831,
+                    "score": 0.906
+                },
+                {
+                    "word": "just",
+                    "start": 5.491,
+                    "end": 5.791,
+                    "score": 0.942
+                },
+                {
+                    "word": "near",
+                    "start": 5.891,
+                    "end": 6.251,
+                    "score": 0.782
+                },
+                {
+                    "word": "the",
+                    "start": 6.311,
+                    "end": 6.471,
+                    "score": 0.413
+                },
+                {
+                    "word": "Central",
+                    "start": 6.491,
+                    "end": 6.872,
+                    "score": 0.667
+                },
+                {
+                    "word": "Park.",
+                    "start": 6.912,
+                    "end": 7.232,
+                    "score": 0.888
+                }
+            ]
+        },
+        {
+            "start": 7.352,
+            "end": 12.594,
+            "text": "It is on the Park Road and the 12th Street.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 7.352,
+                    "end": 7.472,
+                    "score": 0.632
+                },
+                {
+                    "word": "is",
+                    "start": 7.552,
+                    "end": 7.672,
+                    "score": 0.902
+                },
+                {
+                    "word": "on",
+                    "start": 7.872,
+                    "end": 7.972,
+                    "score": 0.818
+                },
+                {
+                    "word": "the",
+                    "start": 7.992,
+                    "end": 8.292,
+                    "score": 0.736
+                },
+                {
+                    "word": "Park",
+                    "start": 8.972,
+                    "end": 9.232,
+                    "score": 0.858
+                },
+                {
+                    "word": "Road",
+                    "start": 9.292,
+                    "end": 9.613,
+                    "score": 0.751
+                },
+                {
+                    "word": "and",
+                    "start": 9.833,
+                    "end": 9.993,
+                    "score": 0.423
+                },
+                {
+                    "word": "the",
+                    "start": 10.053,
+                    "end": 10.733,
+                    "score": 0.782
+                },
+                {
+                    "word": "12th",
+                    "start": 11.673,
+                    "end": 12.213,
+                    "score": 0.784
+                },
+                {
+                    "word": "Street.",
+                    "start": 12.234,
+                    "end": 12.594,
+                    "score": 0.829
+                }
+            ]
+        },
+        {
+            "start": 13.674,
+            "end": 17.896,
+            "text": "I recommend you go there because now they are on sale.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 13.674,
+                    "end": 13.754,
+                    "score": 0.756
+                },
+                {
+                    "word": "recommend",
+                    "start": 13.814,
+                    "end": 14.254,
+                    "score": 0.844
+                },
+                {
+                    "word": "you",
+                    "start": 14.294,
+                    "end": 14.514,
+                    "score": 0.872
+                },
+                {
+                    "word": "go",
+                    "start": 14.554,
+                    "end": 14.734,
+                    "score": 0.992
+                },
+                {
+                    "word": "there",
+                    "start": 14.774,
+                    "end": 15.075,
+                    "score": 0.7
+                },
+                {
+                    "word": "because",
+                    "start": 15.135,
+                    "end": 15.655,
+                    "score": 0.988
+                },
+                {
+                    "word": "now",
+                    "start": 16.415,
+                    "end": 16.635,
+                    "score": 0.942
+                },
+                {
+                    "word": "they",
+                    "start": 16.675,
+                    "end": 16.955,
+                    "score": 0.721
+                },
+                {
+                    "word": "are",
+                    "start": 17.075,
+                    "end": 17.175,
+                    "score": 0.402
+                },
+                {
+                    "word": "on",
+                    "start": 17.275,
+                    "end": 17.435,
+                    "score": 0.674
+                },
+                {
+                    "word": "sale.",
+                    "start": 17.475,
+                    "end": 17.896,
+                    "score": 0.648
+                }
+            ]
+        },
+        {
+            "start": 17.956,
+            "end": 23.918,
+            "text": "So if you go there, you can buy a lot of cheaper clothes.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 17.956,
+                    "end": 18.196,
+                    "score": 0.884
+                },
+                {
+                    "word": "if",
+                    "start": 19.116,
+                    "end": 19.216,
+                    "score": 0.854
+                },
+                {
+                    "word": "you",
+                    "start": 19.296,
+                    "end": 19.516,
+                    "score": 0.861
+                },
+                {
+                    "word": "go",
+                    "start": 19.556,
+                    "end": 19.716,
+                    "score": 0.871
+                },
+                {
+                    "word": "there,",
+                    "start": 19.756,
+                    "end": 19.976,
+                    "score": 0.722
+                },
+                {
+                    "word": "you",
+                    "start": 20.016,
+                    "end": 20.236,
+                    "score": 0.915
+                },
+                {
+                    "word": "can",
+                    "start": 20.296,
+                    "end": 20.597,
+                    "score": 0.691
+                },
+                {
+                    "word": "buy",
+                    "start": 20.657,
+                    "end": 20.957,
+                    "score": 0.722
+                },
+                {
+                    "word": "a",
+                    "start": 21.537,
+                    "end": 21.577,
+                    "score": 0.734
+                },
+                {
+                    "word": "lot",
+                    "start": 21.617,
+                    "end": 21.957,
+                    "score": 0.859
+                },
+                {
+                    "word": "of",
+                    "start": 22.137,
+                    "end": 22.897,
+                    "score": 0.896
+                },
+                {
+                    "word": "cheaper",
+                    "start": 22.997,
+                    "end": 23.398,
+                    "score": 0.683
+                },
+                {
+                    "word": "clothes.",
+                    "start": 23.478,
+                    "end": 23.918,
+                    "score": 0.555
+                }
+            ]
+        },
+        {
+            "start": 24.518,
+            "end": 26.979,
+            "text": "So I recommend you go there.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 24.518,
+                    "end": 24.798,
+                    "score": 0.893
+                },
+                {
+                    "word": "I",
+                    "start": 25.518,
+                    "end": 25.598,
+                    "score": 0.752
+                },
+                {
+                    "word": "recommend",
+                    "start": 25.658,
+                    "end": 26.159,
+                    "score": 0.816
+                },
+                {
+                    "word": "you",
+                    "start": 26.199,
+                    "end": 26.419,
+                    "score": 0.926
+                },
+                {
+                    "word": "go",
+                    "start": 26.459,
+                    "end": 26.639,
+                    "score": 0.955
+                },
+                {
+                    "word": "there.",
+                    "start": 26.679,
+                    "end": 26.979,
+                    "score": 0.615
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.55,
+            "end": 1.63,
+            "score": 0.999
+        },
+        {
+            "word": "recommend",
+            "start": 1.71,
+            "end": 2.17,
+            "score": 0.787
+        },
+        {
+            "word": "you",
+            "start": 2.21,
+            "end": 2.41,
+            "score": 0.922
+        },
+        {
+            "word": "go",
+            "start": 2.43,
+            "end": 2.63,
+            "score": 0.868
+        },
+        {
+            "word": "to",
+            "start": 2.69,
+            "end": 2.95,
+            "score": 0.933
+        },
+        {
+            "word": "the",
+            "start": 2.97,
+            "end": 3.15,
+            "score": 0.503
+        },
+        {
+            "word": "women's",
+            "start": 3.23,
+            "end": 3.63,
+            "score": 0.809
+        },
+        {
+            "word": "clothes.",
+            "start": 3.71,
+            "end": 4.111,
+            "score": 0.461
+        },
+        {
+            "word": "It",
+            "start": 4.211,
+            "end": 4.451,
+            "score": 0.829
+        },
+        {
+            "word": "is",
+            "start": 4.611,
+            "end": 4.831,
+            "score": 0.906
+        },
+        {
+            "word": "just",
+            "start": 5.491,
+            "end": 5.791,
+            "score": 0.942
+        },
+        {
+            "word": "near",
+            "start": 5.891,
+            "end": 6.251,
+            "score": 0.782
+        },
+        {
+            "word": "the",
+            "start": 6.311,
+            "end": 6.471,
+            "score": 0.413
+        },
+        {
+            "word": "Central",
+            "start": 6.491,
+            "end": 6.872,
+            "score": 0.667
+        },
+        {
+            "word": "Park.",
+            "start": 6.912,
+            "end": 7.232,
+            "score": 0.888
+        },
+        {
+            "word": "It",
+            "start": 7.352,
+            "end": 7.472,
+            "score": 0.632
+        },
+        {
+            "word": "is",
+            "start": 7.552,
+            "end": 7.672,
+            "score": 0.902
+        },
+        {
+            "word": "on",
+            "start": 7.872,
+            "end": 7.972,
+            "score": 0.818
+        },
+        {
+            "word": "the",
+            "start": 7.992,
+            "end": 8.292,
+            "score": 0.736
+        },
+        {
+            "word": "Park",
+            "start": 8.972,
+            "end": 9.232,
+            "score": 0.858
+        },
+        {
+            "word": "Road",
+            "start": 9.292,
+            "end": 9.613,
+            "score": 0.751
+        },
+        {
+            "word": "and",
+            "start": 9.833,
+            "end": 9.993,
+            "score": 0.423
+        },
+        {
+            "word": "the",
+            "start": 10.053,
+            "end": 10.733,
+            "score": 0.782
+        },
+        {
+            "word": "12th",
+            "start": 11.673,
+            "end": 12.213,
+            "score": 0.784
+        },
+        {
+            "word": "Street.",
+            "start": 12.234,
+            "end": 12.594,
+            "score": 0.829
+        },
+        {
+            "word": "I",
+            "start": 13.674,
+            "end": 13.754,
+            "score": 0.756
+        },
+        {
+            "word": "recommend",
+            "start": 13.814,
+            "end": 14.254,
+            "score": 0.844
+        },
+        {
+            "word": "you",
+            "start": 14.294,
+            "end": 14.514,
+            "score": 0.872
+        },
+        {
+            "word": "go",
+            "start": 14.554,
+            "end": 14.734,
+            "score": 0.992
+        },
+        {
+            "word": "there",
+            "start": 14.774,
+            "end": 15.075,
+            "score": 0.7
+        },
+        {
+            "word": "because",
+            "start": 15.135,
+            "end": 15.655,
+            "score": 0.988
+        },
+        {
+            "word": "now",
+            "start": 16.415,
+            "end": 16.635,
+            "score": 0.942
+        },
+        {
+            "word": "they",
+            "start": 16.675,
+            "end": 16.955,
+            "score": 0.721
+        },
+        {
+            "word": "are",
+            "start": 17.075,
+            "end": 17.175,
+            "score": 0.402
+        },
+        {
+            "word": "on",
+            "start": 17.275,
+            "end": 17.435,
+            "score": 0.674
+        },
+        {
+            "word": "sale.",
+            "start": 17.475,
+            "end": 17.896,
+            "score": 0.648
+        },
+        {
+            "word": "So",
+            "start": 17.956,
+            "end": 18.196,
+            "score": 0.884
+        },
+        {
+            "word": "if",
+            "start": 19.116,
+            "end": 19.216,
+            "score": 0.854
+        },
+        {
+            "word": "you",
+            "start": 19.296,
+            "end": 19.516,
+            "score": 0.861
+        },
+        {
+            "word": "go",
+            "start": 19.556,
+            "end": 19.716,
+            "score": 0.871
+        },
+        {
+            "word": "there,",
+            "start": 19.756,
+            "end": 19.976,
+            "score": 0.722
+        },
+        {
+            "word": "you",
+            "start": 20.016,
+            "end": 20.236,
+            "score": 0.915
+        },
+        {
+            "word": "can",
+            "start": 20.296,
+            "end": 20.597,
+            "score": 0.691
+        },
+        {
+            "word": "buy",
+            "start": 20.657,
+            "end": 20.957,
+            "score": 0.722
+        },
+        {
+            "word": "a",
+            "start": 21.537,
+            "end": 21.577,
+            "score": 0.734
+        },
+        {
+            "word": "lot",
+            "start": 21.617,
+            "end": 21.957,
+            "score": 0.859
+        },
+        {
+            "word": "of",
+            "start": 22.137,
+            "end": 22.897,
+            "score": 0.896
+        },
+        {
+            "word": "cheaper",
+            "start": 22.997,
+            "end": 23.398,
+            "score": 0.683
+        },
+        {
+            "word": "clothes.",
+            "start": 23.478,
+            "end": 23.918,
+            "score": 0.555
+        },
+        {
+            "word": "So",
+            "start": 24.518,
+            "end": 24.798,
+            "score": 0.893
+        },
+        {
+            "word": "I",
+            "start": 25.518,
+            "end": 25.598,
+            "score": 0.752
+        },
+        {
+            "word": "recommend",
+            "start": 25.658,
+            "end": 26.159,
+            "score": 0.816
+        },
+        {
+            "word": "you",
+            "start": 26.199,
+            "end": 26.419,
+            "score": 0.926
+        },
+        {
+            "word": "go",
+            "start": 26.459,
+            "end": 26.639,
+            "score": 0.955
+        },
+        {
+            "word": "there.",
+            "start": 26.679,
+            "end": 26.979,
+            "score": 0.615
+        }
+    ]
+}

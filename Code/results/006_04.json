@@ -1,0 +1,923 @@
+{
+    "segments": [
+        {
+            "start": 0.049,
+            "end": 2.871,
+            "text": " This is San Francisco's weather reports.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 0.049,
+                    "end": 0.249,
+                    "score": 0.77
+                },
+                {
+                    "word": "is",
+                    "start": 0.409,
+                    "end": 0.529,
+                    "score": 0.981
+                },
+                {
+                    "word": "San",
+                    "start": 0.589,
+                    "end": 0.769,
+                    "score": 0.792
+                },
+                {
+                    "word": "Francisco's",
+                    "start": 0.809,
+                    "end": 1.69,
+                    "score": 0.783
+                },
+                {
+                    "word": "weather",
+                    "start": 1.87,
+                    "end": 2.27,
+                    "score": 0.454
+                },
+                {
+                    "word": "reports.",
+                    "start": 2.29,
+                    "end": 2.871,
+                    "score": 0.769
+                }
+            ]
+        },
+        {
+            "start": 4.031,
+            "end": 8.014,
+            "text": "Monday to Friday will not",
+            "words": [
+                {
+                    "word": "Monday",
+                    "start": 4.031,
+                    "end": 4.652,
+                    "score": 0.852
+                },
+                {
+                    "word": "to",
+                    "start": 4.832,
+                    "end": 5.192,
+                    "score": 0.862
+                },
+                {
+                    "word": "Friday",
+                    "start": 6.253,
+                    "end": 6.853,
+                    "score": 0.949
+                },
+                {
+                    "word": "will",
+                    "start": 6.873,
+                    "end": 7.794,
+                    "score": 0.472
+                },
+                {
+                    "word": "not",
+                    "start": 7.814,
+                    "end": 8.014,
+                    "score": 0.634
+                }
+            ]
+        },
+        {
+            "start": 10.563,
+            "end": 22.429,
+            "text": " will not rains but Monday to Wednesday there are thick cloudy with sun and Tuesday and Friday are light cloudy with sun.",
+            "words": [
+                {
+                    "word": "will",
+                    "start": 10.563,
+                    "end": 10.743,
+                    "score": 0.398
+                },
+                {
+                    "word": "not",
+                    "start": 10.783,
+                    "end": 11.003,
+                    "score": 0.689
+                },
+                {
+                    "word": "rains",
+                    "start": 11.183,
+                    "end": 11.624,
+                    "score": 0.847
+                },
+                {
+                    "word": "but",
+                    "start": 11.824,
+                    "end": 12.084,
+                    "score": 0.833
+                },
+                {
+                    "word": "Monday",
+                    "start": 12.104,
+                    "end": 13.284,
+                    "score": 0.647
+                },
+                {
+                    "word": "to",
+                    "start": 13.465,
+                    "end": 13.725,
+                    "score": 0.666
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 13.785,
+                    "end": 14.305,
+                    "score": 0.683
+                },
+                {
+                    "word": "there",
+                    "start": 14.405,
+                    "end": 14.785,
+                    "score": 0.585
+                },
+                {
+                    "word": "are",
+                    "start": 15.005,
+                    "end": 15.125,
+                    "score": 0.32
+                },
+                {
+                    "word": "thick",
+                    "start": 15.646,
+                    "end": 15.906,
+                    "score": 0.931
+                },
+                {
+                    "word": "cloudy",
+                    "start": 16.026,
+                    "end": 16.586,
+                    "score": 0.89
+                },
+                {
+                    "word": "with",
+                    "start": 17.507,
+                    "end": 17.727,
+                    "score": 0.862
+                },
+                {
+                    "word": "sun",
+                    "start": 17.967,
+                    "end": 18.367,
+                    "score": 0.875
+                },
+                {
+                    "word": "and",
+                    "start": 18.767,
+                    "end": 18.907,
+                    "score": 0.808
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 18.987,
+                    "end": 19.508,
+                    "score": 0.768
+                },
+                {
+                    "word": "and",
+                    "start": 19.608,
+                    "end": 19.728,
+                    "score": 0.309
+                },
+                {
+                    "word": "Friday",
+                    "start": 19.828,
+                    "end": 20.308,
+                    "score": 0.852
+                },
+                {
+                    "word": "are",
+                    "start": 20.688,
+                    "end": 20.788,
+                    "score": 0.339
+                },
+                {
+                    "word": "light",
+                    "start": 20.888,
+                    "end": 21.209,
+                    "score": 0.557
+                },
+                {
+                    "word": "cloudy",
+                    "start": 21.349,
+                    "end": 21.809,
+                    "score": 0.876
+                },
+                {
+                    "word": "with",
+                    "start": 21.829,
+                    "end": 22.049,
+                    "score": 0.704
+                },
+                {
+                    "word": "sun.",
+                    "start": 22.109,
+                    "end": 22.429,
+                    "score": 0.847
+                }
+            ]
+        },
+        {
+            "start": 23.87,
+            "end": 32.554,
+            "text": "So if you go to a trip, it's better to plan on Thursday or Friday.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 23.87,
+                    "end": 24.19,
+                    "score": 0.896
+                },
+                {
+                    "word": "if",
+                    "start": 25.571,
+                    "end": 25.631,
+                    "score": 1.0
+                },
+                {
+                    "word": "you",
+                    "start": 25.691,
+                    "end": 25.891,
+                    "score": 0.628
+                },
+                {
+                    "word": "go",
+                    "start": 25.931,
+                    "end": 26.131,
+                    "score": 0.932
+                },
+                {
+                    "word": "to",
+                    "start": 26.251,
+                    "end": 26.491,
+                    "score": 0.828
+                },
+                {
+                    "word": "a",
+                    "start": 26.551,
+                    "end": 26.591,
+                    "score": 0.301
+                },
+                {
+                    "word": "trip,",
+                    "start": 26.731,
+                    "end": 27.112,
+                    "score": 0.783
+                },
+                {
+                    "word": "it's",
+                    "start": 27.572,
+                    "end": 27.692,
+                    "score": 0.901
+                },
+                {
+                    "word": "better",
+                    "start": 27.752,
+                    "end": 28.332,
+                    "score": 0.616
+                },
+                {
+                    "word": "to",
+                    "start": 28.352,
+                    "end": 28.392,
+                    "score": 0.002
+                },
+                {
+                    "word": "plan",
+                    "start": 28.492,
+                    "end": 28.933,
+                    "score": 0.88
+                },
+                {
+                    "word": "on",
+                    "start": 29.313,
+                    "end": 29.433,
+                    "score": 0.788
+                },
+                {
+                    "word": "Thursday",
+                    "start": 30.133,
+                    "end": 30.773,
+                    "score": 0.668
+                },
+                {
+                    "word": "or",
+                    "start": 31.454,
+                    "end": 31.594,
+                    "score": 0.687
+                },
+                {
+                    "word": "Friday.",
+                    "start": 32.074,
+                    "end": 32.554,
+                    "score": 0.983
+                }
+            ]
+        },
+        {
+            "start": 34.514,
+            "end": 56.711,
+            "text": " and you don't need to umbrella and the temperature is 60 or 16 and the humidity is 86% and pressure is zero it's very good to travel",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 34.514,
+                    "end": 34.614,
+                    "score": 0.507
+                },
+                {
+                    "word": "you",
+                    "start": 34.634,
+                    "end": 34.694,
+                    "score": 0.315
+                },
+                {
+                    "word": "don't",
+                    "start": 34.714,
+                    "end": 34.854,
+                    "score": 0.36
+                },
+                {
+                    "word": "need",
+                    "start": 34.874,
+                    "end": 35.075,
+                    "score": 0.686
+                },
+                {
+                    "word": "to",
+                    "start": 35.115,
+                    "end": 35.215,
+                    "score": 0.859
+                },
+                {
+                    "word": "umbrella",
+                    "start": 35.295,
+                    "end": 36.055,
+                    "score": 0.767
+                },
+                {
+                    "word": "and",
+                    "start": 37.456,
+                    "end": 39.438,
+                    "score": 0.906
+                },
+                {
+                    "word": "the",
+                    "start": 41.079,
+                    "end": 41.219,
+                    "score": 0.882
+                },
+                {
+                    "word": "temperature",
+                    "start": 41.279,
+                    "end": 41.88,
+                    "score": 0.881
+                },
+                {
+                    "word": "is",
+                    "start": 42.02,
+                    "end": 42.12,
+                    "score": 0.814
+                },
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "or",
+                    "start": 42.16,
+                    "end": 43.161,
+                    "score": 0.759
+                },
+                {
+                    "word": "16"
+                },
+                {
+                    "word": "and",
+                    "start": 48.324,
+                    "end": 48.445,
+                    "score": 0.829
+                },
+                {
+                    "word": "the",
+                    "start": 48.485,
+                    "end": 48.625,
+                    "score": 0.83
+                },
+                {
+                    "word": "humidity",
+                    "start": 48.685,
+                    "end": 49.185,
+                    "score": 0.892
+                },
+                {
+                    "word": "is",
+                    "start": 49.325,
+                    "end": 49.445,
+                    "score": 0.684
+                },
+                {
+                    "word": "86%"
+                },
+                {
+                    "word": "and",
+                    "start": 52.468,
+                    "end": 52.628,
+                    "score": 0.718
+                },
+                {
+                    "word": "pressure",
+                    "start": 53.028,
+                    "end": 53.428,
+                    "score": 0.842
+                },
+                {
+                    "word": "is",
+                    "start": 53.568,
+                    "end": 53.709,
+                    "score": 0.865
+                },
+                {
+                    "word": "zero",
+                    "start": 53.829,
+                    "end": 54.389,
+                    "score": 0.762
+                },
+                {
+                    "word": "it's",
+                    "start": 55.35,
+                    "end": 55.49,
+                    "score": 0.818
+                },
+                {
+                    "word": "very",
+                    "start": 55.57,
+                    "end": 55.81,
+                    "score": 0.948
+                },
+                {
+                    "word": "good",
+                    "start": 55.87,
+                    "end": 56.07,
+                    "score": 0.754
+                },
+                {
+                    "word": "to",
+                    "start": 56.11,
+                    "end": 56.21,
+                    "score": 0.997
+                },
+                {
+                    "word": "travel",
+                    "start": 56.311,
+                    "end": 56.711,
+                    "score": 0.828
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "This",
+            "start": 0.049,
+            "end": 0.249,
+            "score": 0.77
+        },
+        {
+            "word": "is",
+            "start": 0.409,
+            "end": 0.529,
+            "score": 0.981
+        },
+        {
+            "word": "San",
+            "start": 0.589,
+            "end": 0.769,
+            "score": 0.792
+        },
+        {
+            "word": "Francisco's",
+            "start": 0.809,
+            "end": 1.69,
+            "score": 0.783
+        },
+        {
+            "word": "weather",
+            "start": 1.87,
+            "end": 2.27,
+            "score": 0.454
+        },
+        {
+            "word": "reports.",
+            "start": 2.29,
+            "end": 2.871,
+            "score": 0.769
+        },
+        {
+            "word": "Monday",
+            "start": 4.031,
+            "end": 4.652,
+            "score": 0.852
+        },
+        {
+            "word": "to",
+            "start": 4.832,
+            "end": 5.192,
+            "score": 0.862
+        },
+        {
+            "word": "Friday",
+            "start": 6.253,
+            "end": 6.853,
+            "score": 0.949
+        },
+        {
+            "word": "will",
+            "start": 6.873,
+            "end": 7.794,
+            "score": 0.472
+        },
+        {
+            "word": "not",
+            "start": 7.814,
+            "end": 8.014,
+            "score": 0.634
+        },
+        {
+            "word": "will",
+            "start": 10.563,
+            "end": 10.743,
+            "score": 0.398
+        },
+        {
+            "word": "not",
+            "start": 10.783,
+            "end": 11.003,
+            "score": 0.689
+        },
+        {
+            "word": "rains",
+            "start": 11.183,
+            "end": 11.624,
+            "score": 0.847
+        },
+        {
+            "word": "but",
+            "start": 11.824,
+            "end": 12.084,
+            "score": 0.833
+        },
+        {
+            "word": "Monday",
+            "start": 12.104,
+            "end": 13.284,
+            "score": 0.647
+        },
+        {
+            "word": "to",
+            "start": 13.465,
+            "end": 13.725,
+            "score": 0.666
+        },
+        {
+            "word": "Wednesday",
+            "start": 13.785,
+            "end": 14.305,
+            "score": 0.683
+        },
+        {
+            "word": "there",
+            "start": 14.405,
+            "end": 14.785,
+            "score": 0.585
+        },
+        {
+            "word": "are",
+            "start": 15.005,
+            "end": 15.125,
+            "score": 0.32
+        },
+        {
+            "word": "thick",
+            "start": 15.646,
+            "end": 15.906,
+            "score": 0.931
+        },
+        {
+            "word": "cloudy",
+            "start": 16.026,
+            "end": 16.586,
+            "score": 0.89
+        },
+        {
+            "word": "with",
+            "start": 17.507,
+            "end": 17.727,
+            "score": 0.862
+        },
+        {
+            "word": "sun",
+            "start": 17.967,
+            "end": 18.367,
+            "score": 0.875
+        },
+        {
+            "word": "and",
+            "start": 18.767,
+            "end": 18.907,
+            "score": 0.808
+        },
+        {
+            "word": "Tuesday",
+            "start": 18.987,
+            "end": 19.508,
+            "score": 0.768
+        },
+        {
+            "word": "and",
+            "start": 19.608,
+            "end": 19.728,
+            "score": 0.309
+        },
+        {
+            "word": "Friday",
+            "start": 19.828,
+            "end": 20.308,
+            "score": 0.852
+        },
+        {
+            "word": "are",
+            "start": 20.688,
+            "end": 20.788,
+            "score": 0.339
+        },
+        {
+            "word": "light",
+            "start": 20.888,
+            "end": 21.209,
+            "score": 0.557
+        },
+        {
+            "word": "cloudy",
+            "start": 21.349,
+            "end": 21.809,
+            "score": 0.876
+        },
+        {
+            "word": "with",
+            "start": 21.829,
+            "end": 22.049,
+            "score": 0.704
+        },
+        {
+            "word": "sun.",
+            "start": 22.109,
+            "end": 22.429,
+            "score": 0.847
+        },
+        {
+            "word": "So",
+            "start": 23.87,
+            "end": 24.19,
+            "score": 0.896
+        },
+        {
+            "word": "if",
+            "start": 25.571,
+            "end": 25.631,
+            "score": 1.0
+        },
+        {
+            "word": "you",
+            "start": 25.691,
+            "end": 25.891,
+            "score": 0.628
+        },
+        {
+            "word": "go",
+            "start": 25.931,
+            "end": 26.131,
+            "score": 0.932
+        },
+        {
+            "word": "to",
+            "start": 26.251,
+            "end": 26.491,
+            "score": 0.828
+        },
+        {
+            "word": "a",
+            "start": 26.551,
+            "end": 26.591,
+            "score": 0.301
+        },
+        {
+            "word": "trip,",
+            "start": 26.731,
+            "end": 27.112,
+            "score": 0.783
+        },
+        {
+            "word": "it's",
+            "start": 27.572,
+            "end": 27.692,
+            "score": 0.901
+        },
+        {
+            "word": "better",
+            "start": 27.752,
+            "end": 28.332,
+            "score": 0.616
+        },
+        {
+            "word": "to",
+            "start": 28.352,
+            "end": 28.392,
+            "score": 0.002
+        },
+        {
+            "word": "plan",
+            "start": 28.492,
+            "end": 28.933,
+            "score": 0.88
+        },
+        {
+            "word": "on",
+            "start": 29.313,
+            "end": 29.433,
+            "score": 0.788
+        },
+        {
+            "word": "Thursday",
+            "start": 30.133,
+            "end": 30.773,
+            "score": 0.668
+        },
+        {
+            "word": "or",
+            "start": 31.454,
+            "end": 31.594,
+            "score": 0.687
+        },
+        {
+            "word": "Friday.",
+            "start": 32.074,
+            "end": 32.554,
+            "score": 0.983
+        },
+        {
+            "word": "and",
+            "start": 34.514,
+            "end": 34.614,
+            "score": 0.507
+        },
+        {
+            "word": "you",
+            "start": 34.634,
+            "end": 34.694,
+            "score": 0.315
+        },
+        {
+            "word": "don't",
+            "start": 34.714,
+            "end": 34.854,
+            "score": 0.36
+        },
+        {
+            "word": "need",
+            "start": 34.874,
+            "end": 35.075,
+            "score": 0.686
+        },
+        {
+            "word": "to",
+            "start": 35.115,
+            "end": 35.215,
+            "score": 0.859
+        },
+        {
+            "word": "umbrella",
+            "start": 35.295,
+            "end": 36.055,
+            "score": 0.767
+        },
+        {
+            "word": "and",
+            "start": 37.456,
+            "end": 39.438,
+            "score": 0.906
+        },
+        {
+            "word": "the",
+            "start": 41.079,
+            "end": 41.219,
+            "score": 0.882
+        },
+        {
+            "word": "temperature",
+            "start": 41.279,
+            "end": 41.88,
+            "score": 0.881
+        },
+        {
+            "word": "is",
+            "start": 42.02,
+            "end": 42.12,
+            "score": 0.814
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "or",
+            "start": 42.16,
+            "end": 43.161,
+            "score": 0.759
+        },
+        {
+            "word": "16"
+        },
+        {
+            "word": "and",
+            "start": 48.324,
+            "end": 48.445,
+            "score": 0.829
+        },
+        {
+            "word": "the",
+            "start": 48.485,
+            "end": 48.625,
+            "score": 0.83
+        },
+        {
+            "word": "humidity",
+            "start": 48.685,
+            "end": 49.185,
+            "score": 0.892
+        },
+        {
+            "word": "is",
+            "start": 49.325,
+            "end": 49.445,
+            "score": 0.684
+        },
+        {
+            "word": "86%"
+        },
+        {
+            "word": "and",
+            "start": 52.468,
+            "end": 52.628,
+            "score": 0.718
+        },
+        {
+            "word": "pressure",
+            "start": 53.028,
+            "end": 53.428,
+            "score": 0.842
+        },
+        {
+            "word": "is",
+            "start": 53.568,
+            "end": 53.709,
+            "score": 0.865
+        },
+        {
+            "word": "zero",
+            "start": 53.829,
+            "end": 54.389,
+            "score": 0.762
+        },
+        {
+            "word": "it's",
+            "start": 55.35,
+            "end": 55.49,
+            "score": 0.818
+        },
+        {
+            "word": "very",
+            "start": 55.57,
+            "end": 55.81,
+            "score": 0.948
+        },
+        {
+            "word": "good",
+            "start": 55.87,
+            "end": 56.07,
+            "score": 0.754
+        },
+        {
+            "word": "to",
+            "start": 56.11,
+            "end": 56.21,
+            "score": 0.997
+        },
+        {
+            "word": "travel",
+            "start": 56.311,
+            "end": 56.711,
+            "score": 0.828
+        }
+    ]
+}

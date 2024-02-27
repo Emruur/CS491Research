@@ -1,0 +1,747 @@
+{
+    "segments": [
+        {
+            "start": 1.549,
+            "end": 19.014,
+            "text": " I agree to put the warning label on the soda cans because these days, obesity's problem is pretty serious.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.549,
+                    "end": 1.729,
+                    "score": 0.88
+                },
+                {
+                    "word": "agree",
+                    "start": 2.83,
+                    "end": 3.61,
+                    "score": 0.832
+                },
+                {
+                    "word": "to",
+                    "start": 3.71,
+                    "end": 6.151,
+                    "score": 0.872
+                },
+                {
+                    "word": "put",
+                    "start": 6.171,
+                    "end": 6.471,
+                    "score": 0.466
+                },
+                {
+                    "word": "the",
+                    "start": 6.551,
+                    "end": 6.651,
+                    "score": 0.902
+                },
+                {
+                    "word": "warning",
+                    "start": 7.711,
+                    "end": 8.051,
+                    "score": 0.745
+                },
+                {
+                    "word": "label",
+                    "start": 8.091,
+                    "end": 8.511,
+                    "score": 0.696
+                },
+                {
+                    "word": "on",
+                    "start": 8.571,
+                    "end": 8.791,
+                    "score": 0.712
+                },
+                {
+                    "word": "the",
+                    "start": 8.811,
+                    "end": 9.912,
+                    "score": 0.777
+                },
+                {
+                    "word": "soda",
+                    "start": 9.972,
+                    "end": 10.392,
+                    "score": 0.796
+                },
+                {
+                    "word": "cans",
+                    "start": 11.052,
+                    "end": 11.472,
+                    "score": 0.722
+                },
+                {
+                    "word": "because",
+                    "start": 11.732,
+                    "end": 12.172,
+                    "score": 0.949
+                },
+                {
+                    "word": "these",
+                    "start": 13.793,
+                    "end": 14.013,
+                    "score": 0.827
+                },
+                {
+                    "word": "days,",
+                    "start": 14.073,
+                    "end": 14.433,
+                    "score": 0.947
+                },
+                {
+                    "word": "obesity's",
+                    "start": 15.273,
+                    "end": 16.073,
+                    "score": 0.676
+                },
+                {
+                    "word": "problem",
+                    "start": 16.273,
+                    "end": 16.894,
+                    "score": 0.881
+                },
+                {
+                    "word": "is",
+                    "start": 17.014,
+                    "end": 17.174,
+                    "score": 0.787
+                },
+                {
+                    "word": "pretty",
+                    "start": 17.414,
+                    "end": 17.894,
+                    "score": 0.943
+                },
+                {
+                    "word": "serious.",
+                    "start": 18.614,
+                    "end": 19.014,
+                    "score": 0.941
+                }
+            ]
+        },
+        {
+            "start": 22.495,
+            "end": 49.546,
+            "text": " i understand the soda pop soda company disagree this disagree to put the levels on the soda cans because they don't want to reduce their reduce their no they don't want to be um",
+            "words": [
+                {
+                    "word": "i",
+                    "start": 22.495,
+                    "end": 22.575,
+                    "score": 0.999
+                },
+                {
+                    "word": "understand",
+                    "start": 22.635,
+                    "end": 23.355,
+                    "score": 0.804
+                },
+                {
+                    "word": "the",
+                    "start": 23.515,
+                    "end": 23.956,
+                    "score": 0.947
+                },
+                {
+                    "word": "soda",
+                    "start": 24.196,
+                    "end": 24.656,
+                    "score": 0.818
+                },
+                {
+                    "word": "pop",
+                    "start": 25.196,
+                    "end": 25.396,
+                    "score": 0.791
+                },
+                {
+                    "word": "soda",
+                    "start": 25.416,
+                    "end": 25.896,
+                    "score": 0.88
+                },
+                {
+                    "word": "company",
+                    "start": 25.956,
+                    "end": 26.557,
+                    "score": 0.9
+                },
+                {
+                    "word": "disagree",
+                    "start": 26.977,
+                    "end": 27.937,
+                    "score": 0.861
+                },
+                {
+                    "word": "this",
+                    "start": 28.497,
+                    "end": 28.858,
+                    "score": 0.842
+                },
+                {
+                    "word": "disagree",
+                    "start": 29.958,
+                    "end": 30.538,
+                    "score": 0.784
+                },
+                {
+                    "word": "to",
+                    "start": 30.578,
+                    "end": 30.678,
+                    "score": 0.896
+                },
+                {
+                    "word": "put",
+                    "start": 30.778,
+                    "end": 31.119,
+                    "score": 0.913
+                },
+                {
+                    "word": "the",
+                    "start": 32.099,
+                    "end": 32.339,
+                    "score": 0.94
+                },
+                {
+                    "word": "levels",
+                    "start": 32.599,
+                    "end": 33.159,
+                    "score": 0.885
+                },
+                {
+                    "word": "on",
+                    "start": 33.359,
+                    "end": 33.479,
+                    "score": 0.899
+                },
+                {
+                    "word": "the",
+                    "start": 33.499,
+                    "end": 33.6,
+                    "score": 0.838
+                },
+                {
+                    "word": "soda",
+                    "start": 33.64,
+                    "end": 33.92,
+                    "score": 0.961
+                },
+                {
+                    "word": "cans",
+                    "start": 33.98,
+                    "end": 34.36,
+                    "score": 0.796
+                },
+                {
+                    "word": "because",
+                    "start": 35.1,
+                    "end": 35.4,
+                    "score": 0.889
+                },
+                {
+                    "word": "they",
+                    "start": 35.46,
+                    "end": 35.8,
+                    "score": 0.529
+                },
+                {
+                    "word": "don't",
+                    "start": 35.86,
+                    "end": 36.06,
+                    "score": 0.7
+                },
+                {
+                    "word": "want",
+                    "start": 36.1,
+                    "end": 36.321,
+                    "score": 0.781
+                },
+                {
+                    "word": "to",
+                    "start": 36.441,
+                    "end": 36.721,
+                    "score": 0.754
+                },
+                {
+                    "word": "reduce",
+                    "start": 40.602,
+                    "end": 40.982,
+                    "score": 0.951
+                },
+                {
+                    "word": "their",
+                    "start": 41.042,
+                    "end": 41.423,
+                    "score": 0.469
+                },
+                {
+                    "word": "reduce",
+                    "start": 42.303,
+                    "end": 42.643,
+                    "score": 0.866
+                },
+                {
+                    "word": "their",
+                    "start": 42.663,
+                    "end": 42.963,
+                    "score": 0.817
+                },
+                {
+                    "word": "no",
+                    "start": 44.664,
+                    "end": 44.844,
+                    "score": 0.964
+                },
+                {
+                    "word": "they",
+                    "start": 44.924,
+                    "end": 45.084,
+                    "score": 0.909
+                },
+                {
+                    "word": "don't",
+                    "start": 45.124,
+                    "end": 45.284,
+                    "score": 0.808
+                },
+                {
+                    "word": "want",
+                    "start": 45.324,
+                    "end": 45.524,
+                    "score": 0.847
+                },
+                {
+                    "word": "to",
+                    "start": 45.644,
+                    "end": 46.205,
+                    "score": 0.967
+                },
+                {
+                    "word": "be",
+                    "start": 47.185,
+                    "end": 47.645,
+                    "score": 0.436
+                },
+                {
+                    "word": "um",
+                    "start": 49.446,
+                    "end": 49.546,
+                    "score": 0.404
+                }
+            ]
+        },
+        {
+            "start": 52.143,
+            "end": 57.633,
+            "text": " be decreased the money they can earn.",
+            "words": [
+                {
+                    "word": "be",
+                    "start": 52.143,
+                    "end": 52.925,
+                    "score": 0.961
+                },
+                {
+                    "word": "decreased",
+                    "start": 53.125,
+                    "end": 53.886,
+                    "score": 0.854
+                },
+                {
+                    "word": "the",
+                    "start": 54.568,
+                    "end": 55.369,
+                    "score": 0.74
+                },
+                {
+                    "word": "money",
+                    "start": 55.409,
+                    "end": 55.83,
+                    "score": 0.849
+                },
+                {
+                    "word": "they",
+                    "start": 56.652,
+                    "end": 56.952,
+                    "score": 0.794
+                },
+                {
+                    "word": "can",
+                    "start": 57.092,
+                    "end": 57.353,
+                    "score": 0.886
+                },
+                {
+                    "word": "earn.",
+                    "start": 57.473,
+                    "end": 57.633,
+                    "score": 0.754
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.549,
+            "end": 1.729,
+            "score": 0.88
+        },
+        {
+            "word": "agree",
+            "start": 2.83,
+            "end": 3.61,
+            "score": 0.832
+        },
+        {
+            "word": "to",
+            "start": 3.71,
+            "end": 6.151,
+            "score": 0.872
+        },
+        {
+            "word": "put",
+            "start": 6.171,
+            "end": 6.471,
+            "score": 0.466
+        },
+        {
+            "word": "the",
+            "start": 6.551,
+            "end": 6.651,
+            "score": 0.902
+        },
+        {
+            "word": "warning",
+            "start": 7.711,
+            "end": 8.051,
+            "score": 0.745
+        },
+        {
+            "word": "label",
+            "start": 8.091,
+            "end": 8.511,
+            "score": 0.696
+        },
+        {
+            "word": "on",
+            "start": 8.571,
+            "end": 8.791,
+            "score": 0.712
+        },
+        {
+            "word": "the",
+            "start": 8.811,
+            "end": 9.912,
+            "score": 0.777
+        },
+        {
+            "word": "soda",
+            "start": 9.972,
+            "end": 10.392,
+            "score": 0.796
+        },
+        {
+            "word": "cans",
+            "start": 11.052,
+            "end": 11.472,
+            "score": 0.722
+        },
+        {
+            "word": "because",
+            "start": 11.732,
+            "end": 12.172,
+            "score": 0.949
+        },
+        {
+            "word": "these",
+            "start": 13.793,
+            "end": 14.013,
+            "score": 0.827
+        },
+        {
+            "word": "days,",
+            "start": 14.073,
+            "end": 14.433,
+            "score": 0.947
+        },
+        {
+            "word": "obesity's",
+            "start": 15.273,
+            "end": 16.073,
+            "score": 0.676
+        },
+        {
+            "word": "problem",
+            "start": 16.273,
+            "end": 16.894,
+            "score": 0.881
+        },
+        {
+            "word": "is",
+            "start": 17.014,
+            "end": 17.174,
+            "score": 0.787
+        },
+        {
+            "word": "pretty",
+            "start": 17.414,
+            "end": 17.894,
+            "score": 0.943
+        },
+        {
+            "word": "serious.",
+            "start": 18.614,
+            "end": 19.014,
+            "score": 0.941
+        },
+        {
+            "word": "i",
+            "start": 22.495,
+            "end": 22.575,
+            "score": 0.999
+        },
+        {
+            "word": "understand",
+            "start": 22.635,
+            "end": 23.355,
+            "score": 0.804
+        },
+        {
+            "word": "the",
+            "start": 23.515,
+            "end": 23.956,
+            "score": 0.947
+        },
+        {
+            "word": "soda",
+            "start": 24.196,
+            "end": 24.656,
+            "score": 0.818
+        },
+        {
+            "word": "pop",
+            "start": 25.196,
+            "end": 25.396,
+            "score": 0.791
+        },
+        {
+            "word": "soda",
+            "start": 25.416,
+            "end": 25.896,
+            "score": 0.88
+        },
+        {
+            "word": "company",
+            "start": 25.956,
+            "end": 26.557,
+            "score": 0.9
+        },
+        {
+            "word": "disagree",
+            "start": 26.977,
+            "end": 27.937,
+            "score": 0.861
+        },
+        {
+            "word": "this",
+            "start": 28.497,
+            "end": 28.858,
+            "score": 0.842
+        },
+        {
+            "word": "disagree",
+            "start": 29.958,
+            "end": 30.538,
+            "score": 0.784
+        },
+        {
+            "word": "to",
+            "start": 30.578,
+            "end": 30.678,
+            "score": 0.896
+        },
+        {
+            "word": "put",
+            "start": 30.778,
+            "end": 31.119,
+            "score": 0.913
+        },
+        {
+            "word": "the",
+            "start": 32.099,
+            "end": 32.339,
+            "score": 0.94
+        },
+        {
+            "word": "levels",
+            "start": 32.599,
+            "end": 33.159,
+            "score": 0.885
+        },
+        {
+            "word": "on",
+            "start": 33.359,
+            "end": 33.479,
+            "score": 0.899
+        },
+        {
+            "word": "the",
+            "start": 33.499,
+            "end": 33.6,
+            "score": 0.838
+        },
+        {
+            "word": "soda",
+            "start": 33.64,
+            "end": 33.92,
+            "score": 0.961
+        },
+        {
+            "word": "cans",
+            "start": 33.98,
+            "end": 34.36,
+            "score": 0.796
+        },
+        {
+            "word": "because",
+            "start": 35.1,
+            "end": 35.4,
+            "score": 0.889
+        },
+        {
+            "word": "they",
+            "start": 35.46,
+            "end": 35.8,
+            "score": 0.529
+        },
+        {
+            "word": "don't",
+            "start": 35.86,
+            "end": 36.06,
+            "score": 0.7
+        },
+        {
+            "word": "want",
+            "start": 36.1,
+            "end": 36.321,
+            "score": 0.781
+        },
+        {
+            "word": "to",
+            "start": 36.441,
+            "end": 36.721,
+            "score": 0.754
+        },
+        {
+            "word": "reduce",
+            "start": 40.602,
+            "end": 40.982,
+            "score": 0.951
+        },
+        {
+            "word": "their",
+            "start": 41.042,
+            "end": 41.423,
+            "score": 0.469
+        },
+        {
+            "word": "reduce",
+            "start": 42.303,
+            "end": 42.643,
+            "score": 0.866
+        },
+        {
+            "word": "their",
+            "start": 42.663,
+            "end": 42.963,
+            "score": 0.817
+        },
+        {
+            "word": "no",
+            "start": 44.664,
+            "end": 44.844,
+            "score": 0.964
+        },
+        {
+            "word": "they",
+            "start": 44.924,
+            "end": 45.084,
+            "score": 0.909
+        },
+        {
+            "word": "don't",
+            "start": 45.124,
+            "end": 45.284,
+            "score": 0.808
+        },
+        {
+            "word": "want",
+            "start": 45.324,
+            "end": 45.524,
+            "score": 0.847
+        },
+        {
+            "word": "to",
+            "start": 45.644,
+            "end": 46.205,
+            "score": 0.967
+        },
+        {
+            "word": "be",
+            "start": 47.185,
+            "end": 47.645,
+            "score": 0.436
+        },
+        {
+            "word": "um",
+            "start": 49.446,
+            "end": 49.546,
+            "score": 0.404
+        },
+        {
+            "word": "be",
+            "start": 52.143,
+            "end": 52.925,
+            "score": 0.961
+        },
+        {
+            "word": "decreased",
+            "start": 53.125,
+            "end": 53.886,
+            "score": 0.854
+        },
+        {
+            "word": "the",
+            "start": 54.568,
+            "end": 55.369,
+            "score": 0.74
+        },
+        {
+            "word": "money",
+            "start": 55.409,
+            "end": 55.83,
+            "score": 0.849
+        },
+        {
+            "word": "they",
+            "start": 56.652,
+            "end": 56.952,
+            "score": 0.794
+        },
+        {
+            "word": "can",
+            "start": 57.092,
+            "end": 57.353,
+            "score": 0.886
+        },
+        {
+            "word": "earn.",
+            "start": 57.473,
+            "end": 57.633,
+            "score": 0.754
+        }
+    ]
+}

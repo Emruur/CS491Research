@@ -1,0 +1,574 @@
+{
+    "segments": [
+        {
+            "start": 0.851,
+            "end": 7.723,
+            "text": " I think this rule that some",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.851,
+                    "end": 0.931,
+                    "score": 0.687
+                },
+                {
+                    "word": "think",
+                    "start": 0.971,
+                    "end": 1.331,
+                    "score": 0.829
+                },
+                {
+                    "word": "this",
+                    "start": 3.896,
+                    "end": 4.136,
+                    "score": 0.891
+                },
+                {
+                    "word": "rule",
+                    "start": 4.156,
+                    "end": 7.122,
+                    "score": 0.53
+                },
+                {
+                    "word": "that",
+                    "start": 7.162,
+                    "end": 7.382,
+                    "score": 0.6
+                },
+                {
+                    "word": "some",
+                    "start": 7.402,
+                    "end": 7.723,
+                    "score": 0.529
+                }
+            ]
+        },
+        {
+            "start": 16.338,
+            "end": 26.38,
+            "text": " Some space is prohibited to enter the private cars.",
+            "words": [
+                {
+                    "word": "Some",
+                    "start": 16.338,
+                    "end": 17.058,
+                    "score": 0.809
+                },
+                {
+                    "word": "space",
+                    "start": 20.719,
+                    "end": 21.459,
+                    "score": 0.897
+                },
+                {
+                    "word": "is",
+                    "start": 21.919,
+                    "end": 22.019,
+                    "score": 0.64
+                },
+                {
+                    "word": "prohibited",
+                    "start": 22.119,
+                    "end": 23.039,
+                    "score": 0.884
+                },
+                {
+                    "word": "to",
+                    "start": 24.48,
+                    "end": 24.64,
+                    "score": 0.846
+                },
+                {
+                    "word": "enter",
+                    "start": 24.78,
+                    "end": 25.12,
+                    "score": 0.93
+                },
+                {
+                    "word": "the",
+                    "start": 25.18,
+                    "end": 25.28,
+                    "score": 0.995
+                },
+                {
+                    "word": "private",
+                    "start": 25.36,
+                    "end": 25.86,
+                    "score": 0.788
+                },
+                {
+                    "word": "cars.",
+                    "start": 25.98,
+                    "end": 26.38,
+                    "score": 0.927
+                }
+            ]
+        },
+        {
+            "start": 29.16,
+            "end": 41.543,
+            "text": "These days there is little space to park the cars because population is increasing more and more.",
+            "words": [
+                {
+                    "word": "These",
+                    "start": 29.16,
+                    "end": 29.36,
+                    "score": 0.803
+                },
+                {
+                    "word": "days",
+                    "start": 29.42,
+                    "end": 30.221,
+                    "score": 0.846
+                },
+                {
+                    "word": "there",
+                    "start": 30.581,
+                    "end": 31.121,
+                    "score": 0.841
+                },
+                {
+                    "word": "is",
+                    "start": 31.481,
+                    "end": 31.681,
+                    "score": 0.796
+                },
+                {
+                    "word": "little",
+                    "start": 32.681,
+                    "end": 33.141,
+                    "score": 0.558
+                },
+                {
+                    "word": "space",
+                    "start": 33.181,
+                    "end": 34.221,
+                    "score": 0.924
+                },
+                {
+                    "word": "to",
+                    "start": 34.241,
+                    "end": 34.281,
+                    "score": 0.0
+                },
+                {
+                    "word": "park",
+                    "start": 35.441,
+                    "end": 35.862,
+                    "score": 0.921
+                },
+                {
+                    "word": "the",
+                    "start": 36.462,
+                    "end": 36.602,
+                    "score": 0.911
+                },
+                {
+                    "word": "cars",
+                    "start": 36.702,
+                    "end": 37.162,
+                    "score": 0.824
+                },
+                {
+                    "word": "because",
+                    "start": 37.242,
+                    "end": 37.782,
+                    "score": 0.777
+                },
+                {
+                    "word": "population",
+                    "start": 38.502,
+                    "end": 39.242,
+                    "score": 0.955
+                },
+                {
+                    "word": "is",
+                    "start": 39.442,
+                    "end": 39.582,
+                    "score": 0.838
+                },
+                {
+                    "word": "increasing",
+                    "start": 40.142,
+                    "end": 40.822,
+                    "score": 0.833
+                },
+                {
+                    "word": "more",
+                    "start": 40.922,
+                    "end": 41.123,
+                    "score": 0.995
+                },
+                {
+                    "word": "and",
+                    "start": 41.183,
+                    "end": 41.263,
+                    "score": 0.851
+                },
+                {
+                    "word": "more.",
+                    "start": 41.303,
+                    "end": 41.543,
+                    "score": 0.748
+                }
+            ]
+        },
+        {
+            "start": 44.584,
+            "end": 57.38,
+            "text": " as a result the cars they have are also increasing in some downtown",
+            "words": [
+                {
+                    "word": "as",
+                    "start": 44.584,
+                    "end": 44.664,
+                    "score": 0.84
+                },
+                {
+                    "word": "a",
+                    "start": 44.724,
+                    "end": 44.804,
+                    "score": 0.636
+                },
+                {
+                    "word": "result",
+                    "start": 44.844,
+                    "end": 45.385,
+                    "score": 0.9
+                },
+                {
+                    "word": "the",
+                    "start": 45.405,
+                    "end": 45.705,
+                    "score": 0.402
+                },
+                {
+                    "word": "cars",
+                    "start": 45.846,
+                    "end": 46.426,
+                    "score": 0.752
+                },
+                {
+                    "word": "they",
+                    "start": 47.448,
+                    "end": 47.648,
+                    "score": 0.928
+                },
+                {
+                    "word": "have",
+                    "start": 47.888,
+                    "end": 48.309,
+                    "score": 0.835
+                },
+                {
+                    "word": "are",
+                    "start": 51.793,
+                    "end": 51.933,
+                    "score": 0.938
+                },
+                {
+                    "word": "also",
+                    "start": 52.073,
+                    "end": 52.574,
+                    "score": 0.922
+                },
+                {
+                    "word": "increasing",
+                    "start": 52.734,
+                    "end": 53.355,
+                    "score": 0.888
+                },
+                {
+                    "word": "in",
+                    "start": 56.299,
+                    "end": 56.419,
+                    "score": 0.922
+                },
+                {
+                    "word": "some",
+                    "start": 56.479,
+                    "end": 56.679,
+                    "score": 0.869
+                },
+                {
+                    "word": "downtown",
+                    "start": 56.839,
+                    "end": 57.38,
+                    "score": 0.582
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.851,
+            "end": 0.931,
+            "score": 0.687
+        },
+        {
+            "word": "think",
+            "start": 0.971,
+            "end": 1.331,
+            "score": 0.829
+        },
+        {
+            "word": "this",
+            "start": 3.896,
+            "end": 4.136,
+            "score": 0.891
+        },
+        {
+            "word": "rule",
+            "start": 4.156,
+            "end": 7.122,
+            "score": 0.53
+        },
+        {
+            "word": "that",
+            "start": 7.162,
+            "end": 7.382,
+            "score": 0.6
+        },
+        {
+            "word": "some",
+            "start": 7.402,
+            "end": 7.723,
+            "score": 0.529
+        },
+        {
+            "word": "Some",
+            "start": 16.338,
+            "end": 17.058,
+            "score": 0.809
+        },
+        {
+            "word": "space",
+            "start": 20.719,
+            "end": 21.459,
+            "score": 0.897
+        },
+        {
+            "word": "is",
+            "start": 21.919,
+            "end": 22.019,
+            "score": 0.64
+        },
+        {
+            "word": "prohibited",
+            "start": 22.119,
+            "end": 23.039,
+            "score": 0.884
+        },
+        {
+            "word": "to",
+            "start": 24.48,
+            "end": 24.64,
+            "score": 0.846
+        },
+        {
+            "word": "enter",
+            "start": 24.78,
+            "end": 25.12,
+            "score": 0.93
+        },
+        {
+            "word": "the",
+            "start": 25.18,
+            "end": 25.28,
+            "score": 0.995
+        },
+        {
+            "word": "private",
+            "start": 25.36,
+            "end": 25.86,
+            "score": 0.788
+        },
+        {
+            "word": "cars.",
+            "start": 25.98,
+            "end": 26.38,
+            "score": 0.927
+        },
+        {
+            "word": "These",
+            "start": 29.16,
+            "end": 29.36,
+            "score": 0.803
+        },
+        {
+            "word": "days",
+            "start": 29.42,
+            "end": 30.221,
+            "score": 0.846
+        },
+        {
+            "word": "there",
+            "start": 30.581,
+            "end": 31.121,
+            "score": 0.841
+        },
+        {
+            "word": "is",
+            "start": 31.481,
+            "end": 31.681,
+            "score": 0.796
+        },
+        {
+            "word": "little",
+            "start": 32.681,
+            "end": 33.141,
+            "score": 0.558
+        },
+        {
+            "word": "space",
+            "start": 33.181,
+            "end": 34.221,
+            "score": 0.924
+        },
+        {
+            "word": "to",
+            "start": 34.241,
+            "end": 34.281,
+            "score": 0.0
+        },
+        {
+            "word": "park",
+            "start": 35.441,
+            "end": 35.862,
+            "score": 0.921
+        },
+        {
+            "word": "the",
+            "start": 36.462,
+            "end": 36.602,
+            "score": 0.911
+        },
+        {
+            "word": "cars",
+            "start": 36.702,
+            "end": 37.162,
+            "score": 0.824
+        },
+        {
+            "word": "because",
+            "start": 37.242,
+            "end": 37.782,
+            "score": 0.777
+        },
+        {
+            "word": "population",
+            "start": 38.502,
+            "end": 39.242,
+            "score": 0.955
+        },
+        {
+            "word": "is",
+            "start": 39.442,
+            "end": 39.582,
+            "score": 0.838
+        },
+        {
+            "word": "increasing",
+            "start": 40.142,
+            "end": 40.822,
+            "score": 0.833
+        },
+        {
+            "word": "more",
+            "start": 40.922,
+            "end": 41.123,
+            "score": 0.995
+        },
+        {
+            "word": "and",
+            "start": 41.183,
+            "end": 41.263,
+            "score": 0.851
+        },
+        {
+            "word": "more.",
+            "start": 41.303,
+            "end": 41.543,
+            "score": 0.748
+        },
+        {
+            "word": "as",
+            "start": 44.584,
+            "end": 44.664,
+            "score": 0.84
+        },
+        {
+            "word": "a",
+            "start": 44.724,
+            "end": 44.804,
+            "score": 0.636
+        },
+        {
+            "word": "result",
+            "start": 44.844,
+            "end": 45.385,
+            "score": 0.9
+        },
+        {
+            "word": "the",
+            "start": 45.405,
+            "end": 45.705,
+            "score": 0.402
+        },
+        {
+            "word": "cars",
+            "start": 45.846,
+            "end": 46.426,
+            "score": 0.752
+        },
+        {
+            "word": "they",
+            "start": 47.448,
+            "end": 47.648,
+            "score": 0.928
+        },
+        {
+            "word": "have",
+            "start": 47.888,
+            "end": 48.309,
+            "score": 0.835
+        },
+        {
+            "word": "are",
+            "start": 51.793,
+            "end": 51.933,
+            "score": 0.938
+        },
+        {
+            "word": "also",
+            "start": 52.073,
+            "end": 52.574,
+            "score": 0.922
+        },
+        {
+            "word": "increasing",
+            "start": 52.734,
+            "end": 53.355,
+            "score": 0.888
+        },
+        {
+            "word": "in",
+            "start": 56.299,
+            "end": 56.419,
+            "score": 0.922
+        },
+        {
+            "word": "some",
+            "start": 56.479,
+            "end": 56.679,
+            "score": 0.869
+        },
+        {
+            "word": "downtown",
+            "start": 56.839,
+            "end": 57.38,
+            "score": 0.582
+        }
+    ]
+}

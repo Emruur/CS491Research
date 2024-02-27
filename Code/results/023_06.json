@@ -1,0 +1,1195 @@
+{
+    "segments": [
+        {
+            "start": 0.029,
+            "end": 6.955,
+            "text": " Yeah, actually, I agree with that.",
+            "words": [
+                {
+                    "word": "Yeah,",
+                    "start": 0.029,
+                    "end": 0.73,
+                    "score": 0.778
+                },
+                {
+                    "word": "actually,",
+                    "start": 1.45,
+                    "end": 2.011,
+                    "score": 0.771
+                },
+                {
+                    "word": "I",
+                    "start": 2.031,
+                    "end": 2.051,
+                    "score": 0.001
+                },
+                {
+                    "word": "agree",
+                    "start": 6.134,
+                    "end": 6.395,
+                    "score": 0.782
+                },
+                {
+                    "word": "with",
+                    "start": 6.455,
+                    "end": 6.635,
+                    "score": 0.774
+                },
+                {
+                    "word": "that.",
+                    "start": 6.695,
+                    "end": 6.955,
+                    "score": 0.831
+                }
+            ]
+        },
+        {
+            "start": 7.335,
+            "end": 13.241,
+            "text": "Some cities want to make no cars zone.",
+            "words": [
+                {
+                    "word": "Some",
+                    "start": 7.335,
+                    "end": 8.577,
+                    "score": 0.804
+                },
+                {
+                    "word": "cities",
+                    "start": 8.637,
+                    "end": 9.017,
+                    "score": 0.914
+                },
+                {
+                    "word": "want",
+                    "start": 9.537,
+                    "end": 9.798,
+                    "score": 0.787
+                },
+                {
+                    "word": "to",
+                    "start": 9.858,
+                    "end": 9.958,
+                    "score": 0.998
+                },
+                {
+                    "word": "make",
+                    "start": 10.018,
+                    "end": 10.238,
+                    "score": 0.779
+                },
+                {
+                    "word": "no",
+                    "start": 10.438,
+                    "end": 10.678,
+                    "score": 0.939
+                },
+                {
+                    "word": "cars",
+                    "start": 10.799,
+                    "end": 11.419,
+                    "score": 0.814
+                },
+                {
+                    "word": "zone.",
+                    "start": 11.779,
+                    "end": 13.241,
+                    "score": 0.862
+                }
+            ]
+        },
+        {
+            "start": 13.401,
+            "end": 24.471,
+            "text": "Because, you know, if any city has a big community and the result of that, they have too many cars.",
+            "words": [
+                {
+                    "word": "Because,",
+                    "start": 13.401,
+                    "end": 14.101,
+                    "score": 0.963
+                },
+                {
+                    "word": "you",
+                    "start": 14.742,
+                    "end": 14.822,
+                    "score": 0.832
+                },
+                {
+                    "word": "know,",
+                    "start": 14.862,
+                    "end": 15.002,
+                    "score": 0.923
+                },
+                {
+                    "word": "if",
+                    "start": 16.163,
+                    "end": 16.243,
+                    "score": 0.926
+                },
+                {
+                    "word": "any",
+                    "start": 16.403,
+                    "end": 16.544,
+                    "score": 0.989
+                },
+                {
+                    "word": "city",
+                    "start": 16.604,
+                    "end": 17.184,
+                    "score": 0.816
+                },
+                {
+                    "word": "has",
+                    "start": 17.805,
+                    "end": 18.145,
+                    "score": 0.948
+                },
+                {
+                    "word": "a",
+                    "start": 18.445,
+                    "end": 18.585,
+                    "score": 0.81
+                },
+                {
+                    "word": "big",
+                    "start": 19.626,
+                    "end": 19.786,
+                    "score": 0.561
+                },
+                {
+                    "word": "community",
+                    "start": 19.866,
+                    "end": 20.467,
+                    "score": 0.923
+                },
+                {
+                    "word": "and",
+                    "start": 20.567,
+                    "end": 20.927,
+                    "score": 0.799
+                },
+                {
+                    "word": "the",
+                    "start": 22.148,
+                    "end": 22.249,
+                    "score": 0.87
+                },
+                {
+                    "word": "result",
+                    "start": 22.289,
+                    "end": 22.589,
+                    "score": 0.907
+                },
+                {
+                    "word": "of",
+                    "start": 22.629,
+                    "end": 22.709,
+                    "score": 0.831
+                },
+                {
+                    "word": "that,",
+                    "start": 22.769,
+                    "end": 22.989,
+                    "score": 0.91
+                },
+                {
+                    "word": "they",
+                    "start": 23.35,
+                    "end": 23.49,
+                    "score": 0.916
+                },
+                {
+                    "word": "have",
+                    "start": 23.51,
+                    "end": 23.65,
+                    "score": 0.869
+                },
+                {
+                    "word": "too",
+                    "start": 23.69,
+                    "end": 23.87,
+                    "score": 0.68
+                },
+                {
+                    "word": "many",
+                    "start": 23.89,
+                    "end": 24.09,
+                    "score": 0.794
+                },
+                {
+                    "word": "cars.",
+                    "start": 24.17,
+                    "end": 24.471,
+                    "score": 0.747
+                }
+            ]
+        },
+        {
+            "start": 25.491,
+            "end": 37.897,
+            "text": " So if there are too many cars, it causes the pollution space and crowded and more noisy and sometimes accident.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 25.491,
+                    "end": 25.751,
+                    "score": 0.929
+                },
+                {
+                    "word": "if",
+                    "start": 25.992,
+                    "end": 26.072,
+                    "score": 0.866
+                },
+                {
+                    "word": "there",
+                    "start": 26.372,
+                    "end": 26.572,
+                    "score": 0.818
+                },
+                {
+                    "word": "are",
+                    "start": 26.692,
+                    "end": 26.812,
+                    "score": 0.777
+                },
+                {
+                    "word": "too",
+                    "start": 26.872,
+                    "end": 27.032,
+                    "score": 0.933
+                },
+                {
+                    "word": "many",
+                    "start": 27.052,
+                    "end": 27.212,
+                    "score": 0.98
+                },
+                {
+                    "word": "cars,",
+                    "start": 27.272,
+                    "end": 27.612,
+                    "score": 0.52
+                },
+                {
+                    "word": "it",
+                    "start": 28.133,
+                    "end": 28.673,
+                    "score": 0.912
+                },
+                {
+                    "word": "causes",
+                    "start": 28.793,
+                    "end": 29.353,
+                    "score": 0.892
+                },
+                {
+                    "word": "the",
+                    "start": 29.673,
+                    "end": 29.953,
+                    "score": 0.824
+                },
+                {
+                    "word": "pollution",
+                    "start": 30.554,
+                    "end": 31.254,
+                    "score": 0.825
+                },
+                {
+                    "word": "space",
+                    "start": 32.115,
+                    "end": 32.895,
+                    "score": 0.76
+                },
+                {
+                    "word": "and",
+                    "start": 33.135,
+                    "end": 33.255,
+                    "score": 0.646
+                },
+                {
+                    "word": "crowded",
+                    "start": 33.415,
+                    "end": 33.975,
+                    "score": 0.879
+                },
+                {
+                    "word": "and",
+                    "start": 34.156,
+                    "end": 34.296,
+                    "score": 0.609
+                },
+                {
+                    "word": "more",
+                    "start": 34.516,
+                    "end": 34.816,
+                    "score": 0.778
+                },
+                {
+                    "word": "noisy",
+                    "start": 34.916,
+                    "end": 35.596,
+                    "score": 0.904
+                },
+                {
+                    "word": "and",
+                    "start": 36.477,
+                    "end": 36.577,
+                    "score": 0.865
+                },
+                {
+                    "word": "sometimes",
+                    "start": 36.637,
+                    "end": 37.117,
+                    "score": 0.76
+                },
+                {
+                    "word": "accident.",
+                    "start": 37.337,
+                    "end": 37.897,
+                    "score": 0.94
+                }
+            ]
+        },
+        {
+            "start": 38.598,
+            "end": 43.88,
+            "text": "So I suggest that they have the same system.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 38.598,
+                    "end": 39.118,
+                    "score": 0.44
+                },
+                {
+                    "word": "I",
+                    "start": 40.219,
+                    "end": 40.399,
+                    "score": 0.67
+                },
+                {
+                    "word": "suggest",
+                    "start": 40.579,
+                    "end": 41.059,
+                    "score": 0.756
+                },
+                {
+                    "word": "that",
+                    "start": 41.119,
+                    "end": 41.459,
+                    "score": 0.889
+                },
+                {
+                    "word": "they",
+                    "start": 42.1,
+                    "end": 42.3,
+                    "score": 0.82
+                },
+                {
+                    "word": "have",
+                    "start": 42.34,
+                    "end": 42.62,
+                    "score": 0.885
+                },
+                {
+                    "word": "the",
+                    "start": 43.04,
+                    "end": 43.16,
+                    "score": 0.756
+                },
+                {
+                    "word": "same",
+                    "start": 43.2,
+                    "end": 43.44,
+                    "score": 0.89
+                },
+                {
+                    "word": "system.",
+                    "start": 43.5,
+                    "end": 43.88,
+                    "score": 0.864
+                }
+            ]
+        },
+        {
+            "start": 44.021,
+            "end": 50.264,
+            "text": "For example, in Champagne-Urbain, they have good bus stations.",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 44.021,
+                    "end": 44.161,
+                    "score": 0.844
+                },
+                {
+                    "word": "example,",
+                    "start": 44.221,
+                    "end": 44.601,
+                    "score": 0.878
+                },
+                {
+                    "word": "in",
+                    "start": 44.661,
+                    "end": 44.761,
+                    "score": 0.817
+                },
+                {
+                    "word": "Champagne-Urbain,",
+                    "start": 44.801,
+                    "end": 45.641,
+                    "score": 0.699
+                },
+                {
+                    "word": "they",
+                    "start": 45.681,
+                    "end": 45.821,
+                    "score": 0.941
+                },
+                {
+                    "word": "have",
+                    "start": 45.861,
+                    "end": 46.082,
+                    "score": 0.915
+                },
+                {
+                    "word": "good",
+                    "start": 46.782,
+                    "end": 47.002,
+                    "score": 0.93
+                },
+                {
+                    "word": "bus",
+                    "start": 48.763,
+                    "end": 49.603,
+                    "score": 0.893
+                },
+                {
+                    "word": "stations.",
+                    "start": 49.623,
+                    "end": 50.264,
+                    "score": 0.917
+                }
+            ]
+        },
+        {
+            "start": 51.184,
+            "end": 60.119,
+            "text": " that you can go whatever you like to go and you didn't need to have a car and you can save your money.",
+            "words": [
+                {
+                    "word": "that",
+                    "start": 51.184,
+                    "end": 51.365,
+                    "score": 0.892
+                },
+                {
+                    "word": "you",
+                    "start": 51.425,
+                    "end": 51.565,
+                    "score": 0.904
+                },
+                {
+                    "word": "can",
+                    "start": 51.625,
+                    "end": 51.946,
+                    "score": 0.785
+                },
+                {
+                    "word": "go",
+                    "start": 52.226,
+                    "end": 52.426,
+                    "score": 0.894
+                },
+                {
+                    "word": "whatever",
+                    "start": 52.567,
+                    "end": 53.047,
+                    "score": 0.878
+                },
+                {
+                    "word": "you",
+                    "start": 53.228,
+                    "end": 53.408,
+                    "score": 0.853
+                },
+                {
+                    "word": "like",
+                    "start": 53.428,
+                    "end": 53.628,
+                    "score": 0.738
+                },
+                {
+                    "word": "to",
+                    "start": 53.669,
+                    "end": 53.769,
+                    "score": 0.793
+                },
+                {
+                    "word": "go",
+                    "start": 53.809,
+                    "end": 54.029,
+                    "score": 0.869
+                },
+                {
+                    "word": "and",
+                    "start": 54.65,
+                    "end": 54.77,
+                    "score": 0.637
+                },
+                {
+                    "word": "you",
+                    "start": 54.81,
+                    "end": 54.991,
+                    "score": 0.818
+                },
+                {
+                    "word": "didn't",
+                    "start": 55.051,
+                    "end": 55.311,
+                    "score": 0.783
+                },
+                {
+                    "word": "need",
+                    "start": 55.411,
+                    "end": 55.632,
+                    "score": 0.971
+                },
+                {
+                    "word": "to",
+                    "start": 56.473,
+                    "end": 56.633,
+                    "score": 0.906
+                },
+                {
+                    "word": "have",
+                    "start": 56.674,
+                    "end": 56.914,
+                    "score": 0.75
+                },
+                {
+                    "word": "a",
+                    "start": 57.856,
+                    "end": 57.896,
+                    "score": 0.865
+                },
+                {
+                    "word": "car",
+                    "start": 57.976,
+                    "end": 58.457,
+                    "score": 0.561
+                },
+                {
+                    "word": "and",
+                    "start": 59.098,
+                    "end": 59.178,
+                    "score": 0.945
+                },
+                {
+                    "word": "you",
+                    "start": 59.218,
+                    "end": 59.298,
+                    "score": 0.837
+                },
+                {
+                    "word": "can",
+                    "start": 59.318,
+                    "end": 59.478,
+                    "score": 0.654
+                },
+                {
+                    "word": "save",
+                    "start": 59.498,
+                    "end": 59.679,
+                    "score": 0.766
+                },
+                {
+                    "word": "your",
+                    "start": 59.699,
+                    "end": 59.859,
+                    "score": 0.89
+                },
+                {
+                    "word": "money.",
+                    "start": 59.899,
+                    "end": 60.119,
+                    "score": 0.812
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Yeah,",
+            "start": 0.029,
+            "end": 0.73,
+            "score": 0.778
+        },
+        {
+            "word": "actually,",
+            "start": 1.45,
+            "end": 2.011,
+            "score": 0.771
+        },
+        {
+            "word": "I",
+            "start": 2.031,
+            "end": 2.051,
+            "score": 0.001
+        },
+        {
+            "word": "agree",
+            "start": 6.134,
+            "end": 6.395,
+            "score": 0.782
+        },
+        {
+            "word": "with",
+            "start": 6.455,
+            "end": 6.635,
+            "score": 0.774
+        },
+        {
+            "word": "that.",
+            "start": 6.695,
+            "end": 6.955,
+            "score": 0.831
+        },
+        {
+            "word": "Some",
+            "start": 7.335,
+            "end": 8.577,
+            "score": 0.804
+        },
+        {
+            "word": "cities",
+            "start": 8.637,
+            "end": 9.017,
+            "score": 0.914
+        },
+        {
+            "word": "want",
+            "start": 9.537,
+            "end": 9.798,
+            "score": 0.787
+        },
+        {
+            "word": "to",
+            "start": 9.858,
+            "end": 9.958,
+            "score": 0.998
+        },
+        {
+            "word": "make",
+            "start": 10.018,
+            "end": 10.238,
+            "score": 0.779
+        },
+        {
+            "word": "no",
+            "start": 10.438,
+            "end": 10.678,
+            "score": 0.939
+        },
+        {
+            "word": "cars",
+            "start": 10.799,
+            "end": 11.419,
+            "score": 0.814
+        },
+        {
+            "word": "zone.",
+            "start": 11.779,
+            "end": 13.241,
+            "score": 0.862
+        },
+        {
+            "word": "Because,",
+            "start": 13.401,
+            "end": 14.101,
+            "score": 0.963
+        },
+        {
+            "word": "you",
+            "start": 14.742,
+            "end": 14.822,
+            "score": 0.832
+        },
+        {
+            "word": "know,",
+            "start": 14.862,
+            "end": 15.002,
+            "score": 0.923
+        },
+        {
+            "word": "if",
+            "start": 16.163,
+            "end": 16.243,
+            "score": 0.926
+        },
+        {
+            "word": "any",
+            "start": 16.403,
+            "end": 16.544,
+            "score": 0.989
+        },
+        {
+            "word": "city",
+            "start": 16.604,
+            "end": 17.184,
+            "score": 0.816
+        },
+        {
+            "word": "has",
+            "start": 17.805,
+            "end": 18.145,
+            "score": 0.948
+        },
+        {
+            "word": "a",
+            "start": 18.445,
+            "end": 18.585,
+            "score": 0.81
+        },
+        {
+            "word": "big",
+            "start": 19.626,
+            "end": 19.786,
+            "score": 0.561
+        },
+        {
+            "word": "community",
+            "start": 19.866,
+            "end": 20.467,
+            "score": 0.923
+        },
+        {
+            "word": "and",
+            "start": 20.567,
+            "end": 20.927,
+            "score": 0.799
+        },
+        {
+            "word": "the",
+            "start": 22.148,
+            "end": 22.249,
+            "score": 0.87
+        },
+        {
+            "word": "result",
+            "start": 22.289,
+            "end": 22.589,
+            "score": 0.907
+        },
+        {
+            "word": "of",
+            "start": 22.629,
+            "end": 22.709,
+            "score": 0.831
+        },
+        {
+            "word": "that,",
+            "start": 22.769,
+            "end": 22.989,
+            "score": 0.91
+        },
+        {
+            "word": "they",
+            "start": 23.35,
+            "end": 23.49,
+            "score": 0.916
+        },
+        {
+            "word": "have",
+            "start": 23.51,
+            "end": 23.65,
+            "score": 0.869
+        },
+        {
+            "word": "too",
+            "start": 23.69,
+            "end": 23.87,
+            "score": 0.68
+        },
+        {
+            "word": "many",
+            "start": 23.89,
+            "end": 24.09,
+            "score": 0.794
+        },
+        {
+            "word": "cars.",
+            "start": 24.17,
+            "end": 24.471,
+            "score": 0.747
+        },
+        {
+            "word": "So",
+            "start": 25.491,
+            "end": 25.751,
+            "score": 0.929
+        },
+        {
+            "word": "if",
+            "start": 25.992,
+            "end": 26.072,
+            "score": 0.866
+        },
+        {
+            "word": "there",
+            "start": 26.372,
+            "end": 26.572,
+            "score": 0.818
+        },
+        {
+            "word": "are",
+            "start": 26.692,
+            "end": 26.812,
+            "score": 0.777
+        },
+        {
+            "word": "too",
+            "start": 26.872,
+            "end": 27.032,
+            "score": 0.933
+        },
+        {
+            "word": "many",
+            "start": 27.052,
+            "end": 27.212,
+            "score": 0.98
+        },
+        {
+            "word": "cars,",
+            "start": 27.272,
+            "end": 27.612,
+            "score": 0.52
+        },
+        {
+            "word": "it",
+            "start": 28.133,
+            "end": 28.673,
+            "score": 0.912
+        },
+        {
+            "word": "causes",
+            "start": 28.793,
+            "end": 29.353,
+            "score": 0.892
+        },
+        {
+            "word": "the",
+            "start": 29.673,
+            "end": 29.953,
+            "score": 0.824
+        },
+        {
+            "word": "pollution",
+            "start": 30.554,
+            "end": 31.254,
+            "score": 0.825
+        },
+        {
+            "word": "space",
+            "start": 32.115,
+            "end": 32.895,
+            "score": 0.76
+        },
+        {
+            "word": "and",
+            "start": 33.135,
+            "end": 33.255,
+            "score": 0.646
+        },
+        {
+            "word": "crowded",
+            "start": 33.415,
+            "end": 33.975,
+            "score": 0.879
+        },
+        {
+            "word": "and",
+            "start": 34.156,
+            "end": 34.296,
+            "score": 0.609
+        },
+        {
+            "word": "more",
+            "start": 34.516,
+            "end": 34.816,
+            "score": 0.778
+        },
+        {
+            "word": "noisy",
+            "start": 34.916,
+            "end": 35.596,
+            "score": 0.904
+        },
+        {
+            "word": "and",
+            "start": 36.477,
+            "end": 36.577,
+            "score": 0.865
+        },
+        {
+            "word": "sometimes",
+            "start": 36.637,
+            "end": 37.117,
+            "score": 0.76
+        },
+        {
+            "word": "accident.",
+            "start": 37.337,
+            "end": 37.897,
+            "score": 0.94
+        },
+        {
+            "word": "So",
+            "start": 38.598,
+            "end": 39.118,
+            "score": 0.44
+        },
+        {
+            "word": "I",
+            "start": 40.219,
+            "end": 40.399,
+            "score": 0.67
+        },
+        {
+            "word": "suggest",
+            "start": 40.579,
+            "end": 41.059,
+            "score": 0.756
+        },
+        {
+            "word": "that",
+            "start": 41.119,
+            "end": 41.459,
+            "score": 0.889
+        },
+        {
+            "word": "they",
+            "start": 42.1,
+            "end": 42.3,
+            "score": 0.82
+        },
+        {
+            "word": "have",
+            "start": 42.34,
+            "end": 42.62,
+            "score": 0.885
+        },
+        {
+            "word": "the",
+            "start": 43.04,
+            "end": 43.16,
+            "score": 0.756
+        },
+        {
+            "word": "same",
+            "start": 43.2,
+            "end": 43.44,
+            "score": 0.89
+        },
+        {
+            "word": "system.",
+            "start": 43.5,
+            "end": 43.88,
+            "score": 0.864
+        },
+        {
+            "word": "For",
+            "start": 44.021,
+            "end": 44.161,
+            "score": 0.844
+        },
+        {
+            "word": "example,",
+            "start": 44.221,
+            "end": 44.601,
+            "score": 0.878
+        },
+        {
+            "word": "in",
+            "start": 44.661,
+            "end": 44.761,
+            "score": 0.817
+        },
+        {
+            "word": "Champagne-Urbain,",
+            "start": 44.801,
+            "end": 45.641,
+            "score": 0.699
+        },
+        {
+            "word": "they",
+            "start": 45.681,
+            "end": 45.821,
+            "score": 0.941
+        },
+        {
+            "word": "have",
+            "start": 45.861,
+            "end": 46.082,
+            "score": 0.915
+        },
+        {
+            "word": "good",
+            "start": 46.782,
+            "end": 47.002,
+            "score": 0.93
+        },
+        {
+            "word": "bus",
+            "start": 48.763,
+            "end": 49.603,
+            "score": 0.893
+        },
+        {
+            "word": "stations.",
+            "start": 49.623,
+            "end": 50.264,
+            "score": 0.917
+        },
+        {
+            "word": "that",
+            "start": 51.184,
+            "end": 51.365,
+            "score": 0.892
+        },
+        {
+            "word": "you",
+            "start": 51.425,
+            "end": 51.565,
+            "score": 0.904
+        },
+        {
+            "word": "can",
+            "start": 51.625,
+            "end": 51.946,
+            "score": 0.785
+        },
+        {
+            "word": "go",
+            "start": 52.226,
+            "end": 52.426,
+            "score": 0.894
+        },
+        {
+            "word": "whatever",
+            "start": 52.567,
+            "end": 53.047,
+            "score": 0.878
+        },
+        {
+            "word": "you",
+            "start": 53.228,
+            "end": 53.408,
+            "score": 0.853
+        },
+        {
+            "word": "like",
+            "start": 53.428,
+            "end": 53.628,
+            "score": 0.738
+        },
+        {
+            "word": "to",
+            "start": 53.669,
+            "end": 53.769,
+            "score": 0.793
+        },
+        {
+            "word": "go",
+            "start": 53.809,
+            "end": 54.029,
+            "score": 0.869
+        },
+        {
+            "word": "and",
+            "start": 54.65,
+            "end": 54.77,
+            "score": 0.637
+        },
+        {
+            "word": "you",
+            "start": 54.81,
+            "end": 54.991,
+            "score": 0.818
+        },
+        {
+            "word": "didn't",
+            "start": 55.051,
+            "end": 55.311,
+            "score": 0.783
+        },
+        {
+            "word": "need",
+            "start": 55.411,
+            "end": 55.632,
+            "score": 0.971
+        },
+        {
+            "word": "to",
+            "start": 56.473,
+            "end": 56.633,
+            "score": 0.906
+        },
+        {
+            "word": "have",
+            "start": 56.674,
+            "end": 56.914,
+            "score": 0.75
+        },
+        {
+            "word": "a",
+            "start": 57.856,
+            "end": 57.896,
+            "score": 0.865
+        },
+        {
+            "word": "car",
+            "start": 57.976,
+            "end": 58.457,
+            "score": 0.561
+        },
+        {
+            "word": "and",
+            "start": 59.098,
+            "end": 59.178,
+            "score": 0.945
+        },
+        {
+            "word": "you",
+            "start": 59.218,
+            "end": 59.298,
+            "score": 0.837
+        },
+        {
+            "word": "can",
+            "start": 59.318,
+            "end": 59.478,
+            "score": 0.654
+        },
+        {
+            "word": "save",
+            "start": 59.498,
+            "end": 59.679,
+            "score": 0.766
+        },
+        {
+            "word": "your",
+            "start": 59.699,
+            "end": 59.859,
+            "score": 0.89
+        },
+        {
+            "word": "money.",
+            "start": 59.899,
+            "end": 60.119,
+            "score": 0.812
+        }
+    ]
+}

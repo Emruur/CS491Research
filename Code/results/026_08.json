@@ -1,0 +1,701 @@
+{
+    "segments": [
+        {
+            "start": 0.469,
+            "end": 9.411,
+            "text": " I'm in park and I want to go tunnel so I can see the bus stop and there's Lord and 11th Street.",
+            "words": [
+                {
+                    "word": "I'm",
+                    "start": 0.469,
+                    "end": 0.629,
+                    "score": 0.716
+                },
+                {
+                    "word": "in",
+                    "start": 0.669,
+                    "end": 0.789,
+                    "score": 0.464
+                },
+                {
+                    "word": "park",
+                    "start": 1.229,
+                    "end": 1.589,
+                    "score": 0.804
+                },
+                {
+                    "word": "and",
+                    "start": 2.129,
+                    "end": 2.229,
+                    "score": 0.87
+                },
+                {
+                    "word": "I",
+                    "start": 2.33,
+                    "end": 2.41,
+                    "score": 0.785
+                },
+                {
+                    "word": "want",
+                    "start": 2.43,
+                    "end": 2.57,
+                    "score": 0.685
+                },
+                {
+                    "word": "to",
+                    "start": 2.59,
+                    "end": 2.67,
+                    "score": 0.758
+                },
+                {
+                    "word": "go",
+                    "start": 2.69,
+                    "end": 2.83,
+                    "score": 0.86
+                },
+                {
+                    "word": "tunnel",
+                    "start": 2.89,
+                    "end": 3.43,
+                    "score": 0.753
+                },
+                {
+                    "word": "so",
+                    "start": 4.07,
+                    "end": 4.25,
+                    "score": 0.828
+                },
+                {
+                    "word": "I",
+                    "start": 4.39,
+                    "end": 4.47,
+                    "score": 0.751
+                },
+                {
+                    "word": "can",
+                    "start": 4.51,
+                    "end": 4.69,
+                    "score": 0.764
+                },
+                {
+                    "word": "see",
+                    "start": 4.71,
+                    "end": 4.87,
+                    "score": 0.888
+                },
+                {
+                    "word": "the",
+                    "start": 4.91,
+                    "end": 5.01,
+                    "score": 0.893
+                },
+                {
+                    "word": "bus",
+                    "start": 5.07,
+                    "end": 5.27,
+                    "score": 0.896
+                },
+                {
+                    "word": "stop",
+                    "start": 5.29,
+                    "end": 5.65,
+                    "score": 0.828
+                },
+                {
+                    "word": "and",
+                    "start": 6.47,
+                    "end": 6.63,
+                    "score": 0.646
+                },
+                {
+                    "word": "there's",
+                    "start": 7.011,
+                    "end": 7.331,
+                    "score": 0.692
+                },
+                {
+                    "word": "Lord",
+                    "start": 7.491,
+                    "end": 7.831,
+                    "score": 0.854
+                },
+                {
+                    "word": "and",
+                    "start": 8.491,
+                    "end": 8.591,
+                    "score": 0.905
+                },
+                {
+                    "word": "11th",
+                    "start": 8.911,
+                    "end": 9.091,
+                    "score": 0.312
+                },
+                {
+                    "word": "Street.",
+                    "start": 9.131,
+                    "end": 9.411,
+                    "score": 0.975
+                }
+            ]
+        },
+        {
+            "start": 9.951,
+            "end": 11.031,
+            "text": "I go there.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 9.951,
+                    "end": 10.091,
+                    "score": 0.885
+                },
+                {
+                    "word": "go",
+                    "start": 10.211,
+                    "end": 10.491,
+                    "score": 0.929
+                },
+                {
+                    "word": "there.",
+                    "start": 10.711,
+                    "end": 11.031,
+                    "score": 0.618
+                }
+            ]
+        },
+        {
+            "start": 12.052,
+            "end": 17.393,
+            "text": "So I walk one block and turn right.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 12.052,
+                    "end": 12.232,
+                    "score": 0.878
+                },
+                {
+                    "word": "I",
+                    "start": 12.372,
+                    "end": 12.452,
+                    "score": 0.991
+                },
+                {
+                    "word": "walk",
+                    "start": 12.492,
+                    "end": 13.292,
+                    "score": 0.758
+                },
+                {
+                    "word": "one",
+                    "start": 13.972,
+                    "end": 14.152,
+                    "score": 0.832
+                },
+                {
+                    "word": "block",
+                    "start": 15.372,
+                    "end": 15.732,
+                    "score": 0.929
+                },
+                {
+                    "word": "and",
+                    "start": 15.992,
+                    "end": 16.153,
+                    "score": 0.641
+                },
+                {
+                    "word": "turn",
+                    "start": 16.253,
+                    "end": 16.573,
+                    "score": 0.656
+                },
+                {
+                    "word": "right.",
+                    "start": 17.133,
+                    "end": 17.393,
+                    "score": 0.847
+                }
+            ]
+        },
+        {
+            "start": 18.113,
+            "end": 25.034,
+            "text": "I'm in main avenue and I can see left side on my left side the tunnel is.",
+            "words": [
+                {
+                    "word": "I'm",
+                    "start": 18.113,
+                    "end": 18.753,
+                    "score": 0.787
+                },
+                {
+                    "word": "in",
+                    "start": 18.813,
+                    "end": 18.953,
+                    "score": 0.588
+                },
+                {
+                    "word": "main",
+                    "start": 19.013,
+                    "end": 19.293,
+                    "score": 0.892
+                },
+                {
+                    "word": "avenue",
+                    "start": 19.413,
+                    "end": 19.733,
+                    "score": 0.916
+                },
+                {
+                    "word": "and",
+                    "start": 19.973,
+                    "end": 20.093,
+                    "score": 0.673
+                },
+                {
+                    "word": "I",
+                    "start": 20.213,
+                    "end": 20.293,
+                    "score": 0.937
+                },
+                {
+                    "word": "can",
+                    "start": 20.333,
+                    "end": 20.513,
+                    "score": 0.91
+                },
+                {
+                    "word": "see",
+                    "start": 20.574,
+                    "end": 20.834,
+                    "score": 0.834
+                },
+                {
+                    "word": "left",
+                    "start": 21.454,
+                    "end": 21.654,
+                    "score": 0.843
+                },
+                {
+                    "word": "side",
+                    "start": 21.694,
+                    "end": 21.974,
+                    "score": 0.811
+                },
+                {
+                    "word": "on",
+                    "start": 22.094,
+                    "end": 22.214,
+                    "score": 0.898
+                },
+                {
+                    "word": "my",
+                    "start": 22.754,
+                    "end": 22.914,
+                    "score": 0.833
+                },
+                {
+                    "word": "left",
+                    "start": 22.974,
+                    "end": 23.174,
+                    "score": 0.944
+                },
+                {
+                    "word": "side",
+                    "start": 23.234,
+                    "end": 23.534,
+                    "score": 0.913
+                },
+                {
+                    "word": "the",
+                    "start": 24.094,
+                    "end": 24.234,
+                    "score": 0.873
+                },
+                {
+                    "word": "tunnel",
+                    "start": 24.274,
+                    "end": 24.814,
+                    "score": 0.602
+                },
+                {
+                    "word": "is.",
+                    "start": 24.874,
+                    "end": 25.034,
+                    "score": 0.769
+                }
+            ]
+        },
+        {
+            "start": 26.015,
+            "end": 27.275,
+            "text": "So I can find tunnel.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 26.015,
+                    "end": 26.215,
+                    "score": 0.884
+                },
+                {
+                    "word": "I",
+                    "start": 26.295,
+                    "end": 26.375,
+                    "score": 0.969
+                },
+                {
+                    "word": "can",
+                    "start": 26.415,
+                    "end": 26.575,
+                    "score": 0.942
+                },
+                {
+                    "word": "find",
+                    "start": 26.615,
+                    "end": 26.875,
+                    "score": 0.766
+                },
+                {
+                    "word": "tunnel.",
+                    "start": 26.935,
+                    "end": 27.275,
+                    "score": 0.497
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I'm",
+            "start": 0.469,
+            "end": 0.629,
+            "score": 0.716
+        },
+        {
+            "word": "in",
+            "start": 0.669,
+            "end": 0.789,
+            "score": 0.464
+        },
+        {
+            "word": "park",
+            "start": 1.229,
+            "end": 1.589,
+            "score": 0.804
+        },
+        {
+            "word": "and",
+            "start": 2.129,
+            "end": 2.229,
+            "score": 0.87
+        },
+        {
+            "word": "I",
+            "start": 2.33,
+            "end": 2.41,
+            "score": 0.785
+        },
+        {
+            "word": "want",
+            "start": 2.43,
+            "end": 2.57,
+            "score": 0.685
+        },
+        {
+            "word": "to",
+            "start": 2.59,
+            "end": 2.67,
+            "score": 0.758
+        },
+        {
+            "word": "go",
+            "start": 2.69,
+            "end": 2.83,
+            "score": 0.86
+        },
+        {
+            "word": "tunnel",
+            "start": 2.89,
+            "end": 3.43,
+            "score": 0.753
+        },
+        {
+            "word": "so",
+            "start": 4.07,
+            "end": 4.25,
+            "score": 0.828
+        },
+        {
+            "word": "I",
+            "start": 4.39,
+            "end": 4.47,
+            "score": 0.751
+        },
+        {
+            "word": "can",
+            "start": 4.51,
+            "end": 4.69,
+            "score": 0.764
+        },
+        {
+            "word": "see",
+            "start": 4.71,
+            "end": 4.87,
+            "score": 0.888
+        },
+        {
+            "word": "the",
+            "start": 4.91,
+            "end": 5.01,
+            "score": 0.893
+        },
+        {
+            "word": "bus",
+            "start": 5.07,
+            "end": 5.27,
+            "score": 0.896
+        },
+        {
+            "word": "stop",
+            "start": 5.29,
+            "end": 5.65,
+            "score": 0.828
+        },
+        {
+            "word": "and",
+            "start": 6.47,
+            "end": 6.63,
+            "score": 0.646
+        },
+        {
+            "word": "there's",
+            "start": 7.011,
+            "end": 7.331,
+            "score": 0.692
+        },
+        {
+            "word": "Lord",
+            "start": 7.491,
+            "end": 7.831,
+            "score": 0.854
+        },
+        {
+            "word": "and",
+            "start": 8.491,
+            "end": 8.591,
+            "score": 0.905
+        },
+        {
+            "word": "11th",
+            "start": 8.911,
+            "end": 9.091,
+            "score": 0.312
+        },
+        {
+            "word": "Street.",
+            "start": 9.131,
+            "end": 9.411,
+            "score": 0.975
+        },
+        {
+            "word": "I",
+            "start": 9.951,
+            "end": 10.091,
+            "score": 0.885
+        },
+        {
+            "word": "go",
+            "start": 10.211,
+            "end": 10.491,
+            "score": 0.929
+        },
+        {
+            "word": "there.",
+            "start": 10.711,
+            "end": 11.031,
+            "score": 0.618
+        },
+        {
+            "word": "So",
+            "start": 12.052,
+            "end": 12.232,
+            "score": 0.878
+        },
+        {
+            "word": "I",
+            "start": 12.372,
+            "end": 12.452,
+            "score": 0.991
+        },
+        {
+            "word": "walk",
+            "start": 12.492,
+            "end": 13.292,
+            "score": 0.758
+        },
+        {
+            "word": "one",
+            "start": 13.972,
+            "end": 14.152,
+            "score": 0.832
+        },
+        {
+            "word": "block",
+            "start": 15.372,
+            "end": 15.732,
+            "score": 0.929
+        },
+        {
+            "word": "and",
+            "start": 15.992,
+            "end": 16.153,
+            "score": 0.641
+        },
+        {
+            "word": "turn",
+            "start": 16.253,
+            "end": 16.573,
+            "score": 0.656
+        },
+        {
+            "word": "right.",
+            "start": 17.133,
+            "end": 17.393,
+            "score": 0.847
+        },
+        {
+            "word": "I'm",
+            "start": 18.113,
+            "end": 18.753,
+            "score": 0.787
+        },
+        {
+            "word": "in",
+            "start": 18.813,
+            "end": 18.953,
+            "score": 0.588
+        },
+        {
+            "word": "main",
+            "start": 19.013,
+            "end": 19.293,
+            "score": 0.892
+        },
+        {
+            "word": "avenue",
+            "start": 19.413,
+            "end": 19.733,
+            "score": 0.916
+        },
+        {
+            "word": "and",
+            "start": 19.973,
+            "end": 20.093,
+            "score": 0.673
+        },
+        {
+            "word": "I",
+            "start": 20.213,
+            "end": 20.293,
+            "score": 0.937
+        },
+        {
+            "word": "can",
+            "start": 20.333,
+            "end": 20.513,
+            "score": 0.91
+        },
+        {
+            "word": "see",
+            "start": 20.574,
+            "end": 20.834,
+            "score": 0.834
+        },
+        {
+            "word": "left",
+            "start": 21.454,
+            "end": 21.654,
+            "score": 0.843
+        },
+        {
+            "word": "side",
+            "start": 21.694,
+            "end": 21.974,
+            "score": 0.811
+        },
+        {
+            "word": "on",
+            "start": 22.094,
+            "end": 22.214,
+            "score": 0.898
+        },
+        {
+            "word": "my",
+            "start": 22.754,
+            "end": 22.914,
+            "score": 0.833
+        },
+        {
+            "word": "left",
+            "start": 22.974,
+            "end": 23.174,
+            "score": 0.944
+        },
+        {
+            "word": "side",
+            "start": 23.234,
+            "end": 23.534,
+            "score": 0.913
+        },
+        {
+            "word": "the",
+            "start": 24.094,
+            "end": 24.234,
+            "score": 0.873
+        },
+        {
+            "word": "tunnel",
+            "start": 24.274,
+            "end": 24.814,
+            "score": 0.602
+        },
+        {
+            "word": "is.",
+            "start": 24.874,
+            "end": 25.034,
+            "score": 0.769
+        },
+        {
+            "word": "So",
+            "start": 26.015,
+            "end": 26.215,
+            "score": 0.884
+        },
+        {
+            "word": "I",
+            "start": 26.295,
+            "end": 26.375,
+            "score": 0.969
+        },
+        {
+            "word": "can",
+            "start": 26.415,
+            "end": 26.575,
+            "score": 0.942
+        },
+        {
+            "word": "find",
+            "start": 26.615,
+            "end": 26.875,
+            "score": 0.766
+        },
+        {
+            "word": "tunnel.",
+            "start": 26.935,
+            "end": 27.275,
+            "score": 0.497
+        }
+    ]
+}

@@ -1,0 +1,1399 @@
+{
+    "segments": [
+        {
+            "start": 7.976,
+            "end": 19.666,
+            "text": " Monday the weather is mostly cloudy and",
+            "words": [
+                {
+                    "word": "Monday",
+                    "start": 7.976,
+                    "end": 9.137,
+                    "score": 0.808
+                },
+                {
+                    "word": "the",
+                    "start": 15.342,
+                    "end": 15.462,
+                    "score": 0.802
+                },
+                {
+                    "word": "weather",
+                    "start": 15.482,
+                    "end": 15.763,
+                    "score": 0.66
+                },
+                {
+                    "word": "is",
+                    "start": 15.843,
+                    "end": 16.683,
+                    "score": 0.845
+                },
+                {
+                    "word": "mostly",
+                    "start": 17.264,
+                    "end": 17.624,
+                    "score": 0.807
+                },
+                {
+                    "word": "cloudy",
+                    "start": 17.904,
+                    "end": 18.425,
+                    "score": 0.803
+                },
+                {
+                    "word": "and",
+                    "start": 19.526,
+                    "end": 19.666,
+                    "score": 0.717
+                }
+            ]
+        },
+        {
+            "start": 23.376,
+            "end": 34.436,
+            "text": " the humidity is 69% and Tuesday the weather is also mostly cloudy but the weather",
+            "words": [
+                {
+                    "word": "the",
+                    "start": 23.376,
+                    "end": 23.556,
+                    "score": 0.881
+                },
+                {
+                    "word": "humidity",
+                    "start": 23.657,
+                    "end": 26.101,
+                    "score": 0.829
+                },
+                {
+                    "word": "is",
+                    "start": 26.241,
+                    "end": 27.043,
+                    "score": 0.684
+                },
+                {
+                    "word": "69%"
+                },
+                {
+                    "word": "and",
+                    "start": 28.425,
+                    "end": 28.646,
+                    "score": 0.869
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 29.187,
+                    "end": 29.808,
+                    "score": 0.756
+                },
+                {
+                    "word": "the",
+                    "start": 30.128,
+                    "end": 30.248,
+                    "score": 0.825
+                },
+                {
+                    "word": "weather",
+                    "start": 30.268,
+                    "end": 30.609,
+                    "score": 0.835
+                },
+                {
+                    "word": "is",
+                    "start": 30.85,
+                    "end": 30.97,
+                    "score": 0.72
+                },
+                {
+                    "word": "also",
+                    "start": 31.29,
+                    "end": 31.611,
+                    "score": 0.9
+                },
+                {
+                    "word": "mostly",
+                    "start": 31.731,
+                    "end": 32.052,
+                    "score": 0.685
+                },
+                {
+                    "word": "cloudy",
+                    "start": 32.072,
+                    "end": 32.533,
+                    "score": 0.842
+                },
+                {
+                    "word": "but",
+                    "start": 33.374,
+                    "end": 33.695,
+                    "score": 0.968
+                },
+                {
+                    "word": "the",
+                    "start": 34.035,
+                    "end": 34.135,
+                    "score": 0.981
+                },
+                {
+                    "word": "weather",
+                    "start": 34.176,
+                    "end": 34.436,
+                    "score": 0.953
+                }
+            ]
+        },
+        {
+            "start": 37.304,
+            "end": 60.723,
+            "text": " temperature is increasing and the weather is 72 Fahrenheit and Wednesday it is the same as the Tuesday but Thursday it's only cloudy and temperature will increase and",
+            "words": [
+                {
+                    "word": "temperature",
+                    "start": 37.304,
+                    "end": 37.885,
+                    "score": 0.88
+                },
+                {
+                    "word": "is",
+                    "start": 38.165,
+                    "end": 38.325,
+                    "score": 0.746
+                },
+                {
+                    "word": "increasing",
+                    "start": 38.725,
+                    "end": 39.366,
+                    "score": 0.869
+                },
+                {
+                    "word": "and",
+                    "start": 39.806,
+                    "end": 39.986,
+                    "score": 0.651
+                },
+                {
+                    "word": "the",
+                    "start": 40.006,
+                    "end": 40.066,
+                    "score": 0.0
+                },
+                {
+                    "word": "weather",
+                    "start": 40.547,
+                    "end": 41.047,
+                    "score": 0.831
+                },
+                {
+                    "word": "is",
+                    "start": 42.048,
+                    "end": 42.188,
+                    "score": 0.854
+                },
+                {
+                    "word": "72"
+                },
+                {
+                    "word": "Fahrenheit",
+                    "start": 44.47,
+                    "end": 45.07,
+                    "score": 0.612
+                },
+                {
+                    "word": "and",
+                    "start": 46.011,
+                    "end": 46.171,
+                    "score": 0.762
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 46.331,
+                    "end": 47.012,
+                    "score": 0.753
+                },
+                {
+                    "word": "it",
+                    "start": 47.032,
+                    "end": 47.072,
+                    "score": 0.0
+                },
+                {
+                    "word": "is",
+                    "start": 48.793,
+                    "end": 48.873,
+                    "score": 0.997
+                },
+                {
+                    "word": "the",
+                    "start": 48.913,
+                    "end": 49.033,
+                    "score": 0.763
+                },
+                {
+                    "word": "same",
+                    "start": 49.053,
+                    "end": 50.935,
+                    "score": 0.942
+                },
+                {
+                    "word": "as",
+                    "start": 50.995,
+                    "end": 51.115,
+                    "score": 0.993
+                },
+                {
+                    "word": "the",
+                    "start": 51.215,
+                    "end": 51.315,
+                    "score": 0.79
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 51.355,
+                    "end": 51.815,
+                    "score": 0.868
+                },
+                {
+                    "word": "but",
+                    "start": 52.316,
+                    "end": 52.456,
+                    "score": 0.968
+                },
+                {
+                    "word": "Thursday",
+                    "start": 52.516,
+                    "end": 53.097,
+                    "score": 0.902
+                },
+                {
+                    "word": "it's",
+                    "start": 53.597,
+                    "end": 53.757,
+                    "score": 0.708
+                },
+                {
+                    "word": "only",
+                    "start": 53.897,
+                    "end": 54.077,
+                    "score": 0.902
+                },
+                {
+                    "word": "cloudy",
+                    "start": 54.137,
+                    "end": 54.658,
+                    "score": 0.704
+                },
+                {
+                    "word": "and",
+                    "start": 55.298,
+                    "end": 55.398,
+                    "score": 0.693
+                },
+                {
+                    "word": "temperature",
+                    "start": 55.478,
+                    "end": 56.059,
+                    "score": 0.901
+                },
+                {
+                    "word": "will",
+                    "start": 56.119,
+                    "end": 56.379,
+                    "score": 0.683
+                },
+                {
+                    "word": "increase",
+                    "start": 57.1,
+                    "end": 57.62,
+                    "score": 0.935
+                },
+                {
+                    "word": "and",
+                    "start": 60.602,
+                    "end": 60.723,
+                    "score": 0.819
+                }
+            ]
+        },
+        {
+            "start": 70.72,
+            "end": 79.545,
+            "text": " You can take as much as you want before the question, but after you see the question, there is limited time of the preparation.",
+            "words": [
+                {
+                    "word": "You",
+                    "start": 70.72,
+                    "end": 70.86,
+                    "score": 0.956
+                },
+                {
+                    "word": "can",
+                    "start": 70.92,
+                    "end": 71.22,
+                    "score": 0.711
+                },
+                {
+                    "word": "take",
+                    "start": 71.36,
+                    "end": 72.061,
+                    "score": 0.605
+                },
+                {
+                    "word": "as",
+                    "start": 72.341,
+                    "end": 72.481,
+                    "score": 0.66
+                },
+                {
+                    "word": "much",
+                    "start": 72.521,
+                    "end": 72.721,
+                    "score": 0.734
+                },
+                {
+                    "word": "as",
+                    "start": 72.861,
+                    "end": 72.961,
+                    "score": 0.692
+                },
+                {
+                    "word": "you",
+                    "start": 72.981,
+                    "end": 73.181,
+                    "score": 0.707
+                },
+                {
+                    "word": "want",
+                    "start": 73.441,
+                    "end": 73.722,
+                    "score": 0.734
+                },
+                {
+                    "word": "before",
+                    "start": 74.162,
+                    "end": 74.442,
+                    "score": 0.744
+                },
+                {
+                    "word": "the",
+                    "start": 74.482,
+                    "end": 74.582,
+                    "score": 0.738
+                },
+                {
+                    "word": "question,",
+                    "start": 74.642,
+                    "end": 75.202,
+                    "score": 0.525
+                },
+                {
+                    "word": "but",
+                    "start": 75.222,
+                    "end": 75.363,
+                    "score": 0.736
+                },
+                {
+                    "word": "after",
+                    "start": 75.463,
+                    "end": 75.683,
+                    "score": 0.351
+                },
+                {
+                    "word": "you",
+                    "start": 75.723,
+                    "end": 75.803,
+                    "score": 0.317
+                },
+                {
+                    "word": "see",
+                    "start": 75.843,
+                    "end": 76.063,
+                    "score": 0.423
+                },
+                {
+                    "word": "the",
+                    "start": 76.083,
+                    "end": 76.203,
+                    "score": 0.475
+                },
+                {
+                    "word": "question,",
+                    "start": 76.243,
+                    "end": 76.663,
+                    "score": 0.426
+                },
+                {
+                    "word": "there",
+                    "start": 76.683,
+                    "end": 76.803,
+                    "score": 0.294
+                },
+                {
+                    "word": "is",
+                    "start": 76.863,
+                    "end": 76.943,
+                    "score": 0.622
+                },
+                {
+                    "word": "limited",
+                    "start": 76.983,
+                    "end": 77.464,
+                    "score": 0.498
+                },
+                {
+                    "word": "time",
+                    "start": 77.604,
+                    "end": 77.804,
+                    "score": 0.645
+                },
+                {
+                    "word": "of",
+                    "start": 77.844,
+                    "end": 77.884,
+                    "score": 0.078
+                },
+                {
+                    "word": "the",
+                    "start": 77.964,
+                    "end": 78.084,
+                    "score": 0.582
+                },
+                {
+                    "word": "preparation.",
+                    "start": 78.124,
+                    "end": 79.545,
+                    "score": 0.632
+                }
+            ]
+        },
+        {
+            "start": 79.905,
+            "end": 86.168,
+            "text": "If the preparation time is 30 seconds, then you should start your talking after 30 seconds.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 79.905,
+                    "end": 81.766,
+                    "score": 0.648
+                },
+                {
+                    "word": "the",
+                    "start": 81.846,
+                    "end": 82.006,
+                    "score": 0.709
+                },
+                {
+                    "word": "preparation",
+                    "start": 82.086,
+                    "end": 82.727,
+                    "score": 0.57
+                },
+                {
+                    "word": "time",
+                    "start": 82.767,
+                    "end": 83.187,
+                    "score": 0.508
+                },
+                {
+                    "word": "is",
+                    "start": 83.267,
+                    "end": 83.327,
+                    "score": 0.699
+                },
+                {
+                    "word": "30"
+                },
+                {
+                    "word": "seconds,",
+                    "start": 83.367,
+                    "end": 83.727,
+                    "score": 0.51
+                },
+                {
+                    "word": "then",
+                    "start": 83.787,
+                    "end": 83.967,
+                    "score": 0.428
+                },
+                {
+                    "word": "you",
+                    "start": 84.007,
+                    "end": 84.227,
+                    "score": 0.484
+                },
+                {
+                    "word": "should",
+                    "start": 84.247,
+                    "end": 84.447,
+                    "score": 0.284
+                },
+                {
+                    "word": "start",
+                    "start": 84.467,
+                    "end": 84.728,
+                    "score": 0.677
+                },
+                {
+                    "word": "your",
+                    "start": 84.848,
+                    "end": 85.028,
+                    "score": 0.494
+                },
+                {
+                    "word": "talking",
+                    "start": 85.048,
+                    "end": 85.488,
+                    "score": 0.487
+                },
+                {
+                    "word": "after",
+                    "start": 85.588,
+                    "end": 85.808,
+                    "score": 0.429
+                },
+                {
+                    "word": "30"
+                },
+                {
+                    "word": "seconds.",
+                    "start": 85.848,
+                    "end": 86.168,
+                    "score": 0.354
+                }
+            ]
+        },
+        {
+            "start": 86.709,
+            "end": 89.67,
+            "text": "Actually, there is a misunderstanding for me.",
+            "words": [
+                {
+                    "word": "Actually,",
+                    "start": 86.709,
+                    "end": 87.129,
+                    "score": 0.561
+                },
+                {
+                    "word": "there",
+                    "start": 87.429,
+                    "end": 87.749,
+                    "score": 0.871
+                },
+                {
+                    "word": "is",
+                    "start": 87.769,
+                    "end": 87.809,
+                    "score": 0.01
+                },
+                {
+                    "word": "a",
+                    "start": 87.829,
+                    "end": 87.849,
+                    "score": 0.001
+                },
+                {
+                    "word": "misunderstanding",
+                    "start": 88.43,
+                    "end": 89.23,
+                    "score": 0.926
+                },
+                {
+                    "word": "for",
+                    "start": 89.31,
+                    "end": 89.49,
+                    "score": 0.895
+                },
+                {
+                    "word": "me.",
+                    "start": 89.55,
+                    "end": 89.67,
+                    "score": 0.956
+                }
+            ]
+        },
+        {
+            "start": 89.69,
+            "end": 96.254,
+            "text": "Because I think I will be asked about this table and I take some notes and I",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 89.69,
+                    "end": 90.651,
+                    "score": 0.664
+                },
+                {
+                    "word": "I",
+                    "start": 90.771,
+                    "end": 90.831,
+                    "score": 0.952
+                },
+                {
+                    "word": "think",
+                    "start": 90.871,
+                    "end": 91.111,
+                    "score": 0.793
+                },
+                {
+                    "word": "I",
+                    "start": 91.131,
+                    "end": 91.151,
+                    "score": 0.002
+                },
+                {
+                    "word": "will",
+                    "start": 91.872,
+                    "end": 92.472,
+                    "score": 0.792
+                },
+                {
+                    "word": "be",
+                    "start": 92.492,
+                    "end": 92.572,
+                    "score": 0.796
+                },
+                {
+                    "word": "asked",
+                    "start": 92.672,
+                    "end": 93.032,
+                    "score": 0.895
+                },
+                {
+                    "word": "about",
+                    "start": 93.132,
+                    "end": 93.392,
+                    "score": 0.93
+                },
+                {
+                    "word": "this",
+                    "start": 93.412,
+                    "end": 94.053,
+                    "score": 0.584
+                },
+                {
+                    "word": "table",
+                    "start": 94.133,
+                    "end": 94.513,
+                    "score": 0.875
+                },
+                {
+                    "word": "and",
+                    "start": 94.853,
+                    "end": 94.973,
+                    "score": 0.554
+                },
+                {
+                    "word": "I",
+                    "start": 95.053,
+                    "end": 95.133,
+                    "score": 0.988
+                },
+                {
+                    "word": "take",
+                    "start": 95.193,
+                    "end": 95.433,
+                    "score": 0.864
+                },
+                {
+                    "word": "some",
+                    "start": 95.494,
+                    "end": 95.694,
+                    "score": 0.969
+                },
+                {
+                    "word": "notes",
+                    "start": 95.754,
+                    "end": 95.994,
+                    "score": 0.619
+                },
+                {
+                    "word": "and",
+                    "start": 96.094,
+                    "end": 96.174,
+                    "score": 0.426
+                },
+                {
+                    "word": "I",
+                    "start": 96.234,
+                    "end": 96.254,
+                    "score": 0.847
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Monday",
+            "start": 7.976,
+            "end": 9.137,
+            "score": 0.808
+        },
+        {
+            "word": "the",
+            "start": 15.342,
+            "end": 15.462,
+            "score": 0.802
+        },
+        {
+            "word": "weather",
+            "start": 15.482,
+            "end": 15.763,
+            "score": 0.66
+        },
+        {
+            "word": "is",
+            "start": 15.843,
+            "end": 16.683,
+            "score": 0.845
+        },
+        {
+            "word": "mostly",
+            "start": 17.264,
+            "end": 17.624,
+            "score": 0.807
+        },
+        {
+            "word": "cloudy",
+            "start": 17.904,
+            "end": 18.425,
+            "score": 0.803
+        },
+        {
+            "word": "and",
+            "start": 19.526,
+            "end": 19.666,
+            "score": 0.717
+        },
+        {
+            "word": "the",
+            "start": 23.376,
+            "end": 23.556,
+            "score": 0.881
+        },
+        {
+            "word": "humidity",
+            "start": 23.657,
+            "end": 26.101,
+            "score": 0.829
+        },
+        {
+            "word": "is",
+            "start": 26.241,
+            "end": 27.043,
+            "score": 0.684
+        },
+        {
+            "word": "69%"
+        },
+        {
+            "word": "and",
+            "start": 28.425,
+            "end": 28.646,
+            "score": 0.869
+        },
+        {
+            "word": "Tuesday",
+            "start": 29.187,
+            "end": 29.808,
+            "score": 0.756
+        },
+        {
+            "word": "the",
+            "start": 30.128,
+            "end": 30.248,
+            "score": 0.825
+        },
+        {
+            "word": "weather",
+            "start": 30.268,
+            "end": 30.609,
+            "score": 0.835
+        },
+        {
+            "word": "is",
+            "start": 30.85,
+            "end": 30.97,
+            "score": 0.72
+        },
+        {
+            "word": "also",
+            "start": 31.29,
+            "end": 31.611,
+            "score": 0.9
+        },
+        {
+            "word": "mostly",
+            "start": 31.731,
+            "end": 32.052,
+            "score": 0.685
+        },
+        {
+            "word": "cloudy",
+            "start": 32.072,
+            "end": 32.533,
+            "score": 0.842
+        },
+        {
+            "word": "but",
+            "start": 33.374,
+            "end": 33.695,
+            "score": 0.968
+        },
+        {
+            "word": "the",
+            "start": 34.035,
+            "end": 34.135,
+            "score": 0.981
+        },
+        {
+            "word": "weather",
+            "start": 34.176,
+            "end": 34.436,
+            "score": 0.953
+        },
+        {
+            "word": "temperature",
+            "start": 37.304,
+            "end": 37.885,
+            "score": 0.88
+        },
+        {
+            "word": "is",
+            "start": 38.165,
+            "end": 38.325,
+            "score": 0.746
+        },
+        {
+            "word": "increasing",
+            "start": 38.725,
+            "end": 39.366,
+            "score": 0.869
+        },
+        {
+            "word": "and",
+            "start": 39.806,
+            "end": 39.986,
+            "score": 0.651
+        },
+        {
+            "word": "the",
+            "start": 40.006,
+            "end": 40.066,
+            "score": 0.0
+        },
+        {
+            "word": "weather",
+            "start": 40.547,
+            "end": 41.047,
+            "score": 0.831
+        },
+        {
+            "word": "is",
+            "start": 42.048,
+            "end": 42.188,
+            "score": 0.854
+        },
+        {
+            "word": "72"
+        },
+        {
+            "word": "Fahrenheit",
+            "start": 44.47,
+            "end": 45.07,
+            "score": 0.612
+        },
+        {
+            "word": "and",
+            "start": 46.011,
+            "end": 46.171,
+            "score": 0.762
+        },
+        {
+            "word": "Wednesday",
+            "start": 46.331,
+            "end": 47.012,
+            "score": 0.753
+        },
+        {
+            "word": "it",
+            "start": 47.032,
+            "end": 47.072,
+            "score": 0.0
+        },
+        {
+            "word": "is",
+            "start": 48.793,
+            "end": 48.873,
+            "score": 0.997
+        },
+        {
+            "word": "the",
+            "start": 48.913,
+            "end": 49.033,
+            "score": 0.763
+        },
+        {
+            "word": "same",
+            "start": 49.053,
+            "end": 50.935,
+            "score": 0.942
+        },
+        {
+            "word": "as",
+            "start": 50.995,
+            "end": 51.115,
+            "score": 0.993
+        },
+        {
+            "word": "the",
+            "start": 51.215,
+            "end": 51.315,
+            "score": 0.79
+        },
+        {
+            "word": "Tuesday",
+            "start": 51.355,
+            "end": 51.815,
+            "score": 0.868
+        },
+        {
+            "word": "but",
+            "start": 52.316,
+            "end": 52.456,
+            "score": 0.968
+        },
+        {
+            "word": "Thursday",
+            "start": 52.516,
+            "end": 53.097,
+            "score": 0.902
+        },
+        {
+            "word": "it's",
+            "start": 53.597,
+            "end": 53.757,
+            "score": 0.708
+        },
+        {
+            "word": "only",
+            "start": 53.897,
+            "end": 54.077,
+            "score": 0.902
+        },
+        {
+            "word": "cloudy",
+            "start": 54.137,
+            "end": 54.658,
+            "score": 0.704
+        },
+        {
+            "word": "and",
+            "start": 55.298,
+            "end": 55.398,
+            "score": 0.693
+        },
+        {
+            "word": "temperature",
+            "start": 55.478,
+            "end": 56.059,
+            "score": 0.901
+        },
+        {
+            "word": "will",
+            "start": 56.119,
+            "end": 56.379,
+            "score": 0.683
+        },
+        {
+            "word": "increase",
+            "start": 57.1,
+            "end": 57.62,
+            "score": 0.935
+        },
+        {
+            "word": "and",
+            "start": 60.602,
+            "end": 60.723,
+            "score": 0.819
+        },
+        {
+            "word": "You",
+            "start": 70.72,
+            "end": 70.86,
+            "score": 0.956
+        },
+        {
+            "word": "can",
+            "start": 70.92,
+            "end": 71.22,
+            "score": 0.711
+        },
+        {
+            "word": "take",
+            "start": 71.36,
+            "end": 72.061,
+            "score": 0.605
+        },
+        {
+            "word": "as",
+            "start": 72.341,
+            "end": 72.481,
+            "score": 0.66
+        },
+        {
+            "word": "much",
+            "start": 72.521,
+            "end": 72.721,
+            "score": 0.734
+        },
+        {
+            "word": "as",
+            "start": 72.861,
+            "end": 72.961,
+            "score": 0.692
+        },
+        {
+            "word": "you",
+            "start": 72.981,
+            "end": 73.181,
+            "score": 0.707
+        },
+        {
+            "word": "want",
+            "start": 73.441,
+            "end": 73.722,
+            "score": 0.734
+        },
+        {
+            "word": "before",
+            "start": 74.162,
+            "end": 74.442,
+            "score": 0.744
+        },
+        {
+            "word": "the",
+            "start": 74.482,
+            "end": 74.582,
+            "score": 0.738
+        },
+        {
+            "word": "question,",
+            "start": 74.642,
+            "end": 75.202,
+            "score": 0.525
+        },
+        {
+            "word": "but",
+            "start": 75.222,
+            "end": 75.363,
+            "score": 0.736
+        },
+        {
+            "word": "after",
+            "start": 75.463,
+            "end": 75.683,
+            "score": 0.351
+        },
+        {
+            "word": "you",
+            "start": 75.723,
+            "end": 75.803,
+            "score": 0.317
+        },
+        {
+            "word": "see",
+            "start": 75.843,
+            "end": 76.063,
+            "score": 0.423
+        },
+        {
+            "word": "the",
+            "start": 76.083,
+            "end": 76.203,
+            "score": 0.475
+        },
+        {
+            "word": "question,",
+            "start": 76.243,
+            "end": 76.663,
+            "score": 0.426
+        },
+        {
+            "word": "there",
+            "start": 76.683,
+            "end": 76.803,
+            "score": 0.294
+        },
+        {
+            "word": "is",
+            "start": 76.863,
+            "end": 76.943,
+            "score": 0.622
+        },
+        {
+            "word": "limited",
+            "start": 76.983,
+            "end": 77.464,
+            "score": 0.498
+        },
+        {
+            "word": "time",
+            "start": 77.604,
+            "end": 77.804,
+            "score": 0.645
+        },
+        {
+            "word": "of",
+            "start": 77.844,
+            "end": 77.884,
+            "score": 0.078
+        },
+        {
+            "word": "the",
+            "start": 77.964,
+            "end": 78.084,
+            "score": 0.582
+        },
+        {
+            "word": "preparation.",
+            "start": 78.124,
+            "end": 79.545,
+            "score": 0.632
+        },
+        {
+            "word": "If",
+            "start": 79.905,
+            "end": 81.766,
+            "score": 0.648
+        },
+        {
+            "word": "the",
+            "start": 81.846,
+            "end": 82.006,
+            "score": 0.709
+        },
+        {
+            "word": "preparation",
+            "start": 82.086,
+            "end": 82.727,
+            "score": 0.57
+        },
+        {
+            "word": "time",
+            "start": 82.767,
+            "end": 83.187,
+            "score": 0.508
+        },
+        {
+            "word": "is",
+            "start": 83.267,
+            "end": 83.327,
+            "score": 0.699
+        },
+        {
+            "word": "30"
+        },
+        {
+            "word": "seconds,",
+            "start": 83.367,
+            "end": 83.727,
+            "score": 0.51
+        },
+        {
+            "word": "then",
+            "start": 83.787,
+            "end": 83.967,
+            "score": 0.428
+        },
+        {
+            "word": "you",
+            "start": 84.007,
+            "end": 84.227,
+            "score": 0.484
+        },
+        {
+            "word": "should",
+            "start": 84.247,
+            "end": 84.447,
+            "score": 0.284
+        },
+        {
+            "word": "start",
+            "start": 84.467,
+            "end": 84.728,
+            "score": 0.677
+        },
+        {
+            "word": "your",
+            "start": 84.848,
+            "end": 85.028,
+            "score": 0.494
+        },
+        {
+            "word": "talking",
+            "start": 85.048,
+            "end": 85.488,
+            "score": 0.487
+        },
+        {
+            "word": "after",
+            "start": 85.588,
+            "end": 85.808,
+            "score": 0.429
+        },
+        {
+            "word": "30"
+        },
+        {
+            "word": "seconds.",
+            "start": 85.848,
+            "end": 86.168,
+            "score": 0.354
+        },
+        {
+            "word": "Actually,",
+            "start": 86.709,
+            "end": 87.129,
+            "score": 0.561
+        },
+        {
+            "word": "there",
+            "start": 87.429,
+            "end": 87.749,
+            "score": 0.871
+        },
+        {
+            "word": "is",
+            "start": 87.769,
+            "end": 87.809,
+            "score": 0.01
+        },
+        {
+            "word": "a",
+            "start": 87.829,
+            "end": 87.849,
+            "score": 0.001
+        },
+        {
+            "word": "misunderstanding",
+            "start": 88.43,
+            "end": 89.23,
+            "score": 0.926
+        },
+        {
+            "word": "for",
+            "start": 89.31,
+            "end": 89.49,
+            "score": 0.895
+        },
+        {
+            "word": "me.",
+            "start": 89.55,
+            "end": 89.67,
+            "score": 0.956
+        },
+        {
+            "word": "Because",
+            "start": 89.69,
+            "end": 90.651,
+            "score": 0.664
+        },
+        {
+            "word": "I",
+            "start": 90.771,
+            "end": 90.831,
+            "score": 0.952
+        },
+        {
+            "word": "think",
+            "start": 90.871,
+            "end": 91.111,
+            "score": 0.793
+        },
+        {
+            "word": "I",
+            "start": 91.131,
+            "end": 91.151,
+            "score": 0.002
+        },
+        {
+            "word": "will",
+            "start": 91.872,
+            "end": 92.472,
+            "score": 0.792
+        },
+        {
+            "word": "be",
+            "start": 92.492,
+            "end": 92.572,
+            "score": 0.796
+        },
+        {
+            "word": "asked",
+            "start": 92.672,
+            "end": 93.032,
+            "score": 0.895
+        },
+        {
+            "word": "about",
+            "start": 93.132,
+            "end": 93.392,
+            "score": 0.93
+        },
+        {
+            "word": "this",
+            "start": 93.412,
+            "end": 94.053,
+            "score": 0.584
+        },
+        {
+            "word": "table",
+            "start": 94.133,
+            "end": 94.513,
+            "score": 0.875
+        },
+        {
+            "word": "and",
+            "start": 94.853,
+            "end": 94.973,
+            "score": 0.554
+        },
+        {
+            "word": "I",
+            "start": 95.053,
+            "end": 95.133,
+            "score": 0.988
+        },
+        {
+            "word": "take",
+            "start": 95.193,
+            "end": 95.433,
+            "score": 0.864
+        },
+        {
+            "word": "some",
+            "start": 95.494,
+            "end": 95.694,
+            "score": 0.969
+        },
+        {
+            "word": "notes",
+            "start": 95.754,
+            "end": 95.994,
+            "score": 0.619
+        },
+        {
+            "word": "and",
+            "start": 96.094,
+            "end": 96.174,
+            "score": 0.426
+        },
+        {
+            "word": "I",
+            "start": 96.234,
+            "end": 96.254,
+            "score": 0.847
+        }
+    ]
+}

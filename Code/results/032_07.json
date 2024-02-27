@@ -1,0 +1,771 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 7.573,
+            "text": " Okay, to get to the Limestone Disco from the Franklin Hotel, you can walk there.",
+            "words": [
+                {
+                    "word": "Okay,",
+                    "start": 0.069,
+                    "end": 0.369,
+                    "score": 0.742
+                },
+                {
+                    "word": "to",
+                    "start": 0.469,
+                    "end": 0.669,
+                    "score": 0.867
+                },
+                {
+                    "word": "get",
+                    "start": 0.729,
+                    "end": 0.929,
+                    "score": 0.992
+                },
+                {
+                    "word": "to",
+                    "start": 0.99,
+                    "end": 1.15,
+                    "score": 0.636
+                },
+                {
+                    "word": "the",
+                    "start": 1.17,
+                    "end": 1.27,
+                    "score": 0.7
+                },
+                {
+                    "word": "Limestone",
+                    "start": 1.31,
+                    "end": 1.93,
+                    "score": 0.816
+                },
+                {
+                    "word": "Disco",
+                    "start": 2.01,
+                    "end": 2.47,
+                    "score": 0.921
+                },
+                {
+                    "word": "from",
+                    "start": 3.591,
+                    "end": 3.851,
+                    "score": 0.74
+                },
+                {
+                    "word": "the",
+                    "start": 3.931,
+                    "end": 4.031,
+                    "score": 0.849
+                },
+                {
+                    "word": "Franklin",
+                    "start": 4.091,
+                    "end": 4.531,
+                    "score": 0.851
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 4.571,
+                    "end": 4.952,
+                    "score": 0.789
+                },
+                {
+                    "word": "you",
+                    "start": 6.593,
+                    "end": 6.693,
+                    "score": 0.936
+                },
+                {
+                    "word": "can",
+                    "start": 6.713,
+                    "end": 6.873,
+                    "score": 0.751
+                },
+                {
+                    "word": "walk",
+                    "start": 6.913,
+                    "end": 7.133,
+                    "score": 0.929
+                },
+                {
+                    "word": "there.",
+                    "start": 7.273,
+                    "end": 7.573,
+                    "score": 0.799
+                }
+            ]
+        },
+        {
+            "start": 7.773,
+            "end": 14.877,
+            "text": "The Limestone Disco is two blocks to the east and two blocks to the south from here.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 7.773,
+                    "end": 8.073,
+                    "score": 0.885
+                },
+                {
+                    "word": "Limestone",
+                    "start": 8.854,
+                    "end": 10.094,
+                    "score": 0.754
+                },
+                {
+                    "word": "Disco",
+                    "start": 10.194,
+                    "end": 10.515,
+                    "score": 0.91
+                },
+                {
+                    "word": "is",
+                    "start": 10.535,
+                    "end": 10.675,
+                    "score": 0.714
+                },
+                {
+                    "word": "two",
+                    "start": 10.875,
+                    "end": 11.175,
+                    "score": 0.96
+                },
+                {
+                    "word": "blocks",
+                    "start": 11.295,
+                    "end": 11.595,
+                    "score": 0.746
+                },
+                {
+                    "word": "to",
+                    "start": 11.675,
+                    "end": 11.855,
+                    "score": 0.8
+                },
+                {
+                    "word": "the",
+                    "start": 11.875,
+                    "end": 11.935,
+                    "score": 0.992
+                },
+                {
+                    "word": "east",
+                    "start": 12.156,
+                    "end": 12.396,
+                    "score": 0.764
+                },
+                {
+                    "word": "and",
+                    "start": 12.656,
+                    "end": 12.756,
+                    "score": 0.819
+                },
+                {
+                    "word": "two",
+                    "start": 12.836,
+                    "end": 13.056,
+                    "score": 0.888
+                },
+                {
+                    "word": "blocks",
+                    "start": 13.156,
+                    "end": 13.496,
+                    "score": 0.728
+                },
+                {
+                    "word": "to",
+                    "start": 13.576,
+                    "end": 13.716,
+                    "score": 0.786
+                },
+                {
+                    "word": "the",
+                    "start": 13.756,
+                    "end": 13.836,
+                    "score": 0.815
+                },
+                {
+                    "word": "south",
+                    "start": 13.917,
+                    "end": 14.217,
+                    "score": 0.969
+                },
+                {
+                    "word": "from",
+                    "start": 14.317,
+                    "end": 14.537,
+                    "score": 0.857
+                },
+                {
+                    "word": "here.",
+                    "start": 14.637,
+                    "end": 14.877,
+                    "score": 0.815
+                }
+            ]
+        },
+        {
+            "start": 15.637,
+            "end": 27.644,
+            "text": "So first, go to the west two blocks along the Zero Street, and when you hit the Harrison Street, take a turn right and walk to the south two blocks.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 15.637,
+                    "end": 15.818,
+                    "score": 0.872
+                },
+                {
+                    "word": "first,",
+                    "start": 15.898,
+                    "end": 16.238,
+                    "score": 0.734
+                },
+                {
+                    "word": "go",
+                    "start": 16.678,
+                    "end": 16.918,
+                    "score": 0.93
+                },
+                {
+                    "word": "to",
+                    "start": 17.018,
+                    "end": 17.538,
+                    "score": 0.767
+                },
+                {
+                    "word": "the",
+                    "start": 19.56,
+                    "end": 19.84,
+                    "score": 0.711
+                },
+                {
+                    "word": "west",
+                    "start": 19.88,
+                    "end": 20.12,
+                    "score": 0.956
+                },
+                {
+                    "word": "two",
+                    "start": 20.16,
+                    "end": 20.36,
+                    "score": 0.969
+                },
+                {
+                    "word": "blocks",
+                    "start": 20.42,
+                    "end": 20.8,
+                    "score": 0.706
+                },
+                {
+                    "word": "along",
+                    "start": 21.14,
+                    "end": 21.461,
+                    "score": 0.751
+                },
+                {
+                    "word": "the",
+                    "start": 21.521,
+                    "end": 21.641,
+                    "score": 0.856
+                },
+                {
+                    "word": "Zero",
+                    "start": 21.761,
+                    "end": 22.081,
+                    "score": 0.777
+                },
+                {
+                    "word": "Street,",
+                    "start": 22.121,
+                    "end": 22.481,
+                    "score": 0.878
+                },
+                {
+                    "word": "and",
+                    "start": 22.861,
+                    "end": 22.941,
+                    "score": 0.856
+                },
+                {
+                    "word": "when",
+                    "start": 22.961,
+                    "end": 23.121,
+                    "score": 0.865
+                },
+                {
+                    "word": "you",
+                    "start": 23.141,
+                    "end": 23.262,
+                    "score": 0.95
+                },
+                {
+                    "word": "hit",
+                    "start": 23.282,
+                    "end": 23.462,
+                    "score": 0.795
+                },
+                {
+                    "word": "the",
+                    "start": 23.482,
+                    "end": 23.542,
+                    "score": 0.95
+                },
+                {
+                    "word": "Harrison",
+                    "start": 23.582,
+                    "end": 23.942,
+                    "score": 0.92
+                },
+                {
+                    "word": "Street,",
+                    "start": 23.962,
+                    "end": 24.242,
+                    "score": 0.857
+                },
+                {
+                    "word": "take",
+                    "start": 24.302,
+                    "end": 24.562,
+                    "score": 0.898
+                },
+                {
+                    "word": "a",
+                    "start": 24.582,
+                    "end": 24.642,
+                    "score": 0.316
+                },
+                {
+                    "word": "turn",
+                    "start": 24.902,
+                    "end": 25.163,
+                    "score": 0.701
+                },
+                {
+                    "word": "right",
+                    "start": 25.223,
+                    "end": 25.483,
+                    "score": 0.833
+                },
+                {
+                    "word": "and",
+                    "start": 26.003,
+                    "end": 26.123,
+                    "score": 0.691
+                },
+                {
+                    "word": "walk",
+                    "start": 26.203,
+                    "end": 26.443,
+                    "score": 0.907
+                },
+                {
+                    "word": "to",
+                    "start": 26.483,
+                    "end": 26.663,
+                    "score": 0.898
+                },
+                {
+                    "word": "the",
+                    "start": 26.683,
+                    "end": 26.763,
+                    "score": 0.832
+                },
+                {
+                    "word": "south",
+                    "start": 26.803,
+                    "end": 27.064,
+                    "score": 0.962
+                },
+                {
+                    "word": "two",
+                    "start": 27.124,
+                    "end": 27.324,
+                    "score": 0.816
+                },
+                {
+                    "word": "blocks.",
+                    "start": 27.364,
+                    "end": 27.644,
+                    "score": 0.816
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Okay,",
+            "start": 0.069,
+            "end": 0.369,
+            "score": 0.742
+        },
+        {
+            "word": "to",
+            "start": 0.469,
+            "end": 0.669,
+            "score": 0.867
+        },
+        {
+            "word": "get",
+            "start": 0.729,
+            "end": 0.929,
+            "score": 0.992
+        },
+        {
+            "word": "to",
+            "start": 0.99,
+            "end": 1.15,
+            "score": 0.636
+        },
+        {
+            "word": "the",
+            "start": 1.17,
+            "end": 1.27,
+            "score": 0.7
+        },
+        {
+            "word": "Limestone",
+            "start": 1.31,
+            "end": 1.93,
+            "score": 0.816
+        },
+        {
+            "word": "Disco",
+            "start": 2.01,
+            "end": 2.47,
+            "score": 0.921
+        },
+        {
+            "word": "from",
+            "start": 3.591,
+            "end": 3.851,
+            "score": 0.74
+        },
+        {
+            "word": "the",
+            "start": 3.931,
+            "end": 4.031,
+            "score": 0.849
+        },
+        {
+            "word": "Franklin",
+            "start": 4.091,
+            "end": 4.531,
+            "score": 0.851
+        },
+        {
+            "word": "Hotel,",
+            "start": 4.571,
+            "end": 4.952,
+            "score": 0.789
+        },
+        {
+            "word": "you",
+            "start": 6.593,
+            "end": 6.693,
+            "score": 0.936
+        },
+        {
+            "word": "can",
+            "start": 6.713,
+            "end": 6.873,
+            "score": 0.751
+        },
+        {
+            "word": "walk",
+            "start": 6.913,
+            "end": 7.133,
+            "score": 0.929
+        },
+        {
+            "word": "there.",
+            "start": 7.273,
+            "end": 7.573,
+            "score": 0.799
+        },
+        {
+            "word": "The",
+            "start": 7.773,
+            "end": 8.073,
+            "score": 0.885
+        },
+        {
+            "word": "Limestone",
+            "start": 8.854,
+            "end": 10.094,
+            "score": 0.754
+        },
+        {
+            "word": "Disco",
+            "start": 10.194,
+            "end": 10.515,
+            "score": 0.91
+        },
+        {
+            "word": "is",
+            "start": 10.535,
+            "end": 10.675,
+            "score": 0.714
+        },
+        {
+            "word": "two",
+            "start": 10.875,
+            "end": 11.175,
+            "score": 0.96
+        },
+        {
+            "word": "blocks",
+            "start": 11.295,
+            "end": 11.595,
+            "score": 0.746
+        },
+        {
+            "word": "to",
+            "start": 11.675,
+            "end": 11.855,
+            "score": 0.8
+        },
+        {
+            "word": "the",
+            "start": 11.875,
+            "end": 11.935,
+            "score": 0.992
+        },
+        {
+            "word": "east",
+            "start": 12.156,
+            "end": 12.396,
+            "score": 0.764
+        },
+        {
+            "word": "and",
+            "start": 12.656,
+            "end": 12.756,
+            "score": 0.819
+        },
+        {
+            "word": "two",
+            "start": 12.836,
+            "end": 13.056,
+            "score": 0.888
+        },
+        {
+            "word": "blocks",
+            "start": 13.156,
+            "end": 13.496,
+            "score": 0.728
+        },
+        {
+            "word": "to",
+            "start": 13.576,
+            "end": 13.716,
+            "score": 0.786
+        },
+        {
+            "word": "the",
+            "start": 13.756,
+            "end": 13.836,
+            "score": 0.815
+        },
+        {
+            "word": "south",
+            "start": 13.917,
+            "end": 14.217,
+            "score": 0.969
+        },
+        {
+            "word": "from",
+            "start": 14.317,
+            "end": 14.537,
+            "score": 0.857
+        },
+        {
+            "word": "here.",
+            "start": 14.637,
+            "end": 14.877,
+            "score": 0.815
+        },
+        {
+            "word": "So",
+            "start": 15.637,
+            "end": 15.818,
+            "score": 0.872
+        },
+        {
+            "word": "first,",
+            "start": 15.898,
+            "end": 16.238,
+            "score": 0.734
+        },
+        {
+            "word": "go",
+            "start": 16.678,
+            "end": 16.918,
+            "score": 0.93
+        },
+        {
+            "word": "to",
+            "start": 17.018,
+            "end": 17.538,
+            "score": 0.767
+        },
+        {
+            "word": "the",
+            "start": 19.56,
+            "end": 19.84,
+            "score": 0.711
+        },
+        {
+            "word": "west",
+            "start": 19.88,
+            "end": 20.12,
+            "score": 0.956
+        },
+        {
+            "word": "two",
+            "start": 20.16,
+            "end": 20.36,
+            "score": 0.969
+        },
+        {
+            "word": "blocks",
+            "start": 20.42,
+            "end": 20.8,
+            "score": 0.706
+        },
+        {
+            "word": "along",
+            "start": 21.14,
+            "end": 21.461,
+            "score": 0.751
+        },
+        {
+            "word": "the",
+            "start": 21.521,
+            "end": 21.641,
+            "score": 0.856
+        },
+        {
+            "word": "Zero",
+            "start": 21.761,
+            "end": 22.081,
+            "score": 0.777
+        },
+        {
+            "word": "Street,",
+            "start": 22.121,
+            "end": 22.481,
+            "score": 0.878
+        },
+        {
+            "word": "and",
+            "start": 22.861,
+            "end": 22.941,
+            "score": 0.856
+        },
+        {
+            "word": "when",
+            "start": 22.961,
+            "end": 23.121,
+            "score": 0.865
+        },
+        {
+            "word": "you",
+            "start": 23.141,
+            "end": 23.262,
+            "score": 0.95
+        },
+        {
+            "word": "hit",
+            "start": 23.282,
+            "end": 23.462,
+            "score": 0.795
+        },
+        {
+            "word": "the",
+            "start": 23.482,
+            "end": 23.542,
+            "score": 0.95
+        },
+        {
+            "word": "Harrison",
+            "start": 23.582,
+            "end": 23.942,
+            "score": 0.92
+        },
+        {
+            "word": "Street,",
+            "start": 23.962,
+            "end": 24.242,
+            "score": 0.857
+        },
+        {
+            "word": "take",
+            "start": 24.302,
+            "end": 24.562,
+            "score": 0.898
+        },
+        {
+            "word": "a",
+            "start": 24.582,
+            "end": 24.642,
+            "score": 0.316
+        },
+        {
+            "word": "turn",
+            "start": 24.902,
+            "end": 25.163,
+            "score": 0.701
+        },
+        {
+            "word": "right",
+            "start": 25.223,
+            "end": 25.483,
+            "score": 0.833
+        },
+        {
+            "word": "and",
+            "start": 26.003,
+            "end": 26.123,
+            "score": 0.691
+        },
+        {
+            "word": "walk",
+            "start": 26.203,
+            "end": 26.443,
+            "score": 0.907
+        },
+        {
+            "word": "to",
+            "start": 26.483,
+            "end": 26.663,
+            "score": 0.898
+        },
+        {
+            "word": "the",
+            "start": 26.683,
+            "end": 26.763,
+            "score": 0.832
+        },
+        {
+            "word": "south",
+            "start": 26.803,
+            "end": 27.064,
+            "score": 0.962
+        },
+        {
+            "word": "two",
+            "start": 27.124,
+            "end": 27.324,
+            "score": 0.816
+        },
+        {
+            "word": "blocks.",
+            "start": 27.364,
+            "end": 27.644,
+            "score": 0.816
+        }
+    ]
+}

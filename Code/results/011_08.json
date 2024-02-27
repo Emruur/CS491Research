@@ -1,0 +1,361 @@
+{
+    "segments": [
+        {
+            "start": 0.029,
+            "end": 19.718,
+            "text": " the post office and you just go down the street and then you will cross the 11th Street and the post office is just right in front of you.",
+            "words": [
+                {
+                    "word": "the",
+                    "start": 0.029,
+                    "end": 0.129,
+                    "score": 0.992
+                },
+                {
+                    "word": "post",
+                    "start": 0.349,
+                    "end": 0.649,
+                    "score": 0.82
+                },
+                {
+                    "word": "office",
+                    "start": 0.729,
+                    "end": 1.109,
+                    "score": 0.832
+                },
+                {
+                    "word": "and",
+                    "start": 1.53,
+                    "end": 1.91,
+                    "score": 0.765
+                },
+                {
+                    "word": "you",
+                    "start": 2.03,
+                    "end": 2.23,
+                    "score": 0.929
+                },
+                {
+                    "word": "just",
+                    "start": 2.27,
+                    "end": 2.89,
+                    "score": 0.859
+                },
+                {
+                    "word": "go",
+                    "start": 5.291,
+                    "end": 5.632,
+                    "score": 0.809
+                },
+                {
+                    "word": "down",
+                    "start": 6.552,
+                    "end": 6.952,
+                    "score": 0.846
+                },
+                {
+                    "word": "the",
+                    "start": 7.012,
+                    "end": 7.292,
+                    "score": 0.913
+                },
+                {
+                    "word": "street",
+                    "start": 7.773,
+                    "end": 8.393,
+                    "score": 0.689
+                },
+                {
+                    "word": "and",
+                    "start": 10.994,
+                    "end": 11.094,
+                    "score": 0.789
+                },
+                {
+                    "word": "then",
+                    "start": 11.114,
+                    "end": 11.374,
+                    "score": 0.83
+                },
+                {
+                    "word": "you",
+                    "start": 11.494,
+                    "end": 11.614,
+                    "score": 0.923
+                },
+                {
+                    "word": "will",
+                    "start": 11.654,
+                    "end": 11.814,
+                    "score": 0.981
+                },
+                {
+                    "word": "cross",
+                    "start": 11.914,
+                    "end": 12.375,
+                    "score": 0.896
+                },
+                {
+                    "word": "the",
+                    "start": 12.455,
+                    "end": 12.695,
+                    "score": 0.909
+                },
+                {
+                    "word": "11th",
+                    "start": 13.255,
+                    "end": 13.355,
+                    "score": 0.627
+                },
+                {
+                    "word": "Street",
+                    "start": 13.695,
+                    "end": 14.135,
+                    "score": 0.833
+                },
+                {
+                    "word": "and",
+                    "start": 14.836,
+                    "end": 14.956,
+                    "score": 0.665
+                },
+                {
+                    "word": "the",
+                    "start": 14.976,
+                    "end": 15.036,
+                    "score": 0.017
+                },
+                {
+                    "word": "post",
+                    "start": 15.236,
+                    "end": 15.516,
+                    "score": 0.935
+                },
+                {
+                    "word": "office",
+                    "start": 15.636,
+                    "end": 15.996,
+                    "score": 0.89
+                },
+                {
+                    "word": "is",
+                    "start": 16.096,
+                    "end": 16.176,
+                    "score": 0.976
+                },
+                {
+                    "word": "just",
+                    "start": 16.296,
+                    "end": 16.857,
+                    "score": 0.753
+                },
+                {
+                    "word": "right",
+                    "start": 18.337,
+                    "end": 18.657,
+                    "score": 0.877
+                },
+                {
+                    "word": "in",
+                    "start": 18.958,
+                    "end": 19.038,
+                    "score": 0.924
+                },
+                {
+                    "word": "front",
+                    "start": 19.098,
+                    "end": 19.378,
+                    "score": 0.79
+                },
+                {
+                    "word": "of",
+                    "start": 19.438,
+                    "end": 19.538,
+                    "score": 0.846
+                },
+                {
+                    "word": "you.",
+                    "start": 19.598,
+                    "end": 19.718,
+                    "score": 1.0
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "the",
+            "start": 0.029,
+            "end": 0.129,
+            "score": 0.992
+        },
+        {
+            "word": "post",
+            "start": 0.349,
+            "end": 0.649,
+            "score": 0.82
+        },
+        {
+            "word": "office",
+            "start": 0.729,
+            "end": 1.109,
+            "score": 0.832
+        },
+        {
+            "word": "and",
+            "start": 1.53,
+            "end": 1.91,
+            "score": 0.765
+        },
+        {
+            "word": "you",
+            "start": 2.03,
+            "end": 2.23,
+            "score": 0.929
+        },
+        {
+            "word": "just",
+            "start": 2.27,
+            "end": 2.89,
+            "score": 0.859
+        },
+        {
+            "word": "go",
+            "start": 5.291,
+            "end": 5.632,
+            "score": 0.809
+        },
+        {
+            "word": "down",
+            "start": 6.552,
+            "end": 6.952,
+            "score": 0.846
+        },
+        {
+            "word": "the",
+            "start": 7.012,
+            "end": 7.292,
+            "score": 0.913
+        },
+        {
+            "word": "street",
+            "start": 7.773,
+            "end": 8.393,
+            "score": 0.689
+        },
+        {
+            "word": "and",
+            "start": 10.994,
+            "end": 11.094,
+            "score": 0.789
+        },
+        {
+            "word": "then",
+            "start": 11.114,
+            "end": 11.374,
+            "score": 0.83
+        },
+        {
+            "word": "you",
+            "start": 11.494,
+            "end": 11.614,
+            "score": 0.923
+        },
+        {
+            "word": "will",
+            "start": 11.654,
+            "end": 11.814,
+            "score": 0.981
+        },
+        {
+            "word": "cross",
+            "start": 11.914,
+            "end": 12.375,
+            "score": 0.896
+        },
+        {
+            "word": "the",
+            "start": 12.455,
+            "end": 12.695,
+            "score": 0.909
+        },
+        {
+            "word": "11th",
+            "start": 13.255,
+            "end": 13.355,
+            "score": 0.627
+        },
+        {
+            "word": "Street",
+            "start": 13.695,
+            "end": 14.135,
+            "score": 0.833
+        },
+        {
+            "word": "and",
+            "start": 14.836,
+            "end": 14.956,
+            "score": 0.665
+        },
+        {
+            "word": "the",
+            "start": 14.976,
+            "end": 15.036,
+            "score": 0.017
+        },
+        {
+            "word": "post",
+            "start": 15.236,
+            "end": 15.516,
+            "score": 0.935
+        },
+        {
+            "word": "office",
+            "start": 15.636,
+            "end": 15.996,
+            "score": 0.89
+        },
+        {
+            "word": "is",
+            "start": 16.096,
+            "end": 16.176,
+            "score": 0.976
+        },
+        {
+            "word": "just",
+            "start": 16.296,
+            "end": 16.857,
+            "score": 0.753
+        },
+        {
+            "word": "right",
+            "start": 18.337,
+            "end": 18.657,
+            "score": 0.877
+        },
+        {
+            "word": "in",
+            "start": 18.958,
+            "end": 19.038,
+            "score": 0.924
+        },
+        {
+            "word": "front",
+            "start": 19.098,
+            "end": 19.378,
+            "score": 0.79
+        },
+        {
+            "word": "of",
+            "start": 19.438,
+            "end": 19.538,
+            "score": 0.846
+        },
+        {
+            "word": "you.",
+            "start": 19.598,
+            "end": 19.718,
+            "score": 1.0
+        }
+    ]
+}

@@ -1,0 +1,759 @@
+{
+    "segments": [
+        {
+            "start": 0.749,
+            "end": 25.915,
+            "text": " If I can, I'd like to go to Alaska and see the area where the people, for people to live there and it will show how the nature keeps itself and",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.749,
+                    "end": 0.849,
+                    "score": 0.874
+                },
+                {
+                    "word": "I",
+                    "start": 0.929,
+                    "end": 0.989,
+                    "score": 0.918
+                },
+                {
+                    "word": "can,",
+                    "start": 1.069,
+                    "end": 1.409,
+                    "score": 0.859
+                },
+                {
+                    "word": "I'd",
+                    "start": 2.19,
+                    "end": 2.35,
+                    "score": 0.63
+                },
+                {
+                    "word": "like",
+                    "start": 2.41,
+                    "end": 2.59,
+                    "score": 0.986
+                },
+                {
+                    "word": "to",
+                    "start": 2.63,
+                    "end": 2.73,
+                    "score": 0.591
+                },
+                {
+                    "word": "go",
+                    "start": 2.77,
+                    "end": 2.97,
+                    "score": 0.997
+                },
+                {
+                    "word": "to",
+                    "start": 3.11,
+                    "end": 3.51,
+                    "score": 0.847
+                },
+                {
+                    "word": "Alaska",
+                    "start": 5.29,
+                    "end": 5.83,
+                    "score": 0.909
+                },
+                {
+                    "word": "and",
+                    "start": 6.951,
+                    "end": 7.131,
+                    "score": 0.377
+                },
+                {
+                    "word": "see",
+                    "start": 8.351,
+                    "end": 8.691,
+                    "score": 0.919
+                },
+                {
+                    "word": "the",
+                    "start": 12.092,
+                    "end": 12.212,
+                    "score": 0.869
+                },
+                {
+                    "word": "area",
+                    "start": 12.292,
+                    "end": 12.652,
+                    "score": 0.801
+                },
+                {
+                    "word": "where",
+                    "start": 12.732,
+                    "end": 12.972,
+                    "score": 0.866
+                },
+                {
+                    "word": "the",
+                    "start": 13.032,
+                    "end": 13.132,
+                    "score": 0.936
+                },
+                {
+                    "word": "people,",
+                    "start": 13.192,
+                    "end": 13.632,
+                    "score": 0.897
+                },
+                {
+                    "word": "for",
+                    "start": 15.293,
+                    "end": 15.473,
+                    "score": 0.913
+                },
+                {
+                    "word": "people",
+                    "start": 15.573,
+                    "end": 15.893,
+                    "score": 0.796
+                },
+                {
+                    "word": "to",
+                    "start": 15.953,
+                    "end": 16.133,
+                    "score": 0.864
+                },
+                {
+                    "word": "live",
+                    "start": 16.193,
+                    "end": 16.393,
+                    "score": 0.986
+                },
+                {
+                    "word": "there",
+                    "start": 16.453,
+                    "end": 16.733,
+                    "score": 0.727
+                },
+                {
+                    "word": "and",
+                    "start": 17.973,
+                    "end": 18.153,
+                    "score": 0.512
+                },
+                {
+                    "word": "it",
+                    "start": 19.674,
+                    "end": 19.774,
+                    "score": 0.984
+                },
+                {
+                    "word": "will",
+                    "start": 20.774,
+                    "end": 21.014,
+                    "score": 0.692
+                },
+                {
+                    "word": "show",
+                    "start": 21.094,
+                    "end": 21.414,
+                    "score": 0.891
+                },
+                {
+                    "word": "how",
+                    "start": 21.534,
+                    "end": 21.774,
+                    "score": 0.961
+                },
+                {
+                    "word": "the",
+                    "start": 21.854,
+                    "end": 22.074,
+                    "score": 0.846
+                },
+                {
+                    "word": "nature",
+                    "start": 23.094,
+                    "end": 23.514,
+                    "score": 0.855
+                },
+                {
+                    "word": "keeps",
+                    "start": 24.215,
+                    "end": 24.435,
+                    "score": 0.811
+                },
+                {
+                    "word": "itself",
+                    "start": 24.515,
+                    "end": 24.875,
+                    "score": 0.734
+                },
+                {
+                    "word": "and",
+                    "start": 25.815,
+                    "end": 25.915,
+                    "score": 0.758
+                }
+            ]
+        },
+        {
+            "start": 28.078,
+            "end": 36.941,
+            "text": " And in addition to that, I will be able to see how people adapt to that kind of unfavorable environment.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 28.078,
+                    "end": 28.538,
+                    "score": 0.734
+                },
+                {
+                    "word": "in",
+                    "start": 28.718,
+                    "end": 28.798,
+                    "score": 0.806
+                },
+                {
+                    "word": "addition",
+                    "start": 28.838,
+                    "end": 29.178,
+                    "score": 0.901
+                },
+                {
+                    "word": "to",
+                    "start": 29.218,
+                    "end": 29.278,
+                    "score": 0.765
+                },
+                {
+                    "word": "that,",
+                    "start": 29.338,
+                    "end": 29.619,
+                    "score": 0.807
+                },
+                {
+                    "word": "I",
+                    "start": 29.959,
+                    "end": 30.079,
+                    "score": 0.746
+                },
+                {
+                    "word": "will",
+                    "start": 30.899,
+                    "end": 31.119,
+                    "score": 0.861
+                },
+                {
+                    "word": "be",
+                    "start": 31.159,
+                    "end": 31.239,
+                    "score": 0.763
+                },
+                {
+                    "word": "able",
+                    "start": 31.299,
+                    "end": 31.479,
+                    "score": 0.827
+                },
+                {
+                    "word": "to",
+                    "start": 31.539,
+                    "end": 31.619,
+                    "score": 0.753
+                },
+                {
+                    "word": "see",
+                    "start": 31.699,
+                    "end": 31.959,
+                    "score": 0.739
+                },
+                {
+                    "word": "how",
+                    "start": 32.279,
+                    "end": 32.42,
+                    "score": 0.898
+                },
+                {
+                    "word": "people",
+                    "start": 32.5,
+                    "end": 32.84,
+                    "score": 0.832
+                },
+                {
+                    "word": "adapt",
+                    "start": 33.0,
+                    "end": 33.3,
+                    "score": 0.844
+                },
+                {
+                    "word": "to",
+                    "start": 33.36,
+                    "end": 33.52,
+                    "score": 0.774
+                },
+                {
+                    "word": "that",
+                    "start": 33.84,
+                    "end": 33.98,
+                    "score": 0.892
+                },
+                {
+                    "word": "kind",
+                    "start": 34.02,
+                    "end": 34.24,
+                    "score": 0.901
+                },
+                {
+                    "word": "of",
+                    "start": 34.28,
+                    "end": 34.36,
+                    "score": 0.73
+                },
+                {
+                    "word": "unfavorable",
+                    "start": 34.96,
+                    "end": 35.741,
+                    "score": 0.838
+                },
+                {
+                    "word": "environment.",
+                    "start": 36.301,
+                    "end": 36.941,
+                    "score": 0.791
+                }
+            ]
+        },
+        {
+            "start": 38.262,
+            "end": 44.004,
+            "text": "And I also like to see the unclear, clean environments.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 38.262,
+                    "end": 38.382,
+                    "score": 0.767
+                },
+                {
+                    "word": "I",
+                    "start": 38.662,
+                    "end": 38.722,
+                    "score": 0.681
+                },
+                {
+                    "word": "also",
+                    "start": 38.802,
+                    "end": 39.042,
+                    "score": 0.878
+                },
+                {
+                    "word": "like",
+                    "start": 39.102,
+                    "end": 39.282,
+                    "score": 0.801
+                },
+                {
+                    "word": "to",
+                    "start": 39.322,
+                    "end": 39.402,
+                    "score": 0.758
+                },
+                {
+                    "word": "see",
+                    "start": 39.502,
+                    "end": 39.762,
+                    "score": 0.834
+                },
+                {
+                    "word": "the",
+                    "start": 40.342,
+                    "end": 40.502,
+                    "score": 0.825
+                },
+                {
+                    "word": "unclear,",
+                    "start": 40.742,
+                    "end": 42.163,
+                    "score": 0.796
+                },
+                {
+                    "word": "clean",
+                    "start": 42.403,
+                    "end": 42.743,
+                    "score": 0.901
+                },
+                {
+                    "word": "environments.",
+                    "start": 43.463,
+                    "end": 44.004,
+                    "score": 0.883
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.749,
+            "end": 0.849,
+            "score": 0.874
+        },
+        {
+            "word": "I",
+            "start": 0.929,
+            "end": 0.989,
+            "score": 0.918
+        },
+        {
+            "word": "can,",
+            "start": 1.069,
+            "end": 1.409,
+            "score": 0.859
+        },
+        {
+            "word": "I'd",
+            "start": 2.19,
+            "end": 2.35,
+            "score": 0.63
+        },
+        {
+            "word": "like",
+            "start": 2.41,
+            "end": 2.59,
+            "score": 0.986
+        },
+        {
+            "word": "to",
+            "start": 2.63,
+            "end": 2.73,
+            "score": 0.591
+        },
+        {
+            "word": "go",
+            "start": 2.77,
+            "end": 2.97,
+            "score": 0.997
+        },
+        {
+            "word": "to",
+            "start": 3.11,
+            "end": 3.51,
+            "score": 0.847
+        },
+        {
+            "word": "Alaska",
+            "start": 5.29,
+            "end": 5.83,
+            "score": 0.909
+        },
+        {
+            "word": "and",
+            "start": 6.951,
+            "end": 7.131,
+            "score": 0.377
+        },
+        {
+            "word": "see",
+            "start": 8.351,
+            "end": 8.691,
+            "score": 0.919
+        },
+        {
+            "word": "the",
+            "start": 12.092,
+            "end": 12.212,
+            "score": 0.869
+        },
+        {
+            "word": "area",
+            "start": 12.292,
+            "end": 12.652,
+            "score": 0.801
+        },
+        {
+            "word": "where",
+            "start": 12.732,
+            "end": 12.972,
+            "score": 0.866
+        },
+        {
+            "word": "the",
+            "start": 13.032,
+            "end": 13.132,
+            "score": 0.936
+        },
+        {
+            "word": "people,",
+            "start": 13.192,
+            "end": 13.632,
+            "score": 0.897
+        },
+        {
+            "word": "for",
+            "start": 15.293,
+            "end": 15.473,
+            "score": 0.913
+        },
+        {
+            "word": "people",
+            "start": 15.573,
+            "end": 15.893,
+            "score": 0.796
+        },
+        {
+            "word": "to",
+            "start": 15.953,
+            "end": 16.133,
+            "score": 0.864
+        },
+        {
+            "word": "live",
+            "start": 16.193,
+            "end": 16.393,
+            "score": 0.986
+        },
+        {
+            "word": "there",
+            "start": 16.453,
+            "end": 16.733,
+            "score": 0.727
+        },
+        {
+            "word": "and",
+            "start": 17.973,
+            "end": 18.153,
+            "score": 0.512
+        },
+        {
+            "word": "it",
+            "start": 19.674,
+            "end": 19.774,
+            "score": 0.984
+        },
+        {
+            "word": "will",
+            "start": 20.774,
+            "end": 21.014,
+            "score": 0.692
+        },
+        {
+            "word": "show",
+            "start": 21.094,
+            "end": 21.414,
+            "score": 0.891
+        },
+        {
+            "word": "how",
+            "start": 21.534,
+            "end": 21.774,
+            "score": 0.961
+        },
+        {
+            "word": "the",
+            "start": 21.854,
+            "end": 22.074,
+            "score": 0.846
+        },
+        {
+            "word": "nature",
+            "start": 23.094,
+            "end": 23.514,
+            "score": 0.855
+        },
+        {
+            "word": "keeps",
+            "start": 24.215,
+            "end": 24.435,
+            "score": 0.811
+        },
+        {
+            "word": "itself",
+            "start": 24.515,
+            "end": 24.875,
+            "score": 0.734
+        },
+        {
+            "word": "and",
+            "start": 25.815,
+            "end": 25.915,
+            "score": 0.758
+        },
+        {
+            "word": "And",
+            "start": 28.078,
+            "end": 28.538,
+            "score": 0.734
+        },
+        {
+            "word": "in",
+            "start": 28.718,
+            "end": 28.798,
+            "score": 0.806
+        },
+        {
+            "word": "addition",
+            "start": 28.838,
+            "end": 29.178,
+            "score": 0.901
+        },
+        {
+            "word": "to",
+            "start": 29.218,
+            "end": 29.278,
+            "score": 0.765
+        },
+        {
+            "word": "that,",
+            "start": 29.338,
+            "end": 29.619,
+            "score": 0.807
+        },
+        {
+            "word": "I",
+            "start": 29.959,
+            "end": 30.079,
+            "score": 0.746
+        },
+        {
+            "word": "will",
+            "start": 30.899,
+            "end": 31.119,
+            "score": 0.861
+        },
+        {
+            "word": "be",
+            "start": 31.159,
+            "end": 31.239,
+            "score": 0.763
+        },
+        {
+            "word": "able",
+            "start": 31.299,
+            "end": 31.479,
+            "score": 0.827
+        },
+        {
+            "word": "to",
+            "start": 31.539,
+            "end": 31.619,
+            "score": 0.753
+        },
+        {
+            "word": "see",
+            "start": 31.699,
+            "end": 31.959,
+            "score": 0.739
+        },
+        {
+            "word": "how",
+            "start": 32.279,
+            "end": 32.42,
+            "score": 0.898
+        },
+        {
+            "word": "people",
+            "start": 32.5,
+            "end": 32.84,
+            "score": 0.832
+        },
+        {
+            "word": "adapt",
+            "start": 33.0,
+            "end": 33.3,
+            "score": 0.844
+        },
+        {
+            "word": "to",
+            "start": 33.36,
+            "end": 33.52,
+            "score": 0.774
+        },
+        {
+            "word": "that",
+            "start": 33.84,
+            "end": 33.98,
+            "score": 0.892
+        },
+        {
+            "word": "kind",
+            "start": 34.02,
+            "end": 34.24,
+            "score": 0.901
+        },
+        {
+            "word": "of",
+            "start": 34.28,
+            "end": 34.36,
+            "score": 0.73
+        },
+        {
+            "word": "unfavorable",
+            "start": 34.96,
+            "end": 35.741,
+            "score": 0.838
+        },
+        {
+            "word": "environment.",
+            "start": 36.301,
+            "end": 36.941,
+            "score": 0.791
+        },
+        {
+            "word": "And",
+            "start": 38.262,
+            "end": 38.382,
+            "score": 0.767
+        },
+        {
+            "word": "I",
+            "start": 38.662,
+            "end": 38.722,
+            "score": 0.681
+        },
+        {
+            "word": "also",
+            "start": 38.802,
+            "end": 39.042,
+            "score": 0.878
+        },
+        {
+            "word": "like",
+            "start": 39.102,
+            "end": 39.282,
+            "score": 0.801
+        },
+        {
+            "word": "to",
+            "start": 39.322,
+            "end": 39.402,
+            "score": 0.758
+        },
+        {
+            "word": "see",
+            "start": 39.502,
+            "end": 39.762,
+            "score": 0.834
+        },
+        {
+            "word": "the",
+            "start": 40.342,
+            "end": 40.502,
+            "score": 0.825
+        },
+        {
+            "word": "unclear,",
+            "start": 40.742,
+            "end": 42.163,
+            "score": 0.796
+        },
+        {
+            "word": "clean",
+            "start": 42.403,
+            "end": 42.743,
+            "score": 0.901
+        },
+        {
+            "word": "environments.",
+            "start": 43.463,
+            "end": 44.004,
+            "score": 0.883
+        }
+    ]
+}

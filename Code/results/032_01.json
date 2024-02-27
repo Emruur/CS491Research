@@ -1,0 +1,790 @@
+{
+    "segments": [
+        {
+            "start": 1.23,
+            "end": 4.611,
+            "text": " I like the movie, the Forrest Gump.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.23,
+                    "end": 1.29,
+                    "score": 0.991
+                },
+                {
+                    "word": "like",
+                    "start": 1.35,
+                    "end": 1.55,
+                    "score": 0.905
+                },
+                {
+                    "word": "the",
+                    "start": 1.57,
+                    "end": 1.65,
+                    "score": 0.791
+                },
+                {
+                    "word": "movie,",
+                    "start": 1.71,
+                    "end": 2.17,
+                    "score": 0.788
+                },
+                {
+                    "word": "the",
+                    "start": 2.45,
+                    "end": 2.77,
+                    "score": 0.765
+                },
+                {
+                    "word": "Forrest",
+                    "start": 3.911,
+                    "end": 4.231,
+                    "score": 0.678
+                },
+                {
+                    "word": "Gump.",
+                    "start": 4.311,
+                    "end": 4.611,
+                    "score": 0.787
+                }
+            ]
+        },
+        {
+            "start": 6.652,
+            "end": 19.359,
+            "text": "I like it because it depicts the life of an ordinary but a little retarded person's life in a warm and humorous way.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 6.652,
+                    "end": 6.712,
+                    "score": 0.76
+                },
+                {
+                    "word": "like",
+                    "start": 6.752,
+                    "end": 6.932,
+                    "score": 0.868
+                },
+                {
+                    "word": "it",
+                    "start": 6.993,
+                    "end": 7.073,
+                    "score": 0.959
+                },
+                {
+                    "word": "because",
+                    "start": 7.113,
+                    "end": 7.593,
+                    "score": 0.909
+                },
+                {
+                    "word": "it",
+                    "start": 8.133,
+                    "end": 8.253,
+                    "score": 0.909
+                },
+                {
+                    "word": "depicts",
+                    "start": 9.234,
+                    "end": 9.694,
+                    "score": 0.772
+                },
+                {
+                    "word": "the",
+                    "start": 10.734,
+                    "end": 11.115,
+                    "score": 0.966
+                },
+                {
+                    "word": "life",
+                    "start": 11.515,
+                    "end": 11.755,
+                    "score": 0.881
+                },
+                {
+                    "word": "of",
+                    "start": 11.855,
+                    "end": 11.995,
+                    "score": 0.926
+                },
+                {
+                    "word": "an",
+                    "start": 12.075,
+                    "end": 12.175,
+                    "score": 0.303
+                },
+                {
+                    "word": "ordinary",
+                    "start": 12.555,
+                    "end": 13.096,
+                    "score": 0.869
+                },
+                {
+                    "word": "but",
+                    "start": 13.156,
+                    "end": 13.376,
+                    "score": 0.857
+                },
+                {
+                    "word": "a",
+                    "start": 13.436,
+                    "end": 13.456,
+                    "score": 0.956
+                },
+                {
+                    "word": "little",
+                    "start": 13.516,
+                    "end": 13.756,
+                    "score": 0.856
+                },
+                {
+                    "word": "retarded",
+                    "start": 13.816,
+                    "end": 14.296,
+                    "score": 0.941
+                },
+                {
+                    "word": "person's",
+                    "start": 14.376,
+                    "end": 14.816,
+                    "score": 0.933
+                },
+                {
+                    "word": "life",
+                    "start": 14.897,
+                    "end": 15.157,
+                    "score": 0.783
+                },
+                {
+                    "word": "in",
+                    "start": 16.057,
+                    "end": 16.137,
+                    "score": 0.906
+                },
+                {
+                    "word": "a",
+                    "start": 16.257,
+                    "end": 16.357,
+                    "score": 0.797
+                },
+                {
+                    "word": "warm",
+                    "start": 16.858,
+                    "end": 17.218,
+                    "score": 0.981
+                },
+                {
+                    "word": "and",
+                    "start": 17.458,
+                    "end": 17.618,
+                    "score": 0.683
+                },
+                {
+                    "word": "humorous",
+                    "start": 18.598,
+                    "end": 19.019,
+                    "score": 0.942
+                },
+                {
+                    "word": "way.",
+                    "start": 19.099,
+                    "end": 19.359,
+                    "score": 0.833
+                }
+            ]
+        },
+        {
+            "start": 22.14,
+            "end": 29.224,
+            "text": "For example, many people laugh at him about many things, but",
+            "words": [
+                {
+                    "word": "For",
+                    "start": 22.14,
+                    "end": 22.3,
+                    "score": 0.89
+                },
+                {
+                    "word": "example,",
+                    "start": 22.36,
+                    "end": 22.881,
+                    "score": 0.888
+                },
+                {
+                    "word": "many",
+                    "start": 23.881,
+                    "end": 24.081,
+                    "score": 0.922
+                },
+                {
+                    "word": "people",
+                    "start": 24.141,
+                    "end": 24.521,
+                    "score": 0.766
+                },
+                {
+                    "word": "laugh",
+                    "start": 25.622,
+                    "end": 25.862,
+                    "score": 0.783
+                },
+                {
+                    "word": "at",
+                    "start": 25.922,
+                    "end": 26.002,
+                    "score": 0.878
+                },
+                {
+                    "word": "him",
+                    "start": 26.542,
+                    "end": 26.843,
+                    "score": 0.851
+                },
+                {
+                    "word": "about",
+                    "start": 27.623,
+                    "end": 27.843,
+                    "score": 0.999
+                },
+                {
+                    "word": "many",
+                    "start": 27.963,
+                    "end": 28.203,
+                    "score": 0.823
+                },
+                {
+                    "word": "things,",
+                    "start": 28.463,
+                    "end": 28.804,
+                    "score": 0.888
+                },
+                {
+                    "word": "but",
+                    "start": 28.984,
+                    "end": 29.224,
+                    "score": 0.993
+                }
+            ]
+        },
+        {
+            "start": 33.667,
+            "end": 43.315,
+            "text": " The person knows that he is stupid but he was not frustrated about that and he keeps on what he can do.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 33.667,
+                    "end": 33.767,
+                    "score": 0.978
+                },
+                {
+                    "word": "person",
+                    "start": 33.807,
+                    "end": 34.188,
+                    "score": 0.956
+                },
+                {
+                    "word": "knows",
+                    "start": 34.408,
+                    "end": 34.668,
+                    "score": 0.831
+                },
+                {
+                    "word": "that",
+                    "start": 34.728,
+                    "end": 34.948,
+                    "score": 0.752
+                },
+                {
+                    "word": "he",
+                    "start": 35.268,
+                    "end": 35.469,
+                    "score": 0.915
+                },
+                {
+                    "word": "is",
+                    "start": 35.529,
+                    "end": 35.609,
+                    "score": 0.518
+                },
+                {
+                    "word": "stupid",
+                    "start": 35.729,
+                    "end": 36.149,
+                    "score": 0.936
+                },
+                {
+                    "word": "but",
+                    "start": 36.209,
+                    "end": 36.409,
+                    "score": 0.906
+                },
+                {
+                    "word": "he",
+                    "start": 37.17,
+                    "end": 37.45,
+                    "score": 0.855
+                },
+                {
+                    "word": "was",
+                    "start": 38.251,
+                    "end": 38.431,
+                    "score": 0.908
+                },
+                {
+                    "word": "not",
+                    "start": 38.471,
+                    "end": 38.671,
+                    "score": 0.46
+                },
+                {
+                    "word": "frustrated",
+                    "start": 38.791,
+                    "end": 39.472,
+                    "score": 0.704
+                },
+                {
+                    "word": "about",
+                    "start": 39.532,
+                    "end": 39.812,
+                    "score": 0.932
+                },
+                {
+                    "word": "that",
+                    "start": 39.852,
+                    "end": 40.152,
+                    "score": 0.871
+                },
+                {
+                    "word": "and",
+                    "start": 40.613,
+                    "end": 40.753,
+                    "score": 0.68
+                },
+                {
+                    "word": "he",
+                    "start": 40.853,
+                    "end": 40.993,
+                    "score": 0.747
+                },
+                {
+                    "word": "keeps",
+                    "start": 41.053,
+                    "end": 41.293,
+                    "score": 0.945
+                },
+                {
+                    "word": "on",
+                    "start": 41.493,
+                    "end": 41.614,
+                    "score": 0.754
+                },
+                {
+                    "word": "what",
+                    "start": 42.654,
+                    "end": 42.795,
+                    "score": 0.867
+                },
+                {
+                    "word": "he",
+                    "start": 42.815,
+                    "end": 42.895,
+                    "score": 0.793
+                },
+                {
+                    "word": "can",
+                    "start": 42.935,
+                    "end": 43.095,
+                    "score": 0.887
+                },
+                {
+                    "word": "do.",
+                    "start": 43.155,
+                    "end": 43.315,
+                    "score": 0.93
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.23,
+            "end": 1.29,
+            "score": 0.991
+        },
+        {
+            "word": "like",
+            "start": 1.35,
+            "end": 1.55,
+            "score": 0.905
+        },
+        {
+            "word": "the",
+            "start": 1.57,
+            "end": 1.65,
+            "score": 0.791
+        },
+        {
+            "word": "movie,",
+            "start": 1.71,
+            "end": 2.17,
+            "score": 0.788
+        },
+        {
+            "word": "the",
+            "start": 2.45,
+            "end": 2.77,
+            "score": 0.765
+        },
+        {
+            "word": "Forrest",
+            "start": 3.911,
+            "end": 4.231,
+            "score": 0.678
+        },
+        {
+            "word": "Gump.",
+            "start": 4.311,
+            "end": 4.611,
+            "score": 0.787
+        },
+        {
+            "word": "I",
+            "start": 6.652,
+            "end": 6.712,
+            "score": 0.76
+        },
+        {
+            "word": "like",
+            "start": 6.752,
+            "end": 6.932,
+            "score": 0.868
+        },
+        {
+            "word": "it",
+            "start": 6.993,
+            "end": 7.073,
+            "score": 0.959
+        },
+        {
+            "word": "because",
+            "start": 7.113,
+            "end": 7.593,
+            "score": 0.909
+        },
+        {
+            "word": "it",
+            "start": 8.133,
+            "end": 8.253,
+            "score": 0.909
+        },
+        {
+            "word": "depicts",
+            "start": 9.234,
+            "end": 9.694,
+            "score": 0.772
+        },
+        {
+            "word": "the",
+            "start": 10.734,
+            "end": 11.115,
+            "score": 0.966
+        },
+        {
+            "word": "life",
+            "start": 11.515,
+            "end": 11.755,
+            "score": 0.881
+        },
+        {
+            "word": "of",
+            "start": 11.855,
+            "end": 11.995,
+            "score": 0.926
+        },
+        {
+            "word": "an",
+            "start": 12.075,
+            "end": 12.175,
+            "score": 0.303
+        },
+        {
+            "word": "ordinary",
+            "start": 12.555,
+            "end": 13.096,
+            "score": 0.869
+        },
+        {
+            "word": "but",
+            "start": 13.156,
+            "end": 13.376,
+            "score": 0.857
+        },
+        {
+            "word": "a",
+            "start": 13.436,
+            "end": 13.456,
+            "score": 0.956
+        },
+        {
+            "word": "little",
+            "start": 13.516,
+            "end": 13.756,
+            "score": 0.856
+        },
+        {
+            "word": "retarded",
+            "start": 13.816,
+            "end": 14.296,
+            "score": 0.941
+        },
+        {
+            "word": "person's",
+            "start": 14.376,
+            "end": 14.816,
+            "score": 0.933
+        },
+        {
+            "word": "life",
+            "start": 14.897,
+            "end": 15.157,
+            "score": 0.783
+        },
+        {
+            "word": "in",
+            "start": 16.057,
+            "end": 16.137,
+            "score": 0.906
+        },
+        {
+            "word": "a",
+            "start": 16.257,
+            "end": 16.357,
+            "score": 0.797
+        },
+        {
+            "word": "warm",
+            "start": 16.858,
+            "end": 17.218,
+            "score": 0.981
+        },
+        {
+            "word": "and",
+            "start": 17.458,
+            "end": 17.618,
+            "score": 0.683
+        },
+        {
+            "word": "humorous",
+            "start": 18.598,
+            "end": 19.019,
+            "score": 0.942
+        },
+        {
+            "word": "way.",
+            "start": 19.099,
+            "end": 19.359,
+            "score": 0.833
+        },
+        {
+            "word": "For",
+            "start": 22.14,
+            "end": 22.3,
+            "score": 0.89
+        },
+        {
+            "word": "example,",
+            "start": 22.36,
+            "end": 22.881,
+            "score": 0.888
+        },
+        {
+            "word": "many",
+            "start": 23.881,
+            "end": 24.081,
+            "score": 0.922
+        },
+        {
+            "word": "people",
+            "start": 24.141,
+            "end": 24.521,
+            "score": 0.766
+        },
+        {
+            "word": "laugh",
+            "start": 25.622,
+            "end": 25.862,
+            "score": 0.783
+        },
+        {
+            "word": "at",
+            "start": 25.922,
+            "end": 26.002,
+            "score": 0.878
+        },
+        {
+            "word": "him",
+            "start": 26.542,
+            "end": 26.843,
+            "score": 0.851
+        },
+        {
+            "word": "about",
+            "start": 27.623,
+            "end": 27.843,
+            "score": 0.999
+        },
+        {
+            "word": "many",
+            "start": 27.963,
+            "end": 28.203,
+            "score": 0.823
+        },
+        {
+            "word": "things,",
+            "start": 28.463,
+            "end": 28.804,
+            "score": 0.888
+        },
+        {
+            "word": "but",
+            "start": 28.984,
+            "end": 29.224,
+            "score": 0.993
+        },
+        {
+            "word": "The",
+            "start": 33.667,
+            "end": 33.767,
+            "score": 0.978
+        },
+        {
+            "word": "person",
+            "start": 33.807,
+            "end": 34.188,
+            "score": 0.956
+        },
+        {
+            "word": "knows",
+            "start": 34.408,
+            "end": 34.668,
+            "score": 0.831
+        },
+        {
+            "word": "that",
+            "start": 34.728,
+            "end": 34.948,
+            "score": 0.752
+        },
+        {
+            "word": "he",
+            "start": 35.268,
+            "end": 35.469,
+            "score": 0.915
+        },
+        {
+            "word": "is",
+            "start": 35.529,
+            "end": 35.609,
+            "score": 0.518
+        },
+        {
+            "word": "stupid",
+            "start": 35.729,
+            "end": 36.149,
+            "score": 0.936
+        },
+        {
+            "word": "but",
+            "start": 36.209,
+            "end": 36.409,
+            "score": 0.906
+        },
+        {
+            "word": "he",
+            "start": 37.17,
+            "end": 37.45,
+            "score": 0.855
+        },
+        {
+            "word": "was",
+            "start": 38.251,
+            "end": 38.431,
+            "score": 0.908
+        },
+        {
+            "word": "not",
+            "start": 38.471,
+            "end": 38.671,
+            "score": 0.46
+        },
+        {
+            "word": "frustrated",
+            "start": 38.791,
+            "end": 39.472,
+            "score": 0.704
+        },
+        {
+            "word": "about",
+            "start": 39.532,
+            "end": 39.812,
+            "score": 0.932
+        },
+        {
+            "word": "that",
+            "start": 39.852,
+            "end": 40.152,
+            "score": 0.871
+        },
+        {
+            "word": "and",
+            "start": 40.613,
+            "end": 40.753,
+            "score": 0.68
+        },
+        {
+            "word": "he",
+            "start": 40.853,
+            "end": 40.993,
+            "score": 0.747
+        },
+        {
+            "word": "keeps",
+            "start": 41.053,
+            "end": 41.293,
+            "score": 0.945
+        },
+        {
+            "word": "on",
+            "start": 41.493,
+            "end": 41.614,
+            "score": 0.754
+        },
+        {
+            "word": "what",
+            "start": 42.654,
+            "end": 42.795,
+            "score": 0.867
+        },
+        {
+            "word": "he",
+            "start": 42.815,
+            "end": 42.895,
+            "score": 0.793
+        },
+        {
+            "word": "can",
+            "start": 42.935,
+            "end": 43.095,
+            "score": 0.887
+        },
+        {
+            "word": "do.",
+            "start": 43.155,
+            "end": 43.315,
+            "score": 0.93
+        }
+    ]
+}

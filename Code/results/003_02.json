@@ -1,0 +1,1285 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 4.332,
+            "text": " I really wish to go to France.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.109,
+                    "end": 0.449,
+                    "score": 0.642
+                },
+                {
+                    "word": "really",
+                    "start": 2.811,
+                    "end": 3.031,
+                    "score": 0.646
+                },
+                {
+                    "word": "wish",
+                    "start": 3.071,
+                    "end": 3.231,
+                    "score": 0.976
+                },
+                {
+                    "word": "to",
+                    "start": 3.271,
+                    "end": 3.351,
+                    "score": 0.77
+                },
+                {
+                    "word": "go",
+                    "start": 3.411,
+                    "end": 3.571,
+                    "score": 0.859
+                },
+                {
+                    "word": "to",
+                    "start": 3.632,
+                    "end": 3.772,
+                    "score": 0.756
+                },
+                {
+                    "word": "France.",
+                    "start": 3.912,
+                    "end": 4.332,
+                    "score": 0.806
+                }
+            ]
+        },
+        {
+            "start": 6.594,
+            "end": 8.435,
+            "text": "I really wish to go to France, Paris.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 6.594,
+                    "end": 6.634,
+                    "score": 0.578
+                },
+                {
+                    "word": "really",
+                    "start": 6.694,
+                    "end": 6.914,
+                    "score": 0.63
+                },
+                {
+                    "word": "wish",
+                    "start": 6.954,
+                    "end": 7.134,
+                    "score": 0.926
+                },
+                {
+                    "word": "to",
+                    "start": 7.154,
+                    "end": 7.254,
+                    "score": 0.669
+                },
+                {
+                    "word": "go",
+                    "start": 7.294,
+                    "end": 7.394,
+                    "score": 0.992
+                },
+                {
+                    "word": "to",
+                    "start": 7.454,
+                    "end": 7.534,
+                    "score": 0.694
+                },
+                {
+                    "word": "France,",
+                    "start": 7.594,
+                    "end": 7.935,
+                    "score": 0.82
+                },
+                {
+                    "word": "Paris.",
+                    "start": 8.015,
+                    "end": 8.435,
+                    "score": 0.847
+                }
+            ]
+        },
+        {
+            "start": 9.095,
+            "end": 16.661,
+            "text": "Every people wants to go there to see the... I want to see the Eiffel Tower.",
+            "words": [
+                {
+                    "word": "Every",
+                    "start": 9.095,
+                    "end": 9.296,
+                    "score": 0.924
+                },
+                {
+                    "word": "people",
+                    "start": 9.336,
+                    "end": 9.916,
+                    "score": 0.765
+                },
+                {
+                    "word": "wants",
+                    "start": 10.937,
+                    "end": 11.137,
+                    "score": 0.629
+                },
+                {
+                    "word": "to",
+                    "start": 11.177,
+                    "end": 11.237,
+                    "score": 0.968
+                },
+                {
+                    "word": "go",
+                    "start": 11.277,
+                    "end": 11.397,
+                    "score": 0.836
+                },
+                {
+                    "word": "there",
+                    "start": 11.457,
+                    "end": 11.677,
+                    "score": 0.903
+                },
+                {
+                    "word": "to",
+                    "start": 11.917,
+                    "end": 12.037,
+                    "score": 0.855
+                },
+                {
+                    "word": "see",
+                    "start": 12.138,
+                    "end": 12.398,
+                    "score": 0.923
+                },
+                {
+                    "word": "the...",
+                    "start": 12.438,
+                    "end": 12.678,
+                    "score": 0.79
+                },
+                {
+                    "word": "I",
+                    "start": 13.659,
+                    "end": 13.719,
+                    "score": 0.984
+                },
+                {
+                    "word": "want",
+                    "start": 13.759,
+                    "end": 13.919,
+                    "score": 0.536
+                },
+                {
+                    "word": "to",
+                    "start": 13.939,
+                    "end": 13.979,
+                    "score": 0.022
+                },
+                {
+                    "word": "see",
+                    "start": 13.999,
+                    "end": 14.159,
+                    "score": 0.924
+                },
+                {
+                    "word": "the",
+                    "start": 14.799,
+                    "end": 15.02,
+                    "score": 0.881
+                },
+                {
+                    "word": "Eiffel",
+                    "start": 15.36,
+                    "end": 16.16,
+                    "score": 0.57
+                },
+                {
+                    "word": "Tower.",
+                    "start": 16.2,
+                    "end": 16.661,
+                    "score": 0.838
+                }
+            ]
+        },
+        {
+            "start": 17.121,
+            "end": 20.003,
+            "text": "I want to see the Champs-\u00c9lys\u00e9es and the \u00c9lys\u00e9es Palace.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 17.121,
+                    "end": 17.201,
+                    "score": 0.765
+                },
+                {
+                    "word": "want",
+                    "start": 17.241,
+                    "end": 17.321,
+                    "score": 0.44
+                },
+                {
+                    "word": "to",
+                    "start": 17.341,
+                    "end": 17.381,
+                    "score": 0.196
+                },
+                {
+                    "word": "see",
+                    "start": 17.401,
+                    "end": 17.481,
+                    "score": 0.685
+                },
+                {
+                    "word": "the",
+                    "start": 17.501,
+                    "end": 17.561,
+                    "score": 0.562
+                },
+                {
+                    "word": "Champs-\u00c9lys\u00e9es",
+                    "start": 17.601,
+                    "end": 18.322,
+                    "score": 0.605
+                },
+                {
+                    "word": "and",
+                    "start": 18.642,
+                    "end": 18.762,
+                    "score": 0.792
+                },
+                {
+                    "word": "the",
+                    "start": 18.802,
+                    "end": 18.902,
+                    "score": 0.462
+                },
+                {
+                    "word": "\u00c9lys\u00e9es",
+                    "start": 18.982,
+                    "end": 19.403,
+                    "score": 0.577
+                },
+                {
+                    "word": "Palace.",
+                    "start": 19.563,
+                    "end": 20.003,
+                    "score": 0.585
+                }
+            ]
+        },
+        {
+            "start": 20.303,
+            "end": 22.545,
+            "text": "There are a lot, lot of stuff to see in Paris.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 20.303,
+                    "end": 20.503,
+                    "score": 0.907
+                },
+                {
+                    "word": "are",
+                    "start": 20.563,
+                    "end": 20.663,
+                    "score": 0.779
+                },
+                {
+                    "word": "a",
+                    "start": 20.683,
+                    "end": 20.724,
+                    "score": 0.45
+                },
+                {
+                    "word": "lot,",
+                    "start": 20.784,
+                    "end": 20.984,
+                    "score": 0.924
+                },
+                {
+                    "word": "lot",
+                    "start": 21.024,
+                    "end": 21.204,
+                    "score": 0.939
+                },
+                {
+                    "word": "of",
+                    "start": 21.224,
+                    "end": 21.264,
+                    "score": 0.434
+                },
+                {
+                    "word": "stuff",
+                    "start": 21.304,
+                    "end": 21.584,
+                    "score": 0.813
+                },
+                {
+                    "word": "to",
+                    "start": 21.624,
+                    "end": 21.704,
+                    "score": 0.996
+                },
+                {
+                    "word": "see",
+                    "start": 21.744,
+                    "end": 21.944,
+                    "score": 0.864
+                },
+                {
+                    "word": "in",
+                    "start": 22.004,
+                    "end": 22.125,
+                    "score": 0.631
+                },
+                {
+                    "word": "Paris.",
+                    "start": 22.165,
+                    "end": 22.545,
+                    "score": 0.869
+                }
+            ]
+        },
+        {
+            "start": 22.945,
+            "end": 26.408,
+            "text": "I mean, it's... Can you imagine that...",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 22.945,
+                    "end": 23.005,
+                    "score": 0.985
+                },
+                {
+                    "word": "mean,",
+                    "start": 23.045,
+                    "end": 23.205,
+                    "score": 0.834
+                },
+                {
+                    "word": "it's...",
+                    "start": 23.746,
+                    "end": 23.906,
+                    "score": 0.891
+                },
+                {
+                    "word": "Can",
+                    "start": 25.687,
+                    "end": 25.787,
+                    "score": 0.976
+                },
+                {
+                    "word": "you",
+                    "start": 25.807,
+                    "end": 25.907,
+                    "score": 0.645
+                },
+                {
+                    "word": "imagine",
+                    "start": 25.947,
+                    "end": 26.247,
+                    "score": 0.615
+                },
+                {
+                    "word": "that...",
+                    "start": 26.267,
+                    "end": 26.408,
+                    "score": 0.941
+                }
+            ]
+        },
+        {
+            "start": 27.508,
+            "end": 48.717,
+            "text": " 2 million tourists every year visit Paris it's I think it's the dream it's romantic country I really like to go there and see a lot of gorgeous scenes in France also there is that also there is I like to see the towers",
+            "words": [
+                {
+                    "word": "2"
+                },
+                {
+                    "word": "million",
+                    "start": 27.568,
+                    "end": 27.988,
+                    "score": 0.877
+                },
+                {
+                    "word": "tourists",
+                    "start": 28.889,
+                    "end": 29.369,
+                    "score": 0.881
+                },
+                {
+                    "word": "every",
+                    "start": 30.309,
+                    "end": 30.549,
+                    "score": 0.93
+                },
+                {
+                    "word": "year",
+                    "start": 30.609,
+                    "end": 30.89,
+                    "score": 0.791
+                },
+                {
+                    "word": "visit",
+                    "start": 31.17,
+                    "end": 31.47,
+                    "score": 0.961
+                },
+                {
+                    "word": "Paris",
+                    "start": 31.57,
+                    "end": 31.97,
+                    "score": 0.87
+                },
+                {
+                    "word": "it's",
+                    "start": 32.71,
+                    "end": 32.83,
+                    "score": 0.894
+                },
+                {
+                    "word": "I",
+                    "start": 32.971,
+                    "end": 33.031,
+                    "score": 0.997
+                },
+                {
+                    "word": "think",
+                    "start": 33.071,
+                    "end": 33.231,
+                    "score": 0.93
+                },
+                {
+                    "word": "it's",
+                    "start": 33.251,
+                    "end": 33.411,
+                    "score": 0.78
+                },
+                {
+                    "word": "the",
+                    "start": 33.451,
+                    "end": 33.551,
+                    "score": 0.992
+                },
+                {
+                    "word": "dream",
+                    "start": 33.591,
+                    "end": 33.931,
+                    "score": 0.854
+                },
+                {
+                    "word": "it's",
+                    "start": 33.991,
+                    "end": 34.131,
+                    "score": 0.744
+                },
+                {
+                    "word": "romantic",
+                    "start": 34.171,
+                    "end": 34.611,
+                    "score": 0.876
+                },
+                {
+                    "word": "country",
+                    "start": 34.651,
+                    "end": 35.071,
+                    "score": 0.825
+                },
+                {
+                    "word": "I",
+                    "start": 35.091,
+                    "end": 35.111,
+                    "score": 0.001
+                },
+                {
+                    "word": "really",
+                    "start": 35.712,
+                    "end": 35.932,
+                    "score": 0.901
+                },
+                {
+                    "word": "like",
+                    "start": 35.972,
+                    "end": 36.112,
+                    "score": 0.996
+                },
+                {
+                    "word": "to",
+                    "start": 36.152,
+                    "end": 36.252,
+                    "score": 0.759
+                },
+                {
+                    "word": "go",
+                    "start": 36.272,
+                    "end": 36.432,
+                    "score": 0.718
+                },
+                {
+                    "word": "there",
+                    "start": 36.492,
+                    "end": 36.732,
+                    "score": 0.778
+                },
+                {
+                    "word": "and",
+                    "start": 36.912,
+                    "end": 37.072,
+                    "score": 0.669
+                },
+                {
+                    "word": "see",
+                    "start": 37.693,
+                    "end": 37.933,
+                    "score": 0.812
+                },
+                {
+                    "word": "a",
+                    "start": 37.973,
+                    "end": 37.993,
+                    "score": 0.917
+                },
+                {
+                    "word": "lot",
+                    "start": 38.053,
+                    "end": 38.333,
+                    "score": 0.937
+                },
+                {
+                    "word": "of",
+                    "start": 38.933,
+                    "end": 39.033,
+                    "score": 0.992
+                },
+                {
+                    "word": "gorgeous",
+                    "start": 39.933,
+                    "end": 40.294,
+                    "score": 0.803
+                },
+                {
+                    "word": "scenes",
+                    "start": 40.334,
+                    "end": 40.674,
+                    "score": 0.788
+                },
+                {
+                    "word": "in",
+                    "start": 40.774,
+                    "end": 40.934,
+                    "score": 0.688
+                },
+                {
+                    "word": "France",
+                    "start": 41.114,
+                    "end": 41.494,
+                    "score": 0.857
+                },
+                {
+                    "word": "also",
+                    "start": 42.174,
+                    "end": 42.435,
+                    "score": 0.902
+                },
+                {
+                    "word": "there",
+                    "start": 42.495,
+                    "end": 42.675,
+                    "score": 0.718
+                },
+                {
+                    "word": "is",
+                    "start": 42.735,
+                    "end": 42.795,
+                    "score": 0.78
+                },
+                {
+                    "word": "that",
+                    "start": 42.835,
+                    "end": 43.055,
+                    "score": 0.608
+                },
+                {
+                    "word": "also",
+                    "start": 44.776,
+                    "end": 44.956,
+                    "score": 0.537
+                },
+                {
+                    "word": "there",
+                    "start": 44.976,
+                    "end": 45.136,
+                    "score": 0.876
+                },
+                {
+                    "word": "is",
+                    "start": 45.176,
+                    "end": 45.296,
+                    "score": 0.816
+                },
+                {
+                    "word": "I",
+                    "start": 47.217,
+                    "end": 47.317,
+                    "score": 0.794
+                },
+                {
+                    "word": "like",
+                    "start": 47.337,
+                    "end": 47.517,
+                    "score": 0.829
+                },
+                {
+                    "word": "to",
+                    "start": 47.577,
+                    "end": 47.697,
+                    "score": 0.85
+                },
+                {
+                    "word": "see",
+                    "start": 47.777,
+                    "end": 48.017,
+                    "score": 0.835
+                },
+                {
+                    "word": "the",
+                    "start": 48.057,
+                    "end": 48.257,
+                    "score": 0.83
+                },
+                {
+                    "word": "towers",
+                    "start": 48.297,
+                    "end": 48.717,
+                    "score": 0.888
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.109,
+            "end": 0.449,
+            "score": 0.642
+        },
+        {
+            "word": "really",
+            "start": 2.811,
+            "end": 3.031,
+            "score": 0.646
+        },
+        {
+            "word": "wish",
+            "start": 3.071,
+            "end": 3.231,
+            "score": 0.976
+        },
+        {
+            "word": "to",
+            "start": 3.271,
+            "end": 3.351,
+            "score": 0.77
+        },
+        {
+            "word": "go",
+            "start": 3.411,
+            "end": 3.571,
+            "score": 0.859
+        },
+        {
+            "word": "to",
+            "start": 3.632,
+            "end": 3.772,
+            "score": 0.756
+        },
+        {
+            "word": "France.",
+            "start": 3.912,
+            "end": 4.332,
+            "score": 0.806
+        },
+        {
+            "word": "I",
+            "start": 6.594,
+            "end": 6.634,
+            "score": 0.578
+        },
+        {
+            "word": "really",
+            "start": 6.694,
+            "end": 6.914,
+            "score": 0.63
+        },
+        {
+            "word": "wish",
+            "start": 6.954,
+            "end": 7.134,
+            "score": 0.926
+        },
+        {
+            "word": "to",
+            "start": 7.154,
+            "end": 7.254,
+            "score": 0.669
+        },
+        {
+            "word": "go",
+            "start": 7.294,
+            "end": 7.394,
+            "score": 0.992
+        },
+        {
+            "word": "to",
+            "start": 7.454,
+            "end": 7.534,
+            "score": 0.694
+        },
+        {
+            "word": "France,",
+            "start": 7.594,
+            "end": 7.935,
+            "score": 0.82
+        },
+        {
+            "word": "Paris.",
+            "start": 8.015,
+            "end": 8.435,
+            "score": 0.847
+        },
+        {
+            "word": "Every",
+            "start": 9.095,
+            "end": 9.296,
+            "score": 0.924
+        },
+        {
+            "word": "people",
+            "start": 9.336,
+            "end": 9.916,
+            "score": 0.765
+        },
+        {
+            "word": "wants",
+            "start": 10.937,
+            "end": 11.137,
+            "score": 0.629
+        },
+        {
+            "word": "to",
+            "start": 11.177,
+            "end": 11.237,
+            "score": 0.968
+        },
+        {
+            "word": "go",
+            "start": 11.277,
+            "end": 11.397,
+            "score": 0.836
+        },
+        {
+            "word": "there",
+            "start": 11.457,
+            "end": 11.677,
+            "score": 0.903
+        },
+        {
+            "word": "to",
+            "start": 11.917,
+            "end": 12.037,
+            "score": 0.855
+        },
+        {
+            "word": "see",
+            "start": 12.138,
+            "end": 12.398,
+            "score": 0.923
+        },
+        {
+            "word": "the...",
+            "start": 12.438,
+            "end": 12.678,
+            "score": 0.79
+        },
+        {
+            "word": "I",
+            "start": 13.659,
+            "end": 13.719,
+            "score": 0.984
+        },
+        {
+            "word": "want",
+            "start": 13.759,
+            "end": 13.919,
+            "score": 0.536
+        },
+        {
+            "word": "to",
+            "start": 13.939,
+            "end": 13.979,
+            "score": 0.022
+        },
+        {
+            "word": "see",
+            "start": 13.999,
+            "end": 14.159,
+            "score": 0.924
+        },
+        {
+            "word": "the",
+            "start": 14.799,
+            "end": 15.02,
+            "score": 0.881
+        },
+        {
+            "word": "Eiffel",
+            "start": 15.36,
+            "end": 16.16,
+            "score": 0.57
+        },
+        {
+            "word": "Tower.",
+            "start": 16.2,
+            "end": 16.661,
+            "score": 0.838
+        },
+        {
+            "word": "I",
+            "start": 17.121,
+            "end": 17.201,
+            "score": 0.765
+        },
+        {
+            "word": "want",
+            "start": 17.241,
+            "end": 17.321,
+            "score": 0.44
+        },
+        {
+            "word": "to",
+            "start": 17.341,
+            "end": 17.381,
+            "score": 0.196
+        },
+        {
+            "word": "see",
+            "start": 17.401,
+            "end": 17.481,
+            "score": 0.685
+        },
+        {
+            "word": "the",
+            "start": 17.501,
+            "end": 17.561,
+            "score": 0.562
+        },
+        {
+            "word": "Champs-\u00c9lys\u00e9es",
+            "start": 17.601,
+            "end": 18.322,
+            "score": 0.605
+        },
+        {
+            "word": "and",
+            "start": 18.642,
+            "end": 18.762,
+            "score": 0.792
+        },
+        {
+            "word": "the",
+            "start": 18.802,
+            "end": 18.902,
+            "score": 0.462
+        },
+        {
+            "word": "\u00c9lys\u00e9es",
+            "start": 18.982,
+            "end": 19.403,
+            "score": 0.577
+        },
+        {
+            "word": "Palace.",
+            "start": 19.563,
+            "end": 20.003,
+            "score": 0.585
+        },
+        {
+            "word": "There",
+            "start": 20.303,
+            "end": 20.503,
+            "score": 0.907
+        },
+        {
+            "word": "are",
+            "start": 20.563,
+            "end": 20.663,
+            "score": 0.779
+        },
+        {
+            "word": "a",
+            "start": 20.683,
+            "end": 20.724,
+            "score": 0.45
+        },
+        {
+            "word": "lot,",
+            "start": 20.784,
+            "end": 20.984,
+            "score": 0.924
+        },
+        {
+            "word": "lot",
+            "start": 21.024,
+            "end": 21.204,
+            "score": 0.939
+        },
+        {
+            "word": "of",
+            "start": 21.224,
+            "end": 21.264,
+            "score": 0.434
+        },
+        {
+            "word": "stuff",
+            "start": 21.304,
+            "end": 21.584,
+            "score": 0.813
+        },
+        {
+            "word": "to",
+            "start": 21.624,
+            "end": 21.704,
+            "score": 0.996
+        },
+        {
+            "word": "see",
+            "start": 21.744,
+            "end": 21.944,
+            "score": 0.864
+        },
+        {
+            "word": "in",
+            "start": 22.004,
+            "end": 22.125,
+            "score": 0.631
+        },
+        {
+            "word": "Paris.",
+            "start": 22.165,
+            "end": 22.545,
+            "score": 0.869
+        },
+        {
+            "word": "I",
+            "start": 22.945,
+            "end": 23.005,
+            "score": 0.985
+        },
+        {
+            "word": "mean,",
+            "start": 23.045,
+            "end": 23.205,
+            "score": 0.834
+        },
+        {
+            "word": "it's...",
+            "start": 23.746,
+            "end": 23.906,
+            "score": 0.891
+        },
+        {
+            "word": "Can",
+            "start": 25.687,
+            "end": 25.787,
+            "score": 0.976
+        },
+        {
+            "word": "you",
+            "start": 25.807,
+            "end": 25.907,
+            "score": 0.645
+        },
+        {
+            "word": "imagine",
+            "start": 25.947,
+            "end": 26.247,
+            "score": 0.615
+        },
+        {
+            "word": "that...",
+            "start": 26.267,
+            "end": 26.408,
+            "score": 0.941
+        },
+        {
+            "word": "2"
+        },
+        {
+            "word": "million",
+            "start": 27.568,
+            "end": 27.988,
+            "score": 0.877
+        },
+        {
+            "word": "tourists",
+            "start": 28.889,
+            "end": 29.369,
+            "score": 0.881
+        },
+        {
+            "word": "every",
+            "start": 30.309,
+            "end": 30.549,
+            "score": 0.93
+        },
+        {
+            "word": "year",
+            "start": 30.609,
+            "end": 30.89,
+            "score": 0.791
+        },
+        {
+            "word": "visit",
+            "start": 31.17,
+            "end": 31.47,
+            "score": 0.961
+        },
+        {
+            "word": "Paris",
+            "start": 31.57,
+            "end": 31.97,
+            "score": 0.87
+        },
+        {
+            "word": "it's",
+            "start": 32.71,
+            "end": 32.83,
+            "score": 0.894
+        },
+        {
+            "word": "I",
+            "start": 32.971,
+            "end": 33.031,
+            "score": 0.997
+        },
+        {
+            "word": "think",
+            "start": 33.071,
+            "end": 33.231,
+            "score": 0.93
+        },
+        {
+            "word": "it's",
+            "start": 33.251,
+            "end": 33.411,
+            "score": 0.78
+        },
+        {
+            "word": "the",
+            "start": 33.451,
+            "end": 33.551,
+            "score": 0.992
+        },
+        {
+            "word": "dream",
+            "start": 33.591,
+            "end": 33.931,
+            "score": 0.854
+        },
+        {
+            "word": "it's",
+            "start": 33.991,
+            "end": 34.131,
+            "score": 0.744
+        },
+        {
+            "word": "romantic",
+            "start": 34.171,
+            "end": 34.611,
+            "score": 0.876
+        },
+        {
+            "word": "country",
+            "start": 34.651,
+            "end": 35.071,
+            "score": 0.825
+        },
+        {
+            "word": "I",
+            "start": 35.091,
+            "end": 35.111,
+            "score": 0.001
+        },
+        {
+            "word": "really",
+            "start": 35.712,
+            "end": 35.932,
+            "score": 0.901
+        },
+        {
+            "word": "like",
+            "start": 35.972,
+            "end": 36.112,
+            "score": 0.996
+        },
+        {
+            "word": "to",
+            "start": 36.152,
+            "end": 36.252,
+            "score": 0.759
+        },
+        {
+            "word": "go",
+            "start": 36.272,
+            "end": 36.432,
+            "score": 0.718
+        },
+        {
+            "word": "there",
+            "start": 36.492,
+            "end": 36.732,
+            "score": 0.778
+        },
+        {
+            "word": "and",
+            "start": 36.912,
+            "end": 37.072,
+            "score": 0.669
+        },
+        {
+            "word": "see",
+            "start": 37.693,
+            "end": 37.933,
+            "score": 0.812
+        },
+        {
+            "word": "a",
+            "start": 37.973,
+            "end": 37.993,
+            "score": 0.917
+        },
+        {
+            "word": "lot",
+            "start": 38.053,
+            "end": 38.333,
+            "score": 0.937
+        },
+        {
+            "word": "of",
+            "start": 38.933,
+            "end": 39.033,
+            "score": 0.992
+        },
+        {
+            "word": "gorgeous",
+            "start": 39.933,
+            "end": 40.294,
+            "score": 0.803
+        },
+        {
+            "word": "scenes",
+            "start": 40.334,
+            "end": 40.674,
+            "score": 0.788
+        },
+        {
+            "word": "in",
+            "start": 40.774,
+            "end": 40.934,
+            "score": 0.688
+        },
+        {
+            "word": "France",
+            "start": 41.114,
+            "end": 41.494,
+            "score": 0.857
+        },
+        {
+            "word": "also",
+            "start": 42.174,
+            "end": 42.435,
+            "score": 0.902
+        },
+        {
+            "word": "there",
+            "start": 42.495,
+            "end": 42.675,
+            "score": 0.718
+        },
+        {
+            "word": "is",
+            "start": 42.735,
+            "end": 42.795,
+            "score": 0.78
+        },
+        {
+            "word": "that",
+            "start": 42.835,
+            "end": 43.055,
+            "score": 0.608
+        },
+        {
+            "word": "also",
+            "start": 44.776,
+            "end": 44.956,
+            "score": 0.537
+        },
+        {
+            "word": "there",
+            "start": 44.976,
+            "end": 45.136,
+            "score": 0.876
+        },
+        {
+            "word": "is",
+            "start": 45.176,
+            "end": 45.296,
+            "score": 0.816
+        },
+        {
+            "word": "I",
+            "start": 47.217,
+            "end": 47.317,
+            "score": 0.794
+        },
+        {
+            "word": "like",
+            "start": 47.337,
+            "end": 47.517,
+            "score": 0.829
+        },
+        {
+            "word": "to",
+            "start": 47.577,
+            "end": 47.697,
+            "score": 0.85
+        },
+        {
+            "word": "see",
+            "start": 47.777,
+            "end": 48.017,
+            "score": 0.835
+        },
+        {
+            "word": "the",
+            "start": 48.057,
+            "end": 48.257,
+            "score": 0.83
+        },
+        {
+            "word": "towers",
+            "start": 48.297,
+            "end": 48.717,
+            "score": 0.888
+        }
+    ]
+}

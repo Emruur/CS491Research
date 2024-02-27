@@ -1,0 +1,948 @@
+{
+    "segments": [
+        {
+            "start": 0.229,
+            "end": 7.954,
+            "text": " I agree with the statement about the government should require health warning labels on the side of soda cans.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.229,
+                    "end": 0.409,
+                    "score": 0.949
+                },
+                {
+                    "word": "agree",
+                    "start": 0.489,
+                    "end": 0.79,
+                    "score": 0.963
+                },
+                {
+                    "word": "with",
+                    "start": 0.83,
+                    "end": 1.01,
+                    "score": 0.787
+                },
+                {
+                    "word": "the",
+                    "start": 1.05,
+                    "end": 1.21,
+                    "score": 0.711
+                },
+                {
+                    "word": "statement",
+                    "start": 1.23,
+                    "end": 1.91,
+                    "score": 0.897
+                },
+                {
+                    "word": "about",
+                    "start": 2.09,
+                    "end": 2.351,
+                    "score": 0.999
+                },
+                {
+                    "word": "the",
+                    "start": 3.011,
+                    "end": 3.151,
+                    "score": 0.729
+                },
+                {
+                    "word": "government",
+                    "start": 3.231,
+                    "end": 3.812,
+                    "score": 0.862
+                },
+                {
+                    "word": "should",
+                    "start": 3.872,
+                    "end": 4.112,
+                    "score": 0.849
+                },
+                {
+                    "word": "require",
+                    "start": 4.352,
+                    "end": 5.012,
+                    "score": 0.9
+                },
+                {
+                    "word": "health",
+                    "start": 5.072,
+                    "end": 5.313,
+                    "score": 0.538
+                },
+                {
+                    "word": "warning",
+                    "start": 5.493,
+                    "end": 5.833,
+                    "score": 0.862
+                },
+                {
+                    "word": "labels",
+                    "start": 5.893,
+                    "end": 6.293,
+                    "score": 0.839
+                },
+                {
+                    "word": "on",
+                    "start": 6.413,
+                    "end": 6.473,
+                    "score": 0.997
+                },
+                {
+                    "word": "the",
+                    "start": 6.513,
+                    "end": 6.613,
+                    "score": 0.998
+                },
+                {
+                    "word": "side",
+                    "start": 6.674,
+                    "end": 6.994,
+                    "score": 0.91
+                },
+                {
+                    "word": "of",
+                    "start": 7.054,
+                    "end": 7.154,
+                    "score": 0.756
+                },
+                {
+                    "word": "soda",
+                    "start": 7.234,
+                    "end": 7.534,
+                    "score": 0.944
+                },
+                {
+                    "word": "cans.",
+                    "start": 7.574,
+                    "end": 7.954,
+                    "score": 0.828
+                }
+            ]
+        },
+        {
+            "start": 8.795,
+            "end": 18.201,
+            "text": "Because even though people know about the problem of soda, people cannot choose.",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 8.795,
+                    "end": 9.235,
+                    "score": 0.833
+                },
+                {
+                    "word": "even",
+                    "start": 9.676,
+                    "end": 9.836,
+                    "score": 0.876
+                },
+                {
+                    "word": "though",
+                    "start": 9.896,
+                    "end": 10.176,
+                    "score": 0.9
+                },
+                {
+                    "word": "people",
+                    "start": 10.276,
+                    "end": 10.616,
+                    "score": 0.892
+                },
+                {
+                    "word": "know",
+                    "start": 11.117,
+                    "end": 11.457,
+                    "score": 0.849
+                },
+                {
+                    "word": "about",
+                    "start": 11.537,
+                    "end": 11.797,
+                    "score": 0.931
+                },
+                {
+                    "word": "the",
+                    "start": 12.017,
+                    "end": 12.337,
+                    "score": 0.809
+                },
+                {
+                    "word": "problem",
+                    "start": 12.577,
+                    "end": 13.158,
+                    "score": 0.934
+                },
+                {
+                    "word": "of",
+                    "start": 13.318,
+                    "end": 13.418,
+                    "score": 0.986
+                },
+                {
+                    "word": "soda,",
+                    "start": 13.558,
+                    "end": 14.038,
+                    "score": 0.926
+                },
+                {
+                    "word": "people",
+                    "start": 16.18,
+                    "end": 16.66,
+                    "score": 0.748
+                },
+                {
+                    "word": "cannot",
+                    "start": 17.301,
+                    "end": 17.661,
+                    "score": 0.916
+                },
+                {
+                    "word": "choose.",
+                    "start": 17.761,
+                    "end": 18.201,
+                    "score": 0.736
+                }
+            ]
+        },
+        {
+            "start": 18.902,
+            "end": 26.407,
+            "text": "They do not have option if the company advertise the soda cans.",
+            "words": [
+                {
+                    "word": "They",
+                    "start": 18.902,
+                    "end": 19.322,
+                    "score": 0.857
+                },
+                {
+                    "word": "do",
+                    "start": 20.083,
+                    "end": 20.243,
+                    "score": 0.852
+                },
+                {
+                    "word": "not",
+                    "start": 20.263,
+                    "end": 20.423,
+                    "score": 0.702
+                },
+                {
+                    "word": "have",
+                    "start": 20.443,
+                    "end": 20.623,
+                    "score": 0.712
+                },
+                {
+                    "word": "option",
+                    "start": 20.763,
+                    "end": 21.243,
+                    "score": 0.787
+                },
+                {
+                    "word": "if",
+                    "start": 22.124,
+                    "end": 22.224,
+                    "score": 0.9
+                },
+                {
+                    "word": "the",
+                    "start": 22.704,
+                    "end": 22.864,
+                    "score": 0.945
+                },
+                {
+                    "word": "company",
+                    "start": 22.944,
+                    "end": 23.545,
+                    "score": 0.949
+                },
+                {
+                    "word": "advertise",
+                    "start": 24.045,
+                    "end": 24.906,
+                    "score": 0.696
+                },
+                {
+                    "word": "the",
+                    "start": 24.966,
+                    "end": 25.266,
+                    "score": 0.946
+                },
+                {
+                    "word": "soda",
+                    "start": 25.626,
+                    "end": 25.967,
+                    "score": 0.915
+                },
+                {
+                    "word": "cans.",
+                    "start": 26.007,
+                    "end": 26.407,
+                    "score": 0.86
+                }
+            ]
+        },
+        {
+            "start": 29.421,
+            "end": 38.887,
+            "text": " So and as you know the obesity is doubled and people are more fat.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 29.421,
+                    "end": 29.901,
+                    "score": 0.939
+                },
+                {
+                    "word": "and",
+                    "start": 30.402,
+                    "end": 30.582,
+                    "score": 0.742
+                },
+                {
+                    "word": "as",
+                    "start": 31.102,
+                    "end": 31.182,
+                    "score": 0.842
+                },
+                {
+                    "word": "you",
+                    "start": 31.222,
+                    "end": 31.362,
+                    "score": 0.875
+                },
+                {
+                    "word": "know",
+                    "start": 31.402,
+                    "end": 31.663,
+                    "score": 0.855
+                },
+                {
+                    "word": "the",
+                    "start": 31.703,
+                    "end": 32.063,
+                    "score": 0.792
+                },
+                {
+                    "word": "obesity",
+                    "start": 33.364,
+                    "end": 33.924,
+                    "score": 0.844
+                },
+                {
+                    "word": "is",
+                    "start": 34.044,
+                    "end": 34.164,
+                    "score": 0.878
+                },
+                {
+                    "word": "doubled",
+                    "start": 34.264,
+                    "end": 34.784,
+                    "score": 0.9
+                },
+                {
+                    "word": "and",
+                    "start": 35.325,
+                    "end": 35.505,
+                    "score": 0.73
+                },
+                {
+                    "word": "people",
+                    "start": 36.566,
+                    "end": 36.966,
+                    "score": 0.763
+                },
+                {
+                    "word": "are",
+                    "start": 37.146,
+                    "end": 37.266,
+                    "score": 0.648
+                },
+                {
+                    "word": "more",
+                    "start": 37.386,
+                    "end": 37.866,
+                    "score": 0.878
+                },
+                {
+                    "word": "fat.",
+                    "start": 38.447,
+                    "end": 38.887,
+                    "score": 0.882
+                }
+            ]
+        },
+        {
+            "start": 39.467,
+            "end": 42.829,
+            "text": "So it's a problem of country.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 39.467,
+                    "end": 39.708,
+                    "score": 0.984
+                },
+                {
+                    "word": "it's",
+                    "start": 39.868,
+                    "end": 39.988,
+                    "score": 0.799
+                },
+                {
+                    "word": "a",
+                    "start": 40.068,
+                    "end": 40.108,
+                    "score": 0.346
+                },
+                {
+                    "word": "problem",
+                    "start": 40.188,
+                    "end": 40.848,
+                    "score": 0.908
+                },
+                {
+                    "word": "of",
+                    "start": 41.489,
+                    "end": 41.609,
+                    "score": 0.785
+                },
+                {
+                    "word": "country.",
+                    "start": 42.269,
+                    "end": 42.829,
+                    "score": 0.91
+                }
+            ]
+        },
+        {
+            "start": 43.05,
+            "end": 51.235,
+            "text": "So the government should control the soda cans for their people.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 43.05,
+                    "end": 43.33,
+                    "score": 0.976
+                },
+                {
+                    "word": "the",
+                    "start": 43.59,
+                    "end": 43.69,
+                    "score": 0.953
+                },
+                {
+                    "word": "government",
+                    "start": 43.73,
+                    "end": 44.31,
+                    "score": 0.57
+                },
+                {
+                    "word": "should",
+                    "start": 44.37,
+                    "end": 44.691,
+                    "score": 0.697
+                },
+                {
+                    "word": "control",
+                    "start": 45.631,
+                    "end": 47.012,
+                    "score": 0.714
+                },
+                {
+                    "word": "the",
+                    "start": 48.173,
+                    "end": 48.373,
+                    "score": 0.882
+                },
+                {
+                    "word": "soda",
+                    "start": 48.453,
+                    "end": 48.793,
+                    "score": 0.935
+                },
+                {
+                    "word": "cans",
+                    "start": 48.853,
+                    "end": 49.314,
+                    "score": 0.826
+                },
+                {
+                    "word": "for",
+                    "start": 49.614,
+                    "end": 49.874,
+                    "score": 0.883
+                },
+                {
+                    "word": "their",
+                    "start": 49.914,
+                    "end": 50.214,
+                    "score": 0.828
+                },
+                {
+                    "word": "people.",
+                    "start": 50.874,
+                    "end": 51.235,
+                    "score": 0.682
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.229,
+            "end": 0.409,
+            "score": 0.949
+        },
+        {
+            "word": "agree",
+            "start": 0.489,
+            "end": 0.79,
+            "score": 0.963
+        },
+        {
+            "word": "with",
+            "start": 0.83,
+            "end": 1.01,
+            "score": 0.787
+        },
+        {
+            "word": "the",
+            "start": 1.05,
+            "end": 1.21,
+            "score": 0.711
+        },
+        {
+            "word": "statement",
+            "start": 1.23,
+            "end": 1.91,
+            "score": 0.897
+        },
+        {
+            "word": "about",
+            "start": 2.09,
+            "end": 2.351,
+            "score": 0.999
+        },
+        {
+            "word": "the",
+            "start": 3.011,
+            "end": 3.151,
+            "score": 0.729
+        },
+        {
+            "word": "government",
+            "start": 3.231,
+            "end": 3.812,
+            "score": 0.862
+        },
+        {
+            "word": "should",
+            "start": 3.872,
+            "end": 4.112,
+            "score": 0.849
+        },
+        {
+            "word": "require",
+            "start": 4.352,
+            "end": 5.012,
+            "score": 0.9
+        },
+        {
+            "word": "health",
+            "start": 5.072,
+            "end": 5.313,
+            "score": 0.538
+        },
+        {
+            "word": "warning",
+            "start": 5.493,
+            "end": 5.833,
+            "score": 0.862
+        },
+        {
+            "word": "labels",
+            "start": 5.893,
+            "end": 6.293,
+            "score": 0.839
+        },
+        {
+            "word": "on",
+            "start": 6.413,
+            "end": 6.473,
+            "score": 0.997
+        },
+        {
+            "word": "the",
+            "start": 6.513,
+            "end": 6.613,
+            "score": 0.998
+        },
+        {
+            "word": "side",
+            "start": 6.674,
+            "end": 6.994,
+            "score": 0.91
+        },
+        {
+            "word": "of",
+            "start": 7.054,
+            "end": 7.154,
+            "score": 0.756
+        },
+        {
+            "word": "soda",
+            "start": 7.234,
+            "end": 7.534,
+            "score": 0.944
+        },
+        {
+            "word": "cans.",
+            "start": 7.574,
+            "end": 7.954,
+            "score": 0.828
+        },
+        {
+            "word": "Because",
+            "start": 8.795,
+            "end": 9.235,
+            "score": 0.833
+        },
+        {
+            "word": "even",
+            "start": 9.676,
+            "end": 9.836,
+            "score": 0.876
+        },
+        {
+            "word": "though",
+            "start": 9.896,
+            "end": 10.176,
+            "score": 0.9
+        },
+        {
+            "word": "people",
+            "start": 10.276,
+            "end": 10.616,
+            "score": 0.892
+        },
+        {
+            "word": "know",
+            "start": 11.117,
+            "end": 11.457,
+            "score": 0.849
+        },
+        {
+            "word": "about",
+            "start": 11.537,
+            "end": 11.797,
+            "score": 0.931
+        },
+        {
+            "word": "the",
+            "start": 12.017,
+            "end": 12.337,
+            "score": 0.809
+        },
+        {
+            "word": "problem",
+            "start": 12.577,
+            "end": 13.158,
+            "score": 0.934
+        },
+        {
+            "word": "of",
+            "start": 13.318,
+            "end": 13.418,
+            "score": 0.986
+        },
+        {
+            "word": "soda,",
+            "start": 13.558,
+            "end": 14.038,
+            "score": 0.926
+        },
+        {
+            "word": "people",
+            "start": 16.18,
+            "end": 16.66,
+            "score": 0.748
+        },
+        {
+            "word": "cannot",
+            "start": 17.301,
+            "end": 17.661,
+            "score": 0.916
+        },
+        {
+            "word": "choose.",
+            "start": 17.761,
+            "end": 18.201,
+            "score": 0.736
+        },
+        {
+            "word": "They",
+            "start": 18.902,
+            "end": 19.322,
+            "score": 0.857
+        },
+        {
+            "word": "do",
+            "start": 20.083,
+            "end": 20.243,
+            "score": 0.852
+        },
+        {
+            "word": "not",
+            "start": 20.263,
+            "end": 20.423,
+            "score": 0.702
+        },
+        {
+            "word": "have",
+            "start": 20.443,
+            "end": 20.623,
+            "score": 0.712
+        },
+        {
+            "word": "option",
+            "start": 20.763,
+            "end": 21.243,
+            "score": 0.787
+        },
+        {
+            "word": "if",
+            "start": 22.124,
+            "end": 22.224,
+            "score": 0.9
+        },
+        {
+            "word": "the",
+            "start": 22.704,
+            "end": 22.864,
+            "score": 0.945
+        },
+        {
+            "word": "company",
+            "start": 22.944,
+            "end": 23.545,
+            "score": 0.949
+        },
+        {
+            "word": "advertise",
+            "start": 24.045,
+            "end": 24.906,
+            "score": 0.696
+        },
+        {
+            "word": "the",
+            "start": 24.966,
+            "end": 25.266,
+            "score": 0.946
+        },
+        {
+            "word": "soda",
+            "start": 25.626,
+            "end": 25.967,
+            "score": 0.915
+        },
+        {
+            "word": "cans.",
+            "start": 26.007,
+            "end": 26.407,
+            "score": 0.86
+        },
+        {
+            "word": "So",
+            "start": 29.421,
+            "end": 29.901,
+            "score": 0.939
+        },
+        {
+            "word": "and",
+            "start": 30.402,
+            "end": 30.582,
+            "score": 0.742
+        },
+        {
+            "word": "as",
+            "start": 31.102,
+            "end": 31.182,
+            "score": 0.842
+        },
+        {
+            "word": "you",
+            "start": 31.222,
+            "end": 31.362,
+            "score": 0.875
+        },
+        {
+            "word": "know",
+            "start": 31.402,
+            "end": 31.663,
+            "score": 0.855
+        },
+        {
+            "word": "the",
+            "start": 31.703,
+            "end": 32.063,
+            "score": 0.792
+        },
+        {
+            "word": "obesity",
+            "start": 33.364,
+            "end": 33.924,
+            "score": 0.844
+        },
+        {
+            "word": "is",
+            "start": 34.044,
+            "end": 34.164,
+            "score": 0.878
+        },
+        {
+            "word": "doubled",
+            "start": 34.264,
+            "end": 34.784,
+            "score": 0.9
+        },
+        {
+            "word": "and",
+            "start": 35.325,
+            "end": 35.505,
+            "score": 0.73
+        },
+        {
+            "word": "people",
+            "start": 36.566,
+            "end": 36.966,
+            "score": 0.763
+        },
+        {
+            "word": "are",
+            "start": 37.146,
+            "end": 37.266,
+            "score": 0.648
+        },
+        {
+            "word": "more",
+            "start": 37.386,
+            "end": 37.866,
+            "score": 0.878
+        },
+        {
+            "word": "fat.",
+            "start": 38.447,
+            "end": 38.887,
+            "score": 0.882
+        },
+        {
+            "word": "So",
+            "start": 39.467,
+            "end": 39.708,
+            "score": 0.984
+        },
+        {
+            "word": "it's",
+            "start": 39.868,
+            "end": 39.988,
+            "score": 0.799
+        },
+        {
+            "word": "a",
+            "start": 40.068,
+            "end": 40.108,
+            "score": 0.346
+        },
+        {
+            "word": "problem",
+            "start": 40.188,
+            "end": 40.848,
+            "score": 0.908
+        },
+        {
+            "word": "of",
+            "start": 41.489,
+            "end": 41.609,
+            "score": 0.785
+        },
+        {
+            "word": "country.",
+            "start": 42.269,
+            "end": 42.829,
+            "score": 0.91
+        },
+        {
+            "word": "So",
+            "start": 43.05,
+            "end": 43.33,
+            "score": 0.976
+        },
+        {
+            "word": "the",
+            "start": 43.59,
+            "end": 43.69,
+            "score": 0.953
+        },
+        {
+            "word": "government",
+            "start": 43.73,
+            "end": 44.31,
+            "score": 0.57
+        },
+        {
+            "word": "should",
+            "start": 44.37,
+            "end": 44.691,
+            "score": 0.697
+        },
+        {
+            "word": "control",
+            "start": 45.631,
+            "end": 47.012,
+            "score": 0.714
+        },
+        {
+            "word": "the",
+            "start": 48.173,
+            "end": 48.373,
+            "score": 0.882
+        },
+        {
+            "word": "soda",
+            "start": 48.453,
+            "end": 48.793,
+            "score": 0.935
+        },
+        {
+            "word": "cans",
+            "start": 48.853,
+            "end": 49.314,
+            "score": 0.826
+        },
+        {
+            "word": "for",
+            "start": 49.614,
+            "end": 49.874,
+            "score": 0.883
+        },
+        {
+            "word": "their",
+            "start": 49.914,
+            "end": 50.214,
+            "score": 0.828
+        },
+        {
+            "word": "people.",
+            "start": 50.874,
+            "end": 51.235,
+            "score": 0.682
+        }
+    ]
+}

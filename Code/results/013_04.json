@@ -1,0 +1,958 @@
+{
+    "segments": [
+        {
+            "start": 0.069,
+            "end": 1.671,
+            "text": " San Francisco Weather Channel.",
+            "words": [
+                {
+                    "word": "San",
+                    "start": 0.069,
+                    "end": 0.209,
+                    "score": 0.981
+                },
+                {
+                    "word": "Francisco",
+                    "start": 0.249,
+                    "end": 0.77,
+                    "score": 0.929
+                },
+                {
+                    "word": "Weather",
+                    "start": 0.81,
+                    "end": 1.17,
+                    "score": 0.82
+                },
+                {
+                    "word": "Channel.",
+                    "start": 1.25,
+                    "end": 1.671,
+                    "score": 0.807
+                }
+            ]
+        },
+        {
+            "start": 2.651,
+            "end": 8.497,
+            "text": "This is a weather channel for Chicago, London, Los Angeles, San Francisco and Tokyo.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 2.651,
+                    "end": 2.812,
+                    "score": 0.962
+                },
+                {
+                    "word": "is",
+                    "start": 2.892,
+                    "end": 3.012,
+                    "score": 0.788
+                },
+                {
+                    "word": "a",
+                    "start": 3.212,
+                    "end": 3.372,
+                    "score": 0.7
+                },
+                {
+                    "word": "weather",
+                    "start": 4.353,
+                    "end": 4.613,
+                    "score": 0.723
+                },
+                {
+                    "word": "channel",
+                    "start": 4.673,
+                    "end": 4.994,
+                    "score": 0.889
+                },
+                {
+                    "word": "for",
+                    "start": 5.034,
+                    "end": 5.214,
+                    "score": 0.888
+                },
+                {
+                    "word": "Chicago,",
+                    "start": 5.274,
+                    "end": 5.774,
+                    "score": 0.904
+                },
+                {
+                    "word": "London,",
+                    "start": 5.854,
+                    "end": 6.295,
+                    "score": 0.893
+                },
+                {
+                    "word": "Los",
+                    "start": 6.355,
+                    "end": 6.575,
+                    "score": 0.718
+                },
+                {
+                    "word": "Angeles,",
+                    "start": 6.615,
+                    "end": 7.035,
+                    "score": 0.783
+                },
+                {
+                    "word": "San",
+                    "start": 7.055,
+                    "end": 7.176,
+                    "score": 0.812
+                },
+                {
+                    "word": "Francisco",
+                    "start": 7.216,
+                    "end": 7.836,
+                    "score": 0.881
+                },
+                {
+                    "word": "and",
+                    "start": 7.896,
+                    "end": 7.996,
+                    "score": 0.687
+                },
+                {
+                    "word": "Tokyo.",
+                    "start": 8.036,
+                    "end": 8.497,
+                    "score": 0.878
+                }
+            ]
+        },
+        {
+            "start": 8.897,
+            "end": 13.141,
+            "text": "Chicago raining 59 today with 93 humidity and 30 pressure.",
+            "words": [
+                {
+                    "word": "Chicago",
+                    "start": 8.897,
+                    "end": 9.458,
+                    "score": 0.854
+                },
+                {
+                    "word": "raining",
+                    "start": 9.578,
+                    "end": 9.998,
+                    "score": 0.79
+                },
+                {
+                    "word": "59"
+                },
+                {
+                    "word": "today",
+                    "start": 10.098,
+                    "end": 10.559,
+                    "score": 0.684
+                },
+                {
+                    "word": "with",
+                    "start": 10.659,
+                    "end": 10.839,
+                    "score": 0.427
+                },
+                {
+                    "word": "93"
+                },
+                {
+                    "word": "humidity",
+                    "start": 10.919,
+                    "end": 11.239,
+                    "score": 0.442
+                },
+                {
+                    "word": "and",
+                    "start": 11.499,
+                    "end": 11.7,
+                    "score": 0.624
+                },
+                {
+                    "word": "30"
+                },
+                {
+                    "word": "pressure.",
+                    "start": 11.84,
+                    "end": 13.141,
+                    "score": 0.595
+                }
+            ]
+        },
+        {
+            "start": 18.125,
+            "end": 25.408,
+            "text": " London, mostly cloudy, 57 Fahrenheit, humidity 87 and 30.1 pressure.",
+            "words": [
+                {
+                    "word": "London,",
+                    "start": 18.125,
+                    "end": 18.585,
+                    "score": 0.857
+                },
+                {
+                    "word": "mostly",
+                    "start": 18.665,
+                    "end": 18.965,
+                    "score": 0.602
+                },
+                {
+                    "word": "cloudy,",
+                    "start": 19.005,
+                    "end": 19.406,
+                    "score": 0.926
+                },
+                {
+                    "word": "57"
+                },
+                {
+                    "word": "Fahrenheit,",
+                    "start": 19.826,
+                    "end": 21.406,
+                    "score": 0.713
+                },
+                {
+                    "word": "humidity",
+                    "start": 21.846,
+                    "end": 22.627,
+                    "score": 0.877
+                },
+                {
+                    "word": "87"
+                },
+                {
+                    "word": "and",
+                    "start": 23.267,
+                    "end": 23.907,
+                    "score": 0.778
+                },
+                {
+                    "word": "30.1"
+                },
+                {
+                    "word": "pressure.",
+                    "start": 24.887,
+                    "end": 25.408,
+                    "score": 0.918
+                }
+            ]
+        },
+        {
+            "start": 25.808,
+            "end": 33.83,
+            "text": "Los Angeles, sunny, 57 Fahrenheit, 61 humidity and 3D pressure.",
+            "words": [
+                {
+                    "word": "Los",
+                    "start": 25.808,
+                    "end": 26.008,
+                    "score": 0.962
+                },
+                {
+                    "word": "Angeles,",
+                    "start": 26.088,
+                    "end": 26.568,
+                    "score": 0.9
+                },
+                {
+                    "word": "sunny,",
+                    "start": 26.708,
+                    "end": 27.148,
+                    "score": 0.79
+                },
+                {
+                    "word": "57"
+                },
+                {
+                    "word": "Fahrenheit,",
+                    "start": 27.528,
+                    "end": 29.709,
+                    "score": 0.731
+                },
+                {
+                    "word": "61"
+                },
+                {
+                    "word": "humidity",
+                    "start": 30.449,
+                    "end": 31.17,
+                    "score": 0.899
+                },
+                {
+                    "word": "and",
+                    "start": 31.47,
+                    "end": 31.65,
+                    "score": 0.841
+                },
+                {
+                    "word": "3D",
+                    "start": 32.37,
+                    "end": 32.79,
+                    "score": 0.547
+                },
+                {
+                    "word": "pressure.",
+                    "start": 33.19,
+                    "end": 33.83,
+                    "score": 0.895
+                }
+            ]
+        },
+        {
+            "start": 33.99,
+            "end": 35.291,
+            "text": "And San Francisco, cloudy.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 33.99,
+                    "end": 34.09,
+                    "score": 0.917
+                },
+                {
+                    "word": "San",
+                    "start": 34.15,
+                    "end": 34.311,
+                    "score": 0.924
+                },
+                {
+                    "word": "Francisco,",
+                    "start": 34.331,
+                    "end": 34.891,
+                    "score": 0.825
+                },
+                {
+                    "word": "cloudy.",
+                    "start": 34.911,
+                    "end": 35.291,
+                    "score": 0.857
+                }
+            ]
+        },
+        {
+            "start": 36.792,
+            "end": 40.615,
+            "text": " 60 Fahrenheit, 86 humidity and zero pressure.",
+            "words": [
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "Fahrenheit,",
+                    "start": 36.872,
+                    "end": 37.813,
+                    "score": 0.565
+                },
+                {
+                    "word": "86"
+                },
+                {
+                    "word": "humidity",
+                    "start": 38.433,
+                    "end": 39.254,
+                    "score": 0.891
+                },
+                {
+                    "word": "and",
+                    "start": 39.514,
+                    "end": 39.654,
+                    "score": 0.727
+                },
+                {
+                    "word": "zero",
+                    "start": 39.754,
+                    "end": 40.034,
+                    "score": 0.844
+                },
+                {
+                    "word": "pressure.",
+                    "start": 40.054,
+                    "end": 40.615,
+                    "score": 0.827
+                }
+            ]
+        },
+        {
+            "start": 41.115,
+            "end": 50.442,
+            "text": "And of course, Tokyo rain, 64 Fahrenheit and 93% humidity with 29.9 pressure.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 41.115,
+                    "end": 41.295,
+                    "score": 0.833
+                },
+                {
+                    "word": "of",
+                    "start": 41.435,
+                    "end": 41.516,
+                    "score": 0.842
+                },
+                {
+                    "word": "course,",
+                    "start": 41.596,
+                    "end": 41.896,
+                    "score": 0.908
+                },
+                {
+                    "word": "Tokyo",
+                    "start": 41.996,
+                    "end": 42.596,
+                    "score": 0.841
+                },
+                {
+                    "word": "rain,",
+                    "start": 42.696,
+                    "end": 44.158,
+                    "score": 0.874
+                },
+                {
+                    "word": "64"
+                },
+                {
+                    "word": "Fahrenheit",
+                    "start": 44.238,
+                    "end": 46.379,
+                    "score": 0.598
+                },
+                {
+                    "word": "and",
+                    "start": 46.559,
+                    "end": 46.76,
+                    "score": 0.906
+                },
+                {
+                    "word": "93%"
+                },
+                {
+                    "word": "humidity",
+                    "start": 47.22,
+                    "end": 47.94,
+                    "score": 0.963
+                },
+                {
+                    "word": "with",
+                    "start": 48.021,
+                    "end": 48.841,
+                    "score": 0.842
+                },
+                {
+                    "word": "29.9"
+                },
+                {
+                    "word": "pressure.",
+                    "start": 49.302,
+                    "end": 50.442,
+                    "score": 0.791
+                }
+            ]
+        },
+        {
+            "start": 51.603,
+            "end": 52.984,
+            "text": "That's it for today.",
+            "words": [
+                {
+                    "word": "That's",
+                    "start": 51.603,
+                    "end": 51.863,
+                    "score": 0.718
+                },
+                {
+                    "word": "it",
+                    "start": 51.944,
+                    "end": 52.144,
+                    "score": 0.754
+                },
+                {
+                    "word": "for",
+                    "start": 52.304,
+                    "end": 52.504,
+                    "score": 0.817
+                },
+                {
+                    "word": "today.",
+                    "start": 52.544,
+                    "end": 52.984,
+                    "score": 0.849
+                }
+            ]
+        },
+        {
+            "start": 53.745,
+            "end": 54.926,
+            "text": "Have a good evening.",
+            "words": [
+                {
+                    "word": "Have",
+                    "start": 53.745,
+                    "end": 54.025,
+                    "score": 0.703
+                },
+                {
+                    "word": "a",
+                    "start": 54.045,
+                    "end": 54.065,
+                    "score": 0.078
+                },
+                {
+                    "word": "good",
+                    "start": 54.085,
+                    "end": 54.365,
+                    "score": 0.884
+                },
+                {
+                    "word": "evening.",
+                    "start": 54.606,
+                    "end": 54.926,
+                    "score": 0.895
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "San",
+            "start": 0.069,
+            "end": 0.209,
+            "score": 0.981
+        },
+        {
+            "word": "Francisco",
+            "start": 0.249,
+            "end": 0.77,
+            "score": 0.929
+        },
+        {
+            "word": "Weather",
+            "start": 0.81,
+            "end": 1.17,
+            "score": 0.82
+        },
+        {
+            "word": "Channel.",
+            "start": 1.25,
+            "end": 1.671,
+            "score": 0.807
+        },
+        {
+            "word": "This",
+            "start": 2.651,
+            "end": 2.812,
+            "score": 0.962
+        },
+        {
+            "word": "is",
+            "start": 2.892,
+            "end": 3.012,
+            "score": 0.788
+        },
+        {
+            "word": "a",
+            "start": 3.212,
+            "end": 3.372,
+            "score": 0.7
+        },
+        {
+            "word": "weather",
+            "start": 4.353,
+            "end": 4.613,
+            "score": 0.723
+        },
+        {
+            "word": "channel",
+            "start": 4.673,
+            "end": 4.994,
+            "score": 0.889
+        },
+        {
+            "word": "for",
+            "start": 5.034,
+            "end": 5.214,
+            "score": 0.888
+        },
+        {
+            "word": "Chicago,",
+            "start": 5.274,
+            "end": 5.774,
+            "score": 0.904
+        },
+        {
+            "word": "London,",
+            "start": 5.854,
+            "end": 6.295,
+            "score": 0.893
+        },
+        {
+            "word": "Los",
+            "start": 6.355,
+            "end": 6.575,
+            "score": 0.718
+        },
+        {
+            "word": "Angeles,",
+            "start": 6.615,
+            "end": 7.035,
+            "score": 0.783
+        },
+        {
+            "word": "San",
+            "start": 7.055,
+            "end": 7.176,
+            "score": 0.812
+        },
+        {
+            "word": "Francisco",
+            "start": 7.216,
+            "end": 7.836,
+            "score": 0.881
+        },
+        {
+            "word": "and",
+            "start": 7.896,
+            "end": 7.996,
+            "score": 0.687
+        },
+        {
+            "word": "Tokyo.",
+            "start": 8.036,
+            "end": 8.497,
+            "score": 0.878
+        },
+        {
+            "word": "Chicago",
+            "start": 8.897,
+            "end": 9.458,
+            "score": 0.854
+        },
+        {
+            "word": "raining",
+            "start": 9.578,
+            "end": 9.998,
+            "score": 0.79
+        },
+        {
+            "word": "59"
+        },
+        {
+            "word": "today",
+            "start": 10.098,
+            "end": 10.559,
+            "score": 0.684
+        },
+        {
+            "word": "with",
+            "start": 10.659,
+            "end": 10.839,
+            "score": 0.427
+        },
+        {
+            "word": "93"
+        },
+        {
+            "word": "humidity",
+            "start": 10.919,
+            "end": 11.239,
+            "score": 0.442
+        },
+        {
+            "word": "and",
+            "start": 11.499,
+            "end": 11.7,
+            "score": 0.624
+        },
+        {
+            "word": "30"
+        },
+        {
+            "word": "pressure.",
+            "start": 11.84,
+            "end": 13.141,
+            "score": 0.595
+        },
+        {
+            "word": "London,",
+            "start": 18.125,
+            "end": 18.585,
+            "score": 0.857
+        },
+        {
+            "word": "mostly",
+            "start": 18.665,
+            "end": 18.965,
+            "score": 0.602
+        },
+        {
+            "word": "cloudy,",
+            "start": 19.005,
+            "end": 19.406,
+            "score": 0.926
+        },
+        {
+            "word": "57"
+        },
+        {
+            "word": "Fahrenheit,",
+            "start": 19.826,
+            "end": 21.406,
+            "score": 0.713
+        },
+        {
+            "word": "humidity",
+            "start": 21.846,
+            "end": 22.627,
+            "score": 0.877
+        },
+        {
+            "word": "87"
+        },
+        {
+            "word": "and",
+            "start": 23.267,
+            "end": 23.907,
+            "score": 0.778
+        },
+        {
+            "word": "30.1"
+        },
+        {
+            "word": "pressure.",
+            "start": 24.887,
+            "end": 25.408,
+            "score": 0.918
+        },
+        {
+            "word": "Los",
+            "start": 25.808,
+            "end": 26.008,
+            "score": 0.962
+        },
+        {
+            "word": "Angeles,",
+            "start": 26.088,
+            "end": 26.568,
+            "score": 0.9
+        },
+        {
+            "word": "sunny,",
+            "start": 26.708,
+            "end": 27.148,
+            "score": 0.79
+        },
+        {
+            "word": "57"
+        },
+        {
+            "word": "Fahrenheit,",
+            "start": 27.528,
+            "end": 29.709,
+            "score": 0.731
+        },
+        {
+            "word": "61"
+        },
+        {
+            "word": "humidity",
+            "start": 30.449,
+            "end": 31.17,
+            "score": 0.899
+        },
+        {
+            "word": "and",
+            "start": 31.47,
+            "end": 31.65,
+            "score": 0.841
+        },
+        {
+            "word": "3D",
+            "start": 32.37,
+            "end": 32.79,
+            "score": 0.547
+        },
+        {
+            "word": "pressure.",
+            "start": 33.19,
+            "end": 33.83,
+            "score": 0.895
+        },
+        {
+            "word": "And",
+            "start": 33.99,
+            "end": 34.09,
+            "score": 0.917
+        },
+        {
+            "word": "San",
+            "start": 34.15,
+            "end": 34.311,
+            "score": 0.924
+        },
+        {
+            "word": "Francisco,",
+            "start": 34.331,
+            "end": 34.891,
+            "score": 0.825
+        },
+        {
+            "word": "cloudy.",
+            "start": 34.911,
+            "end": 35.291,
+            "score": 0.857
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "Fahrenheit,",
+            "start": 36.872,
+            "end": 37.813,
+            "score": 0.565
+        },
+        {
+            "word": "86"
+        },
+        {
+            "word": "humidity",
+            "start": 38.433,
+            "end": 39.254,
+            "score": 0.891
+        },
+        {
+            "word": "and",
+            "start": 39.514,
+            "end": 39.654,
+            "score": 0.727
+        },
+        {
+            "word": "zero",
+            "start": 39.754,
+            "end": 40.034,
+            "score": 0.844
+        },
+        {
+            "word": "pressure.",
+            "start": 40.054,
+            "end": 40.615,
+            "score": 0.827
+        },
+        {
+            "word": "And",
+            "start": 41.115,
+            "end": 41.295,
+            "score": 0.833
+        },
+        {
+            "word": "of",
+            "start": 41.435,
+            "end": 41.516,
+            "score": 0.842
+        },
+        {
+            "word": "course,",
+            "start": 41.596,
+            "end": 41.896,
+            "score": 0.908
+        },
+        {
+            "word": "Tokyo",
+            "start": 41.996,
+            "end": 42.596,
+            "score": 0.841
+        },
+        {
+            "word": "rain,",
+            "start": 42.696,
+            "end": 44.158,
+            "score": 0.874
+        },
+        {
+            "word": "64"
+        },
+        {
+            "word": "Fahrenheit",
+            "start": 44.238,
+            "end": 46.379,
+            "score": 0.598
+        },
+        {
+            "word": "and",
+            "start": 46.559,
+            "end": 46.76,
+            "score": 0.906
+        },
+        {
+            "word": "93%"
+        },
+        {
+            "word": "humidity",
+            "start": 47.22,
+            "end": 47.94,
+            "score": 0.963
+        },
+        {
+            "word": "with",
+            "start": 48.021,
+            "end": 48.841,
+            "score": 0.842
+        },
+        {
+            "word": "29.9"
+        },
+        {
+            "word": "pressure.",
+            "start": 49.302,
+            "end": 50.442,
+            "score": 0.791
+        },
+        {
+            "word": "That's",
+            "start": 51.603,
+            "end": 51.863,
+            "score": 0.718
+        },
+        {
+            "word": "it",
+            "start": 51.944,
+            "end": 52.144,
+            "score": 0.754
+        },
+        {
+            "word": "for",
+            "start": 52.304,
+            "end": 52.504,
+            "score": 0.817
+        },
+        {
+            "word": "today.",
+            "start": 52.544,
+            "end": 52.984,
+            "score": 0.849
+        },
+        {
+            "word": "Have",
+            "start": 53.745,
+            "end": 54.025,
+            "score": 0.703
+        },
+        {
+            "word": "a",
+            "start": 54.045,
+            "end": 54.065,
+            "score": 0.078
+        },
+        {
+            "word": "good",
+            "start": 54.085,
+            "end": 54.365,
+            "score": 0.884
+        },
+        {
+            "word": "evening.",
+            "start": 54.606,
+            "end": 54.926,
+            "score": 0.895
+        }
+    ]
+}

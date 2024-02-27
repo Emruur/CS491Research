@@ -1,0 +1,790 @@
+{
+    "segments": [
+        {
+            "start": 1.396,
+            "end": 8.538,
+            "text": " The movie that I like is the Back to the Future because I like science fiction.",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 1.396,
+                    "end": 1.516,
+                    "score": 0.769
+                },
+                {
+                    "word": "movie",
+                    "start": 1.556,
+                    "end": 1.876,
+                    "score": 0.813
+                },
+                {
+                    "word": "that",
+                    "start": 1.916,
+                    "end": 2.036,
+                    "score": 0.864
+                },
+                {
+                    "word": "I",
+                    "start": 2.116,
+                    "end": 2.196,
+                    "score": 0.91
+                },
+                {
+                    "word": "like",
+                    "start": 2.277,
+                    "end": 2.577,
+                    "score": 0.926
+                },
+                {
+                    "word": "is",
+                    "start": 2.777,
+                    "end": 2.897,
+                    "score": 0.617
+                },
+                {
+                    "word": "the",
+                    "start": 3.037,
+                    "end": 3.177,
+                    "score": 0.983
+                },
+                {
+                    "word": "Back",
+                    "start": 3.277,
+                    "end": 3.497,
+                    "score": 0.94
+                },
+                {
+                    "word": "to",
+                    "start": 3.537,
+                    "end": 3.657,
+                    "score": 0.883
+                },
+                {
+                    "word": "the",
+                    "start": 3.697,
+                    "end": 3.757,
+                    "score": 0.963
+                },
+                {
+                    "word": "Future",
+                    "start": 3.837,
+                    "end": 4.377,
+                    "score": 0.504
+                },
+                {
+                    "word": "because",
+                    "start": 5.797,
+                    "end": 6.138,
+                    "score": 0.879
+                },
+                {
+                    "word": "I",
+                    "start": 6.258,
+                    "end": 6.318,
+                    "score": 0.889
+                },
+                {
+                    "word": "like",
+                    "start": 6.358,
+                    "end": 6.618,
+                    "score": 0.887
+                },
+                {
+                    "word": "science",
+                    "start": 7.418,
+                    "end": 7.898,
+                    "score": 0.866
+                },
+                {
+                    "word": "fiction.",
+                    "start": 8.038,
+                    "end": 8.538,
+                    "score": 0.915
+                }
+            ]
+        },
+        {
+            "start": 9.138,
+            "end": 21.462,
+            "text": "In the Back to the Future, the scientist and the boy go to the future or passed with the time machine as a car.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 9.138,
+                    "end": 9.218,
+                    "score": 0.839
+                },
+                {
+                    "word": "the",
+                    "start": 9.238,
+                    "end": 9.318,
+                    "score": 0.825
+                },
+                {
+                    "word": "Back",
+                    "start": 9.358,
+                    "end": 9.558,
+                    "score": 0.922
+                },
+                {
+                    "word": "to",
+                    "start": 9.578,
+                    "end": 9.698,
+                    "score": 0.694
+                },
+                {
+                    "word": "the",
+                    "start": 9.718,
+                    "end": 9.779,
+                    "score": 0.959
+                },
+                {
+                    "word": "Future,",
+                    "start": 9.839,
+                    "end": 10.279,
+                    "score": 0.89
+                },
+                {
+                    "word": "the",
+                    "start": 10.299,
+                    "end": 10.359,
+                    "score": 0.001
+                },
+                {
+                    "word": "scientist",
+                    "start": 12.919,
+                    "end": 13.519,
+                    "score": 0.902
+                },
+                {
+                    "word": "and",
+                    "start": 13.68,
+                    "end": 13.82,
+                    "score": 0.748
+                },
+                {
+                    "word": "the",
+                    "start": 13.88,
+                    "end": 13.96,
+                    "score": 0.986
+                },
+                {
+                    "word": "boy",
+                    "start": 14.04,
+                    "end": 14.42,
+                    "score": 0.544
+                },
+                {
+                    "word": "go",
+                    "start": 15.3,
+                    "end": 15.54,
+                    "score": 0.916
+                },
+                {
+                    "word": "to",
+                    "start": 15.66,
+                    "end": 16.0,
+                    "score": 0.843
+                },
+                {
+                    "word": "the",
+                    "start": 16.02,
+                    "end": 16.08,
+                    "score": 0.0
+                },
+                {
+                    "word": "future",
+                    "start": 16.34,
+                    "end": 16.8,
+                    "score": 0.818
+                },
+                {
+                    "word": "or",
+                    "start": 16.94,
+                    "end": 17.06,
+                    "score": 0.553
+                },
+                {
+                    "word": "passed",
+                    "start": 17.18,
+                    "end": 17.561,
+                    "score": 0.598
+                },
+                {
+                    "word": "with",
+                    "start": 17.861,
+                    "end": 18.081,
+                    "score": 0.875
+                },
+                {
+                    "word": "the",
+                    "start": 18.241,
+                    "end": 18.601,
+                    "score": 0.881
+                },
+                {
+                    "word": "time",
+                    "start": 19.721,
+                    "end": 20.001,
+                    "score": 0.917
+                },
+                {
+                    "word": "machine",
+                    "start": 20.041,
+                    "end": 20.501,
+                    "score": 0.791
+                },
+                {
+                    "word": "as",
+                    "start": 20.861,
+                    "end": 20.961,
+                    "score": 0.93
+                },
+                {
+                    "word": "a",
+                    "start": 21.061,
+                    "end": 21.101,
+                    "score": 0.59
+                },
+                {
+                    "word": "car.",
+                    "start": 21.142,
+                    "end": 21.462,
+                    "score": 0.465
+                }
+            ]
+        },
+        {
+            "start": 22.842,
+            "end": 25.803,
+            "text": "If I invent a time machine,",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 22.842,
+                    "end": 22.942,
+                    "score": 0.881
+                },
+                {
+                    "word": "I",
+                    "start": 23.202,
+                    "end": 23.342,
+                    "score": 0.829
+                },
+                {
+                    "word": "invent",
+                    "start": 24.322,
+                    "end": 24.762,
+                    "score": 0.848
+                },
+                {
+                    "word": "a",
+                    "start": 25.103,
+                    "end": 25.143,
+                    "score": 0.96
+                },
+                {
+                    "word": "time",
+                    "start": 25.203,
+                    "end": 25.483,
+                    "score": 0.926
+                },
+                {
+                    "word": "machine,",
+                    "start": 25.503,
+                    "end": 25.803,
+                    "score": 0.843
+                }
+            ]
+        },
+        {
+            "start": 27.804,
+            "end": 37.532,
+            "text": " I want to go to the future and see lotto numbers and I want to be rich.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 27.804,
+                    "end": 27.864,
+                    "score": 0.951
+                },
+                {
+                    "word": "want",
+                    "start": 27.904,
+                    "end": 28.104,
+                    "score": 0.82
+                },
+                {
+                    "word": "to",
+                    "start": 28.144,
+                    "end": 28.244,
+                    "score": 0.588
+                },
+                {
+                    "word": "go",
+                    "start": 28.284,
+                    "end": 28.524,
+                    "score": 0.816
+                },
+                {
+                    "word": "to",
+                    "start": 28.544,
+                    "end": 28.584,
+                    "score": 0.002
+                },
+                {
+                    "word": "the",
+                    "start": 29.165,
+                    "end": 29.225,
+                    "score": 0.924
+                },
+                {
+                    "word": "future",
+                    "start": 29.305,
+                    "end": 30.086,
+                    "score": 0.796
+                },
+                {
+                    "word": "and",
+                    "start": 30.106,
+                    "end": 30.166,
+                    "score": 0.002
+                },
+                {
+                    "word": "see",
+                    "start": 31.247,
+                    "end": 31.587,
+                    "score": 0.956
+                },
+                {
+                    "word": "lotto",
+                    "start": 32.167,
+                    "end": 32.768,
+                    "score": 0.881
+                },
+                {
+                    "word": "numbers",
+                    "start": 34.029,
+                    "end": 34.569,
+                    "score": 0.919
+                },
+                {
+                    "word": "and",
+                    "start": 35.01,
+                    "end": 35.15,
+                    "score": 0.856
+                },
+                {
+                    "word": "I",
+                    "start": 35.17,
+                    "end": 35.19,
+                    "score": 0.001
+                },
+                {
+                    "word": "want",
+                    "start": 36.611,
+                    "end": 36.791,
+                    "score": 0.399
+                },
+                {
+                    "word": "to",
+                    "start": 36.811,
+                    "end": 36.851,
+                    "score": 0.002
+                },
+                {
+                    "word": "be",
+                    "start": 36.871,
+                    "end": 37.111,
+                    "score": 0.856
+                },
+                {
+                    "word": "rich.",
+                    "start": 37.292,
+                    "end": 37.532,
+                    "score": 0.971
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 1.396,
+            "end": 1.516,
+            "score": 0.769
+        },
+        {
+            "word": "movie",
+            "start": 1.556,
+            "end": 1.876,
+            "score": 0.813
+        },
+        {
+            "word": "that",
+            "start": 1.916,
+            "end": 2.036,
+            "score": 0.864
+        },
+        {
+            "word": "I",
+            "start": 2.116,
+            "end": 2.196,
+            "score": 0.91
+        },
+        {
+            "word": "like",
+            "start": 2.277,
+            "end": 2.577,
+            "score": 0.926
+        },
+        {
+            "word": "is",
+            "start": 2.777,
+            "end": 2.897,
+            "score": 0.617
+        },
+        {
+            "word": "the",
+            "start": 3.037,
+            "end": 3.177,
+            "score": 0.983
+        },
+        {
+            "word": "Back",
+            "start": 3.277,
+            "end": 3.497,
+            "score": 0.94
+        },
+        {
+            "word": "to",
+            "start": 3.537,
+            "end": 3.657,
+            "score": 0.883
+        },
+        {
+            "word": "the",
+            "start": 3.697,
+            "end": 3.757,
+            "score": 0.963
+        },
+        {
+            "word": "Future",
+            "start": 3.837,
+            "end": 4.377,
+            "score": 0.504
+        },
+        {
+            "word": "because",
+            "start": 5.797,
+            "end": 6.138,
+            "score": 0.879
+        },
+        {
+            "word": "I",
+            "start": 6.258,
+            "end": 6.318,
+            "score": 0.889
+        },
+        {
+            "word": "like",
+            "start": 6.358,
+            "end": 6.618,
+            "score": 0.887
+        },
+        {
+            "word": "science",
+            "start": 7.418,
+            "end": 7.898,
+            "score": 0.866
+        },
+        {
+            "word": "fiction.",
+            "start": 8.038,
+            "end": 8.538,
+            "score": 0.915
+        },
+        {
+            "word": "In",
+            "start": 9.138,
+            "end": 9.218,
+            "score": 0.839
+        },
+        {
+            "word": "the",
+            "start": 9.238,
+            "end": 9.318,
+            "score": 0.825
+        },
+        {
+            "word": "Back",
+            "start": 9.358,
+            "end": 9.558,
+            "score": 0.922
+        },
+        {
+            "word": "to",
+            "start": 9.578,
+            "end": 9.698,
+            "score": 0.694
+        },
+        {
+            "word": "the",
+            "start": 9.718,
+            "end": 9.779,
+            "score": 0.959
+        },
+        {
+            "word": "Future,",
+            "start": 9.839,
+            "end": 10.279,
+            "score": 0.89
+        },
+        {
+            "word": "the",
+            "start": 10.299,
+            "end": 10.359,
+            "score": 0.001
+        },
+        {
+            "word": "scientist",
+            "start": 12.919,
+            "end": 13.519,
+            "score": 0.902
+        },
+        {
+            "word": "and",
+            "start": 13.68,
+            "end": 13.82,
+            "score": 0.748
+        },
+        {
+            "word": "the",
+            "start": 13.88,
+            "end": 13.96,
+            "score": 0.986
+        },
+        {
+            "word": "boy",
+            "start": 14.04,
+            "end": 14.42,
+            "score": 0.544
+        },
+        {
+            "word": "go",
+            "start": 15.3,
+            "end": 15.54,
+            "score": 0.916
+        },
+        {
+            "word": "to",
+            "start": 15.66,
+            "end": 16.0,
+            "score": 0.843
+        },
+        {
+            "word": "the",
+            "start": 16.02,
+            "end": 16.08,
+            "score": 0.0
+        },
+        {
+            "word": "future",
+            "start": 16.34,
+            "end": 16.8,
+            "score": 0.818
+        },
+        {
+            "word": "or",
+            "start": 16.94,
+            "end": 17.06,
+            "score": 0.553
+        },
+        {
+            "word": "passed",
+            "start": 17.18,
+            "end": 17.561,
+            "score": 0.598
+        },
+        {
+            "word": "with",
+            "start": 17.861,
+            "end": 18.081,
+            "score": 0.875
+        },
+        {
+            "word": "the",
+            "start": 18.241,
+            "end": 18.601,
+            "score": 0.881
+        },
+        {
+            "word": "time",
+            "start": 19.721,
+            "end": 20.001,
+            "score": 0.917
+        },
+        {
+            "word": "machine",
+            "start": 20.041,
+            "end": 20.501,
+            "score": 0.791
+        },
+        {
+            "word": "as",
+            "start": 20.861,
+            "end": 20.961,
+            "score": 0.93
+        },
+        {
+            "word": "a",
+            "start": 21.061,
+            "end": 21.101,
+            "score": 0.59
+        },
+        {
+            "word": "car.",
+            "start": 21.142,
+            "end": 21.462,
+            "score": 0.465
+        },
+        {
+            "word": "If",
+            "start": 22.842,
+            "end": 22.942,
+            "score": 0.881
+        },
+        {
+            "word": "I",
+            "start": 23.202,
+            "end": 23.342,
+            "score": 0.829
+        },
+        {
+            "word": "invent",
+            "start": 24.322,
+            "end": 24.762,
+            "score": 0.848
+        },
+        {
+            "word": "a",
+            "start": 25.103,
+            "end": 25.143,
+            "score": 0.96
+        },
+        {
+            "word": "time",
+            "start": 25.203,
+            "end": 25.483,
+            "score": 0.926
+        },
+        {
+            "word": "machine,",
+            "start": 25.503,
+            "end": 25.803,
+            "score": 0.843
+        },
+        {
+            "word": "I",
+            "start": 27.804,
+            "end": 27.864,
+            "score": 0.951
+        },
+        {
+            "word": "want",
+            "start": 27.904,
+            "end": 28.104,
+            "score": 0.82
+        },
+        {
+            "word": "to",
+            "start": 28.144,
+            "end": 28.244,
+            "score": 0.588
+        },
+        {
+            "word": "go",
+            "start": 28.284,
+            "end": 28.524,
+            "score": 0.816
+        },
+        {
+            "word": "to",
+            "start": 28.544,
+            "end": 28.584,
+            "score": 0.002
+        },
+        {
+            "word": "the",
+            "start": 29.165,
+            "end": 29.225,
+            "score": 0.924
+        },
+        {
+            "word": "future",
+            "start": 29.305,
+            "end": 30.086,
+            "score": 0.796
+        },
+        {
+            "word": "and",
+            "start": 30.106,
+            "end": 30.166,
+            "score": 0.002
+        },
+        {
+            "word": "see",
+            "start": 31.247,
+            "end": 31.587,
+            "score": 0.956
+        },
+        {
+            "word": "lotto",
+            "start": 32.167,
+            "end": 32.768,
+            "score": 0.881
+        },
+        {
+            "word": "numbers",
+            "start": 34.029,
+            "end": 34.569,
+            "score": 0.919
+        },
+        {
+            "word": "and",
+            "start": 35.01,
+            "end": 35.15,
+            "score": 0.856
+        },
+        {
+            "word": "I",
+            "start": 35.17,
+            "end": 35.19,
+            "score": 0.001
+        },
+        {
+            "word": "want",
+            "start": 36.611,
+            "end": 36.791,
+            "score": 0.399
+        },
+        {
+            "word": "to",
+            "start": 36.811,
+            "end": 36.851,
+            "score": 0.002
+        },
+        {
+            "word": "be",
+            "start": 36.871,
+            "end": 37.111,
+            "score": 0.856
+        },
+        {
+            "word": "rich.",
+            "start": 37.292,
+            "end": 37.532,
+            "score": 0.971
+        }
+    ]
+}

@@ -1,0 +1,1731 @@
+{
+    "segments": [
+        {
+            "start": 0.389,
+            "end": 24.802,
+            "text": " The weather in San Francisco this week almost gonna be cloudy with a little sun but I really recommend you that you wear light jackets and do not use the highway rules it might be raining during the during the week especially from Monday up to Wednesday Monday Tuesday and Wednesday",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 0.389,
+                    "end": 0.489,
+                    "score": 0.75
+                },
+                {
+                    "word": "weather",
+                    "start": 0.509,
+                    "end": 0.669,
+                    "score": 0.374
+                },
+                {
+                    "word": "in",
+                    "start": 0.709,
+                    "end": 0.789,
+                    "score": 0.347
+                },
+                {
+                    "word": "San",
+                    "start": 0.809,
+                    "end": 0.99,
+                    "score": 0.917
+                },
+                {
+                    "word": "Francisco",
+                    "start": 1.01,
+                    "end": 1.47,
+                    "score": 0.745
+                },
+                {
+                    "word": "this",
+                    "start": 1.49,
+                    "end": 1.59,
+                    "score": 0.338
+                },
+                {
+                    "word": "week",
+                    "start": 1.63,
+                    "end": 1.85,
+                    "score": 0.793
+                },
+                {
+                    "word": "almost",
+                    "start": 2.01,
+                    "end": 2.27,
+                    "score": 0.862
+                },
+                {
+                    "word": "gonna",
+                    "start": 2.31,
+                    "end": 2.53,
+                    "score": 0.52
+                },
+                {
+                    "word": "be",
+                    "start": 2.55,
+                    "end": 2.71,
+                    "score": 0.866
+                },
+                {
+                    "word": "cloudy",
+                    "start": 2.81,
+                    "end": 3.371,
+                    "score": 0.925
+                },
+                {
+                    "word": "with",
+                    "start": 3.711,
+                    "end": 3.851,
+                    "score": 0.91
+                },
+                {
+                    "word": "a",
+                    "start": 3.931,
+                    "end": 3.971,
+                    "score": 0.76
+                },
+                {
+                    "word": "little",
+                    "start": 4.011,
+                    "end": 4.311,
+                    "score": 0.881
+                },
+                {
+                    "word": "sun",
+                    "start": 4.411,
+                    "end": 4.711,
+                    "score": 0.769
+                },
+                {
+                    "word": "but",
+                    "start": 5.632,
+                    "end": 5.812,
+                    "score": 0.847
+                },
+                {
+                    "word": "I",
+                    "start": 6.332,
+                    "end": 6.432,
+                    "score": 0.813
+                },
+                {
+                    "word": "really",
+                    "start": 6.532,
+                    "end": 6.772,
+                    "score": 0.831
+                },
+                {
+                    "word": "recommend",
+                    "start": 6.793,
+                    "end": 7.173,
+                    "score": 0.674
+                },
+                {
+                    "word": "you",
+                    "start": 7.233,
+                    "end": 7.393,
+                    "score": 0.914
+                },
+                {
+                    "word": "that",
+                    "start": 7.453,
+                    "end": 7.713,
+                    "score": 0.852
+                },
+                {
+                    "word": "you",
+                    "start": 7.733,
+                    "end": 8.093,
+                    "score": 0.464
+                },
+                {
+                    "word": "wear",
+                    "start": 9.474,
+                    "end": 10.154,
+                    "score": 0.668
+                },
+                {
+                    "word": "light",
+                    "start": 10.815,
+                    "end": 11.055,
+                    "score": 0.926
+                },
+                {
+                    "word": "jackets",
+                    "start": 11.115,
+                    "end": 11.595,
+                    "score": 0.959
+                },
+                {
+                    "word": "and",
+                    "start": 12.215,
+                    "end": 12.375,
+                    "score": 0.696
+                },
+                {
+                    "word": "do",
+                    "start": 12.696,
+                    "end": 12.816,
+                    "score": 0.726
+                },
+                {
+                    "word": "not",
+                    "start": 12.856,
+                    "end": 13.016,
+                    "score": 0.969
+                },
+                {
+                    "word": "use",
+                    "start": 13.196,
+                    "end": 13.376,
+                    "score": 0.787
+                },
+                {
+                    "word": "the",
+                    "start": 13.416,
+                    "end": 13.516,
+                    "score": 0.756
+                },
+                {
+                    "word": "highway",
+                    "start": 13.576,
+                    "end": 13.936,
+                    "score": 0.961
+                },
+                {
+                    "word": "rules",
+                    "start": 13.996,
+                    "end": 14.577,
+                    "score": 0.61
+                },
+                {
+                    "word": "it",
+                    "start": 14.957,
+                    "end": 15.037,
+                    "score": 0.754
+                },
+                {
+                    "word": "might",
+                    "start": 15.137,
+                    "end": 15.397,
+                    "score": 0.907
+                },
+                {
+                    "word": "be",
+                    "start": 15.457,
+                    "end": 15.557,
+                    "score": 0.856
+                },
+                {
+                    "word": "raining",
+                    "start": 15.637,
+                    "end": 16.037,
+                    "score": 0.829
+                },
+                {
+                    "word": "during",
+                    "start": 16.798,
+                    "end": 17.178,
+                    "score": 0.872
+                },
+                {
+                    "word": "the",
+                    "start": 17.278,
+                    "end": 17.558,
+                    "score": 0.84
+                },
+                {
+                    "word": "during",
+                    "start": 18.539,
+                    "end": 18.759,
+                    "score": 0.839
+                },
+                {
+                    "word": "the",
+                    "start": 18.799,
+                    "end": 18.899,
+                    "score": 0.845
+                },
+                {
+                    "word": "week",
+                    "start": 18.919,
+                    "end": 19.159,
+                    "score": 0.909
+                },
+                {
+                    "word": "especially",
+                    "start": 19.339,
+                    "end": 19.719,
+                    "score": 0.816
+                },
+                {
+                    "word": "from",
+                    "start": 19.759,
+                    "end": 19.899,
+                    "score": 0.724
+                },
+                {
+                    "word": "Monday",
+                    "start": 19.939,
+                    "end": 20.38,
+                    "score": 0.803
+                },
+                {
+                    "word": "up",
+                    "start": 21.06,
+                    "end": 21.16,
+                    "score": 0.89
+                },
+                {
+                    "word": "to",
+                    "start": 21.24,
+                    "end": 21.58,
+                    "score": 0.858
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 21.96,
+                    "end": 22.441,
+                    "score": 0.769
+                },
+                {
+                    "word": "Monday",
+                    "start": 23.521,
+                    "end": 23.821,
+                    "score": 0.765
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 23.861,
+                    "end": 24.181,
+                    "score": 0.798
+                },
+                {
+                    "word": "and",
+                    "start": 24.202,
+                    "end": 24.382,
+                    "score": 0.389
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 24.422,
+                    "end": 24.802,
+                    "score": 0.592
+                }
+            ]
+        },
+        {
+            "start": 25.482,
+            "end": 53.315,
+            "text": " so the rest of the week like Thursday and Friday it's gonna be cloudy but there is no possibility of rain so I recommend if you're planning for your weekend start from Friday because the weather is gonna be really nice but people who's traveling from Chicago to San Francisco they might be careful because it might rain a lot and the roads gonna be wet so it's gonna be a little bit dangerous for them",
+            "words": [
+                {
+                    "word": "so",
+                    "start": 25.482,
+                    "end": 25.722,
+                    "score": 0.794
+                },
+                {
+                    "word": "the",
+                    "start": 26.162,
+                    "end": 26.242,
+                    "score": 0.792
+                },
+                {
+                    "word": "rest",
+                    "start": 26.283,
+                    "end": 26.403,
+                    "score": 0.862
+                },
+                {
+                    "word": "of",
+                    "start": 26.443,
+                    "end": 26.503,
+                    "score": 0.747
+                },
+                {
+                    "word": "the",
+                    "start": 26.523,
+                    "end": 26.603,
+                    "score": 0.817
+                },
+                {
+                    "word": "week",
+                    "start": 26.643,
+                    "end": 26.843,
+                    "score": 0.801
+                },
+                {
+                    "word": "like",
+                    "start": 26.863,
+                    "end": 27.023,
+                    "score": 0.797
+                },
+                {
+                    "word": "Thursday",
+                    "start": 27.063,
+                    "end": 27.463,
+                    "score": 0.865
+                },
+                {
+                    "word": "and",
+                    "start": 27.523,
+                    "end": 27.643,
+                    "score": 0.41
+                },
+                {
+                    "word": "Friday",
+                    "start": 27.703,
+                    "end": 28.083,
+                    "score": 0.937
+                },
+                {
+                    "word": "it's",
+                    "start": 28.103,
+                    "end": 28.283,
+                    "score": 0.29
+                },
+                {
+                    "word": "gonna",
+                    "start": 28.303,
+                    "end": 28.423,
+                    "score": 0.176
+                },
+                {
+                    "word": "be",
+                    "start": 28.443,
+                    "end": 28.564,
+                    "score": 0.798
+                },
+                {
+                    "word": "cloudy",
+                    "start": 28.584,
+                    "end": 29.004,
+                    "score": 0.896
+                },
+                {
+                    "word": "but",
+                    "start": 29.064,
+                    "end": 29.344,
+                    "score": 0.846
+                },
+                {
+                    "word": "there",
+                    "start": 29.884,
+                    "end": 30.024,
+                    "score": 0.925
+                },
+                {
+                    "word": "is",
+                    "start": 30.064,
+                    "end": 30.124,
+                    "score": 0.522
+                },
+                {
+                    "word": "no",
+                    "start": 30.164,
+                    "end": 30.284,
+                    "score": 0.675
+                },
+                {
+                    "word": "possibility",
+                    "start": 30.324,
+                    "end": 30.965,
+                    "score": 0.898
+                },
+                {
+                    "word": "of",
+                    "start": 31.145,
+                    "end": 31.225,
+                    "score": 0.865
+                },
+                {
+                    "word": "rain",
+                    "start": 31.365,
+                    "end": 31.645,
+                    "score": 0.817
+                },
+                {
+                    "word": "so",
+                    "start": 32.225,
+                    "end": 32.445,
+                    "score": 0.899
+                },
+                {
+                    "word": "I",
+                    "start": 32.585,
+                    "end": 32.665,
+                    "score": 0.736
+                },
+                {
+                    "word": "recommend",
+                    "start": 32.705,
+                    "end": 33.186,
+                    "score": 0.884
+                },
+                {
+                    "word": "if",
+                    "start": 33.726,
+                    "end": 33.786,
+                    "score": 0.992
+                },
+                {
+                    "word": "you're",
+                    "start": 33.826,
+                    "end": 34.026,
+                    "score": 0.77
+                },
+                {
+                    "word": "planning",
+                    "start": 34.046,
+                    "end": 34.426,
+                    "score": 0.851
+                },
+                {
+                    "word": "for",
+                    "start": 34.846,
+                    "end": 35.026,
+                    "score": 0.819
+                },
+                {
+                    "word": "your",
+                    "start": 35.327,
+                    "end": 36.027,
+                    "score": 0.354
+                },
+                {
+                    "word": "weekend",
+                    "start": 36.067,
+                    "end": 36.507,
+                    "score": 0.748
+                },
+                {
+                    "word": "start",
+                    "start": 36.947,
+                    "end": 37.248,
+                    "score": 0.864
+                },
+                {
+                    "word": "from",
+                    "start": 37.268,
+                    "end": 37.468,
+                    "score": 0.887
+                },
+                {
+                    "word": "Friday",
+                    "start": 37.568,
+                    "end": 38.008,
+                    "score": 0.763
+                },
+                {
+                    "word": "because",
+                    "start": 38.308,
+                    "end": 38.568,
+                    "score": 0.907
+                },
+                {
+                    "word": "the",
+                    "start": 39.108,
+                    "end": 39.208,
+                    "score": 0.96
+                },
+                {
+                    "word": "weather",
+                    "start": 39.228,
+                    "end": 39.449,
+                    "score": 0.725
+                },
+                {
+                    "word": "is",
+                    "start": 39.489,
+                    "end": 39.549,
+                    "score": 0.516
+                },
+                {
+                    "word": "gonna",
+                    "start": 39.589,
+                    "end": 39.769,
+                    "score": 0.554
+                },
+                {
+                    "word": "be",
+                    "start": 39.809,
+                    "end": 39.909,
+                    "score": 0.961
+                },
+                {
+                    "word": "really",
+                    "start": 39.969,
+                    "end": 40.189,
+                    "score": 0.853
+                },
+                {
+                    "word": "nice",
+                    "start": 40.229,
+                    "end": 40.509,
+                    "score": 0.863
+                },
+                {
+                    "word": "but",
+                    "start": 41.189,
+                    "end": 41.349,
+                    "score": 0.877
+                },
+                {
+                    "word": "people",
+                    "start": 41.409,
+                    "end": 41.65,
+                    "score": 0.786
+                },
+                {
+                    "word": "who's",
+                    "start": 41.69,
+                    "end": 41.91,
+                    "score": 0.75
+                },
+                {
+                    "word": "traveling",
+                    "start": 41.95,
+                    "end": 42.43,
+                    "score": 0.84
+                },
+                {
+                    "word": "from",
+                    "start": 42.85,
+                    "end": 43.13,
+                    "score": 0.83
+                },
+                {
+                    "word": "Chicago",
+                    "start": 44.591,
+                    "end": 45.111,
+                    "score": 0.804
+                },
+                {
+                    "word": "to",
+                    "start": 45.151,
+                    "end": 45.231,
+                    "score": 0.51
+                },
+                {
+                    "word": "San",
+                    "start": 45.251,
+                    "end": 45.471,
+                    "score": 0.805
+                },
+                {
+                    "word": "Francisco",
+                    "start": 45.511,
+                    "end": 46.112,
+                    "score": 0.834
+                },
+                {
+                    "word": "they",
+                    "start": 46.412,
+                    "end": 46.552,
+                    "score": 0.77
+                },
+                {
+                    "word": "might",
+                    "start": 46.572,
+                    "end": 46.732,
+                    "score": 0.695
+                },
+                {
+                    "word": "be",
+                    "start": 46.752,
+                    "end": 46.832,
+                    "score": 0.906
+                },
+                {
+                    "word": "careful",
+                    "start": 46.932,
+                    "end": 47.372,
+                    "score": 0.878
+                },
+                {
+                    "word": "because",
+                    "start": 47.812,
+                    "end": 48.132,
+                    "score": 0.881
+                },
+                {
+                    "word": "it",
+                    "start": 48.353,
+                    "end": 48.453,
+                    "score": 0.681
+                },
+                {
+                    "word": "might",
+                    "start": 48.533,
+                    "end": 48.753,
+                    "score": 0.902
+                },
+                {
+                    "word": "rain",
+                    "start": 48.833,
+                    "end": 49.053,
+                    "score": 0.816
+                },
+                {
+                    "word": "a",
+                    "start": 49.073,
+                    "end": 49.113,
+                    "score": 0.555
+                },
+                {
+                    "word": "lot",
+                    "start": 49.153,
+                    "end": 49.393,
+                    "score": 0.88
+                },
+                {
+                    "word": "and",
+                    "start": 49.713,
+                    "end": 49.833,
+                    "score": 0.67
+                },
+                {
+                    "word": "the",
+                    "start": 49.853,
+                    "end": 49.953,
+                    "score": 0.912
+                },
+                {
+                    "word": "roads",
+                    "start": 49.973,
+                    "end": 50.153,
+                    "score": 0.715
+                },
+                {
+                    "word": "gonna",
+                    "start": 50.173,
+                    "end": 50.353,
+                    "score": 0.541
+                },
+                {
+                    "word": "be",
+                    "start": 50.393,
+                    "end": 50.534,
+                    "score": 0.988
+                },
+                {
+                    "word": "wet",
+                    "start": 50.574,
+                    "end": 50.794,
+                    "score": 0.698
+                },
+                {
+                    "word": "so",
+                    "start": 51.114,
+                    "end": 51.314,
+                    "score": 0.996
+                },
+                {
+                    "word": "it's",
+                    "start": 51.354,
+                    "end": 51.434,
+                    "score": 0.195
+                },
+                {
+                    "word": "gonna",
+                    "start": 51.574,
+                    "end": 51.774,
+                    "score": 0.5
+                },
+                {
+                    "word": "be",
+                    "start": 51.794,
+                    "end": 51.894,
+                    "score": 0.87
+                },
+                {
+                    "word": "a",
+                    "start": 51.934,
+                    "end": 51.954,
+                    "score": 0.982
+                },
+                {
+                    "word": "little",
+                    "start": 51.994,
+                    "end": 52.234,
+                    "score": 0.845
+                },
+                {
+                    "word": "bit",
+                    "start": 52.254,
+                    "end": 52.414,
+                    "score": 0.776
+                },
+                {
+                    "word": "dangerous",
+                    "start": 52.454,
+                    "end": 52.935,
+                    "score": 0.833
+                },
+                {
+                    "word": "for",
+                    "start": 52.975,
+                    "end": 53.155,
+                    "score": 0.824
+                },
+                {
+                    "word": "them",
+                    "start": 53.195,
+                    "end": 53.315,
+                    "score": 0.939
+                }
+            ]
+        },
+        {
+            "start": 54.117,
+            "end": 58.697,
+            "text": " So slow down that and the degree is going to be a little bit colder",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 54.117,
+                    "end": 54.418,
+                    "score": 0.896
+                },
+                {
+                    "word": "slow",
+                    "start": 54.84,
+                    "end": 55.121,
+                    "score": 0.925
+                },
+                {
+                    "word": "down",
+                    "start": 55.141,
+                    "end": 55.422,
+                    "score": 0.698
+                },
+                {
+                    "word": "that",
+                    "start": 55.945,
+                    "end": 56.166,
+                    "score": 0.885
+                },
+                {
+                    "word": "and",
+                    "start": 56.608,
+                    "end": 56.708,
+                    "score": 0.688
+                },
+                {
+                    "word": "the",
+                    "start": 56.728,
+                    "end": 56.788,
+                    "score": 0.792
+                },
+                {
+                    "word": "degree",
+                    "start": 56.829,
+                    "end": 57.049,
+                    "score": 0.821
+                },
+                {
+                    "word": "is",
+                    "start": 57.09,
+                    "end": 57.15,
+                    "score": 0.66
+                },
+                {
+                    "word": "going",
+                    "start": 57.17,
+                    "end": 57.311,
+                    "score": 0.668
+                },
+                {
+                    "word": "to",
+                    "start": 57.351,
+                    "end": 57.411,
+                    "score": 0.668
+                },
+                {
+                    "word": "be",
+                    "start": 57.451,
+                    "end": 57.632,
+                    "score": 0.878
+                },
+                {
+                    "word": "a",
+                    "start": 57.652,
+                    "end": 57.672,
+                    "score": 0.156
+                },
+                {
+                    "word": "little",
+                    "start": 57.712,
+                    "end": 57.893,
+                    "score": 0.81
+                },
+                {
+                    "word": "bit",
+                    "start": 57.913,
+                    "end": 58.094,
+                    "score": 0.762
+                },
+                {
+                    "word": "colder",
+                    "start": 58.375,
+                    "end": 58.697,
+                    "score": 0.5
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "The",
+            "start": 0.389,
+            "end": 0.489,
+            "score": 0.75
+        },
+        {
+            "word": "weather",
+            "start": 0.509,
+            "end": 0.669,
+            "score": 0.374
+        },
+        {
+            "word": "in",
+            "start": 0.709,
+            "end": 0.789,
+            "score": 0.347
+        },
+        {
+            "word": "San",
+            "start": 0.809,
+            "end": 0.99,
+            "score": 0.917
+        },
+        {
+            "word": "Francisco",
+            "start": 1.01,
+            "end": 1.47,
+            "score": 0.745
+        },
+        {
+            "word": "this",
+            "start": 1.49,
+            "end": 1.59,
+            "score": 0.338
+        },
+        {
+            "word": "week",
+            "start": 1.63,
+            "end": 1.85,
+            "score": 0.793
+        },
+        {
+            "word": "almost",
+            "start": 2.01,
+            "end": 2.27,
+            "score": 0.862
+        },
+        {
+            "word": "gonna",
+            "start": 2.31,
+            "end": 2.53,
+            "score": 0.52
+        },
+        {
+            "word": "be",
+            "start": 2.55,
+            "end": 2.71,
+            "score": 0.866
+        },
+        {
+            "word": "cloudy",
+            "start": 2.81,
+            "end": 3.371,
+            "score": 0.925
+        },
+        {
+            "word": "with",
+            "start": 3.711,
+            "end": 3.851,
+            "score": 0.91
+        },
+        {
+            "word": "a",
+            "start": 3.931,
+            "end": 3.971,
+            "score": 0.76
+        },
+        {
+            "word": "little",
+            "start": 4.011,
+            "end": 4.311,
+            "score": 0.881
+        },
+        {
+            "word": "sun",
+            "start": 4.411,
+            "end": 4.711,
+            "score": 0.769
+        },
+        {
+            "word": "but",
+            "start": 5.632,
+            "end": 5.812,
+            "score": 0.847
+        },
+        {
+            "word": "I",
+            "start": 6.332,
+            "end": 6.432,
+            "score": 0.813
+        },
+        {
+            "word": "really",
+            "start": 6.532,
+            "end": 6.772,
+            "score": 0.831
+        },
+        {
+            "word": "recommend",
+            "start": 6.793,
+            "end": 7.173,
+            "score": 0.674
+        },
+        {
+            "word": "you",
+            "start": 7.233,
+            "end": 7.393,
+            "score": 0.914
+        },
+        {
+            "word": "that",
+            "start": 7.453,
+            "end": 7.713,
+            "score": 0.852
+        },
+        {
+            "word": "you",
+            "start": 7.733,
+            "end": 8.093,
+            "score": 0.464
+        },
+        {
+            "word": "wear",
+            "start": 9.474,
+            "end": 10.154,
+            "score": 0.668
+        },
+        {
+            "word": "light",
+            "start": 10.815,
+            "end": 11.055,
+            "score": 0.926
+        },
+        {
+            "word": "jackets",
+            "start": 11.115,
+            "end": 11.595,
+            "score": 0.959
+        },
+        {
+            "word": "and",
+            "start": 12.215,
+            "end": 12.375,
+            "score": 0.696
+        },
+        {
+            "word": "do",
+            "start": 12.696,
+            "end": 12.816,
+            "score": 0.726
+        },
+        {
+            "word": "not",
+            "start": 12.856,
+            "end": 13.016,
+            "score": 0.969
+        },
+        {
+            "word": "use",
+            "start": 13.196,
+            "end": 13.376,
+            "score": 0.787
+        },
+        {
+            "word": "the",
+            "start": 13.416,
+            "end": 13.516,
+            "score": 0.756
+        },
+        {
+            "word": "highway",
+            "start": 13.576,
+            "end": 13.936,
+            "score": 0.961
+        },
+        {
+            "word": "rules",
+            "start": 13.996,
+            "end": 14.577,
+            "score": 0.61
+        },
+        {
+            "word": "it",
+            "start": 14.957,
+            "end": 15.037,
+            "score": 0.754
+        },
+        {
+            "word": "might",
+            "start": 15.137,
+            "end": 15.397,
+            "score": 0.907
+        },
+        {
+            "word": "be",
+            "start": 15.457,
+            "end": 15.557,
+            "score": 0.856
+        },
+        {
+            "word": "raining",
+            "start": 15.637,
+            "end": 16.037,
+            "score": 0.829
+        },
+        {
+            "word": "during",
+            "start": 16.798,
+            "end": 17.178,
+            "score": 0.872
+        },
+        {
+            "word": "the",
+            "start": 17.278,
+            "end": 17.558,
+            "score": 0.84
+        },
+        {
+            "word": "during",
+            "start": 18.539,
+            "end": 18.759,
+            "score": 0.839
+        },
+        {
+            "word": "the",
+            "start": 18.799,
+            "end": 18.899,
+            "score": 0.845
+        },
+        {
+            "word": "week",
+            "start": 18.919,
+            "end": 19.159,
+            "score": 0.909
+        },
+        {
+            "word": "especially",
+            "start": 19.339,
+            "end": 19.719,
+            "score": 0.816
+        },
+        {
+            "word": "from",
+            "start": 19.759,
+            "end": 19.899,
+            "score": 0.724
+        },
+        {
+            "word": "Monday",
+            "start": 19.939,
+            "end": 20.38,
+            "score": 0.803
+        },
+        {
+            "word": "up",
+            "start": 21.06,
+            "end": 21.16,
+            "score": 0.89
+        },
+        {
+            "word": "to",
+            "start": 21.24,
+            "end": 21.58,
+            "score": 0.858
+        },
+        {
+            "word": "Wednesday",
+            "start": 21.96,
+            "end": 22.441,
+            "score": 0.769
+        },
+        {
+            "word": "Monday",
+            "start": 23.521,
+            "end": 23.821,
+            "score": 0.765
+        },
+        {
+            "word": "Tuesday",
+            "start": 23.861,
+            "end": 24.181,
+            "score": 0.798
+        },
+        {
+            "word": "and",
+            "start": 24.202,
+            "end": 24.382,
+            "score": 0.389
+        },
+        {
+            "word": "Wednesday",
+            "start": 24.422,
+            "end": 24.802,
+            "score": 0.592
+        },
+        {
+            "word": "so",
+            "start": 25.482,
+            "end": 25.722,
+            "score": 0.794
+        },
+        {
+            "word": "the",
+            "start": 26.162,
+            "end": 26.242,
+            "score": 0.792
+        },
+        {
+            "word": "rest",
+            "start": 26.283,
+            "end": 26.403,
+            "score": 0.862
+        },
+        {
+            "word": "of",
+            "start": 26.443,
+            "end": 26.503,
+            "score": 0.747
+        },
+        {
+            "word": "the",
+            "start": 26.523,
+            "end": 26.603,
+            "score": 0.817
+        },
+        {
+            "word": "week",
+            "start": 26.643,
+            "end": 26.843,
+            "score": 0.801
+        },
+        {
+            "word": "like",
+            "start": 26.863,
+            "end": 27.023,
+            "score": 0.797
+        },
+        {
+            "word": "Thursday",
+            "start": 27.063,
+            "end": 27.463,
+            "score": 0.865
+        },
+        {
+            "word": "and",
+            "start": 27.523,
+            "end": 27.643,
+            "score": 0.41
+        },
+        {
+            "word": "Friday",
+            "start": 27.703,
+            "end": 28.083,
+            "score": 0.937
+        },
+        {
+            "word": "it's",
+            "start": 28.103,
+            "end": 28.283,
+            "score": 0.29
+        },
+        {
+            "word": "gonna",
+            "start": 28.303,
+            "end": 28.423,
+            "score": 0.176
+        },
+        {
+            "word": "be",
+            "start": 28.443,
+            "end": 28.564,
+            "score": 0.798
+        },
+        {
+            "word": "cloudy",
+            "start": 28.584,
+            "end": 29.004,
+            "score": 0.896
+        },
+        {
+            "word": "but",
+            "start": 29.064,
+            "end": 29.344,
+            "score": 0.846
+        },
+        {
+            "word": "there",
+            "start": 29.884,
+            "end": 30.024,
+            "score": 0.925
+        },
+        {
+            "word": "is",
+            "start": 30.064,
+            "end": 30.124,
+            "score": 0.522
+        },
+        {
+            "word": "no",
+            "start": 30.164,
+            "end": 30.284,
+            "score": 0.675
+        },
+        {
+            "word": "possibility",
+            "start": 30.324,
+            "end": 30.965,
+            "score": 0.898
+        },
+        {
+            "word": "of",
+            "start": 31.145,
+            "end": 31.225,
+            "score": 0.865
+        },
+        {
+            "word": "rain",
+            "start": 31.365,
+            "end": 31.645,
+            "score": 0.817
+        },
+        {
+            "word": "so",
+            "start": 32.225,
+            "end": 32.445,
+            "score": 0.899
+        },
+        {
+            "word": "I",
+            "start": 32.585,
+            "end": 32.665,
+            "score": 0.736
+        },
+        {
+            "word": "recommend",
+            "start": 32.705,
+            "end": 33.186,
+            "score": 0.884
+        },
+        {
+            "word": "if",
+            "start": 33.726,
+            "end": 33.786,
+            "score": 0.992
+        },
+        {
+            "word": "you're",
+            "start": 33.826,
+            "end": 34.026,
+            "score": 0.77
+        },
+        {
+            "word": "planning",
+            "start": 34.046,
+            "end": 34.426,
+            "score": 0.851
+        },
+        {
+            "word": "for",
+            "start": 34.846,
+            "end": 35.026,
+            "score": 0.819
+        },
+        {
+            "word": "your",
+            "start": 35.327,
+            "end": 36.027,
+            "score": 0.354
+        },
+        {
+            "word": "weekend",
+            "start": 36.067,
+            "end": 36.507,
+            "score": 0.748
+        },
+        {
+            "word": "start",
+            "start": 36.947,
+            "end": 37.248,
+            "score": 0.864
+        },
+        {
+            "word": "from",
+            "start": 37.268,
+            "end": 37.468,
+            "score": 0.887
+        },
+        {
+            "word": "Friday",
+            "start": 37.568,
+            "end": 38.008,
+            "score": 0.763
+        },
+        {
+            "word": "because",
+            "start": 38.308,
+            "end": 38.568,
+            "score": 0.907
+        },
+        {
+            "word": "the",
+            "start": 39.108,
+            "end": 39.208,
+            "score": 0.96
+        },
+        {
+            "word": "weather",
+            "start": 39.228,
+            "end": 39.449,
+            "score": 0.725
+        },
+        {
+            "word": "is",
+            "start": 39.489,
+            "end": 39.549,
+            "score": 0.516
+        },
+        {
+            "word": "gonna",
+            "start": 39.589,
+            "end": 39.769,
+            "score": 0.554
+        },
+        {
+            "word": "be",
+            "start": 39.809,
+            "end": 39.909,
+            "score": 0.961
+        },
+        {
+            "word": "really",
+            "start": 39.969,
+            "end": 40.189,
+            "score": 0.853
+        },
+        {
+            "word": "nice",
+            "start": 40.229,
+            "end": 40.509,
+            "score": 0.863
+        },
+        {
+            "word": "but",
+            "start": 41.189,
+            "end": 41.349,
+            "score": 0.877
+        },
+        {
+            "word": "people",
+            "start": 41.409,
+            "end": 41.65,
+            "score": 0.786
+        },
+        {
+            "word": "who's",
+            "start": 41.69,
+            "end": 41.91,
+            "score": 0.75
+        },
+        {
+            "word": "traveling",
+            "start": 41.95,
+            "end": 42.43,
+            "score": 0.84
+        },
+        {
+            "word": "from",
+            "start": 42.85,
+            "end": 43.13,
+            "score": 0.83
+        },
+        {
+            "word": "Chicago",
+            "start": 44.591,
+            "end": 45.111,
+            "score": 0.804
+        },
+        {
+            "word": "to",
+            "start": 45.151,
+            "end": 45.231,
+            "score": 0.51
+        },
+        {
+            "word": "San",
+            "start": 45.251,
+            "end": 45.471,
+            "score": 0.805
+        },
+        {
+            "word": "Francisco",
+            "start": 45.511,
+            "end": 46.112,
+            "score": 0.834
+        },
+        {
+            "word": "they",
+            "start": 46.412,
+            "end": 46.552,
+            "score": 0.77
+        },
+        {
+            "word": "might",
+            "start": 46.572,
+            "end": 46.732,
+            "score": 0.695
+        },
+        {
+            "word": "be",
+            "start": 46.752,
+            "end": 46.832,
+            "score": 0.906
+        },
+        {
+            "word": "careful",
+            "start": 46.932,
+            "end": 47.372,
+            "score": 0.878
+        },
+        {
+            "word": "because",
+            "start": 47.812,
+            "end": 48.132,
+            "score": 0.881
+        },
+        {
+            "word": "it",
+            "start": 48.353,
+            "end": 48.453,
+            "score": 0.681
+        },
+        {
+            "word": "might",
+            "start": 48.533,
+            "end": 48.753,
+            "score": 0.902
+        },
+        {
+            "word": "rain",
+            "start": 48.833,
+            "end": 49.053,
+            "score": 0.816
+        },
+        {
+            "word": "a",
+            "start": 49.073,
+            "end": 49.113,
+            "score": 0.555
+        },
+        {
+            "word": "lot",
+            "start": 49.153,
+            "end": 49.393,
+            "score": 0.88
+        },
+        {
+            "word": "and",
+            "start": 49.713,
+            "end": 49.833,
+            "score": 0.67
+        },
+        {
+            "word": "the",
+            "start": 49.853,
+            "end": 49.953,
+            "score": 0.912
+        },
+        {
+            "word": "roads",
+            "start": 49.973,
+            "end": 50.153,
+            "score": 0.715
+        },
+        {
+            "word": "gonna",
+            "start": 50.173,
+            "end": 50.353,
+            "score": 0.541
+        },
+        {
+            "word": "be",
+            "start": 50.393,
+            "end": 50.534,
+            "score": 0.988
+        },
+        {
+            "word": "wet",
+            "start": 50.574,
+            "end": 50.794,
+            "score": 0.698
+        },
+        {
+            "word": "so",
+            "start": 51.114,
+            "end": 51.314,
+            "score": 0.996
+        },
+        {
+            "word": "it's",
+            "start": 51.354,
+            "end": 51.434,
+            "score": 0.195
+        },
+        {
+            "word": "gonna",
+            "start": 51.574,
+            "end": 51.774,
+            "score": 0.5
+        },
+        {
+            "word": "be",
+            "start": 51.794,
+            "end": 51.894,
+            "score": 0.87
+        },
+        {
+            "word": "a",
+            "start": 51.934,
+            "end": 51.954,
+            "score": 0.982
+        },
+        {
+            "word": "little",
+            "start": 51.994,
+            "end": 52.234,
+            "score": 0.845
+        },
+        {
+            "word": "bit",
+            "start": 52.254,
+            "end": 52.414,
+            "score": 0.776
+        },
+        {
+            "word": "dangerous",
+            "start": 52.454,
+            "end": 52.935,
+            "score": 0.833
+        },
+        {
+            "word": "for",
+            "start": 52.975,
+            "end": 53.155,
+            "score": 0.824
+        },
+        {
+            "word": "them",
+            "start": 53.195,
+            "end": 53.315,
+            "score": 0.939
+        },
+        {
+            "word": "So",
+            "start": 54.117,
+            "end": 54.418,
+            "score": 0.896
+        },
+        {
+            "word": "slow",
+            "start": 54.84,
+            "end": 55.121,
+            "score": 0.925
+        },
+        {
+            "word": "down",
+            "start": 55.141,
+            "end": 55.422,
+            "score": 0.698
+        },
+        {
+            "word": "that",
+            "start": 55.945,
+            "end": 56.166,
+            "score": 0.885
+        },
+        {
+            "word": "and",
+            "start": 56.608,
+            "end": 56.708,
+            "score": 0.688
+        },
+        {
+            "word": "the",
+            "start": 56.728,
+            "end": 56.788,
+            "score": 0.792
+        },
+        {
+            "word": "degree",
+            "start": 56.829,
+            "end": 57.049,
+            "score": 0.821
+        },
+        {
+            "word": "is",
+            "start": 57.09,
+            "end": 57.15,
+            "score": 0.66
+        },
+        {
+            "word": "going",
+            "start": 57.17,
+            "end": 57.311,
+            "score": 0.668
+        },
+        {
+            "word": "to",
+            "start": 57.351,
+            "end": 57.411,
+            "score": 0.668
+        },
+        {
+            "word": "be",
+            "start": 57.451,
+            "end": 57.632,
+            "score": 0.878
+        },
+        {
+            "word": "a",
+            "start": 57.652,
+            "end": 57.672,
+            "score": 0.156
+        },
+        {
+            "word": "little",
+            "start": 57.712,
+            "end": 57.893,
+            "score": 0.81
+        },
+        {
+            "word": "bit",
+            "start": 57.913,
+            "end": 58.094,
+            "score": 0.762
+        },
+        {
+            "word": "colder",
+            "start": 58.375,
+            "end": 58.697,
+            "score": 0.5
+        }
+    ]
+}

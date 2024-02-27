@@ -1,0 +1,910 @@
+{
+    "segments": [
+        {
+            "start": 0.149,
+            "end": 15.695,
+            "text": " I agree with the statement that some cities want to make no car zones in the city center because the population is very big problem in globally.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.149,
+                    "end": 0.229,
+                    "score": 0.999
+                },
+                {
+                    "word": "agree",
+                    "start": 0.309,
+                    "end": 0.609,
+                    "score": 0.89
+                },
+                {
+                    "word": "with",
+                    "start": 0.649,
+                    "end": 0.789,
+                    "score": 0.812
+                },
+                {
+                    "word": "the",
+                    "start": 0.829,
+                    "end": 0.969,
+                    "score": 0.719
+                },
+                {
+                    "word": "statement",
+                    "start": 0.989,
+                    "end": 1.83,
+                    "score": 0.879
+                },
+                {
+                    "word": "that",
+                    "start": 2.71,
+                    "end": 2.97,
+                    "score": 0.953
+                },
+                {
+                    "word": "some",
+                    "start": 3.09,
+                    "end": 3.29,
+                    "score": 0.924
+                },
+                {
+                    "word": "cities",
+                    "start": 3.33,
+                    "end": 3.67,
+                    "score": 0.798
+                },
+                {
+                    "word": "want",
+                    "start": 3.73,
+                    "end": 3.91,
+                    "score": 0.693
+                },
+                {
+                    "word": "to",
+                    "start": 3.95,
+                    "end": 4.03,
+                    "score": 0.804
+                },
+                {
+                    "word": "make",
+                    "start": 4.07,
+                    "end": 4.291,
+                    "score": 0.909
+                },
+                {
+                    "word": "no",
+                    "start": 4.451,
+                    "end": 4.791,
+                    "score": 0.939
+                },
+                {
+                    "word": "car",
+                    "start": 4.911,
+                    "end": 5.291,
+                    "score": 0.905
+                },
+                {
+                    "word": "zones",
+                    "start": 5.331,
+                    "end": 5.771,
+                    "score": 0.786
+                },
+                {
+                    "word": "in",
+                    "start": 6.011,
+                    "end": 6.091,
+                    "score": 0.862
+                },
+                {
+                    "word": "the",
+                    "start": 6.111,
+                    "end": 6.231,
+                    "score": 0.696
+                },
+                {
+                    "word": "city",
+                    "start": 6.291,
+                    "end": 6.551,
+                    "score": 0.762
+                },
+                {
+                    "word": "center",
+                    "start": 6.591,
+                    "end": 6.972,
+                    "score": 0.616
+                },
+                {
+                    "word": "because",
+                    "start": 8.132,
+                    "end": 8.512,
+                    "score": 0.928
+                },
+                {
+                    "word": "the",
+                    "start": 8.632,
+                    "end": 8.972,
+                    "score": 0.908
+                },
+                {
+                    "word": "population",
+                    "start": 10.193,
+                    "end": 11.573,
+                    "score": 0.768
+                },
+                {
+                    "word": "is",
+                    "start": 11.833,
+                    "end": 11.973,
+                    "score": 0.619
+                },
+                {
+                    "word": "very",
+                    "start": 12.133,
+                    "end": 12.554,
+                    "score": 0.884
+                },
+                {
+                    "word": "big",
+                    "start": 13.114,
+                    "end": 13.314,
+                    "score": 0.949
+                },
+                {
+                    "word": "problem",
+                    "start": 13.434,
+                    "end": 14.074,
+                    "score": 0.841
+                },
+                {
+                    "word": "in",
+                    "start": 14.894,
+                    "end": 15.015,
+                    "score": 0.836
+                },
+                {
+                    "word": "globally.",
+                    "start": 15.075,
+                    "end": 15.695,
+                    "score": 0.776
+                }
+            ]
+        },
+        {
+            "start": 16.475,
+            "end": 28.479,
+            "text": "So the effort to reduce the pollution is very good and but I think that",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 16.475,
+                    "end": 16.695,
+                    "score": 0.985
+                },
+                {
+                    "word": "the",
+                    "start": 17.716,
+                    "end": 17.936,
+                    "score": 0.84
+                },
+                {
+                    "word": "effort",
+                    "start": 18.096,
+                    "end": 18.476,
+                    "score": 0.952
+                },
+                {
+                    "word": "to",
+                    "start": 18.576,
+                    "end": 18.776,
+                    "score": 0.999
+                },
+                {
+                    "word": "reduce",
+                    "start": 18.856,
+                    "end": 19.776,
+                    "score": 0.949
+                },
+                {
+                    "word": "the",
+                    "start": 21.237,
+                    "end": 21.397,
+                    "score": 0.941
+                },
+                {
+                    "word": "pollution",
+                    "start": 21.697,
+                    "end": 22.337,
+                    "score": 0.808
+                },
+                {
+                    "word": "is",
+                    "start": 22.697,
+                    "end": 22.837,
+                    "score": 0.811
+                },
+                {
+                    "word": "very",
+                    "start": 23.458,
+                    "end": 23.898,
+                    "score": 0.89
+                },
+                {
+                    "word": "good",
+                    "start": 24.178,
+                    "end": 24.458,
+                    "score": 0.894
+                },
+                {
+                    "word": "and",
+                    "start": 24.818,
+                    "end": 24.958,
+                    "score": 0.704
+                },
+                {
+                    "word": "but",
+                    "start": 26.719,
+                    "end": 26.959,
+                    "score": 0.973
+                },
+                {
+                    "word": "I",
+                    "start": 27.839,
+                    "end": 27.899,
+                    "score": 0.86
+                },
+                {
+                    "word": "think",
+                    "start": 27.919,
+                    "end": 28.059,
+                    "score": 0.464
+                },
+                {
+                    "word": "that",
+                    "start": 28.079,
+                    "end": 28.479,
+                    "score": 0.836
+                }
+            ]
+        },
+        {
+            "start": 30.4,
+            "end": 34.224,
+            "text": " Every day prohibited is not good.",
+            "words": [
+                {
+                    "word": "Every",
+                    "start": 30.4,
+                    "end": 30.621,
+                    "score": 0.966
+                },
+                {
+                    "word": "day",
+                    "start": 30.641,
+                    "end": 30.981,
+                    "score": 0.841
+                },
+                {
+                    "word": "prohibited",
+                    "start": 31.582,
+                    "end": 32.262,
+                    "score": 0.891
+                },
+                {
+                    "word": "is",
+                    "start": 33.343,
+                    "end": 33.483,
+                    "score": 0.847
+                },
+                {
+                    "word": "not",
+                    "start": 33.644,
+                    "end": 33.844,
+                    "score": 0.97
+                },
+                {
+                    "word": "good.",
+                    "start": 33.924,
+                    "end": 34.224,
+                    "score": 0.952
+                }
+            ]
+        },
+        {
+            "start": 36.747,
+            "end": 50.94,
+            "text": "I think one day for weeks should be prohibited the car and that make a lot, make people a lot about the importance about population.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 36.747,
+                    "end": 36.827,
+                    "score": 0.758
+                },
+                {
+                    "word": "think",
+                    "start": 36.867,
+                    "end": 37.127,
+                    "score": 0.855
+                },
+                {
+                    "word": "one",
+                    "start": 38.528,
+                    "end": 38.648,
+                    "score": 0.822
+                },
+                {
+                    "word": "day",
+                    "start": 38.688,
+                    "end": 38.889,
+                    "score": 0.805
+                },
+                {
+                    "word": "for",
+                    "start": 38.969,
+                    "end": 39.149,
+                    "score": 0.863
+                },
+                {
+                    "word": "weeks",
+                    "start": 39.229,
+                    "end": 39.609,
+                    "score": 0.829
+                },
+                {
+                    "word": "should",
+                    "start": 40.01,
+                    "end": 40.23,
+                    "score": 0.762
+                },
+                {
+                    "word": "be",
+                    "start": 40.27,
+                    "end": 40.37,
+                    "score": 0.93
+                },
+                {
+                    "word": "prohibited",
+                    "start": 40.45,
+                    "end": 41.151,
+                    "score": 0.928
+                },
+                {
+                    "word": "the",
+                    "start": 41.451,
+                    "end": 41.591,
+                    "score": 0.99
+                },
+                {
+                    "word": "car",
+                    "start": 41.952,
+                    "end": 42.352,
+                    "score": 0.915
+                },
+                {
+                    "word": "and",
+                    "start": 43.033,
+                    "end": 43.153,
+                    "score": 0.628
+                },
+                {
+                    "word": "that",
+                    "start": 43.253,
+                    "end": 43.493,
+                    "score": 0.936
+                },
+                {
+                    "word": "make",
+                    "start": 43.913,
+                    "end": 44.154,
+                    "score": 0.71
+                },
+                {
+                    "word": "a",
+                    "start": 44.294,
+                    "end": 44.334,
+                    "score": 0.957
+                },
+                {
+                    "word": "lot,",
+                    "start": 44.414,
+                    "end": 44.694,
+                    "score": 0.951
+                },
+                {
+                    "word": "make",
+                    "start": 45.335,
+                    "end": 45.555,
+                    "score": 0.863
+                },
+                {
+                    "word": "people",
+                    "start": 45.635,
+                    "end": 45.935,
+                    "score": 0.909
+                },
+                {
+                    "word": "a",
+                    "start": 46.056,
+                    "end": 46.076,
+                    "score": 0.999
+                },
+                {
+                    "word": "lot",
+                    "start": 46.176,
+                    "end": 46.416,
+                    "score": 0.919
+                },
+                {
+                    "word": "about",
+                    "start": 46.576,
+                    "end": 46.856,
+                    "score": 0.997
+                },
+                {
+                    "word": "the",
+                    "start": 47.157,
+                    "end": 47.437,
+                    "score": 0.985
+                },
+                {
+                    "word": "importance",
+                    "start": 48.218,
+                    "end": 49.099,
+                    "score": 0.939
+                },
+                {
+                    "word": "about",
+                    "start": 49.859,
+                    "end": 50.119,
+                    "score": 0.994
+                },
+                {
+                    "word": "population.",
+                    "start": 50.34,
+                    "end": 50.94,
+                    "score": 0.706
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.149,
+            "end": 0.229,
+            "score": 0.999
+        },
+        {
+            "word": "agree",
+            "start": 0.309,
+            "end": 0.609,
+            "score": 0.89
+        },
+        {
+            "word": "with",
+            "start": 0.649,
+            "end": 0.789,
+            "score": 0.812
+        },
+        {
+            "word": "the",
+            "start": 0.829,
+            "end": 0.969,
+            "score": 0.719
+        },
+        {
+            "word": "statement",
+            "start": 0.989,
+            "end": 1.83,
+            "score": 0.879
+        },
+        {
+            "word": "that",
+            "start": 2.71,
+            "end": 2.97,
+            "score": 0.953
+        },
+        {
+            "word": "some",
+            "start": 3.09,
+            "end": 3.29,
+            "score": 0.924
+        },
+        {
+            "word": "cities",
+            "start": 3.33,
+            "end": 3.67,
+            "score": 0.798
+        },
+        {
+            "word": "want",
+            "start": 3.73,
+            "end": 3.91,
+            "score": 0.693
+        },
+        {
+            "word": "to",
+            "start": 3.95,
+            "end": 4.03,
+            "score": 0.804
+        },
+        {
+            "word": "make",
+            "start": 4.07,
+            "end": 4.291,
+            "score": 0.909
+        },
+        {
+            "word": "no",
+            "start": 4.451,
+            "end": 4.791,
+            "score": 0.939
+        },
+        {
+            "word": "car",
+            "start": 4.911,
+            "end": 5.291,
+            "score": 0.905
+        },
+        {
+            "word": "zones",
+            "start": 5.331,
+            "end": 5.771,
+            "score": 0.786
+        },
+        {
+            "word": "in",
+            "start": 6.011,
+            "end": 6.091,
+            "score": 0.862
+        },
+        {
+            "word": "the",
+            "start": 6.111,
+            "end": 6.231,
+            "score": 0.696
+        },
+        {
+            "word": "city",
+            "start": 6.291,
+            "end": 6.551,
+            "score": 0.762
+        },
+        {
+            "word": "center",
+            "start": 6.591,
+            "end": 6.972,
+            "score": 0.616
+        },
+        {
+            "word": "because",
+            "start": 8.132,
+            "end": 8.512,
+            "score": 0.928
+        },
+        {
+            "word": "the",
+            "start": 8.632,
+            "end": 8.972,
+            "score": 0.908
+        },
+        {
+            "word": "population",
+            "start": 10.193,
+            "end": 11.573,
+            "score": 0.768
+        },
+        {
+            "word": "is",
+            "start": 11.833,
+            "end": 11.973,
+            "score": 0.619
+        },
+        {
+            "word": "very",
+            "start": 12.133,
+            "end": 12.554,
+            "score": 0.884
+        },
+        {
+            "word": "big",
+            "start": 13.114,
+            "end": 13.314,
+            "score": 0.949
+        },
+        {
+            "word": "problem",
+            "start": 13.434,
+            "end": 14.074,
+            "score": 0.841
+        },
+        {
+            "word": "in",
+            "start": 14.894,
+            "end": 15.015,
+            "score": 0.836
+        },
+        {
+            "word": "globally.",
+            "start": 15.075,
+            "end": 15.695,
+            "score": 0.776
+        },
+        {
+            "word": "So",
+            "start": 16.475,
+            "end": 16.695,
+            "score": 0.985
+        },
+        {
+            "word": "the",
+            "start": 17.716,
+            "end": 17.936,
+            "score": 0.84
+        },
+        {
+            "word": "effort",
+            "start": 18.096,
+            "end": 18.476,
+            "score": 0.952
+        },
+        {
+            "word": "to",
+            "start": 18.576,
+            "end": 18.776,
+            "score": 0.999
+        },
+        {
+            "word": "reduce",
+            "start": 18.856,
+            "end": 19.776,
+            "score": 0.949
+        },
+        {
+            "word": "the",
+            "start": 21.237,
+            "end": 21.397,
+            "score": 0.941
+        },
+        {
+            "word": "pollution",
+            "start": 21.697,
+            "end": 22.337,
+            "score": 0.808
+        },
+        {
+            "word": "is",
+            "start": 22.697,
+            "end": 22.837,
+            "score": 0.811
+        },
+        {
+            "word": "very",
+            "start": 23.458,
+            "end": 23.898,
+            "score": 0.89
+        },
+        {
+            "word": "good",
+            "start": 24.178,
+            "end": 24.458,
+            "score": 0.894
+        },
+        {
+            "word": "and",
+            "start": 24.818,
+            "end": 24.958,
+            "score": 0.704
+        },
+        {
+            "word": "but",
+            "start": 26.719,
+            "end": 26.959,
+            "score": 0.973
+        },
+        {
+            "word": "I",
+            "start": 27.839,
+            "end": 27.899,
+            "score": 0.86
+        },
+        {
+            "word": "think",
+            "start": 27.919,
+            "end": 28.059,
+            "score": 0.464
+        },
+        {
+            "word": "that",
+            "start": 28.079,
+            "end": 28.479,
+            "score": 0.836
+        },
+        {
+            "word": "Every",
+            "start": 30.4,
+            "end": 30.621,
+            "score": 0.966
+        },
+        {
+            "word": "day",
+            "start": 30.641,
+            "end": 30.981,
+            "score": 0.841
+        },
+        {
+            "word": "prohibited",
+            "start": 31.582,
+            "end": 32.262,
+            "score": 0.891
+        },
+        {
+            "word": "is",
+            "start": 33.343,
+            "end": 33.483,
+            "score": 0.847
+        },
+        {
+            "word": "not",
+            "start": 33.644,
+            "end": 33.844,
+            "score": 0.97
+        },
+        {
+            "word": "good.",
+            "start": 33.924,
+            "end": 34.224,
+            "score": 0.952
+        },
+        {
+            "word": "I",
+            "start": 36.747,
+            "end": 36.827,
+            "score": 0.758
+        },
+        {
+            "word": "think",
+            "start": 36.867,
+            "end": 37.127,
+            "score": 0.855
+        },
+        {
+            "word": "one",
+            "start": 38.528,
+            "end": 38.648,
+            "score": 0.822
+        },
+        {
+            "word": "day",
+            "start": 38.688,
+            "end": 38.889,
+            "score": 0.805
+        },
+        {
+            "word": "for",
+            "start": 38.969,
+            "end": 39.149,
+            "score": 0.863
+        },
+        {
+            "word": "weeks",
+            "start": 39.229,
+            "end": 39.609,
+            "score": 0.829
+        },
+        {
+            "word": "should",
+            "start": 40.01,
+            "end": 40.23,
+            "score": 0.762
+        },
+        {
+            "word": "be",
+            "start": 40.27,
+            "end": 40.37,
+            "score": 0.93
+        },
+        {
+            "word": "prohibited",
+            "start": 40.45,
+            "end": 41.151,
+            "score": 0.928
+        },
+        {
+            "word": "the",
+            "start": 41.451,
+            "end": 41.591,
+            "score": 0.99
+        },
+        {
+            "word": "car",
+            "start": 41.952,
+            "end": 42.352,
+            "score": 0.915
+        },
+        {
+            "word": "and",
+            "start": 43.033,
+            "end": 43.153,
+            "score": 0.628
+        },
+        {
+            "word": "that",
+            "start": 43.253,
+            "end": 43.493,
+            "score": 0.936
+        },
+        {
+            "word": "make",
+            "start": 43.913,
+            "end": 44.154,
+            "score": 0.71
+        },
+        {
+            "word": "a",
+            "start": 44.294,
+            "end": 44.334,
+            "score": 0.957
+        },
+        {
+            "word": "lot,",
+            "start": 44.414,
+            "end": 44.694,
+            "score": 0.951
+        },
+        {
+            "word": "make",
+            "start": 45.335,
+            "end": 45.555,
+            "score": 0.863
+        },
+        {
+            "word": "people",
+            "start": 45.635,
+            "end": 45.935,
+            "score": 0.909
+        },
+        {
+            "word": "a",
+            "start": 46.056,
+            "end": 46.076,
+            "score": 0.999
+        },
+        {
+            "word": "lot",
+            "start": 46.176,
+            "end": 46.416,
+            "score": 0.919
+        },
+        {
+            "word": "about",
+            "start": 46.576,
+            "end": 46.856,
+            "score": 0.997
+        },
+        {
+            "word": "the",
+            "start": 47.157,
+            "end": 47.437,
+            "score": 0.985
+        },
+        {
+            "word": "importance",
+            "start": 48.218,
+            "end": 49.099,
+            "score": 0.939
+        },
+        {
+            "word": "about",
+            "start": 49.859,
+            "end": 50.119,
+            "score": 0.994
+        },
+        {
+            "word": "population.",
+            "start": 50.34,
+            "end": 50.94,
+            "score": 0.706
+        }
+    ]
+}

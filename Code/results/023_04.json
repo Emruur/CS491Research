@@ -1,0 +1,1107 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 7.97,
+            "text": " Yeah, I'm going to talk about the weather forecast for this week in San Francisco State.",
+            "words": [
+                {
+                    "word": "Yeah,",
+                    "start": 0.089,
+                    "end": 0.969,
+                    "score": 0.813
+                },
+                {
+                    "word": "I'm",
+                    "start": 1.009,
+                    "end": 1.189,
+                    "score": 0.731
+                },
+                {
+                    "word": "going",
+                    "start": 1.229,
+                    "end": 1.389,
+                    "score": 0.659
+                },
+                {
+                    "word": "to",
+                    "start": 1.409,
+                    "end": 1.469,
+                    "score": 0.142
+                },
+                {
+                    "word": "talk",
+                    "start": 1.529,
+                    "end": 1.809,
+                    "score": 0.988
+                },
+                {
+                    "word": "about",
+                    "start": 1.929,
+                    "end": 2.329,
+                    "score": 0.853
+                },
+                {
+                    "word": "the",
+                    "start": 2.389,
+                    "end": 2.95,
+                    "score": 0.924
+                },
+                {
+                    "word": "weather",
+                    "start": 2.97,
+                    "end": 3.11,
+                    "score": 0.002
+                },
+                {
+                    "word": "forecast",
+                    "start": 3.57,
+                    "end": 4.25,
+                    "score": 0.885
+                },
+                {
+                    "word": "for",
+                    "start": 5.21,
+                    "end": 5.39,
+                    "score": 0.866
+                },
+                {
+                    "word": "this",
+                    "start": 5.43,
+                    "end": 5.59,
+                    "score": 0.873
+                },
+                {
+                    "word": "week",
+                    "start": 5.65,
+                    "end": 5.89,
+                    "score": 0.974
+                },
+                {
+                    "word": "in",
+                    "start": 6.35,
+                    "end": 6.47,
+                    "score": 0.871
+                },
+                {
+                    "word": "San",
+                    "start": 6.61,
+                    "end": 6.85,
+                    "score": 0.862
+                },
+                {
+                    "word": "Francisco",
+                    "start": 6.89,
+                    "end": 7.57,
+                    "score": 0.84
+                },
+                {
+                    "word": "State.",
+                    "start": 7.59,
+                    "end": 7.97,
+                    "score": 0.836
+                }
+            ]
+        },
+        {
+            "start": 9.371,
+            "end": 15.152,
+            "text": "Yeah, this Monday, it will be mostly cloudy.",
+            "words": [
+                {
+                    "word": "Yeah,",
+                    "start": 9.371,
+                    "end": 9.831,
+                    "score": 0.698
+                },
+                {
+                    "word": "this",
+                    "start": 10.111,
+                    "end": 10.331,
+                    "score": 0.918
+                },
+                {
+                    "word": "Monday,",
+                    "start": 10.471,
+                    "end": 10.911,
+                    "score": 0.854
+                },
+                {
+                    "word": "it",
+                    "start": 10.931,
+                    "end": 10.971,
+                    "score": 0.0
+                },
+                {
+                    "word": "will",
+                    "start": 12.371,
+                    "end": 12.611,
+                    "score": 0.989
+                },
+                {
+                    "word": "be",
+                    "start": 12.671,
+                    "end": 12.891,
+                    "score": 0.797
+                },
+                {
+                    "word": "mostly",
+                    "start": 13.872,
+                    "end": 14.512,
+                    "score": 0.85
+                },
+                {
+                    "word": "cloudy.",
+                    "start": 14.572,
+                    "end": 15.152,
+                    "score": 0.899
+                }
+            ]
+        },
+        {
+            "start": 16.152,
+            "end": 19.853,
+            "text": "And the temperature will be between 57 Fahrenheit to...",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 16.152,
+                    "end": 16.312,
+                    "score": 0.664
+                },
+                {
+                    "word": "the",
+                    "start": 16.472,
+                    "end": 16.632,
+                    "score": 0.756
+                },
+                {
+                    "word": "temperature",
+                    "start": 16.652,
+                    "end": 17.292,
+                    "score": 0.527
+                },
+                {
+                    "word": "will",
+                    "start": 17.632,
+                    "end": 17.872,
+                    "score": 0.937
+                },
+                {
+                    "word": "be",
+                    "start": 17.932,
+                    "end": 18.172,
+                    "score": 0.803
+                },
+                {
+                    "word": "between",
+                    "start": 18.632,
+                    "end": 19.073,
+                    "score": 0.825
+                },
+                {
+                    "word": "57"
+                },
+                {
+                    "word": "Fahrenheit",
+                    "start": 19.113,
+                    "end": 19.713,
+                    "score": 0.391
+                },
+                {
+                    "word": "to...",
+                    "start": 19.733,
+                    "end": 19.853,
+                    "score": 0.49
+                }
+            ]
+        },
+        {
+            "start": 27.514,
+            "end": 28.155,
+            "text": " 60 Fahrenheit.",
+            "words": [
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "Fahrenheit.",
+                    "start": 27.555,
+                    "end": 28.155,
+                    "score": 0.572
+                }
+            ]
+        },
+        {
+            "start": 28.835,
+            "end": 32.178,
+            "text": "And also the same, this is Tuesday and Wednesday.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 28.835,
+                    "end": 28.976,
+                    "score": 0.714
+                },
+                {
+                    "word": "also",
+                    "start": 29.116,
+                    "end": 29.516,
+                    "score": 0.888
+                },
+                {
+                    "word": "the",
+                    "start": 29.536,
+                    "end": 29.596,
+                    "score": 0.0
+                },
+                {
+                    "word": "same,",
+                    "start": 29.616,
+                    "end": 29.696,
+                    "score": 0.0
+                },
+                {
+                    "word": "this",
+                    "start": 29.856,
+                    "end": 30.376,
+                    "score": 0.742
+                },
+                {
+                    "word": "is",
+                    "start": 30.697,
+                    "end": 30.897,
+                    "score": 0.766
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 31.037,
+                    "end": 31.497,
+                    "score": 0.888
+                },
+                {
+                    "word": "and",
+                    "start": 31.557,
+                    "end": 31.657,
+                    "score": 0.72
+                },
+                {
+                    "word": "Wednesday.",
+                    "start": 31.697,
+                    "end": 32.178,
+                    "score": 0.747
+                }
+            ]
+        },
+        {
+            "start": 32.618,
+            "end": 37.441,
+            "text": "But this Thursday, it will be a little bit sunny day.",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 32.618,
+                    "end": 32.838,
+                    "score": 0.904
+                },
+                {
+                    "word": "this",
+                    "start": 33.138,
+                    "end": 33.879,
+                    "score": 0.936
+                },
+                {
+                    "word": "Thursday,",
+                    "start": 34.019,
+                    "end": 34.579,
+                    "score": 0.847
+                },
+                {
+                    "word": "it",
+                    "start": 35.24,
+                    "end": 35.34,
+                    "score": 0.657
+                },
+                {
+                    "word": "will",
+                    "start": 35.36,
+                    "end": 35.56,
+                    "score": 0.914
+                },
+                {
+                    "word": "be",
+                    "start": 35.58,
+                    "end": 35.7,
+                    "score": 0.722
+                },
+                {
+                    "word": "a",
+                    "start": 35.8,
+                    "end": 35.84,
+                    "score": 0.678
+                },
+                {
+                    "word": "little",
+                    "start": 35.88,
+                    "end": 36.201,
+                    "score": 0.913
+                },
+                {
+                    "word": "bit",
+                    "start": 36.241,
+                    "end": 36.481,
+                    "score": 0.857
+                },
+                {
+                    "word": "sunny",
+                    "start": 36.741,
+                    "end": 37.101,
+                    "score": 0.941
+                },
+                {
+                    "word": "day.",
+                    "start": 37.181,
+                    "end": 37.441,
+                    "score": 0.818
+                }
+            ]
+        },
+        {
+            "start": 38.282,
+            "end": 43.946,
+            "text": "And yeah, it's good for a traveler to go out.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 38.282,
+                    "end": 38.442,
+                    "score": 0.892
+                },
+                {
+                    "word": "yeah,",
+                    "start": 38.782,
+                    "end": 39.943,
+                    "score": 0.789
+                },
+                {
+                    "word": "it's",
+                    "start": 40.624,
+                    "end": 40.844,
+                    "score": 0.839
+                },
+                {
+                    "word": "good",
+                    "start": 40.904,
+                    "end": 41.504,
+                    "score": 0.829
+                },
+                {
+                    "word": "for",
+                    "start": 41.584,
+                    "end": 41.865,
+                    "score": 0.929
+                },
+                {
+                    "word": "a",
+                    "start": 41.965,
+                    "end": 42.045,
+                    "score": 0.765
+                },
+                {
+                    "word": "traveler",
+                    "start": 42.105,
+                    "end": 42.605,
+                    "score": 0.778
+                },
+                {
+                    "word": "to",
+                    "start": 42.665,
+                    "end": 42.885,
+                    "score": 0.571
+                },
+                {
+                    "word": "go",
+                    "start": 42.905,
+                    "end": 43.005,
+                    "score": 0.54
+                },
+                {
+                    "word": "out.",
+                    "start": 43.025,
+                    "end": 43.946,
+                    "score": 0.659
+                }
+            ]
+        },
+        {
+            "start": 45.708,
+            "end": 51.798,
+            "text": " And the temperature will be 60 Fahrenheit, that means 16 centigrade Celsius.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 45.708,
+                    "end": 45.828,
+                    "score": 0.662
+                },
+                {
+                    "word": "the",
+                    "start": 45.988,
+                    "end": 46.108,
+                    "score": 0.79
+                },
+                {
+                    "word": "temperature",
+                    "start": 46.148,
+                    "end": 46.649,
+                    "score": 0.82
+                },
+                {
+                    "word": "will",
+                    "start": 46.689,
+                    "end": 46.889,
+                    "score": 0.988
+                },
+                {
+                    "word": "be",
+                    "start": 46.95,
+                    "end": 47.23,
+                    "score": 0.807
+                },
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "Fahrenheit,",
+                    "start": 48.432,
+                    "end": 49.213,
+                    "score": 0.722
+                },
+                {
+                    "word": "that",
+                    "start": 49.334,
+                    "end": 49.534,
+                    "score": 0.854
+                },
+                {
+                    "word": "means",
+                    "start": 49.574,
+                    "end": 49.814,
+                    "score": 0.674
+                },
+                {
+                    "word": "16"
+                },
+                {
+                    "word": "centigrade",
+                    "start": 50.035,
+                    "end": 51.217,
+                    "score": 0.583
+                },
+                {
+                    "word": "Celsius.",
+                    "start": 51.277,
+                    "end": 51.798,
+                    "score": 0.773
+                }
+            ]
+        },
+        {
+            "start": 52.238,
+            "end": 55.964,
+            "text": "And also the humidity, it will be, it might be 86 percent.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 52.238,
+                    "end": 52.338,
+                    "score": 0.689
+                },
+                {
+                    "word": "also",
+                    "start": 52.459,
+                    "end": 52.699,
+                    "score": 0.94
+                },
+                {
+                    "word": "the",
+                    "start": 52.739,
+                    "end": 52.859,
+                    "score": 0.654
+                },
+                {
+                    "word": "humidity,",
+                    "start": 52.899,
+                    "end": 53.48,
+                    "score": 0.936
+                },
+                {
+                    "word": "it",
+                    "start": 53.961,
+                    "end": 54.021,
+                    "score": 0.954
+                },
+                {
+                    "word": "will",
+                    "start": 54.061,
+                    "end": 54.282,
+                    "score": 0.924
+                },
+                {
+                    "word": "be,",
+                    "start": 54.342,
+                    "end": 54.662,
+                    "score": 0.943
+                },
+                {
+                    "word": "it",
+                    "start": 54.682,
+                    "end": 54.722,
+                    "score": 0.004
+                },
+                {
+                    "word": "might",
+                    "start": 54.742,
+                    "end": 55.363,
+                    "score": 0.5
+                },
+                {
+                    "word": "be",
+                    "start": 55.524,
+                    "end": 55.624,
+                    "score": 0.342
+                },
+                {
+                    "word": "86"
+                },
+                {
+                    "word": "percent.",
+                    "start": 55.664,
+                    "end": 55.964,
+                    "score": 0.269
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Yeah,",
+            "start": 0.089,
+            "end": 0.969,
+            "score": 0.813
+        },
+        {
+            "word": "I'm",
+            "start": 1.009,
+            "end": 1.189,
+            "score": 0.731
+        },
+        {
+            "word": "going",
+            "start": 1.229,
+            "end": 1.389,
+            "score": 0.659
+        },
+        {
+            "word": "to",
+            "start": 1.409,
+            "end": 1.469,
+            "score": 0.142
+        },
+        {
+            "word": "talk",
+            "start": 1.529,
+            "end": 1.809,
+            "score": 0.988
+        },
+        {
+            "word": "about",
+            "start": 1.929,
+            "end": 2.329,
+            "score": 0.853
+        },
+        {
+            "word": "the",
+            "start": 2.389,
+            "end": 2.95,
+            "score": 0.924
+        },
+        {
+            "word": "weather",
+            "start": 2.97,
+            "end": 3.11,
+            "score": 0.002
+        },
+        {
+            "word": "forecast",
+            "start": 3.57,
+            "end": 4.25,
+            "score": 0.885
+        },
+        {
+            "word": "for",
+            "start": 5.21,
+            "end": 5.39,
+            "score": 0.866
+        },
+        {
+            "word": "this",
+            "start": 5.43,
+            "end": 5.59,
+            "score": 0.873
+        },
+        {
+            "word": "week",
+            "start": 5.65,
+            "end": 5.89,
+            "score": 0.974
+        },
+        {
+            "word": "in",
+            "start": 6.35,
+            "end": 6.47,
+            "score": 0.871
+        },
+        {
+            "word": "San",
+            "start": 6.61,
+            "end": 6.85,
+            "score": 0.862
+        },
+        {
+            "word": "Francisco",
+            "start": 6.89,
+            "end": 7.57,
+            "score": 0.84
+        },
+        {
+            "word": "State.",
+            "start": 7.59,
+            "end": 7.97,
+            "score": 0.836
+        },
+        {
+            "word": "Yeah,",
+            "start": 9.371,
+            "end": 9.831,
+            "score": 0.698
+        },
+        {
+            "word": "this",
+            "start": 10.111,
+            "end": 10.331,
+            "score": 0.918
+        },
+        {
+            "word": "Monday,",
+            "start": 10.471,
+            "end": 10.911,
+            "score": 0.854
+        },
+        {
+            "word": "it",
+            "start": 10.931,
+            "end": 10.971,
+            "score": 0.0
+        },
+        {
+            "word": "will",
+            "start": 12.371,
+            "end": 12.611,
+            "score": 0.989
+        },
+        {
+            "word": "be",
+            "start": 12.671,
+            "end": 12.891,
+            "score": 0.797
+        },
+        {
+            "word": "mostly",
+            "start": 13.872,
+            "end": 14.512,
+            "score": 0.85
+        },
+        {
+            "word": "cloudy.",
+            "start": 14.572,
+            "end": 15.152,
+            "score": 0.899
+        },
+        {
+            "word": "And",
+            "start": 16.152,
+            "end": 16.312,
+            "score": 0.664
+        },
+        {
+            "word": "the",
+            "start": 16.472,
+            "end": 16.632,
+            "score": 0.756
+        },
+        {
+            "word": "temperature",
+            "start": 16.652,
+            "end": 17.292,
+            "score": 0.527
+        },
+        {
+            "word": "will",
+            "start": 17.632,
+            "end": 17.872,
+            "score": 0.937
+        },
+        {
+            "word": "be",
+            "start": 17.932,
+            "end": 18.172,
+            "score": 0.803
+        },
+        {
+            "word": "between",
+            "start": 18.632,
+            "end": 19.073,
+            "score": 0.825
+        },
+        {
+            "word": "57"
+        },
+        {
+            "word": "Fahrenheit",
+            "start": 19.113,
+            "end": 19.713,
+            "score": 0.391
+        },
+        {
+            "word": "to...",
+            "start": 19.733,
+            "end": 19.853,
+            "score": 0.49
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "Fahrenheit.",
+            "start": 27.555,
+            "end": 28.155,
+            "score": 0.572
+        },
+        {
+            "word": "And",
+            "start": 28.835,
+            "end": 28.976,
+            "score": 0.714
+        },
+        {
+            "word": "also",
+            "start": 29.116,
+            "end": 29.516,
+            "score": 0.888
+        },
+        {
+            "word": "the",
+            "start": 29.536,
+            "end": 29.596,
+            "score": 0.0
+        },
+        {
+            "word": "same,",
+            "start": 29.616,
+            "end": 29.696,
+            "score": 0.0
+        },
+        {
+            "word": "this",
+            "start": 29.856,
+            "end": 30.376,
+            "score": 0.742
+        },
+        {
+            "word": "is",
+            "start": 30.697,
+            "end": 30.897,
+            "score": 0.766
+        },
+        {
+            "word": "Tuesday",
+            "start": 31.037,
+            "end": 31.497,
+            "score": 0.888
+        },
+        {
+            "word": "and",
+            "start": 31.557,
+            "end": 31.657,
+            "score": 0.72
+        },
+        {
+            "word": "Wednesday.",
+            "start": 31.697,
+            "end": 32.178,
+            "score": 0.747
+        },
+        {
+            "word": "But",
+            "start": 32.618,
+            "end": 32.838,
+            "score": 0.904
+        },
+        {
+            "word": "this",
+            "start": 33.138,
+            "end": 33.879,
+            "score": 0.936
+        },
+        {
+            "word": "Thursday,",
+            "start": 34.019,
+            "end": 34.579,
+            "score": 0.847
+        },
+        {
+            "word": "it",
+            "start": 35.24,
+            "end": 35.34,
+            "score": 0.657
+        },
+        {
+            "word": "will",
+            "start": 35.36,
+            "end": 35.56,
+            "score": 0.914
+        },
+        {
+            "word": "be",
+            "start": 35.58,
+            "end": 35.7,
+            "score": 0.722
+        },
+        {
+            "word": "a",
+            "start": 35.8,
+            "end": 35.84,
+            "score": 0.678
+        },
+        {
+            "word": "little",
+            "start": 35.88,
+            "end": 36.201,
+            "score": 0.913
+        },
+        {
+            "word": "bit",
+            "start": 36.241,
+            "end": 36.481,
+            "score": 0.857
+        },
+        {
+            "word": "sunny",
+            "start": 36.741,
+            "end": 37.101,
+            "score": 0.941
+        },
+        {
+            "word": "day.",
+            "start": 37.181,
+            "end": 37.441,
+            "score": 0.818
+        },
+        {
+            "word": "And",
+            "start": 38.282,
+            "end": 38.442,
+            "score": 0.892
+        },
+        {
+            "word": "yeah,",
+            "start": 38.782,
+            "end": 39.943,
+            "score": 0.789
+        },
+        {
+            "word": "it's",
+            "start": 40.624,
+            "end": 40.844,
+            "score": 0.839
+        },
+        {
+            "word": "good",
+            "start": 40.904,
+            "end": 41.504,
+            "score": 0.829
+        },
+        {
+            "word": "for",
+            "start": 41.584,
+            "end": 41.865,
+            "score": 0.929
+        },
+        {
+            "word": "a",
+            "start": 41.965,
+            "end": 42.045,
+            "score": 0.765
+        },
+        {
+            "word": "traveler",
+            "start": 42.105,
+            "end": 42.605,
+            "score": 0.778
+        },
+        {
+            "word": "to",
+            "start": 42.665,
+            "end": 42.885,
+            "score": 0.571
+        },
+        {
+            "word": "go",
+            "start": 42.905,
+            "end": 43.005,
+            "score": 0.54
+        },
+        {
+            "word": "out.",
+            "start": 43.025,
+            "end": 43.946,
+            "score": 0.659
+        },
+        {
+            "word": "And",
+            "start": 45.708,
+            "end": 45.828,
+            "score": 0.662
+        },
+        {
+            "word": "the",
+            "start": 45.988,
+            "end": 46.108,
+            "score": 0.79
+        },
+        {
+            "word": "temperature",
+            "start": 46.148,
+            "end": 46.649,
+            "score": 0.82
+        },
+        {
+            "word": "will",
+            "start": 46.689,
+            "end": 46.889,
+            "score": 0.988
+        },
+        {
+            "word": "be",
+            "start": 46.95,
+            "end": 47.23,
+            "score": 0.807
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "Fahrenheit,",
+            "start": 48.432,
+            "end": 49.213,
+            "score": 0.722
+        },
+        {
+            "word": "that",
+            "start": 49.334,
+            "end": 49.534,
+            "score": 0.854
+        },
+        {
+            "word": "means",
+            "start": 49.574,
+            "end": 49.814,
+            "score": 0.674
+        },
+        {
+            "word": "16"
+        },
+        {
+            "word": "centigrade",
+            "start": 50.035,
+            "end": 51.217,
+            "score": 0.583
+        },
+        {
+            "word": "Celsius.",
+            "start": 51.277,
+            "end": 51.798,
+            "score": 0.773
+        },
+        {
+            "word": "And",
+            "start": 52.238,
+            "end": 52.338,
+            "score": 0.689
+        },
+        {
+            "word": "also",
+            "start": 52.459,
+            "end": 52.699,
+            "score": 0.94
+        },
+        {
+            "word": "the",
+            "start": 52.739,
+            "end": 52.859,
+            "score": 0.654
+        },
+        {
+            "word": "humidity,",
+            "start": 52.899,
+            "end": 53.48,
+            "score": 0.936
+        },
+        {
+            "word": "it",
+            "start": 53.961,
+            "end": 54.021,
+            "score": 0.954
+        },
+        {
+            "word": "will",
+            "start": 54.061,
+            "end": 54.282,
+            "score": 0.924
+        },
+        {
+            "word": "be,",
+            "start": 54.342,
+            "end": 54.662,
+            "score": 0.943
+        },
+        {
+            "word": "it",
+            "start": 54.682,
+            "end": 54.722,
+            "score": 0.004
+        },
+        {
+            "word": "might",
+            "start": 54.742,
+            "end": 55.363,
+            "score": 0.5
+        },
+        {
+            "word": "be",
+            "start": 55.524,
+            "end": 55.624,
+            "score": 0.342
+        },
+        {
+            "word": "86"
+        },
+        {
+            "word": "percent.",
+            "start": 55.664,
+            "end": 55.964,
+            "score": 0.269
+        }
+    ]
+}

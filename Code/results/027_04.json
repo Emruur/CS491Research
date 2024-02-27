@@ -1,0 +1,572 @@
+{
+    "segments": [
+        {
+            "start": 0.729,
+            "end": 13.033,
+            "text": " This week in San Francisco will be cloudy all week and the temperature is like a 60 F degree with 86% of humidity.",
+            "words": [
+                {
+                    "word": "This",
+                    "start": 0.729,
+                    "end": 0.949,
+                    "score": 0.895
+                },
+                {
+                    "word": "week",
+                    "start": 1.129,
+                    "end": 1.369,
+                    "score": 0.884
+                },
+                {
+                    "word": "in",
+                    "start": 1.409,
+                    "end": 1.589,
+                    "score": 0.564
+                },
+                {
+                    "word": "San",
+                    "start": 1.609,
+                    "end": 1.769,
+                    "score": 0.714
+                },
+                {
+                    "word": "Francisco",
+                    "start": 1.789,
+                    "end": 3.13,
+                    "score": 0.896
+                },
+                {
+                    "word": "will",
+                    "start": 5.551,
+                    "end": 5.831,
+                    "score": 0.844
+                },
+                {
+                    "word": "be",
+                    "start": 5.891,
+                    "end": 6.051,
+                    "score": 0.871
+                },
+                {
+                    "word": "cloudy",
+                    "start": 6.171,
+                    "end": 6.651,
+                    "score": 0.92
+                },
+                {
+                    "word": "all",
+                    "start": 6.791,
+                    "end": 6.991,
+                    "score": 0.24
+                },
+                {
+                    "word": "week",
+                    "start": 7.071,
+                    "end": 7.311,
+                    "score": 0.864
+                },
+                {
+                    "word": "and",
+                    "start": 7.711,
+                    "end": 7.891,
+                    "score": 0.82
+                },
+                {
+                    "word": "the",
+                    "start": 8.151,
+                    "end": 8.311,
+                    "score": 0.875
+                },
+                {
+                    "word": "temperature",
+                    "start": 8.371,
+                    "end": 9.072,
+                    "score": 0.84
+                },
+                {
+                    "word": "is",
+                    "start": 9.172,
+                    "end": 9.292,
+                    "score": 0.736
+                },
+                {
+                    "word": "like",
+                    "start": 10.212,
+                    "end": 10.492,
+                    "score": 0.704
+                },
+                {
+                    "word": "a",
+                    "start": 10.592,
+                    "end": 10.732,
+                    "score": 0.748
+                },
+                {
+                    "word": "60"
+                },
+                {
+                    "word": "F",
+                    "start": 11.032,
+                    "end": 11.192,
+                    "score": 0.871
+                },
+                {
+                    "word": "degree",
+                    "start": 11.212,
+                    "end": 11.532,
+                    "score": 0.27
+                },
+                {
+                    "word": "with",
+                    "start": 12.452,
+                    "end": 12.572,
+                    "score": 0.159
+                },
+                {
+                    "word": "86%"
+                },
+                {
+                    "word": "of",
+                    "start": 12.652,
+                    "end": 12.753,
+                    "score": 0.501
+                },
+                {
+                    "word": "humidity.",
+                    "start": 12.793,
+                    "end": 13.033,
+                    "score": 0.255
+                }
+            ]
+        },
+        {
+            "start": 24.432,
+            "end": 41.163,
+            "text": " If you come to San Francisco this week don't worry because the probability to rain is very low and the temperature is very nice.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 24.432,
+                    "end": 24.492,
+                    "score": 0.998
+                },
+                {
+                    "word": "you",
+                    "start": 24.532,
+                    "end": 25.553,
+                    "score": 0.781
+                },
+                {
+                    "word": "come",
+                    "start": 25.793,
+                    "end": 25.953,
+                    "score": 0.899
+                },
+                {
+                    "word": "to",
+                    "start": 26.013,
+                    "end": 26.113,
+                    "score": 0.824
+                },
+                {
+                    "word": "San",
+                    "start": 26.133,
+                    "end": 26.273,
+                    "score": 0.472
+                },
+                {
+                    "word": "Francisco",
+                    "start": 26.293,
+                    "end": 26.874,
+                    "score": 0.582
+                },
+                {
+                    "word": "this",
+                    "start": 26.894,
+                    "end": 27.074,
+                    "score": 0.734
+                },
+                {
+                    "word": "week",
+                    "start": 27.154,
+                    "end": 27.454,
+                    "score": 0.921
+                },
+                {
+                    "word": "don't",
+                    "start": 27.534,
+                    "end": 27.774,
+                    "score": 0.833
+                },
+                {
+                    "word": "worry",
+                    "start": 27.814,
+                    "end": 28.095,
+                    "score": 0.923
+                },
+                {
+                    "word": "because",
+                    "start": 28.135,
+                    "end": 28.515,
+                    "score": 0.935
+                },
+                {
+                    "word": "the",
+                    "start": 29.235,
+                    "end": 29.476,
+                    "score": 0.851
+                },
+                {
+                    "word": "probability",
+                    "start": 29.556,
+                    "end": 30.396,
+                    "score": 0.937
+                },
+                {
+                    "word": "to",
+                    "start": 30.916,
+                    "end": 31.317,
+                    "score": 0.778
+                },
+                {
+                    "word": "rain",
+                    "start": 32.778,
+                    "end": 33.158,
+                    "score": 0.796
+                },
+                {
+                    "word": "is",
+                    "start": 33.298,
+                    "end": 34.539,
+                    "score": 0.802
+                },
+                {
+                    "word": "very",
+                    "start": 34.659,
+                    "end": 34.879,
+                    "score": 0.856
+                },
+                {
+                    "word": "low",
+                    "start": 34.939,
+                    "end": 35.179,
+                    "score": 0.987
+                },
+                {
+                    "word": "and",
+                    "start": 35.199,
+                    "end": 36.56,
+                    "score": 0.312
+                },
+                {
+                    "word": "the",
+                    "start": 37.181,
+                    "end": 37.321,
+                    "score": 0.973
+                },
+                {
+                    "word": "temperature",
+                    "start": 37.381,
+                    "end": 37.861,
+                    "score": 0.936
+                },
+                {
+                    "word": "is",
+                    "start": 37.921,
+                    "end": 38.502,
+                    "score": 0.718
+                },
+                {
+                    "word": "very",
+                    "start": 40.683,
+                    "end": 40.923,
+                    "score": 0.884
+                },
+                {
+                    "word": "nice.",
+                    "start": 40.983,
+                    "end": 41.163,
+                    "score": 0.999
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "This",
+            "start": 0.729,
+            "end": 0.949,
+            "score": 0.895
+        },
+        {
+            "word": "week",
+            "start": 1.129,
+            "end": 1.369,
+            "score": 0.884
+        },
+        {
+            "word": "in",
+            "start": 1.409,
+            "end": 1.589,
+            "score": 0.564
+        },
+        {
+            "word": "San",
+            "start": 1.609,
+            "end": 1.769,
+            "score": 0.714
+        },
+        {
+            "word": "Francisco",
+            "start": 1.789,
+            "end": 3.13,
+            "score": 0.896
+        },
+        {
+            "word": "will",
+            "start": 5.551,
+            "end": 5.831,
+            "score": 0.844
+        },
+        {
+            "word": "be",
+            "start": 5.891,
+            "end": 6.051,
+            "score": 0.871
+        },
+        {
+            "word": "cloudy",
+            "start": 6.171,
+            "end": 6.651,
+            "score": 0.92
+        },
+        {
+            "word": "all",
+            "start": 6.791,
+            "end": 6.991,
+            "score": 0.24
+        },
+        {
+            "word": "week",
+            "start": 7.071,
+            "end": 7.311,
+            "score": 0.864
+        },
+        {
+            "word": "and",
+            "start": 7.711,
+            "end": 7.891,
+            "score": 0.82
+        },
+        {
+            "word": "the",
+            "start": 8.151,
+            "end": 8.311,
+            "score": 0.875
+        },
+        {
+            "word": "temperature",
+            "start": 8.371,
+            "end": 9.072,
+            "score": 0.84
+        },
+        {
+            "word": "is",
+            "start": 9.172,
+            "end": 9.292,
+            "score": 0.736
+        },
+        {
+            "word": "like",
+            "start": 10.212,
+            "end": 10.492,
+            "score": 0.704
+        },
+        {
+            "word": "a",
+            "start": 10.592,
+            "end": 10.732,
+            "score": 0.748
+        },
+        {
+            "word": "60"
+        },
+        {
+            "word": "F",
+            "start": 11.032,
+            "end": 11.192,
+            "score": 0.871
+        },
+        {
+            "word": "degree",
+            "start": 11.212,
+            "end": 11.532,
+            "score": 0.27
+        },
+        {
+            "word": "with",
+            "start": 12.452,
+            "end": 12.572,
+            "score": 0.159
+        },
+        {
+            "word": "86%"
+        },
+        {
+            "word": "of",
+            "start": 12.652,
+            "end": 12.753,
+            "score": 0.501
+        },
+        {
+            "word": "humidity.",
+            "start": 12.793,
+            "end": 13.033,
+            "score": 0.255
+        },
+        {
+            "word": "If",
+            "start": 24.432,
+            "end": 24.492,
+            "score": 0.998
+        },
+        {
+            "word": "you",
+            "start": 24.532,
+            "end": 25.553,
+            "score": 0.781
+        },
+        {
+            "word": "come",
+            "start": 25.793,
+            "end": 25.953,
+            "score": 0.899
+        },
+        {
+            "word": "to",
+            "start": 26.013,
+            "end": 26.113,
+            "score": 0.824
+        },
+        {
+            "word": "San",
+            "start": 26.133,
+            "end": 26.273,
+            "score": 0.472
+        },
+        {
+            "word": "Francisco",
+            "start": 26.293,
+            "end": 26.874,
+            "score": 0.582
+        },
+        {
+            "word": "this",
+            "start": 26.894,
+            "end": 27.074,
+            "score": 0.734
+        },
+        {
+            "word": "week",
+            "start": 27.154,
+            "end": 27.454,
+            "score": 0.921
+        },
+        {
+            "word": "don't",
+            "start": 27.534,
+            "end": 27.774,
+            "score": 0.833
+        },
+        {
+            "word": "worry",
+            "start": 27.814,
+            "end": 28.095,
+            "score": 0.923
+        },
+        {
+            "word": "because",
+            "start": 28.135,
+            "end": 28.515,
+            "score": 0.935
+        },
+        {
+            "word": "the",
+            "start": 29.235,
+            "end": 29.476,
+            "score": 0.851
+        },
+        {
+            "word": "probability",
+            "start": 29.556,
+            "end": 30.396,
+            "score": 0.937
+        },
+        {
+            "word": "to",
+            "start": 30.916,
+            "end": 31.317,
+            "score": 0.778
+        },
+        {
+            "word": "rain",
+            "start": 32.778,
+            "end": 33.158,
+            "score": 0.796
+        },
+        {
+            "word": "is",
+            "start": 33.298,
+            "end": 34.539,
+            "score": 0.802
+        },
+        {
+            "word": "very",
+            "start": 34.659,
+            "end": 34.879,
+            "score": 0.856
+        },
+        {
+            "word": "low",
+            "start": 34.939,
+            "end": 35.179,
+            "score": 0.987
+        },
+        {
+            "word": "and",
+            "start": 35.199,
+            "end": 36.56,
+            "score": 0.312
+        },
+        {
+            "word": "the",
+            "start": 37.181,
+            "end": 37.321,
+            "score": 0.973
+        },
+        {
+            "word": "temperature",
+            "start": 37.381,
+            "end": 37.861,
+            "score": 0.936
+        },
+        {
+            "word": "is",
+            "start": 37.921,
+            "end": 38.502,
+            "score": 0.718
+        },
+        {
+            "word": "very",
+            "start": 40.683,
+            "end": 40.923,
+            "score": 0.884
+        },
+        {
+            "word": "nice.",
+            "start": 40.983,
+            "end": 41.163,
+            "score": 0.999
+        }
+    ]
+}

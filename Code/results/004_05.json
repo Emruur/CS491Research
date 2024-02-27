@@ -1,0 +1,936 @@
+{
+    "segments": [
+        {
+            "start": 0.329,
+            "end": 3.432,
+            "text": " I agree with this following claim.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.329,
+                    "end": 0.429,
+                    "score": 0.988
+                },
+                {
+                    "word": "agree",
+                    "start": 0.469,
+                    "end": 0.73,
+                    "score": 0.987
+                },
+                {
+                    "word": "with",
+                    "start": 1.49,
+                    "end": 1.831,
+                    "score": 0.764
+                },
+                {
+                    "word": "this",
+                    "start": 1.951,
+                    "end": 2.191,
+                    "score": 0.698
+                },
+                {
+                    "word": "following",
+                    "start": 2.391,
+                    "end": 2.892,
+                    "score": 0.773
+                },
+                {
+                    "word": "claim.",
+                    "start": 3.012,
+                    "end": 3.432,
+                    "score": 0.917
+                }
+            ]
+        },
+        {
+            "start": 5.514,
+            "end": 15.983,
+            "text": "Only these days, most people are getting weight because of eating soda drink.",
+            "words": [
+                {
+                    "word": "Only",
+                    "start": 5.514,
+                    "end": 5.734,
+                    "score": 0.851
+                },
+                {
+                    "word": "these",
+                    "start": 5.934,
+                    "end": 6.155,
+                    "score": 0.382
+                },
+                {
+                    "word": "days,",
+                    "start": 6.235,
+                    "end": 6.955,
+                    "score": 0.718
+                },
+                {
+                    "word": "most",
+                    "start": 7.516,
+                    "end": 7.836,
+                    "score": 0.893
+                },
+                {
+                    "word": "people",
+                    "start": 7.876,
+                    "end": 8.236,
+                    "score": 0.778
+                },
+                {
+                    "word": "are",
+                    "start": 8.317,
+                    "end": 8.397,
+                    "score": 0.19
+                },
+                {
+                    "word": "getting",
+                    "start": 8.477,
+                    "end": 8.797,
+                    "score": 0.868
+                },
+                {
+                    "word": "weight",
+                    "start": 8.997,
+                    "end": 9.558,
+                    "score": 0.509
+                },
+                {
+                    "word": "because",
+                    "start": 9.878,
+                    "end": 13.982,
+                    "score": 0.922
+                },
+                {
+                    "word": "of",
+                    "start": 14.182,
+                    "end": 14.402,
+                    "score": 0.814
+                },
+                {
+                    "word": "eating",
+                    "start": 14.822,
+                    "end": 15.023,
+                    "score": 0.917
+                },
+                {
+                    "word": "soda",
+                    "start": 15.063,
+                    "end": 15.383,
+                    "score": 0.592
+                },
+                {
+                    "word": "drink.",
+                    "start": 15.443,
+                    "end": 15.983,
+                    "score": 0.929
+                }
+            ]
+        },
+        {
+            "start": 16.084,
+            "end": 25.492,
+            "text": "So the government should require something healthy warming labels on the soda cans.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 16.084,
+                    "end": 16.364,
+                    "score": 0.889
+                },
+                {
+                    "word": "the",
+                    "start": 16.724,
+                    "end": 16.844,
+                    "score": 0.878
+                },
+                {
+                    "word": "government",
+                    "start": 16.864,
+                    "end": 17.425,
+                    "score": 0.77
+                },
+                {
+                    "word": "should",
+                    "start": 17.765,
+                    "end": 18.266,
+                    "score": 0.854
+                },
+                {
+                    "word": "require",
+                    "start": 18.666,
+                    "end": 19.527,
+                    "score": 0.399
+                },
+                {
+                    "word": "something",
+                    "start": 19.847,
+                    "end": 20.407,
+                    "score": 0.857
+                },
+                {
+                    "word": "healthy",
+                    "start": 20.508,
+                    "end": 20.908,
+                    "score": 0.695
+                },
+                {
+                    "word": "warming",
+                    "start": 20.948,
+                    "end": 21.348,
+                    "score": 0.903
+                },
+                {
+                    "word": "labels",
+                    "start": 21.549,
+                    "end": 22.129,
+                    "score": 0.611
+                },
+                {
+                    "word": "on",
+                    "start": 23.13,
+                    "end": 23.61,
+                    "score": 0.912
+                },
+                {
+                    "word": "the",
+                    "start": 23.63,
+                    "end": 23.991,
+                    "score": 0.759
+                },
+                {
+                    "word": "soda",
+                    "start": 24.852,
+                    "end": 25.152,
+                    "score": 0.828
+                },
+                {
+                    "word": "cans.",
+                    "start": 25.192,
+                    "end": 25.492,
+                    "score": 0.795
+                }
+            ]
+        },
+        {
+            "start": 26.653,
+            "end": 37.496,
+            "text": " Because it will be helpful for many people not to drink some soda and coke.",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 26.653,
+                    "end": 26.973,
+                    "score": 0.897
+                },
+                {
+                    "word": "it",
+                    "start": 26.993,
+                    "end": 27.033,
+                    "score": 0.016
+                },
+                {
+                    "word": "will",
+                    "start": 27.553,
+                    "end": 27.773,
+                    "score": 0.664
+                },
+                {
+                    "word": "be",
+                    "start": 27.813,
+                    "end": 28.013,
+                    "score": 0.856
+                },
+                {
+                    "word": "helpful",
+                    "start": 28.754,
+                    "end": 29.414,
+                    "score": 0.718
+                },
+                {
+                    "word": "for",
+                    "start": 29.594,
+                    "end": 29.974,
+                    "score": 0.788
+                },
+                {
+                    "word": "many",
+                    "start": 30.034,
+                    "end": 30.254,
+                    "score": 0.937
+                },
+                {
+                    "word": "people",
+                    "start": 30.294,
+                    "end": 31.014,
+                    "score": 0.91
+                },
+                {
+                    "word": "not",
+                    "start": 32.755,
+                    "end": 33.535,
+                    "score": 0.686
+                },
+                {
+                    "word": "to",
+                    "start": 33.575,
+                    "end": 33.695,
+                    "score": 0.932
+                },
+                {
+                    "word": "drink",
+                    "start": 33.755,
+                    "end": 34.115,
+                    "score": 0.807
+                },
+                {
+                    "word": "some",
+                    "start": 35.276,
+                    "end": 35.496,
+                    "score": 0.816
+                },
+                {
+                    "word": "soda",
+                    "start": 35.536,
+                    "end": 35.956,
+                    "score": 0.897
+                },
+                {
+                    "word": "and",
+                    "start": 36.076,
+                    "end": 36.216,
+                    "score": 0.636
+                },
+                {
+                    "word": "coke.",
+                    "start": 36.756,
+                    "end": 37.496,
+                    "score": 0.827
+                }
+            ]
+        },
+        {
+            "start": 38.157,
+            "end": 46.019,
+            "text": "In the soda and coke, this drink is included harmful for our health.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 38.157,
+                    "end": 38.217,
+                    "score": 0.865
+                },
+                {
+                    "word": "the",
+                    "start": 38.257,
+                    "end": 38.397,
+                    "score": 0.598
+                },
+                {
+                    "word": "soda",
+                    "start": 38.457,
+                    "end": 38.857,
+                    "score": 0.978
+                },
+                {
+                    "word": "and",
+                    "start": 38.977,
+                    "end": 39.097,
+                    "score": 0.75
+                },
+                {
+                    "word": "coke,",
+                    "start": 39.197,
+                    "end": 39.757,
+                    "score": 0.871
+                },
+                {
+                    "word": "this",
+                    "start": 40.677,
+                    "end": 41.077,
+                    "score": 0.745
+                },
+                {
+                    "word": "drink",
+                    "start": 41.157,
+                    "end": 41.598,
+                    "score": 0.937
+                },
+                {
+                    "word": "is",
+                    "start": 42.258,
+                    "end": 42.398,
+                    "score": 0.868
+                },
+                {
+                    "word": "included",
+                    "start": 42.538,
+                    "end": 43.058,
+                    "score": 0.934
+                },
+                {
+                    "word": "harmful",
+                    "start": 43.918,
+                    "end": 44.678,
+                    "score": 0.84
+                },
+                {
+                    "word": "for",
+                    "start": 45.099,
+                    "end": 45.279,
+                    "score": 0.803
+                },
+                {
+                    "word": "our",
+                    "start": 45.399,
+                    "end": 45.599,
+                    "score": 0.889
+                },
+                {
+                    "word": "health.",
+                    "start": 45.719,
+                    "end": 46.019,
+                    "score": 0.751
+                }
+            ]
+        },
+        {
+            "start": 46.88,
+            "end": 56.533,
+            "text": " So I recommend to this policy is eventually is getting better in our society.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 46.88,
+                    "end": 47.26,
+                    "score": 0.932
+                },
+                {
+                    "word": "I",
+                    "start": 47.721,
+                    "end": 47.781,
+                    "score": 0.995
+                },
+                {
+                    "word": "recommend",
+                    "start": 47.861,
+                    "end": 49.063,
+                    "score": 0.909
+                },
+                {
+                    "word": "to",
+                    "start": 49.183,
+                    "end": 49.343,
+                    "score": 0.996
+                },
+                {
+                    "word": "this",
+                    "start": 49.523,
+                    "end": 49.864,
+                    "score": 0.73
+                },
+                {
+                    "word": "policy",
+                    "start": 49.924,
+                    "end": 50.525,
+                    "score": 0.776
+                },
+                {
+                    "word": "is",
+                    "start": 51.085,
+                    "end": 51.246,
+                    "score": 0.721
+                },
+                {
+                    "word": "eventually",
+                    "start": 51.266,
+                    "end": 53.449,
+                    "score": 0.706
+                },
+                {
+                    "word": "is",
+                    "start": 53.469,
+                    "end": 54.09,
+                    "score": 0.426
+                },
+                {
+                    "word": "getting",
+                    "start": 54.51,
+                    "end": 54.73,
+                    "score": 0.928
+                },
+                {
+                    "word": "better",
+                    "start": 54.77,
+                    "end": 55.251,
+                    "score": 0.811
+                },
+                {
+                    "word": "in",
+                    "start": 55.471,
+                    "end": 55.552,
+                    "score": 0.933
+                },
+                {
+                    "word": "our",
+                    "start": 55.672,
+                    "end": 55.892,
+                    "score": 0.896
+                },
+                {
+                    "word": "society.",
+                    "start": 55.932,
+                    "end": 56.533,
+                    "score": 0.843
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.329,
+            "end": 0.429,
+            "score": 0.988
+        },
+        {
+            "word": "agree",
+            "start": 0.469,
+            "end": 0.73,
+            "score": 0.987
+        },
+        {
+            "word": "with",
+            "start": 1.49,
+            "end": 1.831,
+            "score": 0.764
+        },
+        {
+            "word": "this",
+            "start": 1.951,
+            "end": 2.191,
+            "score": 0.698
+        },
+        {
+            "word": "following",
+            "start": 2.391,
+            "end": 2.892,
+            "score": 0.773
+        },
+        {
+            "word": "claim.",
+            "start": 3.012,
+            "end": 3.432,
+            "score": 0.917
+        },
+        {
+            "word": "Only",
+            "start": 5.514,
+            "end": 5.734,
+            "score": 0.851
+        },
+        {
+            "word": "these",
+            "start": 5.934,
+            "end": 6.155,
+            "score": 0.382
+        },
+        {
+            "word": "days,",
+            "start": 6.235,
+            "end": 6.955,
+            "score": 0.718
+        },
+        {
+            "word": "most",
+            "start": 7.516,
+            "end": 7.836,
+            "score": 0.893
+        },
+        {
+            "word": "people",
+            "start": 7.876,
+            "end": 8.236,
+            "score": 0.778
+        },
+        {
+            "word": "are",
+            "start": 8.317,
+            "end": 8.397,
+            "score": 0.19
+        },
+        {
+            "word": "getting",
+            "start": 8.477,
+            "end": 8.797,
+            "score": 0.868
+        },
+        {
+            "word": "weight",
+            "start": 8.997,
+            "end": 9.558,
+            "score": 0.509
+        },
+        {
+            "word": "because",
+            "start": 9.878,
+            "end": 13.982,
+            "score": 0.922
+        },
+        {
+            "word": "of",
+            "start": 14.182,
+            "end": 14.402,
+            "score": 0.814
+        },
+        {
+            "word": "eating",
+            "start": 14.822,
+            "end": 15.023,
+            "score": 0.917
+        },
+        {
+            "word": "soda",
+            "start": 15.063,
+            "end": 15.383,
+            "score": 0.592
+        },
+        {
+            "word": "drink.",
+            "start": 15.443,
+            "end": 15.983,
+            "score": 0.929
+        },
+        {
+            "word": "So",
+            "start": 16.084,
+            "end": 16.364,
+            "score": 0.889
+        },
+        {
+            "word": "the",
+            "start": 16.724,
+            "end": 16.844,
+            "score": 0.878
+        },
+        {
+            "word": "government",
+            "start": 16.864,
+            "end": 17.425,
+            "score": 0.77
+        },
+        {
+            "word": "should",
+            "start": 17.765,
+            "end": 18.266,
+            "score": 0.854
+        },
+        {
+            "word": "require",
+            "start": 18.666,
+            "end": 19.527,
+            "score": 0.399
+        },
+        {
+            "word": "something",
+            "start": 19.847,
+            "end": 20.407,
+            "score": 0.857
+        },
+        {
+            "word": "healthy",
+            "start": 20.508,
+            "end": 20.908,
+            "score": 0.695
+        },
+        {
+            "word": "warming",
+            "start": 20.948,
+            "end": 21.348,
+            "score": 0.903
+        },
+        {
+            "word": "labels",
+            "start": 21.549,
+            "end": 22.129,
+            "score": 0.611
+        },
+        {
+            "word": "on",
+            "start": 23.13,
+            "end": 23.61,
+            "score": 0.912
+        },
+        {
+            "word": "the",
+            "start": 23.63,
+            "end": 23.991,
+            "score": 0.759
+        },
+        {
+            "word": "soda",
+            "start": 24.852,
+            "end": 25.152,
+            "score": 0.828
+        },
+        {
+            "word": "cans.",
+            "start": 25.192,
+            "end": 25.492,
+            "score": 0.795
+        },
+        {
+            "word": "Because",
+            "start": 26.653,
+            "end": 26.973,
+            "score": 0.897
+        },
+        {
+            "word": "it",
+            "start": 26.993,
+            "end": 27.033,
+            "score": 0.016
+        },
+        {
+            "word": "will",
+            "start": 27.553,
+            "end": 27.773,
+            "score": 0.664
+        },
+        {
+            "word": "be",
+            "start": 27.813,
+            "end": 28.013,
+            "score": 0.856
+        },
+        {
+            "word": "helpful",
+            "start": 28.754,
+            "end": 29.414,
+            "score": 0.718
+        },
+        {
+            "word": "for",
+            "start": 29.594,
+            "end": 29.974,
+            "score": 0.788
+        },
+        {
+            "word": "many",
+            "start": 30.034,
+            "end": 30.254,
+            "score": 0.937
+        },
+        {
+            "word": "people",
+            "start": 30.294,
+            "end": 31.014,
+            "score": 0.91
+        },
+        {
+            "word": "not",
+            "start": 32.755,
+            "end": 33.535,
+            "score": 0.686
+        },
+        {
+            "word": "to",
+            "start": 33.575,
+            "end": 33.695,
+            "score": 0.932
+        },
+        {
+            "word": "drink",
+            "start": 33.755,
+            "end": 34.115,
+            "score": 0.807
+        },
+        {
+            "word": "some",
+            "start": 35.276,
+            "end": 35.496,
+            "score": 0.816
+        },
+        {
+            "word": "soda",
+            "start": 35.536,
+            "end": 35.956,
+            "score": 0.897
+        },
+        {
+            "word": "and",
+            "start": 36.076,
+            "end": 36.216,
+            "score": 0.636
+        },
+        {
+            "word": "coke.",
+            "start": 36.756,
+            "end": 37.496,
+            "score": 0.827
+        },
+        {
+            "word": "In",
+            "start": 38.157,
+            "end": 38.217,
+            "score": 0.865
+        },
+        {
+            "word": "the",
+            "start": 38.257,
+            "end": 38.397,
+            "score": 0.598
+        },
+        {
+            "word": "soda",
+            "start": 38.457,
+            "end": 38.857,
+            "score": 0.978
+        },
+        {
+            "word": "and",
+            "start": 38.977,
+            "end": 39.097,
+            "score": 0.75
+        },
+        {
+            "word": "coke,",
+            "start": 39.197,
+            "end": 39.757,
+            "score": 0.871
+        },
+        {
+            "word": "this",
+            "start": 40.677,
+            "end": 41.077,
+            "score": 0.745
+        },
+        {
+            "word": "drink",
+            "start": 41.157,
+            "end": 41.598,
+            "score": 0.937
+        },
+        {
+            "word": "is",
+            "start": 42.258,
+            "end": 42.398,
+            "score": 0.868
+        },
+        {
+            "word": "included",
+            "start": 42.538,
+            "end": 43.058,
+            "score": 0.934
+        },
+        {
+            "word": "harmful",
+            "start": 43.918,
+            "end": 44.678,
+            "score": 0.84
+        },
+        {
+            "word": "for",
+            "start": 45.099,
+            "end": 45.279,
+            "score": 0.803
+        },
+        {
+            "word": "our",
+            "start": 45.399,
+            "end": 45.599,
+            "score": 0.889
+        },
+        {
+            "word": "health.",
+            "start": 45.719,
+            "end": 46.019,
+            "score": 0.751
+        },
+        {
+            "word": "So",
+            "start": 46.88,
+            "end": 47.26,
+            "score": 0.932
+        },
+        {
+            "word": "I",
+            "start": 47.721,
+            "end": 47.781,
+            "score": 0.995
+        },
+        {
+            "word": "recommend",
+            "start": 47.861,
+            "end": 49.063,
+            "score": 0.909
+        },
+        {
+            "word": "to",
+            "start": 49.183,
+            "end": 49.343,
+            "score": 0.996
+        },
+        {
+            "word": "this",
+            "start": 49.523,
+            "end": 49.864,
+            "score": 0.73
+        },
+        {
+            "word": "policy",
+            "start": 49.924,
+            "end": 50.525,
+            "score": 0.776
+        },
+        {
+            "word": "is",
+            "start": 51.085,
+            "end": 51.246,
+            "score": 0.721
+        },
+        {
+            "word": "eventually",
+            "start": 51.266,
+            "end": 53.449,
+            "score": 0.706
+        },
+        {
+            "word": "is",
+            "start": 53.469,
+            "end": 54.09,
+            "score": 0.426
+        },
+        {
+            "word": "getting",
+            "start": 54.51,
+            "end": 54.73,
+            "score": 0.928
+        },
+        {
+            "word": "better",
+            "start": 54.77,
+            "end": 55.251,
+            "score": 0.811
+        },
+        {
+            "word": "in",
+            "start": 55.471,
+            "end": 55.552,
+            "score": 0.933
+        },
+        {
+            "word": "our",
+            "start": 55.672,
+            "end": 55.892,
+            "score": 0.896
+        },
+        {
+            "word": "society.",
+            "start": 55.932,
+            "end": 56.533,
+            "score": 0.843
+        }
+    ]
+}

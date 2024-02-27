@@ -5,6 +5,7 @@
 
 import whisperx
 import torch
+import json
 
 def transcribe_audio(path, filename, model, device):
     try:
@@ -19,9 +20,9 @@ def transcribe_audio(path, filename, model, device):
         result = whisperx.align(result["segments"], model_a, metadata, audio, device, return_char_alignments=False)
 
         # Write transcribed text to a text file with the same filename
-        output_file = filename[:-4] + ".txt"  # Replace .wav with .txt
+        output_file = "./results/" + filename[:-4] + ".json"  # Replace .wav with .txt
         with open(output_file, 'w', encoding="utf-8") as f:
-            f.write(str(result))
+            json.dump(result, f, indent=4)
 
         print(f"Transcription for {filename} has been saved to {output_file}")
 
@@ -63,7 +64,8 @@ if __name__ == "__main__":
         
         # Transcribe audio files one by one
         for audio_file in audio_files:
-            transcribe_audio(audio_file, model, device)
+            transcribe_audio(path ,audio_file, model, device)
             
     except Exception as e:
+        print(e)
         print(f"Model could not be loaded.")

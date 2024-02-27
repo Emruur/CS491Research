@@ -1,0 +1,622 @@
+{
+    "segments": [
+        {
+            "start": 0.169,
+            "end": 10.68,
+            "text": " I agree with the opinion that prohibiting cars and no-car zone in the city.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.169,
+                    "end": 0.269,
+                    "score": 0.811
+                },
+                {
+                    "word": "agree",
+                    "start": 1.29,
+                    "end": 1.571,
+                    "score": 0.88
+                },
+                {
+                    "word": "with",
+                    "start": 1.631,
+                    "end": 2.091,
+                    "score": 0.859
+                },
+                {
+                    "word": "the",
+                    "start": 2.111,
+                    "end": 2.211,
+                    "score": 0.126
+                },
+                {
+                    "word": "opinion",
+                    "start": 2.391,
+                    "end": 2.872,
+                    "score": 0.911
+                },
+                {
+                    "word": "that",
+                    "start": 3.072,
+                    "end": 3.312,
+                    "score": 0.82
+                },
+                {
+                    "word": "prohibiting",
+                    "start": 3.833,
+                    "end": 4.594,
+                    "score": 0.843
+                },
+                {
+                    "word": "cars",
+                    "start": 7.837,
+                    "end": 8.157,
+                    "score": 0.888
+                },
+                {
+                    "word": "and",
+                    "start": 8.538,
+                    "end": 8.718,
+                    "score": 0.697
+                },
+                {
+                    "word": "no-car",
+                    "start": 9.178,
+                    "end": 9.579,
+                    "score": 0.906
+                },
+                {
+                    "word": "zone",
+                    "start": 9.619,
+                    "end": 9.879,
+                    "score": 0.722
+                },
+                {
+                    "word": "in",
+                    "start": 10.119,
+                    "end": 10.18,
+                    "score": 0.778
+                },
+                {
+                    "word": "the",
+                    "start": 10.2,
+                    "end": 10.3,
+                    "score": 0.824
+                },
+                {
+                    "word": "city.",
+                    "start": 10.34,
+                    "end": 10.68,
+                    "score": 0.911
+                }
+            ]
+        },
+        {
+            "start": 12.582,
+            "end": 17.487,
+            "text": "First of all, many cars cause traffic jam.",
+            "words": [
+                {
+                    "word": "First",
+                    "start": 12.582,
+                    "end": 13.002,
+                    "score": 0.52
+                },
+                {
+                    "word": "of",
+                    "start": 13.082,
+                    "end": 13.183,
+                    "score": 0.883
+                },
+                {
+                    "word": "all,",
+                    "start": 13.243,
+                    "end": 13.383,
+                    "score": 0.579
+                },
+                {
+                    "word": "many",
+                    "start": 15.185,
+                    "end": 15.405,
+                    "score": 0.865
+                },
+                {
+                    "word": "cars",
+                    "start": 15.445,
+                    "end": 15.805,
+                    "score": 0.827
+                },
+                {
+                    "word": "cause",
+                    "start": 16.186,
+                    "end": 16.626,
+                    "score": 0.68
+                },
+                {
+                    "word": "traffic",
+                    "start": 16.846,
+                    "end": 17.247,
+                    "score": 0.837
+                },
+                {
+                    "word": "jam.",
+                    "start": 17.267,
+                    "end": 17.487,
+                    "score": 0.76
+                }
+            ]
+        },
+        {
+            "start": 23.334,
+            "end": 50.512,
+            "text": " if there is traffic jam people consume their oil for cars so if traffic if prohibiting cars in the city center we will we will make",
+            "words": [
+                {
+                    "word": "if",
+                    "start": 23.334,
+                    "end": 23.434,
+                    "score": 0.99
+                },
+                {
+                    "word": "there",
+                    "start": 23.494,
+                    "end": 23.774,
+                    "score": 0.811
+                },
+                {
+                    "word": "is",
+                    "start": 24.075,
+                    "end": 24.215,
+                    "score": 0.681
+                },
+                {
+                    "word": "traffic",
+                    "start": 24.315,
+                    "end": 24.695,
+                    "score": 0.737
+                },
+                {
+                    "word": "jam",
+                    "start": 24.715,
+                    "end": 25.015,
+                    "score": 0.811
+                },
+                {
+                    "word": "people",
+                    "start": 26.156,
+                    "end": 26.576,
+                    "score": 0.863
+                },
+                {
+                    "word": "consume",
+                    "start": 27.157,
+                    "end": 27.677,
+                    "score": 0.833
+                },
+                {
+                    "word": "their",
+                    "start": 28.097,
+                    "end": 28.397,
+                    "score": 0.824
+                },
+                {
+                    "word": "oil",
+                    "start": 28.538,
+                    "end": 28.798,
+                    "score": 0.776
+                },
+                {
+                    "word": "for",
+                    "start": 29.338,
+                    "end": 29.638,
+                    "score": 0.744
+                },
+                {
+                    "word": "cars",
+                    "start": 30.099,
+                    "end": 30.499,
+                    "score": 0.814
+                },
+                {
+                    "word": "so",
+                    "start": 32.921,
+                    "end": 33.261,
+                    "score": 0.957
+                },
+                {
+                    "word": "if",
+                    "start": 33.461,
+                    "end": 33.561,
+                    "score": 0.988
+                },
+                {
+                    "word": "traffic",
+                    "start": 33.661,
+                    "end": 34.081,
+                    "score": 0.778
+                },
+                {
+                    "word": "if",
+                    "start": 34.762,
+                    "end": 34.882,
+                    "score": 0.904
+                },
+                {
+                    "word": "prohibiting",
+                    "start": 35.322,
+                    "end": 35.943,
+                    "score": 0.929
+                },
+                {
+                    "word": "cars",
+                    "start": 36.903,
+                    "end": 37.243,
+                    "score": 0.832
+                },
+                {
+                    "word": "in",
+                    "start": 37.343,
+                    "end": 37.404,
+                    "score": 0.997
+                },
+                {
+                    "word": "the",
+                    "start": 37.444,
+                    "end": 37.564,
+                    "score": 0.939
+                },
+                {
+                    "word": "city",
+                    "start": 38.104,
+                    "end": 38.464,
+                    "score": 0.87
+                },
+                {
+                    "word": "center",
+                    "start": 38.684,
+                    "end": 39.085,
+                    "score": 0.744
+                },
+                {
+                    "word": "we",
+                    "start": 40.766,
+                    "end": 40.926,
+                    "score": 0.874
+                },
+                {
+                    "word": "will",
+                    "start": 40.986,
+                    "end": 41.246,
+                    "score": 0.903
+                },
+                {
+                    "word": "we",
+                    "start": 46.81,
+                    "end": 46.97,
+                    "score": 0.956
+                },
+                {
+                    "word": "will",
+                    "start": 47.01,
+                    "end": 47.33,
+                    "score": 0.848
+                },
+                {
+                    "word": "make",
+                    "start": 50.292,
+                    "end": 50.512,
+                    "score": 0.663
+                }
+            ]
+        },
+        {
+            "start": 55.02,
+            "end": 55.181,
+            "text": " And...",
+            "words": [
+                {
+                    "word": "And...",
+                    "start": 55.02,
+                    "end": 55.181,
+                    "score": 0.974
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.169,
+            "end": 0.269,
+            "score": 0.811
+        },
+        {
+            "word": "agree",
+            "start": 1.29,
+            "end": 1.571,
+            "score": 0.88
+        },
+        {
+            "word": "with",
+            "start": 1.631,
+            "end": 2.091,
+            "score": 0.859
+        },
+        {
+            "word": "the",
+            "start": 2.111,
+            "end": 2.211,
+            "score": 0.126
+        },
+        {
+            "word": "opinion",
+            "start": 2.391,
+            "end": 2.872,
+            "score": 0.911
+        },
+        {
+            "word": "that",
+            "start": 3.072,
+            "end": 3.312,
+            "score": 0.82
+        },
+        {
+            "word": "prohibiting",
+            "start": 3.833,
+            "end": 4.594,
+            "score": 0.843
+        },
+        {
+            "word": "cars",
+            "start": 7.837,
+            "end": 8.157,
+            "score": 0.888
+        },
+        {
+            "word": "and",
+            "start": 8.538,
+            "end": 8.718,
+            "score": 0.697
+        },
+        {
+            "word": "no-car",
+            "start": 9.178,
+            "end": 9.579,
+            "score": 0.906
+        },
+        {
+            "word": "zone",
+            "start": 9.619,
+            "end": 9.879,
+            "score": 0.722
+        },
+        {
+            "word": "in",
+            "start": 10.119,
+            "end": 10.18,
+            "score": 0.778
+        },
+        {
+            "word": "the",
+            "start": 10.2,
+            "end": 10.3,
+            "score": 0.824
+        },
+        {
+            "word": "city.",
+            "start": 10.34,
+            "end": 10.68,
+            "score": 0.911
+        },
+        {
+            "word": "First",
+            "start": 12.582,
+            "end": 13.002,
+            "score": 0.52
+        },
+        {
+            "word": "of",
+            "start": 13.082,
+            "end": 13.183,
+            "score": 0.883
+        },
+        {
+            "word": "all,",
+            "start": 13.243,
+            "end": 13.383,
+            "score": 0.579
+        },
+        {
+            "word": "many",
+            "start": 15.185,
+            "end": 15.405,
+            "score": 0.865
+        },
+        {
+            "word": "cars",
+            "start": 15.445,
+            "end": 15.805,
+            "score": 0.827
+        },
+        {
+            "word": "cause",
+            "start": 16.186,
+            "end": 16.626,
+            "score": 0.68
+        },
+        {
+            "word": "traffic",
+            "start": 16.846,
+            "end": 17.247,
+            "score": 0.837
+        },
+        {
+            "word": "jam.",
+            "start": 17.267,
+            "end": 17.487,
+            "score": 0.76
+        },
+        {
+            "word": "if",
+            "start": 23.334,
+            "end": 23.434,
+            "score": 0.99
+        },
+        {
+            "word": "there",
+            "start": 23.494,
+            "end": 23.774,
+            "score": 0.811
+        },
+        {
+            "word": "is",
+            "start": 24.075,
+            "end": 24.215,
+            "score": 0.681
+        },
+        {
+            "word": "traffic",
+            "start": 24.315,
+            "end": 24.695,
+            "score": 0.737
+        },
+        {
+            "word": "jam",
+            "start": 24.715,
+            "end": 25.015,
+            "score": 0.811
+        },
+        {
+            "word": "people",
+            "start": 26.156,
+            "end": 26.576,
+            "score": 0.863
+        },
+        {
+            "word": "consume",
+            "start": 27.157,
+            "end": 27.677,
+            "score": 0.833
+        },
+        {
+            "word": "their",
+            "start": 28.097,
+            "end": 28.397,
+            "score": 0.824
+        },
+        {
+            "word": "oil",
+            "start": 28.538,
+            "end": 28.798,
+            "score": 0.776
+        },
+        {
+            "word": "for",
+            "start": 29.338,
+            "end": 29.638,
+            "score": 0.744
+        },
+        {
+            "word": "cars",
+            "start": 30.099,
+            "end": 30.499,
+            "score": 0.814
+        },
+        {
+            "word": "so",
+            "start": 32.921,
+            "end": 33.261,
+            "score": 0.957
+        },
+        {
+            "word": "if",
+            "start": 33.461,
+            "end": 33.561,
+            "score": 0.988
+        },
+        {
+            "word": "traffic",
+            "start": 33.661,
+            "end": 34.081,
+            "score": 0.778
+        },
+        {
+            "word": "if",
+            "start": 34.762,
+            "end": 34.882,
+            "score": 0.904
+        },
+        {
+            "word": "prohibiting",
+            "start": 35.322,
+            "end": 35.943,
+            "score": 0.929
+        },
+        {
+            "word": "cars",
+            "start": 36.903,
+            "end": 37.243,
+            "score": 0.832
+        },
+        {
+            "word": "in",
+            "start": 37.343,
+            "end": 37.404,
+            "score": 0.997
+        },
+        {
+            "word": "the",
+            "start": 37.444,
+            "end": 37.564,
+            "score": 0.939
+        },
+        {
+            "word": "city",
+            "start": 38.104,
+            "end": 38.464,
+            "score": 0.87
+        },
+        {
+            "word": "center",
+            "start": 38.684,
+            "end": 39.085,
+            "score": 0.744
+        },
+        {
+            "word": "we",
+            "start": 40.766,
+            "end": 40.926,
+            "score": 0.874
+        },
+        {
+            "word": "will",
+            "start": 40.986,
+            "end": 41.246,
+            "score": 0.903
+        },
+        {
+            "word": "we",
+            "start": 46.81,
+            "end": 46.97,
+            "score": 0.956
+        },
+        {
+            "word": "will",
+            "start": 47.01,
+            "end": 47.33,
+            "score": 0.848
+        },
+        {
+            "word": "make",
+            "start": 50.292,
+            "end": 50.512,
+            "score": 0.663
+        },
+        {
+            "word": "And...",
+            "start": 55.02,
+            "end": 55.181,
+            "score": 0.974
+        }
+    ]
+}

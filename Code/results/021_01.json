@@ -1,0 +1,830 @@
+{
+    "segments": [
+        {
+            "start": 0.55,
+            "end": 4.053,
+            "text": " I like the movie The Battle of Mine.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.55,
+                    "end": 0.69,
+                    "score": 0.856
+                },
+                {
+                    "word": "like",
+                    "start": 0.77,
+                    "end": 0.99,
+                    "score": 0.548
+                },
+                {
+                    "word": "the",
+                    "start": 1.03,
+                    "end": 1.13,
+                    "score": 0.529
+                },
+                {
+                    "word": "movie",
+                    "start": 1.17,
+                    "end": 1.731,
+                    "score": 0.743
+                },
+                {
+                    "word": "The",
+                    "start": 2.531,
+                    "end": 2.632,
+                    "score": 0.93
+                },
+                {
+                    "word": "Battle",
+                    "start": 2.692,
+                    "end": 3.212,
+                    "score": 0.758
+                },
+                {
+                    "word": "of",
+                    "start": 3.492,
+                    "end": 3.572,
+                    "score": 0.868
+                },
+                {
+                    "word": "Mine.",
+                    "start": 3.693,
+                    "end": 4.053,
+                    "score": 0.87
+                }
+            ]
+        },
+        {
+            "start": 4.854,
+            "end": 7.536,
+            "text": "It's a China movie.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 4.854,
+                    "end": 5.354,
+                    "score": 0.594
+                },
+                {
+                    "word": "a",
+                    "start": 5.915,
+                    "end": 5.995,
+                    "score": 0.894
+                },
+                {
+                    "word": "China",
+                    "start": 6.095,
+                    "end": 6.595,
+                    "score": 0.804
+                },
+                {
+                    "word": "movie.",
+                    "start": 7.176,
+                    "end": 7.536,
+                    "score": 0.723
+                }
+            ]
+        },
+        {
+            "start": 7.797,
+            "end": 8.818,
+            "text": "I like it very much.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 7.797,
+                    "end": 7.897,
+                    "score": 0.385
+                },
+                {
+                    "word": "like",
+                    "start": 7.917,
+                    "end": 8.037,
+                    "score": 0.283
+                },
+                {
+                    "word": "it",
+                    "start": 8.117,
+                    "end": 8.277,
+                    "score": 0.523
+                },
+                {
+                    "word": "very",
+                    "start": 8.297,
+                    "end": 8.497,
+                    "score": 0.969
+                },
+                {
+                    "word": "much.",
+                    "start": 8.557,
+                    "end": 8.818,
+                    "score": 0.919
+                }
+            ]
+        },
+        {
+            "start": 9.238,
+            "end": 12.001,
+            "text": "It happened in the 1930s.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 9.238,
+                    "end": 9.738,
+                    "score": 0.736
+                },
+                {
+                    "word": "happened",
+                    "start": 10.699,
+                    "end": 11.34,
+                    "score": 0.79
+                },
+                {
+                    "word": "in",
+                    "start": 11.56,
+                    "end": 11.66,
+                    "score": 0.878
+                },
+                {
+                    "word": "the",
+                    "start": 11.7,
+                    "end": 11.841,
+                    "score": 0.83
+                },
+                {
+                    "word": "1930s.",
+                    "start": 11.901,
+                    "end": 12.001,
+                    "score": 0.771
+                }
+            ]
+        },
+        {
+            "start": 12.161,
+            "end": 14.283,
+            "text": "The content is about the",
+            "words": [
+                {
+                    "word": "The",
+                    "start": 12.161,
+                    "end": 12.481,
+                    "score": 0.846
+                },
+                {
+                    "word": "content",
+                    "start": 12.501,
+                    "end": 13.682,
+                    "score": 0.44
+                },
+                {
+                    "word": "is",
+                    "start": 13.742,
+                    "end": 13.862,
+                    "score": 0.504
+                },
+                {
+                    "word": "about",
+                    "start": 13.883,
+                    "end": 14.063,
+                    "score": 0.416
+                },
+                {
+                    "word": "the",
+                    "start": 14.103,
+                    "end": 14.283,
+                    "score": 0.621
+                }
+            ]
+        },
+        {
+            "start": 18.867,
+            "end": 25.288,
+            "text": " Chinese people to defend the country against Japan.",
+            "words": [
+                {
+                    "word": "Chinese",
+                    "start": 18.867,
+                    "end": 19.207,
+                    "score": 0.504
+                },
+                {
+                    "word": "people",
+                    "start": 19.227,
+                    "end": 20.467,
+                    "score": 0.799
+                },
+                {
+                    "word": "to",
+                    "start": 20.627,
+                    "end": 21.108,
+                    "score": 0.942
+                },
+                {
+                    "word": "defend",
+                    "start": 21.548,
+                    "end": 22.068,
+                    "score": 0.796
+                },
+                {
+                    "word": "the",
+                    "start": 22.108,
+                    "end": 22.188,
+                    "score": 0.796
+                },
+                {
+                    "word": "country",
+                    "start": 22.228,
+                    "end": 22.668,
+                    "score": 0.89
+                },
+                {
+                    "word": "against",
+                    "start": 22.828,
+                    "end": 23.568,
+                    "score": 0.77
+                },
+                {
+                    "word": "Japan.",
+                    "start": 24.848,
+                    "end": 25.288,
+                    "score": 0.77
+                }
+            ]
+        },
+        {
+            "start": 26.088,
+            "end": 37.171,
+            "text": "And in the movie, the Chinese people using mine and other weapons to fight the strong enemy.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 26.088,
+                    "end": 26.228,
+                    "score": 0.726
+                },
+                {
+                    "word": "in",
+                    "start": 27.329,
+                    "end": 27.429,
+                    "score": 0.859
+                },
+                {
+                    "word": "the",
+                    "start": 27.469,
+                    "end": 27.609,
+                    "score": 0.89
+                },
+                {
+                    "word": "movie,",
+                    "start": 28.089,
+                    "end": 28.509,
+                    "score": 0.718
+                },
+                {
+                    "word": "the",
+                    "start": 28.889,
+                    "end": 29.009,
+                    "score": 0.84
+                },
+                {
+                    "word": "Chinese",
+                    "start": 29.029,
+                    "end": 29.289,
+                    "score": 0.475
+                },
+                {
+                    "word": "people",
+                    "start": 29.329,
+                    "end": 29.569,
+                    "score": 0.851
+                },
+                {
+                    "word": "using",
+                    "start": 30.249,
+                    "end": 30.649,
+                    "score": 0.55
+                },
+                {
+                    "word": "mine",
+                    "start": 31.049,
+                    "end": 31.389,
+                    "score": 0.962
+                },
+                {
+                    "word": "and",
+                    "start": 31.55,
+                    "end": 31.71,
+                    "score": 0.697
+                },
+                {
+                    "word": "other",
+                    "start": 31.93,
+                    "end": 32.31,
+                    "score": 0.671
+                },
+                {
+                    "word": "weapons",
+                    "start": 33.35,
+                    "end": 33.89,
+                    "score": 0.619
+                },
+                {
+                    "word": "to",
+                    "start": 34.27,
+                    "end": 34.57,
+                    "score": 0.982
+                },
+                {
+                    "word": "fight",
+                    "start": 34.69,
+                    "end": 35.07,
+                    "score": 0.695
+                },
+                {
+                    "word": "the",
+                    "start": 35.13,
+                    "end": 35.33,
+                    "score": 0.894
+                },
+                {
+                    "word": "strong",
+                    "start": 35.85,
+                    "end": 36.31,
+                    "score": 0.885
+                },
+                {
+                    "word": "enemy.",
+                    "start": 36.831,
+                    "end": 37.171,
+                    "score": 0.868
+                }
+            ]
+        },
+        {
+            "start": 37.691,
+            "end": 44.112,
+            "text": "And finally, the Chinese have chosen the Japanese out of the China.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 37.691,
+                    "end": 38.151,
+                    "score": 0.757
+                },
+                {
+                    "word": "finally,",
+                    "start": 38.631,
+                    "end": 39.271,
+                    "score": 0.772
+                },
+                {
+                    "word": "the",
+                    "start": 40.611,
+                    "end": 40.731,
+                    "score": 0.833
+                },
+                {
+                    "word": "Chinese",
+                    "start": 40.771,
+                    "end": 41.371,
+                    "score": 0.559
+                },
+                {
+                    "word": "have",
+                    "start": 41.391,
+                    "end": 41.471,
+                    "score": 0.006
+                },
+                {
+                    "word": "chosen",
+                    "start": 41.531,
+                    "end": 41.832,
+                    "score": 0.704
+                },
+                {
+                    "word": "the",
+                    "start": 41.872,
+                    "end": 42.032,
+                    "score": 0.724
+                },
+                {
+                    "word": "Japanese",
+                    "start": 42.172,
+                    "end": 42.632,
+                    "score": 0.858
+                },
+                {
+                    "word": "out",
+                    "start": 42.772,
+                    "end": 43.052,
+                    "score": 0.861
+                },
+                {
+                    "word": "of",
+                    "start": 43.452,
+                    "end": 43.552,
+                    "score": 0.99
+                },
+                {
+                    "word": "the",
+                    "start": 43.592,
+                    "end": 43.732,
+                    "score": 0.883
+                },
+                {
+                    "word": "China.",
+                    "start": 43.792,
+                    "end": 44.112,
+                    "score": 0.703
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.55,
+            "end": 0.69,
+            "score": 0.856
+        },
+        {
+            "word": "like",
+            "start": 0.77,
+            "end": 0.99,
+            "score": 0.548
+        },
+        {
+            "word": "the",
+            "start": 1.03,
+            "end": 1.13,
+            "score": 0.529
+        },
+        {
+            "word": "movie",
+            "start": 1.17,
+            "end": 1.731,
+            "score": 0.743
+        },
+        {
+            "word": "The",
+            "start": 2.531,
+            "end": 2.632,
+            "score": 0.93
+        },
+        {
+            "word": "Battle",
+            "start": 2.692,
+            "end": 3.212,
+            "score": 0.758
+        },
+        {
+            "word": "of",
+            "start": 3.492,
+            "end": 3.572,
+            "score": 0.868
+        },
+        {
+            "word": "Mine.",
+            "start": 3.693,
+            "end": 4.053,
+            "score": 0.87
+        },
+        {
+            "word": "It's",
+            "start": 4.854,
+            "end": 5.354,
+            "score": 0.594
+        },
+        {
+            "word": "a",
+            "start": 5.915,
+            "end": 5.995,
+            "score": 0.894
+        },
+        {
+            "word": "China",
+            "start": 6.095,
+            "end": 6.595,
+            "score": 0.804
+        },
+        {
+            "word": "movie.",
+            "start": 7.176,
+            "end": 7.536,
+            "score": 0.723
+        },
+        {
+            "word": "I",
+            "start": 7.797,
+            "end": 7.897,
+            "score": 0.385
+        },
+        {
+            "word": "like",
+            "start": 7.917,
+            "end": 8.037,
+            "score": 0.283
+        },
+        {
+            "word": "it",
+            "start": 8.117,
+            "end": 8.277,
+            "score": 0.523
+        },
+        {
+            "word": "very",
+            "start": 8.297,
+            "end": 8.497,
+            "score": 0.969
+        },
+        {
+            "word": "much.",
+            "start": 8.557,
+            "end": 8.818,
+            "score": 0.919
+        },
+        {
+            "word": "It",
+            "start": 9.238,
+            "end": 9.738,
+            "score": 0.736
+        },
+        {
+            "word": "happened",
+            "start": 10.699,
+            "end": 11.34,
+            "score": 0.79
+        },
+        {
+            "word": "in",
+            "start": 11.56,
+            "end": 11.66,
+            "score": 0.878
+        },
+        {
+            "word": "the",
+            "start": 11.7,
+            "end": 11.841,
+            "score": 0.83
+        },
+        {
+            "word": "1930s.",
+            "start": 11.901,
+            "end": 12.001,
+            "score": 0.771
+        },
+        {
+            "word": "The",
+            "start": 12.161,
+            "end": 12.481,
+            "score": 0.846
+        },
+        {
+            "word": "content",
+            "start": 12.501,
+            "end": 13.682,
+            "score": 0.44
+        },
+        {
+            "word": "is",
+            "start": 13.742,
+            "end": 13.862,
+            "score": 0.504
+        },
+        {
+            "word": "about",
+            "start": 13.883,
+            "end": 14.063,
+            "score": 0.416
+        },
+        {
+            "word": "the",
+            "start": 14.103,
+            "end": 14.283,
+            "score": 0.621
+        },
+        {
+            "word": "Chinese",
+            "start": 18.867,
+            "end": 19.207,
+            "score": 0.504
+        },
+        {
+            "word": "people",
+            "start": 19.227,
+            "end": 20.467,
+            "score": 0.799
+        },
+        {
+            "word": "to",
+            "start": 20.627,
+            "end": 21.108,
+            "score": 0.942
+        },
+        {
+            "word": "defend",
+            "start": 21.548,
+            "end": 22.068,
+            "score": 0.796
+        },
+        {
+            "word": "the",
+            "start": 22.108,
+            "end": 22.188,
+            "score": 0.796
+        },
+        {
+            "word": "country",
+            "start": 22.228,
+            "end": 22.668,
+            "score": 0.89
+        },
+        {
+            "word": "against",
+            "start": 22.828,
+            "end": 23.568,
+            "score": 0.77
+        },
+        {
+            "word": "Japan.",
+            "start": 24.848,
+            "end": 25.288,
+            "score": 0.77
+        },
+        {
+            "word": "And",
+            "start": 26.088,
+            "end": 26.228,
+            "score": 0.726
+        },
+        {
+            "word": "in",
+            "start": 27.329,
+            "end": 27.429,
+            "score": 0.859
+        },
+        {
+            "word": "the",
+            "start": 27.469,
+            "end": 27.609,
+            "score": 0.89
+        },
+        {
+            "word": "movie,",
+            "start": 28.089,
+            "end": 28.509,
+            "score": 0.718
+        },
+        {
+            "word": "the",
+            "start": 28.889,
+            "end": 29.009,
+            "score": 0.84
+        },
+        {
+            "word": "Chinese",
+            "start": 29.029,
+            "end": 29.289,
+            "score": 0.475
+        },
+        {
+            "word": "people",
+            "start": 29.329,
+            "end": 29.569,
+            "score": 0.851
+        },
+        {
+            "word": "using",
+            "start": 30.249,
+            "end": 30.649,
+            "score": 0.55
+        },
+        {
+            "word": "mine",
+            "start": 31.049,
+            "end": 31.389,
+            "score": 0.962
+        },
+        {
+            "word": "and",
+            "start": 31.55,
+            "end": 31.71,
+            "score": 0.697
+        },
+        {
+            "word": "other",
+            "start": 31.93,
+            "end": 32.31,
+            "score": 0.671
+        },
+        {
+            "word": "weapons",
+            "start": 33.35,
+            "end": 33.89,
+            "score": 0.619
+        },
+        {
+            "word": "to",
+            "start": 34.27,
+            "end": 34.57,
+            "score": 0.982
+        },
+        {
+            "word": "fight",
+            "start": 34.69,
+            "end": 35.07,
+            "score": 0.695
+        },
+        {
+            "word": "the",
+            "start": 35.13,
+            "end": 35.33,
+            "score": 0.894
+        },
+        {
+            "word": "strong",
+            "start": 35.85,
+            "end": 36.31,
+            "score": 0.885
+        },
+        {
+            "word": "enemy.",
+            "start": 36.831,
+            "end": 37.171,
+            "score": 0.868
+        },
+        {
+            "word": "And",
+            "start": 37.691,
+            "end": 38.151,
+            "score": 0.757
+        },
+        {
+            "word": "finally,",
+            "start": 38.631,
+            "end": 39.271,
+            "score": 0.772
+        },
+        {
+            "word": "the",
+            "start": 40.611,
+            "end": 40.731,
+            "score": 0.833
+        },
+        {
+            "word": "Chinese",
+            "start": 40.771,
+            "end": 41.371,
+            "score": 0.559
+        },
+        {
+            "word": "have",
+            "start": 41.391,
+            "end": 41.471,
+            "score": 0.006
+        },
+        {
+            "word": "chosen",
+            "start": 41.531,
+            "end": 41.832,
+            "score": 0.704
+        },
+        {
+            "word": "the",
+            "start": 41.872,
+            "end": 42.032,
+            "score": 0.724
+        },
+        {
+            "word": "Japanese",
+            "start": 42.172,
+            "end": 42.632,
+            "score": 0.858
+        },
+        {
+            "word": "out",
+            "start": 42.772,
+            "end": 43.052,
+            "score": 0.861
+        },
+        {
+            "word": "of",
+            "start": 43.452,
+            "end": 43.552,
+            "score": 0.99
+        },
+        {
+            "word": "the",
+            "start": 43.592,
+            "end": 43.732,
+            "score": 0.883
+        },
+        {
+            "word": "China.",
+            "start": 43.792,
+            "end": 44.112,
+            "score": 0.703
+        }
+    ]
+}

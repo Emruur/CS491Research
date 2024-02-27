@@ -1,0 +1,711 @@
+{
+    "segments": [
+        {
+            "start": 0.329,
+            "end": 14.463,
+            "text": " If I want to go to the bus station, now I'm in the drugstore and I have to get the 10th street and keep going for two blocks.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.329,
+                    "end": 0.409,
+                    "score": 0.999
+                },
+                {
+                    "word": "I",
+                    "start": 0.57,
+                    "end": 1.07,
+                    "score": 0.842
+                },
+                {
+                    "word": "want",
+                    "start": 1.09,
+                    "end": 1.23,
+                    "score": 0.484
+                },
+                {
+                    "word": "to",
+                    "start": 1.25,
+                    "end": 1.35,
+                    "score": 0.224
+                },
+                {
+                    "word": "go",
+                    "start": 1.39,
+                    "end": 1.51,
+                    "score": 0.762
+                },
+                {
+                    "word": "to",
+                    "start": 1.571,
+                    "end": 1.671,
+                    "score": 0.994
+                },
+                {
+                    "word": "the",
+                    "start": 1.711,
+                    "end": 1.771,
+                    "score": 0.929
+                },
+                {
+                    "word": "bus",
+                    "start": 1.831,
+                    "end": 1.991,
+                    "score": 0.641
+                },
+                {
+                    "word": "station,",
+                    "start": 2.011,
+                    "end": 2.391,
+                    "score": 0.921
+                },
+                {
+                    "word": "now",
+                    "start": 3.492,
+                    "end": 3.713,
+                    "score": 0.951
+                },
+                {
+                    "word": "I'm",
+                    "start": 3.853,
+                    "end": 4.013,
+                    "score": 0.898
+                },
+                {
+                    "word": "in",
+                    "start": 4.093,
+                    "end": 4.193,
+                    "score": 0.735
+                },
+                {
+                    "word": "the",
+                    "start": 4.213,
+                    "end": 4.313,
+                    "score": 0.498
+                },
+                {
+                    "word": "drugstore",
+                    "start": 4.353,
+                    "end": 5.014,
+                    "score": 0.762
+                },
+                {
+                    "word": "and",
+                    "start": 5.534,
+                    "end": 5.695,
+                    "score": 0.716
+                },
+                {
+                    "word": "I",
+                    "start": 6.315,
+                    "end": 6.375,
+                    "score": 0.997
+                },
+                {
+                    "word": "have",
+                    "start": 6.415,
+                    "end": 6.535,
+                    "score": 0.956
+                },
+                {
+                    "word": "to",
+                    "start": 6.595,
+                    "end": 6.936,
+                    "score": 0.786
+                },
+                {
+                    "word": "get",
+                    "start": 8.477,
+                    "end": 8.717,
+                    "score": 0.912
+                },
+                {
+                    "word": "the",
+                    "start": 8.778,
+                    "end": 8.918,
+                    "score": 0.936
+                },
+                {
+                    "word": "10th",
+                    "start": 10.239,
+                    "end": 10.439,
+                    "score": 0.843
+                },
+                {
+                    "word": "street",
+                    "start": 10.739,
+                    "end": 11.2,
+                    "score": 0.71
+                },
+                {
+                    "word": "and",
+                    "start": 11.78,
+                    "end": 12.341,
+                    "score": 0.603
+                },
+                {
+                    "word": "keep",
+                    "start": 12.421,
+                    "end": 12.601,
+                    "score": 0.92
+                },
+                {
+                    "word": "going",
+                    "start": 12.641,
+                    "end": 12.982,
+                    "score": 0.814
+                },
+                {
+                    "word": "for",
+                    "start": 13.082,
+                    "end": 13.342,
+                    "score": 0.858
+                },
+                {
+                    "word": "two",
+                    "start": 13.902,
+                    "end": 14.103,
+                    "score": 0.821
+                },
+                {
+                    "word": "blocks.",
+                    "start": 14.123,
+                    "end": 14.463,
+                    "score": 0.56
+                }
+            ]
+        },
+        {
+            "start": 14.543,
+            "end": 17.906,
+            "text": "And when I get to Park Road, I have to turn left.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 14.543,
+                    "end": 14.683,
+                    "score": 0.603
+                },
+                {
+                    "word": "when",
+                    "start": 14.763,
+                    "end": 14.903,
+                    "score": 0.95
+                },
+                {
+                    "word": "I",
+                    "start": 14.964,
+                    "end": 15.044,
+                    "score": 0.762
+                },
+                {
+                    "word": "get",
+                    "start": 15.084,
+                    "end": 15.204,
+                    "score": 0.965
+                },
+                {
+                    "word": "to",
+                    "start": 15.224,
+                    "end": 15.264,
+                    "score": 0.006
+                },
+                {
+                    "word": "Park",
+                    "start": 15.304,
+                    "end": 15.544,
+                    "score": 0.968
+                },
+                {
+                    "word": "Road,",
+                    "start": 15.604,
+                    "end": 15.904,
+                    "score": 0.832
+                },
+                {
+                    "word": "I",
+                    "start": 15.944,
+                    "end": 16.005,
+                    "score": 0.664
+                },
+                {
+                    "word": "have",
+                    "start": 16.045,
+                    "end": 16.145,
+                    "score": 0.772
+                },
+                {
+                    "word": "to",
+                    "start": 16.165,
+                    "end": 16.305,
+                    "score": 0.913
+                },
+                {
+                    "word": "turn",
+                    "start": 16.365,
+                    "end": 16.725,
+                    "score": 0.719
+                },
+                {
+                    "word": "left.",
+                    "start": 17.666,
+                    "end": 17.906,
+                    "score": 0.907
+                }
+            ]
+        },
+        {
+            "start": 18.307,
+            "end": 24.593,
+            "text": "Then I will meet a circle space and I have to walk right side and keep going.",
+            "words": [
+                {
+                    "word": "Then",
+                    "start": 18.307,
+                    "end": 18.627,
+                    "score": 0.789
+                },
+                {
+                    "word": "I",
+                    "start": 18.787,
+                    "end": 18.827,
+                    "score": 0.98
+                },
+                {
+                    "word": "will",
+                    "start": 18.867,
+                    "end": 19.047,
+                    "score": 0.908
+                },
+                {
+                    "word": "meet",
+                    "start": 19.088,
+                    "end": 19.308,
+                    "score": 0.735
+                },
+                {
+                    "word": "a",
+                    "start": 19.428,
+                    "end": 19.468,
+                    "score": 0.911
+                },
+                {
+                    "word": "circle",
+                    "start": 19.968,
+                    "end": 20.509,
+                    "score": 0.672
+                },
+                {
+                    "word": "space",
+                    "start": 20.529,
+                    "end": 20.889,
+                    "score": 0.879
+                },
+                {
+                    "word": "and",
+                    "start": 21.009,
+                    "end": 21.109,
+                    "score": 0.867
+                },
+                {
+                    "word": "I",
+                    "start": 21.19,
+                    "end": 21.25,
+                    "score": 0.994
+                },
+                {
+                    "word": "have",
+                    "start": 21.29,
+                    "end": 21.41,
+                    "score": 0.904
+                },
+                {
+                    "word": "to",
+                    "start": 21.47,
+                    "end": 21.67,
+                    "score": 0.934
+                },
+                {
+                    "word": "walk",
+                    "start": 22.211,
+                    "end": 22.411,
+                    "score": 0.967
+                },
+                {
+                    "word": "right",
+                    "start": 23.612,
+                    "end": 23.812,
+                    "score": 0.923
+                },
+                {
+                    "word": "side",
+                    "start": 23.852,
+                    "end": 24.132,
+                    "score": 0.793
+                },
+                {
+                    "word": "and",
+                    "start": 24.172,
+                    "end": 24.273,
+                    "score": 0.713
+                },
+                {
+                    "word": "keep",
+                    "start": 24.293,
+                    "end": 24.413,
+                    "score": 0.468
+                },
+                {
+                    "word": "going.",
+                    "start": 24.433,
+                    "end": 24.593,
+                    "score": 0.532
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.329,
+            "end": 0.409,
+            "score": 0.999
+        },
+        {
+            "word": "I",
+            "start": 0.57,
+            "end": 1.07,
+            "score": 0.842
+        },
+        {
+            "word": "want",
+            "start": 1.09,
+            "end": 1.23,
+            "score": 0.484
+        },
+        {
+            "word": "to",
+            "start": 1.25,
+            "end": 1.35,
+            "score": 0.224
+        },
+        {
+            "word": "go",
+            "start": 1.39,
+            "end": 1.51,
+            "score": 0.762
+        },
+        {
+            "word": "to",
+            "start": 1.571,
+            "end": 1.671,
+            "score": 0.994
+        },
+        {
+            "word": "the",
+            "start": 1.711,
+            "end": 1.771,
+            "score": 0.929
+        },
+        {
+            "word": "bus",
+            "start": 1.831,
+            "end": 1.991,
+            "score": 0.641
+        },
+        {
+            "word": "station,",
+            "start": 2.011,
+            "end": 2.391,
+            "score": 0.921
+        },
+        {
+            "word": "now",
+            "start": 3.492,
+            "end": 3.713,
+            "score": 0.951
+        },
+        {
+            "word": "I'm",
+            "start": 3.853,
+            "end": 4.013,
+            "score": 0.898
+        },
+        {
+            "word": "in",
+            "start": 4.093,
+            "end": 4.193,
+            "score": 0.735
+        },
+        {
+            "word": "the",
+            "start": 4.213,
+            "end": 4.313,
+            "score": 0.498
+        },
+        {
+            "word": "drugstore",
+            "start": 4.353,
+            "end": 5.014,
+            "score": 0.762
+        },
+        {
+            "word": "and",
+            "start": 5.534,
+            "end": 5.695,
+            "score": 0.716
+        },
+        {
+            "word": "I",
+            "start": 6.315,
+            "end": 6.375,
+            "score": 0.997
+        },
+        {
+            "word": "have",
+            "start": 6.415,
+            "end": 6.535,
+            "score": 0.956
+        },
+        {
+            "word": "to",
+            "start": 6.595,
+            "end": 6.936,
+            "score": 0.786
+        },
+        {
+            "word": "get",
+            "start": 8.477,
+            "end": 8.717,
+            "score": 0.912
+        },
+        {
+            "word": "the",
+            "start": 8.778,
+            "end": 8.918,
+            "score": 0.936
+        },
+        {
+            "word": "10th",
+            "start": 10.239,
+            "end": 10.439,
+            "score": 0.843
+        },
+        {
+            "word": "street",
+            "start": 10.739,
+            "end": 11.2,
+            "score": 0.71
+        },
+        {
+            "word": "and",
+            "start": 11.78,
+            "end": 12.341,
+            "score": 0.603
+        },
+        {
+            "word": "keep",
+            "start": 12.421,
+            "end": 12.601,
+            "score": 0.92
+        },
+        {
+            "word": "going",
+            "start": 12.641,
+            "end": 12.982,
+            "score": 0.814
+        },
+        {
+            "word": "for",
+            "start": 13.082,
+            "end": 13.342,
+            "score": 0.858
+        },
+        {
+            "word": "two",
+            "start": 13.902,
+            "end": 14.103,
+            "score": 0.821
+        },
+        {
+            "word": "blocks.",
+            "start": 14.123,
+            "end": 14.463,
+            "score": 0.56
+        },
+        {
+            "word": "And",
+            "start": 14.543,
+            "end": 14.683,
+            "score": 0.603
+        },
+        {
+            "word": "when",
+            "start": 14.763,
+            "end": 14.903,
+            "score": 0.95
+        },
+        {
+            "word": "I",
+            "start": 14.964,
+            "end": 15.044,
+            "score": 0.762
+        },
+        {
+            "word": "get",
+            "start": 15.084,
+            "end": 15.204,
+            "score": 0.965
+        },
+        {
+            "word": "to",
+            "start": 15.224,
+            "end": 15.264,
+            "score": 0.006
+        },
+        {
+            "word": "Park",
+            "start": 15.304,
+            "end": 15.544,
+            "score": 0.968
+        },
+        {
+            "word": "Road,",
+            "start": 15.604,
+            "end": 15.904,
+            "score": 0.832
+        },
+        {
+            "word": "I",
+            "start": 15.944,
+            "end": 16.005,
+            "score": 0.664
+        },
+        {
+            "word": "have",
+            "start": 16.045,
+            "end": 16.145,
+            "score": 0.772
+        },
+        {
+            "word": "to",
+            "start": 16.165,
+            "end": 16.305,
+            "score": 0.913
+        },
+        {
+            "word": "turn",
+            "start": 16.365,
+            "end": 16.725,
+            "score": 0.719
+        },
+        {
+            "word": "left.",
+            "start": 17.666,
+            "end": 17.906,
+            "score": 0.907
+        },
+        {
+            "word": "Then",
+            "start": 18.307,
+            "end": 18.627,
+            "score": 0.789
+        },
+        {
+            "word": "I",
+            "start": 18.787,
+            "end": 18.827,
+            "score": 0.98
+        },
+        {
+            "word": "will",
+            "start": 18.867,
+            "end": 19.047,
+            "score": 0.908
+        },
+        {
+            "word": "meet",
+            "start": 19.088,
+            "end": 19.308,
+            "score": 0.735
+        },
+        {
+            "word": "a",
+            "start": 19.428,
+            "end": 19.468,
+            "score": 0.911
+        },
+        {
+            "word": "circle",
+            "start": 19.968,
+            "end": 20.509,
+            "score": 0.672
+        },
+        {
+            "word": "space",
+            "start": 20.529,
+            "end": 20.889,
+            "score": 0.879
+        },
+        {
+            "word": "and",
+            "start": 21.009,
+            "end": 21.109,
+            "score": 0.867
+        },
+        {
+            "word": "I",
+            "start": 21.19,
+            "end": 21.25,
+            "score": 0.994
+        },
+        {
+            "word": "have",
+            "start": 21.29,
+            "end": 21.41,
+            "score": 0.904
+        },
+        {
+            "word": "to",
+            "start": 21.47,
+            "end": 21.67,
+            "score": 0.934
+        },
+        {
+            "word": "walk",
+            "start": 22.211,
+            "end": 22.411,
+            "score": 0.967
+        },
+        {
+            "word": "right",
+            "start": 23.612,
+            "end": 23.812,
+            "score": 0.923
+        },
+        {
+            "word": "side",
+            "start": 23.852,
+            "end": 24.132,
+            "score": 0.793
+        },
+        {
+            "word": "and",
+            "start": 24.172,
+            "end": 24.273,
+            "score": 0.713
+        },
+        {
+            "word": "keep",
+            "start": 24.293,
+            "end": 24.413,
+            "score": 0.468
+        },
+        {
+            "word": "going.",
+            "start": 24.433,
+            "end": 24.593,
+            "score": 0.532
+        }
+    ]
+}

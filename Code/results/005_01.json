@@ -1,0 +1,1046 @@
+{
+    "segments": [
+        {
+            "start": 0.129,
+            "end": 5.99,
+            "text": " I like Eternal Sunshine of the Spotless Mind because it's not an usual movie.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.129,
+                    "end": 0.209,
+                    "score": 0.991
+                },
+                {
+                    "word": "like",
+                    "start": 0.269,
+                    "end": 0.609,
+                    "score": 0.937
+                },
+                {
+                    "word": "Eternal",
+                    "start": 0.729,
+                    "end": 1.229,
+                    "score": 0.79
+                },
+                {
+                    "word": "Sunshine",
+                    "start": 1.269,
+                    "end": 1.869,
+                    "score": 0.938
+                },
+                {
+                    "word": "of",
+                    "start": 1.929,
+                    "end": 2.009,
+                    "score": 0.793
+                },
+                {
+                    "word": "the",
+                    "start": 2.029,
+                    "end": 2.189,
+                    "score": 0.776
+                },
+                {
+                    "word": "Spotless",
+                    "start": 2.209,
+                    "end": 2.67,
+                    "score": 0.9
+                },
+                {
+                    "word": "Mind",
+                    "start": 2.73,
+                    "end": 3.11,
+                    "score": 0.575
+                },
+                {
+                    "word": "because",
+                    "start": 3.81,
+                    "end": 4.31,
+                    "score": 0.911
+                },
+                {
+                    "word": "it's",
+                    "start": 4.43,
+                    "end": 4.57,
+                    "score": 0.964
+                },
+                {
+                    "word": "not",
+                    "start": 4.63,
+                    "end": 4.85,
+                    "score": 0.838
+                },
+                {
+                    "word": "an",
+                    "start": 4.97,
+                    "end": 5.03,
+                    "score": 0.526
+                },
+                {
+                    "word": "usual",
+                    "start": 5.17,
+                    "end": 5.53,
+                    "score": 0.915
+                },
+                {
+                    "word": "movie.",
+                    "start": 5.57,
+                    "end": 5.99,
+                    "score": 0.677
+                }
+            ]
+        },
+        {
+            "start": 7.23,
+            "end": 16.032,
+            "text": "It includes like different aspects that a movie can approach and it's not like any regular.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 7.23,
+                    "end": 7.33,
+                    "score": 0.904
+                },
+                {
+                    "word": "includes",
+                    "start": 7.49,
+                    "end": 8.091,
+                    "score": 0.899
+                },
+                {
+                    "word": "like",
+                    "start": 8.191,
+                    "end": 8.571,
+                    "score": 0.81
+                },
+                {
+                    "word": "different",
+                    "start": 9.671,
+                    "end": 10.071,
+                    "score": 0.852
+                },
+                {
+                    "word": "aspects",
+                    "start": 10.211,
+                    "end": 10.731,
+                    "score": 0.831
+                },
+                {
+                    "word": "that",
+                    "start": 10.991,
+                    "end": 11.251,
+                    "score": 0.904
+                },
+                {
+                    "word": "a",
+                    "start": 11.271,
+                    "end": 11.291,
+                    "score": 0.0
+                },
+                {
+                    "word": "movie",
+                    "start": 11.331,
+                    "end": 11.691,
+                    "score": 0.457
+                },
+                {
+                    "word": "can",
+                    "start": 11.711,
+                    "end": 11.871,
+                    "score": 0.796
+                },
+                {
+                    "word": "approach",
+                    "start": 11.911,
+                    "end": 12.651,
+                    "score": 0.919
+                },
+                {
+                    "word": "and",
+                    "start": 13.732,
+                    "end": 13.892,
+                    "score": 0.48
+                },
+                {
+                    "word": "it's",
+                    "start": 14.152,
+                    "end": 14.372,
+                    "score": 0.697
+                },
+                {
+                    "word": "not",
+                    "start": 14.472,
+                    "end": 14.752,
+                    "score": 0.994
+                },
+                {
+                    "word": "like",
+                    "start": 14.832,
+                    "end": 15.072,
+                    "score": 0.912
+                },
+                {
+                    "word": "any",
+                    "start": 15.312,
+                    "end": 15.472,
+                    "score": 0.742
+                },
+                {
+                    "word": "regular.",
+                    "start": 15.572,
+                    "end": 16.032,
+                    "score": 0.617
+                }
+            ]
+        },
+        {
+            "start": 17.632,
+            "end": 26.094,
+            "text": "It follows a different order and the pact of the movie is like really different so it makes sense.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 17.632,
+                    "end": 17.672,
+                    "score": 0.006
+                },
+                {
+                    "word": "follows",
+                    "start": 17.912,
+                    "end": 18.232,
+                    "score": 0.907
+                },
+                {
+                    "word": "a",
+                    "start": 18.312,
+                    "end": 18.393,
+                    "score": 0.71
+                },
+                {
+                    "word": "different",
+                    "start": 18.413,
+                    "end": 18.733,
+                    "score": 0.848
+                },
+                {
+                    "word": "order",
+                    "start": 18.913,
+                    "end": 19.253,
+                    "score": 0.59
+                },
+                {
+                    "word": "and",
+                    "start": 20.313,
+                    "end": 20.513,
+                    "score": 0.433
+                },
+                {
+                    "word": "the",
+                    "start": 20.573,
+                    "end": 20.673,
+                    "score": 0.955
+                },
+                {
+                    "word": "pact",
+                    "start": 20.713,
+                    "end": 20.993,
+                    "score": 0.824
+                },
+                {
+                    "word": "of",
+                    "start": 21.033,
+                    "end": 21.113,
+                    "score": 0.792
+                },
+                {
+                    "word": "the",
+                    "start": 21.133,
+                    "end": 21.193,
+                    "score": 0.975
+                },
+                {
+                    "word": "movie",
+                    "start": 21.253,
+                    "end": 21.673,
+                    "score": 0.644
+                },
+                {
+                    "word": "is",
+                    "start": 21.973,
+                    "end": 22.173,
+                    "score": 0.758
+                },
+                {
+                    "word": "like",
+                    "start": 22.473,
+                    "end": 22.793,
+                    "score": 0.732
+                },
+                {
+                    "word": "really",
+                    "start": 24.094,
+                    "end": 24.494,
+                    "score": 0.806
+                },
+                {
+                    "word": "different",
+                    "start": 24.654,
+                    "end": 25.154,
+                    "score": 0.724
+                },
+                {
+                    "word": "so",
+                    "start": 25.214,
+                    "end": 25.454,
+                    "score": 0.9
+                },
+                {
+                    "word": "it",
+                    "start": 25.554,
+                    "end": 25.634,
+                    "score": 0.874
+                },
+                {
+                    "word": "makes",
+                    "start": 25.714,
+                    "end": 25.974,
+                    "score": 0.872
+                },
+                {
+                    "word": "sense.",
+                    "start": 25.994,
+                    "end": 26.094,
+                    "score": 0.0
+                }
+            ]
+        },
+        {
+            "start": 27.702,
+            "end": 31.123,
+            "text": " It makes it different to watch it than the rest of the movies.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 27.702,
+                    "end": 27.802,
+                    "score": 0.532
+                },
+                {
+                    "word": "makes",
+                    "start": 27.842,
+                    "end": 28.042,
+                    "score": 0.976
+                },
+                {
+                    "word": "it",
+                    "start": 28.122,
+                    "end": 28.182,
+                    "score": 0.987
+                },
+                {
+                    "word": "different",
+                    "start": 28.482,
+                    "end": 28.942,
+                    "score": 0.814
+                },
+                {
+                    "word": "to",
+                    "start": 28.982,
+                    "end": 29.102,
+                    "score": 0.708
+                },
+                {
+                    "word": "watch",
+                    "start": 29.163,
+                    "end": 29.443,
+                    "score": 0.969
+                },
+                {
+                    "word": "it",
+                    "start": 29.623,
+                    "end": 29.763,
+                    "score": 0.88
+                },
+                {
+                    "word": "than",
+                    "start": 29.843,
+                    "end": 30.103,
+                    "score": 0.729
+                },
+                {
+                    "word": "the",
+                    "start": 30.143,
+                    "end": 30.243,
+                    "score": 0.708
+                },
+                {
+                    "word": "rest",
+                    "start": 30.283,
+                    "end": 30.443,
+                    "score": 0.915
+                },
+                {
+                    "word": "of",
+                    "start": 30.483,
+                    "end": 30.543,
+                    "score": 0.701
+                },
+                {
+                    "word": "the",
+                    "start": 30.563,
+                    "end": 30.623,
+                    "score": 0.943
+                },
+                {
+                    "word": "movies.",
+                    "start": 30.683,
+                    "end": 31.123,
+                    "score": 0.789
+                }
+            ]
+        },
+        {
+            "start": 33.424,
+            "end": 34.564,
+            "text": "It's very nice.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 33.424,
+                    "end": 33.644,
+                    "score": 0.828
+                },
+                {
+                    "word": "very",
+                    "start": 33.744,
+                    "end": 34.024,
+                    "score": 0.865
+                },
+                {
+                    "word": "nice.",
+                    "start": 34.064,
+                    "end": 34.564,
+                    "score": 0.844
+                }
+            ]
+        },
+        {
+            "start": 35.064,
+            "end": 38.406,
+            "text": "It's a love story like every single movie.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 35.064,
+                    "end": 35.265,
+                    "score": 0.795
+                },
+                {
+                    "word": "a",
+                    "start": 35.365,
+                    "end": 35.405,
+                    "score": 0.591
+                },
+                {
+                    "word": "love",
+                    "start": 35.425,
+                    "end": 35.705,
+                    "score": 0.68
+                },
+                {
+                    "word": "story",
+                    "start": 35.745,
+                    "end": 36.305,
+                    "score": 0.8
+                },
+                {
+                    "word": "like",
+                    "start": 36.485,
+                    "end": 36.765,
+                    "score": 0.731
+                },
+                {
+                    "word": "every",
+                    "start": 37.385,
+                    "end": 37.585,
+                    "score": 0.972
+                },
+                {
+                    "word": "single",
+                    "start": 37.605,
+                    "end": 37.965,
+                    "score": 0.858
+                },
+                {
+                    "word": "movie.",
+                    "start": 38.005,
+                    "end": 38.406,
+                    "score": 0.293
+                }
+            ]
+        },
+        {
+            "start": 39.206,
+            "end": 40.766,
+            "text": "So I like it.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 39.206,
+                    "end": 39.806,
+                    "score": 0.436
+                },
+                {
+                    "word": "I",
+                    "start": 40.326,
+                    "end": 40.406,
+                    "score": 0.871
+                },
+                {
+                    "word": "like",
+                    "start": 40.446,
+                    "end": 40.646,
+                    "score": 0.944
+                },
+                {
+                    "word": "it.",
+                    "start": 40.706,
+                    "end": 40.766,
+                    "score": 0.771
+                }
+            ]
+        },
+        {
+            "start": 40.826,
+            "end": 42.727,
+            "text": "That was my favorite movie.",
+            "words": [
+                {
+                    "word": "That",
+                    "start": 40.826,
+                    "end": 41.006,
+                    "score": 0.831
+                },
+                {
+                    "word": "was",
+                    "start": 41.066,
+                    "end": 41.347,
+                    "score": 0.897
+                },
+                {
+                    "word": "my",
+                    "start": 41.687,
+                    "end": 42.027,
+                    "score": 0.972
+                },
+                {
+                    "word": "favorite",
+                    "start": 42.207,
+                    "end": 42.507,
+                    "score": 0.778
+                },
+                {
+                    "word": "movie.",
+                    "start": 42.527,
+                    "end": 42.727,
+                    "score": 0.346
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.129,
+            "end": 0.209,
+            "score": 0.991
+        },
+        {
+            "word": "like",
+            "start": 0.269,
+            "end": 0.609,
+            "score": 0.937
+        },
+        {
+            "word": "Eternal",
+            "start": 0.729,
+            "end": 1.229,
+            "score": 0.79
+        },
+        {
+            "word": "Sunshine",
+            "start": 1.269,
+            "end": 1.869,
+            "score": 0.938
+        },
+        {
+            "word": "of",
+            "start": 1.929,
+            "end": 2.009,
+            "score": 0.793
+        },
+        {
+            "word": "the",
+            "start": 2.029,
+            "end": 2.189,
+            "score": 0.776
+        },
+        {
+            "word": "Spotless",
+            "start": 2.209,
+            "end": 2.67,
+            "score": 0.9
+        },
+        {
+            "word": "Mind",
+            "start": 2.73,
+            "end": 3.11,
+            "score": 0.575
+        },
+        {
+            "word": "because",
+            "start": 3.81,
+            "end": 4.31,
+            "score": 0.911
+        },
+        {
+            "word": "it's",
+            "start": 4.43,
+            "end": 4.57,
+            "score": 0.964
+        },
+        {
+            "word": "not",
+            "start": 4.63,
+            "end": 4.85,
+            "score": 0.838
+        },
+        {
+            "word": "an",
+            "start": 4.97,
+            "end": 5.03,
+            "score": 0.526
+        },
+        {
+            "word": "usual",
+            "start": 5.17,
+            "end": 5.53,
+            "score": 0.915
+        },
+        {
+            "word": "movie.",
+            "start": 5.57,
+            "end": 5.99,
+            "score": 0.677
+        },
+        {
+            "word": "It",
+            "start": 7.23,
+            "end": 7.33,
+            "score": 0.904
+        },
+        {
+            "word": "includes",
+            "start": 7.49,
+            "end": 8.091,
+            "score": 0.899
+        },
+        {
+            "word": "like",
+            "start": 8.191,
+            "end": 8.571,
+            "score": 0.81
+        },
+        {
+            "word": "different",
+            "start": 9.671,
+            "end": 10.071,
+            "score": 0.852
+        },
+        {
+            "word": "aspects",
+            "start": 10.211,
+            "end": 10.731,
+            "score": 0.831
+        },
+        {
+            "word": "that",
+            "start": 10.991,
+            "end": 11.251,
+            "score": 0.904
+        },
+        {
+            "word": "a",
+            "start": 11.271,
+            "end": 11.291,
+            "score": 0.0
+        },
+        {
+            "word": "movie",
+            "start": 11.331,
+            "end": 11.691,
+            "score": 0.457
+        },
+        {
+            "word": "can",
+            "start": 11.711,
+            "end": 11.871,
+            "score": 0.796
+        },
+        {
+            "word": "approach",
+            "start": 11.911,
+            "end": 12.651,
+            "score": 0.919
+        },
+        {
+            "word": "and",
+            "start": 13.732,
+            "end": 13.892,
+            "score": 0.48
+        },
+        {
+            "word": "it's",
+            "start": 14.152,
+            "end": 14.372,
+            "score": 0.697
+        },
+        {
+            "word": "not",
+            "start": 14.472,
+            "end": 14.752,
+            "score": 0.994
+        },
+        {
+            "word": "like",
+            "start": 14.832,
+            "end": 15.072,
+            "score": 0.912
+        },
+        {
+            "word": "any",
+            "start": 15.312,
+            "end": 15.472,
+            "score": 0.742
+        },
+        {
+            "word": "regular.",
+            "start": 15.572,
+            "end": 16.032,
+            "score": 0.617
+        },
+        {
+            "word": "It",
+            "start": 17.632,
+            "end": 17.672,
+            "score": 0.006
+        },
+        {
+            "word": "follows",
+            "start": 17.912,
+            "end": 18.232,
+            "score": 0.907
+        },
+        {
+            "word": "a",
+            "start": 18.312,
+            "end": 18.393,
+            "score": 0.71
+        },
+        {
+            "word": "different",
+            "start": 18.413,
+            "end": 18.733,
+            "score": 0.848
+        },
+        {
+            "word": "order",
+            "start": 18.913,
+            "end": 19.253,
+            "score": 0.59
+        },
+        {
+            "word": "and",
+            "start": 20.313,
+            "end": 20.513,
+            "score": 0.433
+        },
+        {
+            "word": "the",
+            "start": 20.573,
+            "end": 20.673,
+            "score": 0.955
+        },
+        {
+            "word": "pact",
+            "start": 20.713,
+            "end": 20.993,
+            "score": 0.824
+        },
+        {
+            "word": "of",
+            "start": 21.033,
+            "end": 21.113,
+            "score": 0.792
+        },
+        {
+            "word": "the",
+            "start": 21.133,
+            "end": 21.193,
+            "score": 0.975
+        },
+        {
+            "word": "movie",
+            "start": 21.253,
+            "end": 21.673,
+            "score": 0.644
+        },
+        {
+            "word": "is",
+            "start": 21.973,
+            "end": 22.173,
+            "score": 0.758
+        },
+        {
+            "word": "like",
+            "start": 22.473,
+            "end": 22.793,
+            "score": 0.732
+        },
+        {
+            "word": "really",
+            "start": 24.094,
+            "end": 24.494,
+            "score": 0.806
+        },
+        {
+            "word": "different",
+            "start": 24.654,
+            "end": 25.154,
+            "score": 0.724
+        },
+        {
+            "word": "so",
+            "start": 25.214,
+            "end": 25.454,
+            "score": 0.9
+        },
+        {
+            "word": "it",
+            "start": 25.554,
+            "end": 25.634,
+            "score": 0.874
+        },
+        {
+            "word": "makes",
+            "start": 25.714,
+            "end": 25.974,
+            "score": 0.872
+        },
+        {
+            "word": "sense.",
+            "start": 25.994,
+            "end": 26.094,
+            "score": 0.0
+        },
+        {
+            "word": "It",
+            "start": 27.702,
+            "end": 27.802,
+            "score": 0.532
+        },
+        {
+            "word": "makes",
+            "start": 27.842,
+            "end": 28.042,
+            "score": 0.976
+        },
+        {
+            "word": "it",
+            "start": 28.122,
+            "end": 28.182,
+            "score": 0.987
+        },
+        {
+            "word": "different",
+            "start": 28.482,
+            "end": 28.942,
+            "score": 0.814
+        },
+        {
+            "word": "to",
+            "start": 28.982,
+            "end": 29.102,
+            "score": 0.708
+        },
+        {
+            "word": "watch",
+            "start": 29.163,
+            "end": 29.443,
+            "score": 0.969
+        },
+        {
+            "word": "it",
+            "start": 29.623,
+            "end": 29.763,
+            "score": 0.88
+        },
+        {
+            "word": "than",
+            "start": 29.843,
+            "end": 30.103,
+            "score": 0.729
+        },
+        {
+            "word": "the",
+            "start": 30.143,
+            "end": 30.243,
+            "score": 0.708
+        },
+        {
+            "word": "rest",
+            "start": 30.283,
+            "end": 30.443,
+            "score": 0.915
+        },
+        {
+            "word": "of",
+            "start": 30.483,
+            "end": 30.543,
+            "score": 0.701
+        },
+        {
+            "word": "the",
+            "start": 30.563,
+            "end": 30.623,
+            "score": 0.943
+        },
+        {
+            "word": "movies.",
+            "start": 30.683,
+            "end": 31.123,
+            "score": 0.789
+        },
+        {
+            "word": "It's",
+            "start": 33.424,
+            "end": 33.644,
+            "score": 0.828
+        },
+        {
+            "word": "very",
+            "start": 33.744,
+            "end": 34.024,
+            "score": 0.865
+        },
+        {
+            "word": "nice.",
+            "start": 34.064,
+            "end": 34.564,
+            "score": 0.844
+        },
+        {
+            "word": "It's",
+            "start": 35.064,
+            "end": 35.265,
+            "score": 0.795
+        },
+        {
+            "word": "a",
+            "start": 35.365,
+            "end": 35.405,
+            "score": 0.591
+        },
+        {
+            "word": "love",
+            "start": 35.425,
+            "end": 35.705,
+            "score": 0.68
+        },
+        {
+            "word": "story",
+            "start": 35.745,
+            "end": 36.305,
+            "score": 0.8
+        },
+        {
+            "word": "like",
+            "start": 36.485,
+            "end": 36.765,
+            "score": 0.731
+        },
+        {
+            "word": "every",
+            "start": 37.385,
+            "end": 37.585,
+            "score": 0.972
+        },
+        {
+            "word": "single",
+            "start": 37.605,
+            "end": 37.965,
+            "score": 0.858
+        },
+        {
+            "word": "movie.",
+            "start": 38.005,
+            "end": 38.406,
+            "score": 0.293
+        },
+        {
+            "word": "So",
+            "start": 39.206,
+            "end": 39.806,
+            "score": 0.436
+        },
+        {
+            "word": "I",
+            "start": 40.326,
+            "end": 40.406,
+            "score": 0.871
+        },
+        {
+            "word": "like",
+            "start": 40.446,
+            "end": 40.646,
+            "score": 0.944
+        },
+        {
+            "word": "it.",
+            "start": 40.706,
+            "end": 40.766,
+            "score": 0.771
+        },
+        {
+            "word": "That",
+            "start": 40.826,
+            "end": 41.006,
+            "score": 0.831
+        },
+        {
+            "word": "was",
+            "start": 41.066,
+            "end": 41.347,
+            "score": 0.897
+        },
+        {
+            "word": "my",
+            "start": 41.687,
+            "end": 42.027,
+            "score": 0.972
+        },
+        {
+            "word": "favorite",
+            "start": 42.207,
+            "end": 42.507,
+            "score": 0.778
+        },
+        {
+            "word": "movie.",
+            "start": 42.527,
+            "end": 42.727,
+            "score": 0.346
+        }
+    ]
+}

@@ -1,0 +1,764 @@
+{
+    "segments": [
+        {
+            "start": 0.149,
+            "end": 21.21,
+            "text": " about now we are now we are in Franklin Hall so you just go straight from the you just go when you out of the hotel you just go straight in the right side in the left side of the River Street until the",
+            "words": [
+                {
+                    "word": "about",
+                    "start": 0.149,
+                    "end": 1.25,
+                    "score": 0.941
+                },
+                {
+                    "word": "now",
+                    "start": 2.231,
+                    "end": 2.491,
+                    "score": 0.859
+                },
+                {
+                    "word": "we",
+                    "start": 2.572,
+                    "end": 2.732,
+                    "score": 0.996
+                },
+                {
+                    "word": "are",
+                    "start": 2.892,
+                    "end": 3.132,
+                    "score": 0.657
+                },
+                {
+                    "word": "now",
+                    "start": 3.773,
+                    "end": 3.933,
+                    "score": 0.989
+                },
+                {
+                    "word": "we",
+                    "start": 3.973,
+                    "end": 4.093,
+                    "score": 0.996
+                },
+                {
+                    "word": "are",
+                    "start": 4.193,
+                    "end": 4.293,
+                    "score": 0.895
+                },
+                {
+                    "word": "in",
+                    "start": 4.413,
+                    "end": 4.854,
+                    "score": 0.889
+                },
+                {
+                    "word": "Franklin",
+                    "start": 5.214,
+                    "end": 5.895,
+                    "score": 0.863
+                },
+                {
+                    "word": "Hall",
+                    "start": 6.035,
+                    "end": 6.275,
+                    "score": 0.517
+                },
+                {
+                    "word": "so",
+                    "start": 6.896,
+                    "end": 7.236,
+                    "score": 0.931
+                },
+                {
+                    "word": "you",
+                    "start": 7.396,
+                    "end": 7.596,
+                    "score": 0.878
+                },
+                {
+                    "word": "just",
+                    "start": 7.636,
+                    "end": 7.917,
+                    "score": 0.827
+                },
+                {
+                    "word": "go",
+                    "start": 8.417,
+                    "end": 8.617,
+                    "score": 0.996
+                },
+                {
+                    "word": "straight",
+                    "start": 8.677,
+                    "end": 9.098,
+                    "score": 0.688
+                },
+                {
+                    "word": "from",
+                    "start": 9.478,
+                    "end": 9.739,
+                    "score": 0.97
+                },
+                {
+                    "word": "the",
+                    "start": 9.779,
+                    "end": 9.899,
+                    "score": 0.97
+                },
+                {
+                    "word": "you",
+                    "start": 10.239,
+                    "end": 10.399,
+                    "score": 0.889
+                },
+                {
+                    "word": "just",
+                    "start": 10.419,
+                    "end": 10.579,
+                    "score": 0.923
+                },
+                {
+                    "word": "go",
+                    "start": 10.659,
+                    "end": 10.9,
+                    "score": 0.839
+                },
+                {
+                    "word": "when",
+                    "start": 11.5,
+                    "end": 11.64,
+                    "score": 0.887
+                },
+                {
+                    "word": "you",
+                    "start": 11.66,
+                    "end": 11.861,
+                    "score": 0.82
+                },
+                {
+                    "word": "out",
+                    "start": 11.981,
+                    "end": 12.141,
+                    "score": 0.926
+                },
+                {
+                    "word": "of",
+                    "start": 12.361,
+                    "end": 12.481,
+                    "score": 0.804
+                },
+                {
+                    "word": "the",
+                    "start": 12.541,
+                    "end": 12.902,
+                    "score": 0.921
+                },
+                {
+                    "word": "hotel",
+                    "start": 13.122,
+                    "end": 13.502,
+                    "score": 0.707
+                },
+                {
+                    "word": "you",
+                    "start": 13.622,
+                    "end": 13.782,
+                    "score": 0.982
+                },
+                {
+                    "word": "just",
+                    "start": 13.802,
+                    "end": 13.983,
+                    "score": 0.987
+                },
+                {
+                    "word": "go",
+                    "start": 14.123,
+                    "end": 14.303,
+                    "score": 1.0
+                },
+                {
+                    "word": "straight",
+                    "start": 14.363,
+                    "end": 14.723,
+                    "score": 0.732
+                },
+                {
+                    "word": "in",
+                    "start": 15.644,
+                    "end": 15.724,
+                    "score": 0.879
+                },
+                {
+                    "word": "the",
+                    "start": 15.764,
+                    "end": 15.864,
+                    "score": 0.808
+                },
+                {
+                    "word": "right",
+                    "start": 15.905,
+                    "end": 16.105,
+                    "score": 0.895
+                },
+                {
+                    "word": "side",
+                    "start": 16.145,
+                    "end": 16.485,
+                    "score": 0.811
+                },
+                {
+                    "word": "in",
+                    "start": 17.026,
+                    "end": 17.226,
+                    "score": 0.763
+                },
+                {
+                    "word": "the",
+                    "start": 17.386,
+                    "end": 17.466,
+                    "score": 0.48
+                },
+                {
+                    "word": "left",
+                    "start": 17.506,
+                    "end": 17.686,
+                    "score": 0.533
+                },
+                {
+                    "word": "side",
+                    "start": 17.706,
+                    "end": 17.947,
+                    "score": 0.706
+                },
+                {
+                    "word": "of",
+                    "start": 17.987,
+                    "end": 18.067,
+                    "score": 0.902
+                },
+                {
+                    "word": "the",
+                    "start": 18.107,
+                    "end": 18.227,
+                    "score": 0.978
+                },
+                {
+                    "word": "River",
+                    "start": 18.287,
+                    "end": 18.627,
+                    "score": 0.575
+                },
+                {
+                    "word": "Street",
+                    "start": 18.647,
+                    "end": 19.028,
+                    "score": 0.854
+                },
+                {
+                    "word": "until",
+                    "start": 19.768,
+                    "end": 20.529,
+                    "score": 0.771
+                },
+                {
+                    "word": "the",
+                    "start": 20.909,
+                    "end": 21.21,
+                    "score": 0.958
+                }
+            ]
+        },
+        {
+            "start": 23.272,
+            "end": 32.191,
+            "text": " Harrison Avenue F then turn right and go straight two blocks after that go right then you can",
+            "words": [
+                {
+                    "word": "Harrison",
+                    "start": 23.272,
+                    "end": 23.854,
+                    "score": 0.727
+                },
+                {
+                    "word": "Avenue",
+                    "start": 24.194,
+                    "end": 24.515,
+                    "score": 0.686
+                },
+                {
+                    "word": "F",
+                    "start": 24.956,
+                    "end": 25.136,
+                    "score": 0.673
+                },
+                {
+                    "word": "then",
+                    "start": 25.637,
+                    "end": 25.878,
+                    "score": 0.899
+                },
+                {
+                    "word": "turn",
+                    "start": 25.938,
+                    "end": 26.239,
+                    "score": 0.804
+                },
+                {
+                    "word": "right",
+                    "start": 26.339,
+                    "end": 26.66,
+                    "score": 0.756
+                },
+                {
+                    "word": "and",
+                    "start": 27.261,
+                    "end": 27.381,
+                    "score": 0.762
+                },
+                {
+                    "word": "go",
+                    "start": 27.461,
+                    "end": 27.622,
+                    "score": 0.994
+                },
+                {
+                    "word": "straight",
+                    "start": 27.662,
+                    "end": 28.043,
+                    "score": 0.822
+                },
+                {
+                    "word": "two",
+                    "start": 28.844,
+                    "end": 29.025,
+                    "score": 0.858
+                },
+                {
+                    "word": "blocks",
+                    "start": 29.045,
+                    "end": 29.405,
+                    "score": 0.897
+                },
+                {
+                    "word": "after",
+                    "start": 29.746,
+                    "end": 29.967,
+                    "score": 0.453
+                },
+                {
+                    "word": "that",
+                    "start": 29.987,
+                    "end": 30.287,
+                    "score": 0.638
+                },
+                {
+                    "word": "go",
+                    "start": 30.608,
+                    "end": 30.829,
+                    "score": 0.924
+                },
+                {
+                    "word": "right",
+                    "start": 30.909,
+                    "end": 31.209,
+                    "score": 0.724
+                },
+                {
+                    "word": "then",
+                    "start": 31.67,
+                    "end": 31.871,
+                    "score": 0.972
+                },
+                {
+                    "word": "you",
+                    "start": 31.911,
+                    "end": 32.031,
+                    "score": 0.995
+                },
+                {
+                    "word": "can",
+                    "start": 32.071,
+                    "end": 32.191,
+                    "score": 0.931
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "about",
+            "start": 0.149,
+            "end": 1.25,
+            "score": 0.941
+        },
+        {
+            "word": "now",
+            "start": 2.231,
+            "end": 2.491,
+            "score": 0.859
+        },
+        {
+            "word": "we",
+            "start": 2.572,
+            "end": 2.732,
+            "score": 0.996
+        },
+        {
+            "word": "are",
+            "start": 2.892,
+            "end": 3.132,
+            "score": 0.657
+        },
+        {
+            "word": "now",
+            "start": 3.773,
+            "end": 3.933,
+            "score": 0.989
+        },
+        {
+            "word": "we",
+            "start": 3.973,
+            "end": 4.093,
+            "score": 0.996
+        },
+        {
+            "word": "are",
+            "start": 4.193,
+            "end": 4.293,
+            "score": 0.895
+        },
+        {
+            "word": "in",
+            "start": 4.413,
+            "end": 4.854,
+            "score": 0.889
+        },
+        {
+            "word": "Franklin",
+            "start": 5.214,
+            "end": 5.895,
+            "score": 0.863
+        },
+        {
+            "word": "Hall",
+            "start": 6.035,
+            "end": 6.275,
+            "score": 0.517
+        },
+        {
+            "word": "so",
+            "start": 6.896,
+            "end": 7.236,
+            "score": 0.931
+        },
+        {
+            "word": "you",
+            "start": 7.396,
+            "end": 7.596,
+            "score": 0.878
+        },
+        {
+            "word": "just",
+            "start": 7.636,
+            "end": 7.917,
+            "score": 0.827
+        },
+        {
+            "word": "go",
+            "start": 8.417,
+            "end": 8.617,
+            "score": 0.996
+        },
+        {
+            "word": "straight",
+            "start": 8.677,
+            "end": 9.098,
+            "score": 0.688
+        },
+        {
+            "word": "from",
+            "start": 9.478,
+            "end": 9.739,
+            "score": 0.97
+        },
+        {
+            "word": "the",
+            "start": 9.779,
+            "end": 9.899,
+            "score": 0.97
+        },
+        {
+            "word": "you",
+            "start": 10.239,
+            "end": 10.399,
+            "score": 0.889
+        },
+        {
+            "word": "just",
+            "start": 10.419,
+            "end": 10.579,
+            "score": 0.923
+        },
+        {
+            "word": "go",
+            "start": 10.659,
+            "end": 10.9,
+            "score": 0.839
+        },
+        {
+            "word": "when",
+            "start": 11.5,
+            "end": 11.64,
+            "score": 0.887
+        },
+        {
+            "word": "you",
+            "start": 11.66,
+            "end": 11.861,
+            "score": 0.82
+        },
+        {
+            "word": "out",
+            "start": 11.981,
+            "end": 12.141,
+            "score": 0.926
+        },
+        {
+            "word": "of",
+            "start": 12.361,
+            "end": 12.481,
+            "score": 0.804
+        },
+        {
+            "word": "the",
+            "start": 12.541,
+            "end": 12.902,
+            "score": 0.921
+        },
+        {
+            "word": "hotel",
+            "start": 13.122,
+            "end": 13.502,
+            "score": 0.707
+        },
+        {
+            "word": "you",
+            "start": 13.622,
+            "end": 13.782,
+            "score": 0.982
+        },
+        {
+            "word": "just",
+            "start": 13.802,
+            "end": 13.983,
+            "score": 0.987
+        },
+        {
+            "word": "go",
+            "start": 14.123,
+            "end": 14.303,
+            "score": 1.0
+        },
+        {
+            "word": "straight",
+            "start": 14.363,
+            "end": 14.723,
+            "score": 0.732
+        },
+        {
+            "word": "in",
+            "start": 15.644,
+            "end": 15.724,
+            "score": 0.879
+        },
+        {
+            "word": "the",
+            "start": 15.764,
+            "end": 15.864,
+            "score": 0.808
+        },
+        {
+            "word": "right",
+            "start": 15.905,
+            "end": 16.105,
+            "score": 0.895
+        },
+        {
+            "word": "side",
+            "start": 16.145,
+            "end": 16.485,
+            "score": 0.811
+        },
+        {
+            "word": "in",
+            "start": 17.026,
+            "end": 17.226,
+            "score": 0.763
+        },
+        {
+            "word": "the",
+            "start": 17.386,
+            "end": 17.466,
+            "score": 0.48
+        },
+        {
+            "word": "left",
+            "start": 17.506,
+            "end": 17.686,
+            "score": 0.533
+        },
+        {
+            "word": "side",
+            "start": 17.706,
+            "end": 17.947,
+            "score": 0.706
+        },
+        {
+            "word": "of",
+            "start": 17.987,
+            "end": 18.067,
+            "score": 0.902
+        },
+        {
+            "word": "the",
+            "start": 18.107,
+            "end": 18.227,
+            "score": 0.978
+        },
+        {
+            "word": "River",
+            "start": 18.287,
+            "end": 18.627,
+            "score": 0.575
+        },
+        {
+            "word": "Street",
+            "start": 18.647,
+            "end": 19.028,
+            "score": 0.854
+        },
+        {
+            "word": "until",
+            "start": 19.768,
+            "end": 20.529,
+            "score": 0.771
+        },
+        {
+            "word": "the",
+            "start": 20.909,
+            "end": 21.21,
+            "score": 0.958
+        },
+        {
+            "word": "Harrison",
+            "start": 23.272,
+            "end": 23.854,
+            "score": 0.727
+        },
+        {
+            "word": "Avenue",
+            "start": 24.194,
+            "end": 24.515,
+            "score": 0.686
+        },
+        {
+            "word": "F",
+            "start": 24.956,
+            "end": 25.136,
+            "score": 0.673
+        },
+        {
+            "word": "then",
+            "start": 25.637,
+            "end": 25.878,
+            "score": 0.899
+        },
+        {
+            "word": "turn",
+            "start": 25.938,
+            "end": 26.239,
+            "score": 0.804
+        },
+        {
+            "word": "right",
+            "start": 26.339,
+            "end": 26.66,
+            "score": 0.756
+        },
+        {
+            "word": "and",
+            "start": 27.261,
+            "end": 27.381,
+            "score": 0.762
+        },
+        {
+            "word": "go",
+            "start": 27.461,
+            "end": 27.622,
+            "score": 0.994
+        },
+        {
+            "word": "straight",
+            "start": 27.662,
+            "end": 28.043,
+            "score": 0.822
+        },
+        {
+            "word": "two",
+            "start": 28.844,
+            "end": 29.025,
+            "score": 0.858
+        },
+        {
+            "word": "blocks",
+            "start": 29.045,
+            "end": 29.405,
+            "score": 0.897
+        },
+        {
+            "word": "after",
+            "start": 29.746,
+            "end": 29.967,
+            "score": 0.453
+        },
+        {
+            "word": "that",
+            "start": 29.987,
+            "end": 30.287,
+            "score": 0.638
+        },
+        {
+            "word": "go",
+            "start": 30.608,
+            "end": 30.829,
+            "score": 0.924
+        },
+        {
+            "word": "right",
+            "start": 30.909,
+            "end": 31.209,
+            "score": 0.724
+        },
+        {
+            "word": "then",
+            "start": 31.67,
+            "end": 31.871,
+            "score": 0.972
+        },
+        {
+            "word": "you",
+            "start": 31.911,
+            "end": 32.031,
+            "score": 0.995
+        },
+        {
+            "word": "can",
+            "start": 32.071,
+            "end": 32.191,
+            "score": 0.931
+        }
+    ]
+}

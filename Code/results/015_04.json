@@ -1,0 +1,1396 @@
+{
+    "segments": [
+        {
+            "start": 0.629,
+            "end": 3.491,
+            "text": " Do you want to know about the San Francisco's weather?",
+            "words": [
+                {
+                    "word": "Do",
+                    "start": 0.629,
+                    "end": 0.729,
+                    "score": 0.99
+                },
+                {
+                    "word": "you",
+                    "start": 0.769,
+                    "end": 0.869,
+                    "score": 0.768
+                },
+                {
+                    "word": "want",
+                    "start": 0.889,
+                    "end": 1.049,
+                    "score": 0.669
+                },
+                {
+                    "word": "to",
+                    "start": 1.069,
+                    "end": 1.25,
+                    "score": 0.621
+                },
+                {
+                    "word": "know",
+                    "start": 1.47,
+                    "end": 1.69,
+                    "score": 0.79
+                },
+                {
+                    "word": "about",
+                    "start": 1.77,
+                    "end": 2.01,
+                    "score": 0.954
+                },
+                {
+                    "word": "the",
+                    "start": 2.05,
+                    "end": 2.17,
+                    "score": 0.595
+                },
+                {
+                    "word": "San",
+                    "start": 2.19,
+                    "end": 2.37,
+                    "score": 0.703
+                },
+                {
+                    "word": "Francisco's",
+                    "start": 2.39,
+                    "end": 3.11,
+                    "score": 0.756
+                },
+                {
+                    "word": "weather?",
+                    "start": 3.15,
+                    "end": 3.491,
+                    "score": 0.526
+                }
+            ]
+        },
+        {
+            "start": 4.451,
+            "end": 8.213,
+            "text": "In this week, San Francisco's weather is pretty good.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 4.451,
+                    "end": 4.531,
+                    "score": 0.88
+                },
+                {
+                    "word": "this",
+                    "start": 4.551,
+                    "end": 4.751,
+                    "score": 0.81
+                },
+                {
+                    "word": "week,",
+                    "start": 4.811,
+                    "end": 5.091,
+                    "score": 0.894
+                },
+                {
+                    "word": "San",
+                    "start": 6.452,
+                    "end": 6.592,
+                    "score": 0.626
+                },
+                {
+                    "word": "Francisco's",
+                    "start": 6.612,
+                    "end": 7.252,
+                    "score": 0.705
+                },
+                {
+                    "word": "weather",
+                    "start": 7.292,
+                    "end": 7.512,
+                    "score": 0.831
+                },
+                {
+                    "word": "is",
+                    "start": 7.552,
+                    "end": 7.632,
+                    "score": 0.64
+                },
+                {
+                    "word": "pretty",
+                    "start": 7.693,
+                    "end": 7.933,
+                    "score": 0.961
+                },
+                {
+                    "word": "good.",
+                    "start": 7.953,
+                    "end": 8.213,
+                    "score": 0.846
+                }
+            ]
+        },
+        {
+            "start": 8.893,
+            "end": 12.235,
+            "text": "Monday to Friday, it is no rainy, no snowy.",
+            "words": [
+                {
+                    "word": "Monday",
+                    "start": 8.893,
+                    "end": 9.213,
+                    "score": 0.77
+                },
+                {
+                    "word": "to",
+                    "start": 9.333,
+                    "end": 9.513,
+                    "score": 0.788
+                },
+                {
+                    "word": "Friday,",
+                    "start": 9.553,
+                    "end": 10.034,
+                    "score": 0.913
+                },
+                {
+                    "word": "it",
+                    "start": 10.234,
+                    "end": 10.314,
+                    "score": 0.877
+                },
+                {
+                    "word": "is",
+                    "start": 10.374,
+                    "end": 10.474,
+                    "score": 0.758
+                },
+                {
+                    "word": "no",
+                    "start": 10.534,
+                    "end": 10.694,
+                    "score": 0.966
+                },
+                {
+                    "word": "rainy,",
+                    "start": 10.754,
+                    "end": 11.134,
+                    "score": 0.827
+                },
+                {
+                    "word": "no",
+                    "start": 11.574,
+                    "end": 11.774,
+                    "score": 0.876
+                },
+                {
+                    "word": "snowy.",
+                    "start": 11.814,
+                    "end": 12.235,
+                    "score": 0.959
+                }
+            ]
+        },
+        {
+            "start": 13.435,
+            "end": 15.836,
+            "text": "In Monday, the weather is very good.",
+            "words": [
+                {
+                    "word": "In",
+                    "start": 13.435,
+                    "end": 13.515,
+                    "score": 0.946
+                },
+                {
+                    "word": "Monday,",
+                    "start": 13.555,
+                    "end": 13.995,
+                    "score": 0.833
+                },
+                {
+                    "word": "the",
+                    "start": 14.015,
+                    "end": 14.075,
+                    "score": 0.0
+                },
+                {
+                    "word": "weather",
+                    "start": 15.196,
+                    "end": 15.396,
+                    "score": 0.921
+                },
+                {
+                    "word": "is",
+                    "start": 15.416,
+                    "end": 15.456,
+                    "score": 0.001
+                },
+                {
+                    "word": "very",
+                    "start": 15.496,
+                    "end": 15.616,
+                    "score": 0.246
+                },
+                {
+                    "word": "good.",
+                    "start": 15.636,
+                    "end": 15.836,
+                    "score": 0.433
+                }
+            ]
+        },
+        {
+            "start": 19.059,
+            "end": 24.665,
+            "text": " little bit sunny, they have a cloud and the sun.",
+            "words": [
+                {
+                    "word": "little",
+                    "start": 19.059,
+                    "end": 19.299,
+                    "score": 0.921
+                },
+                {
+                    "word": "bit",
+                    "start": 19.339,
+                    "end": 19.459,
+                    "score": 0.522
+                },
+                {
+                    "word": "sunny,",
+                    "start": 19.499,
+                    "end": 19.82,
+                    "score": 0.819
+                },
+                {
+                    "word": "they",
+                    "start": 20.26,
+                    "end": 20.48,
+                    "score": 0.958
+                },
+                {
+                    "word": "have",
+                    "start": 20.54,
+                    "end": 20.961,
+                    "score": 0.719
+                },
+                {
+                    "word": "a",
+                    "start": 21.842,
+                    "end": 22.102,
+                    "score": 0.671
+                },
+                {
+                    "word": "cloud",
+                    "start": 22.483,
+                    "end": 23.063,
+                    "score": 0.873
+                },
+                {
+                    "word": "and",
+                    "start": 23.324,
+                    "end": 23.464,
+                    "score": 0.813
+                },
+                {
+                    "word": "the",
+                    "start": 23.824,
+                    "end": 24.004,
+                    "score": 0.909
+                },
+                {
+                    "word": "sun.",
+                    "start": 24.305,
+                    "end": 24.665,
+                    "score": 0.865
+                }
+            ]
+        },
+        {
+            "start": 25.426,
+            "end": 28.83,
+            "text": "And Tuesday also same thing and also Wednesday same.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 25.426,
+                    "end": 25.546,
+                    "score": 0.878
+                },
+                {
+                    "word": "Tuesday",
+                    "start": 25.726,
+                    "end": 26.087,
+                    "score": 0.708
+                },
+                {
+                    "word": "also",
+                    "start": 26.147,
+                    "end": 26.467,
+                    "score": 0.84
+                },
+                {
+                    "word": "same",
+                    "start": 26.507,
+                    "end": 26.707,
+                    "score": 0.984
+                },
+                {
+                    "word": "thing",
+                    "start": 26.747,
+                    "end": 26.988,
+                    "score": 0.87
+                },
+                {
+                    "word": "and",
+                    "start": 27.608,
+                    "end": 27.709,
+                    "score": 0.866
+                },
+                {
+                    "word": "also",
+                    "start": 27.769,
+                    "end": 28.029,
+                    "score": 0.965
+                },
+                {
+                    "word": "Wednesday",
+                    "start": 28.049,
+                    "end": 28.469,
+                    "score": 0.381
+                },
+                {
+                    "word": "same.",
+                    "start": 28.509,
+                    "end": 28.83,
+                    "score": 0.828
+                }
+            ]
+        },
+        {
+            "start": 29.691,
+            "end": 31.573,
+            "text": "But Thursday is little bit",
+            "words": [
+                {
+                    "word": "But",
+                    "start": 29.691,
+                    "end": 29.971,
+                    "score": 0.795
+                },
+                {
+                    "word": "Thursday",
+                    "start": 30.291,
+                    "end": 30.732,
+                    "score": 0.602
+                },
+                {
+                    "word": "is",
+                    "start": 30.772,
+                    "end": 30.912,
+                    "score": 0.788
+                },
+                {
+                    "word": "little",
+                    "start": 31.112,
+                    "end": 31.373,
+                    "score": 0.571
+                },
+                {
+                    "word": "bit",
+                    "start": 31.393,
+                    "end": 31.573,
+                    "score": 0.841
+                }
+            ]
+        },
+        {
+            "start": 33.123,
+            "end": 36.304,
+            "text": " good compared to the Wednesday, one day to Wednesday.",
+            "words": [
+                {
+                    "word": "good",
+                    "start": 33.123,
+                    "end": 33.343,
+                    "score": 0.984
+                },
+                {
+                    "word": "compared",
+                    "start": 33.423,
+                    "end": 33.963,
+                    "score": 0.892
+                },
+                {
+                    "word": "to",
+                    "start": 34.043,
+                    "end": 34.163,
+                    "score": 0.54
+                },
+                {
+                    "word": "the",
+                    "start": 34.183,
+                    "end": 34.444,
+                    "score": 0.687
+                },
+                {
+                    "word": "Wednesday,",
+                    "start": 34.644,
+                    "end": 34.984,
+                    "score": 0.56
+                },
+                {
+                    "word": "one",
+                    "start": 35.124,
+                    "end": 35.204,
+                    "score": 0.862
+                },
+                {
+                    "word": "day",
+                    "start": 35.224,
+                    "end": 35.384,
+                    "score": 0.967
+                },
+                {
+                    "word": "to",
+                    "start": 35.424,
+                    "end": 35.604,
+                    "score": 0.922
+                },
+                {
+                    "word": "Wednesday.",
+                    "start": 35.824,
+                    "end": 36.304,
+                    "score": 0.831
+                }
+            ]
+        },
+        {
+            "start": 38.045,
+            "end": 50.03,
+            "text": "And also Friday is pretty good so you can wear the short, you can wear, you don't have to wear the big, heavy stuff, clothes, yeah.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 38.045,
+                    "end": 38.225,
+                    "score": 0.662
+                },
+                {
+                    "word": "also",
+                    "start": 38.305,
+                    "end": 38.605,
+                    "score": 0.682
+                },
+                {
+                    "word": "Friday",
+                    "start": 38.645,
+                    "end": 39.065,
+                    "score": 0.947
+                },
+                {
+                    "word": "is",
+                    "start": 39.125,
+                    "end": 39.205,
+                    "score": 0.713
+                },
+                {
+                    "word": "pretty",
+                    "start": 39.265,
+                    "end": 39.526,
+                    "score": 0.862
+                },
+                {
+                    "word": "good",
+                    "start": 39.546,
+                    "end": 39.766,
+                    "score": 0.627
+                },
+                {
+                    "word": "so",
+                    "start": 39.806,
+                    "end": 40.046,
+                    "score": 0.806
+                },
+                {
+                    "word": "you",
+                    "start": 40.086,
+                    "end": 40.226,
+                    "score": 0.919
+                },
+                {
+                    "word": "can",
+                    "start": 40.266,
+                    "end": 40.586,
+                    "score": 0.883
+                },
+                {
+                    "word": "wear",
+                    "start": 40.646,
+                    "end": 40.846,
+                    "score": 0.565
+                },
+                {
+                    "word": "the",
+                    "start": 40.886,
+                    "end": 41.126,
+                    "score": 0.729
+                },
+                {
+                    "word": "short,",
+                    "start": 42.026,
+                    "end": 44.187,
+                    "score": 0.863
+                },
+                {
+                    "word": "you",
+                    "start": 44.828,
+                    "end": 44.928,
+                    "score": 0.994
+                },
+                {
+                    "word": "can",
+                    "start": 44.968,
+                    "end": 45.128,
+                    "score": 0.915
+                },
+                {
+                    "word": "wear,",
+                    "start": 45.168,
+                    "end": 45.448,
+                    "score": 0.4
+                },
+                {
+                    "word": "you",
+                    "start": 45.928,
+                    "end": 46.068,
+                    "score": 0.912
+                },
+                {
+                    "word": "don't",
+                    "start": 46.088,
+                    "end": 46.268,
+                    "score": 0.713
+                },
+                {
+                    "word": "have",
+                    "start": 46.308,
+                    "end": 46.488,
+                    "score": 0.766
+                },
+                {
+                    "word": "to",
+                    "start": 46.568,
+                    "end": 46.708,
+                    "score": 0.876
+                },
+                {
+                    "word": "wear",
+                    "start": 46.748,
+                    "end": 46.928,
+                    "score": 0.585
+                },
+                {
+                    "word": "the",
+                    "start": 46.968,
+                    "end": 47.148,
+                    "score": 0.733
+                },
+                {
+                    "word": "big,",
+                    "start": 47.409,
+                    "end": 47.609,
+                    "score": 0.833
+                },
+                {
+                    "word": "heavy",
+                    "start": 48.229,
+                    "end": 48.449,
+                    "score": 0.695
+                },
+                {
+                    "word": "stuff,",
+                    "start": 48.669,
+                    "end": 48.969,
+                    "score": 0.742
+                },
+                {
+                    "word": "clothes,",
+                    "start": 49.209,
+                    "end": 49.629,
+                    "score": 0.638
+                },
+                {
+                    "word": "yeah.",
+                    "start": 49.75,
+                    "end": 50.03,
+                    "score": 0.551
+                }
+            ]
+        },
+        {
+            "start": 50.75,
+            "end": 55.992,
+            "text": "And the other location is, the weather is pretty good in San Francisco in this week.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 50.75,
+                    "end": 50.87,
+                    "score": 0.674
+                },
+                {
+                    "word": "the",
+                    "start": 50.91,
+                    "end": 50.99,
+                    "score": 0.821
+                },
+                {
+                    "word": "other",
+                    "start": 51.01,
+                    "end": 51.21,
+                    "score": 0.742
+                },
+                {
+                    "word": "location",
+                    "start": 51.23,
+                    "end": 52.531,
+                    "score": 0.792
+                },
+                {
+                    "word": "is,",
+                    "start": 52.991,
+                    "end": 53.131,
+                    "score": 0.383
+                },
+                {
+                    "word": "the",
+                    "start": 53.571,
+                    "end": 53.751,
+                    "score": 0.764
+                },
+                {
+                    "word": "weather",
+                    "start": 53.771,
+                    "end": 53.991,
+                    "score": 0.394
+                },
+                {
+                    "word": "is",
+                    "start": 54.011,
+                    "end": 54.091,
+                    "score": 0.398
+                },
+                {
+                    "word": "pretty",
+                    "start": 54.131,
+                    "end": 54.351,
+                    "score": 0.859
+                },
+                {
+                    "word": "good",
+                    "start": 54.391,
+                    "end": 54.571,
+                    "score": 0.84
+                },
+                {
+                    "word": "in",
+                    "start": 54.771,
+                    "end": 54.932,
+                    "score": 0.74
+                },
+                {
+                    "word": "San",
+                    "start": 54.952,
+                    "end": 55.132,
+                    "score": 0.491
+                },
+                {
+                    "word": "Francisco",
+                    "start": 55.152,
+                    "end": 55.512,
+                    "score": 0.58
+                },
+                {
+                    "word": "in",
+                    "start": 55.572,
+                    "end": 55.632,
+                    "score": 0.815
+                },
+                {
+                    "word": "this",
+                    "start": 55.652,
+                    "end": 55.772,
+                    "score": 0.291
+                },
+                {
+                    "word": "week.",
+                    "start": 55.852,
+                    "end": 55.992,
+                    "score": 0.731
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Do",
+            "start": 0.629,
+            "end": 0.729,
+            "score": 0.99
+        },
+        {
+            "word": "you",
+            "start": 0.769,
+            "end": 0.869,
+            "score": 0.768
+        },
+        {
+            "word": "want",
+            "start": 0.889,
+            "end": 1.049,
+            "score": 0.669
+        },
+        {
+            "word": "to",
+            "start": 1.069,
+            "end": 1.25,
+            "score": 0.621
+        },
+        {
+            "word": "know",
+            "start": 1.47,
+            "end": 1.69,
+            "score": 0.79
+        },
+        {
+            "word": "about",
+            "start": 1.77,
+            "end": 2.01,
+            "score": 0.954
+        },
+        {
+            "word": "the",
+            "start": 2.05,
+            "end": 2.17,
+            "score": 0.595
+        },
+        {
+            "word": "San",
+            "start": 2.19,
+            "end": 2.37,
+            "score": 0.703
+        },
+        {
+            "word": "Francisco's",
+            "start": 2.39,
+            "end": 3.11,
+            "score": 0.756
+        },
+        {
+            "word": "weather?",
+            "start": 3.15,
+            "end": 3.491,
+            "score": 0.526
+        },
+        {
+            "word": "In",
+            "start": 4.451,
+            "end": 4.531,
+            "score": 0.88
+        },
+        {
+            "word": "this",
+            "start": 4.551,
+            "end": 4.751,
+            "score": 0.81
+        },
+        {
+            "word": "week,",
+            "start": 4.811,
+            "end": 5.091,
+            "score": 0.894
+        },
+        {
+            "word": "San",
+            "start": 6.452,
+            "end": 6.592,
+            "score": 0.626
+        },
+        {
+            "word": "Francisco's",
+            "start": 6.612,
+            "end": 7.252,
+            "score": 0.705
+        },
+        {
+            "word": "weather",
+            "start": 7.292,
+            "end": 7.512,
+            "score": 0.831
+        },
+        {
+            "word": "is",
+            "start": 7.552,
+            "end": 7.632,
+            "score": 0.64
+        },
+        {
+            "word": "pretty",
+            "start": 7.693,
+            "end": 7.933,
+            "score": 0.961
+        },
+        {
+            "word": "good.",
+            "start": 7.953,
+            "end": 8.213,
+            "score": 0.846
+        },
+        {
+            "word": "Monday",
+            "start": 8.893,
+            "end": 9.213,
+            "score": 0.77
+        },
+        {
+            "word": "to",
+            "start": 9.333,
+            "end": 9.513,
+            "score": 0.788
+        },
+        {
+            "word": "Friday,",
+            "start": 9.553,
+            "end": 10.034,
+            "score": 0.913
+        },
+        {
+            "word": "it",
+            "start": 10.234,
+            "end": 10.314,
+            "score": 0.877
+        },
+        {
+            "word": "is",
+            "start": 10.374,
+            "end": 10.474,
+            "score": 0.758
+        },
+        {
+            "word": "no",
+            "start": 10.534,
+            "end": 10.694,
+            "score": 0.966
+        },
+        {
+            "word": "rainy,",
+            "start": 10.754,
+            "end": 11.134,
+            "score": 0.827
+        },
+        {
+            "word": "no",
+            "start": 11.574,
+            "end": 11.774,
+            "score": 0.876
+        },
+        {
+            "word": "snowy.",
+            "start": 11.814,
+            "end": 12.235,
+            "score": 0.959
+        },
+        {
+            "word": "In",
+            "start": 13.435,
+            "end": 13.515,
+            "score": 0.946
+        },
+        {
+            "word": "Monday,",
+            "start": 13.555,
+            "end": 13.995,
+            "score": 0.833
+        },
+        {
+            "word": "the",
+            "start": 14.015,
+            "end": 14.075,
+            "score": 0.0
+        },
+        {
+            "word": "weather",
+            "start": 15.196,
+            "end": 15.396,
+            "score": 0.921
+        },
+        {
+            "word": "is",
+            "start": 15.416,
+            "end": 15.456,
+            "score": 0.001
+        },
+        {
+            "word": "very",
+            "start": 15.496,
+            "end": 15.616,
+            "score": 0.246
+        },
+        {
+            "word": "good.",
+            "start": 15.636,
+            "end": 15.836,
+            "score": 0.433
+        },
+        {
+            "word": "little",
+            "start": 19.059,
+            "end": 19.299,
+            "score": 0.921
+        },
+        {
+            "word": "bit",
+            "start": 19.339,
+            "end": 19.459,
+            "score": 0.522
+        },
+        {
+            "word": "sunny,",
+            "start": 19.499,
+            "end": 19.82,
+            "score": 0.819
+        },
+        {
+            "word": "they",
+            "start": 20.26,
+            "end": 20.48,
+            "score": 0.958
+        },
+        {
+            "word": "have",
+            "start": 20.54,
+            "end": 20.961,
+            "score": 0.719
+        },
+        {
+            "word": "a",
+            "start": 21.842,
+            "end": 22.102,
+            "score": 0.671
+        },
+        {
+            "word": "cloud",
+            "start": 22.483,
+            "end": 23.063,
+            "score": 0.873
+        },
+        {
+            "word": "and",
+            "start": 23.324,
+            "end": 23.464,
+            "score": 0.813
+        },
+        {
+            "word": "the",
+            "start": 23.824,
+            "end": 24.004,
+            "score": 0.909
+        },
+        {
+            "word": "sun.",
+            "start": 24.305,
+            "end": 24.665,
+            "score": 0.865
+        },
+        {
+            "word": "And",
+            "start": 25.426,
+            "end": 25.546,
+            "score": 0.878
+        },
+        {
+            "word": "Tuesday",
+            "start": 25.726,
+            "end": 26.087,
+            "score": 0.708
+        },
+        {
+            "word": "also",
+            "start": 26.147,
+            "end": 26.467,
+            "score": 0.84
+        },
+        {
+            "word": "same",
+            "start": 26.507,
+            "end": 26.707,
+            "score": 0.984
+        },
+        {
+            "word": "thing",
+            "start": 26.747,
+            "end": 26.988,
+            "score": 0.87
+        },
+        {
+            "word": "and",
+            "start": 27.608,
+            "end": 27.709,
+            "score": 0.866
+        },
+        {
+            "word": "also",
+            "start": 27.769,
+            "end": 28.029,
+            "score": 0.965
+        },
+        {
+            "word": "Wednesday",
+            "start": 28.049,
+            "end": 28.469,
+            "score": 0.381
+        },
+        {
+            "word": "same.",
+            "start": 28.509,
+            "end": 28.83,
+            "score": 0.828
+        },
+        {
+            "word": "But",
+            "start": 29.691,
+            "end": 29.971,
+            "score": 0.795
+        },
+        {
+            "word": "Thursday",
+            "start": 30.291,
+            "end": 30.732,
+            "score": 0.602
+        },
+        {
+            "word": "is",
+            "start": 30.772,
+            "end": 30.912,
+            "score": 0.788
+        },
+        {
+            "word": "little",
+            "start": 31.112,
+            "end": 31.373,
+            "score": 0.571
+        },
+        {
+            "word": "bit",
+            "start": 31.393,
+            "end": 31.573,
+            "score": 0.841
+        },
+        {
+            "word": "good",
+            "start": 33.123,
+            "end": 33.343,
+            "score": 0.984
+        },
+        {
+            "word": "compared",
+            "start": 33.423,
+            "end": 33.963,
+            "score": 0.892
+        },
+        {
+            "word": "to",
+            "start": 34.043,
+            "end": 34.163,
+            "score": 0.54
+        },
+        {
+            "word": "the",
+            "start": 34.183,
+            "end": 34.444,
+            "score": 0.687
+        },
+        {
+            "word": "Wednesday,",
+            "start": 34.644,
+            "end": 34.984,
+            "score": 0.56
+        },
+        {
+            "word": "one",
+            "start": 35.124,
+            "end": 35.204,
+            "score": 0.862
+        },
+        {
+            "word": "day",
+            "start": 35.224,
+            "end": 35.384,
+            "score": 0.967
+        },
+        {
+            "word": "to",
+            "start": 35.424,
+            "end": 35.604,
+            "score": 0.922
+        },
+        {
+            "word": "Wednesday.",
+            "start": 35.824,
+            "end": 36.304,
+            "score": 0.831
+        },
+        {
+            "word": "And",
+            "start": 38.045,
+            "end": 38.225,
+            "score": 0.662
+        },
+        {
+            "word": "also",
+            "start": 38.305,
+            "end": 38.605,
+            "score": 0.682
+        },
+        {
+            "word": "Friday",
+            "start": 38.645,
+            "end": 39.065,
+            "score": 0.947
+        },
+        {
+            "word": "is",
+            "start": 39.125,
+            "end": 39.205,
+            "score": 0.713
+        },
+        {
+            "word": "pretty",
+            "start": 39.265,
+            "end": 39.526,
+            "score": 0.862
+        },
+        {
+            "word": "good",
+            "start": 39.546,
+            "end": 39.766,
+            "score": 0.627
+        },
+        {
+            "word": "so",
+            "start": 39.806,
+            "end": 40.046,
+            "score": 0.806
+        },
+        {
+            "word": "you",
+            "start": 40.086,
+            "end": 40.226,
+            "score": 0.919
+        },
+        {
+            "word": "can",
+            "start": 40.266,
+            "end": 40.586,
+            "score": 0.883
+        },
+        {
+            "word": "wear",
+            "start": 40.646,
+            "end": 40.846,
+            "score": 0.565
+        },
+        {
+            "word": "the",
+            "start": 40.886,
+            "end": 41.126,
+            "score": 0.729
+        },
+        {
+            "word": "short,",
+            "start": 42.026,
+            "end": 44.187,
+            "score": 0.863
+        },
+        {
+            "word": "you",
+            "start": 44.828,
+            "end": 44.928,
+            "score": 0.994
+        },
+        {
+            "word": "can",
+            "start": 44.968,
+            "end": 45.128,
+            "score": 0.915
+        },
+        {
+            "word": "wear,",
+            "start": 45.168,
+            "end": 45.448,
+            "score": 0.4
+        },
+        {
+            "word": "you",
+            "start": 45.928,
+            "end": 46.068,
+            "score": 0.912
+        },
+        {
+            "word": "don't",
+            "start": 46.088,
+            "end": 46.268,
+            "score": 0.713
+        },
+        {
+            "word": "have",
+            "start": 46.308,
+            "end": 46.488,
+            "score": 0.766
+        },
+        {
+            "word": "to",
+            "start": 46.568,
+            "end": 46.708,
+            "score": 0.876
+        },
+        {
+            "word": "wear",
+            "start": 46.748,
+            "end": 46.928,
+            "score": 0.585
+        },
+        {
+            "word": "the",
+            "start": 46.968,
+            "end": 47.148,
+            "score": 0.733
+        },
+        {
+            "word": "big,",
+            "start": 47.409,
+            "end": 47.609,
+            "score": 0.833
+        },
+        {
+            "word": "heavy",
+            "start": 48.229,
+            "end": 48.449,
+            "score": 0.695
+        },
+        {
+            "word": "stuff,",
+            "start": 48.669,
+            "end": 48.969,
+            "score": 0.742
+        },
+        {
+            "word": "clothes,",
+            "start": 49.209,
+            "end": 49.629,
+            "score": 0.638
+        },
+        {
+            "word": "yeah.",
+            "start": 49.75,
+            "end": 50.03,
+            "score": 0.551
+        },
+        {
+            "word": "And",
+            "start": 50.75,
+            "end": 50.87,
+            "score": 0.674
+        },
+        {
+            "word": "the",
+            "start": 50.91,
+            "end": 50.99,
+            "score": 0.821
+        },
+        {
+            "word": "other",
+            "start": 51.01,
+            "end": 51.21,
+            "score": 0.742
+        },
+        {
+            "word": "location",
+            "start": 51.23,
+            "end": 52.531,
+            "score": 0.792
+        },
+        {
+            "word": "is,",
+            "start": 52.991,
+            "end": 53.131,
+            "score": 0.383
+        },
+        {
+            "word": "the",
+            "start": 53.571,
+            "end": 53.751,
+            "score": 0.764
+        },
+        {
+            "word": "weather",
+            "start": 53.771,
+            "end": 53.991,
+            "score": 0.394
+        },
+        {
+            "word": "is",
+            "start": 54.011,
+            "end": 54.091,
+            "score": 0.398
+        },
+        {
+            "word": "pretty",
+            "start": 54.131,
+            "end": 54.351,
+            "score": 0.859
+        },
+        {
+            "word": "good",
+            "start": 54.391,
+            "end": 54.571,
+            "score": 0.84
+        },
+        {
+            "word": "in",
+            "start": 54.771,
+            "end": 54.932,
+            "score": 0.74
+        },
+        {
+            "word": "San",
+            "start": 54.952,
+            "end": 55.132,
+            "score": 0.491
+        },
+        {
+            "word": "Francisco",
+            "start": 55.152,
+            "end": 55.512,
+            "score": 0.58
+        },
+        {
+            "word": "in",
+            "start": 55.572,
+            "end": 55.632,
+            "score": 0.815
+        },
+        {
+            "word": "this",
+            "start": 55.652,
+            "end": 55.772,
+            "score": 0.291
+        },
+        {
+            "word": "week.",
+            "start": 55.852,
+            "end": 55.992,
+            "score": 0.731
+        }
+    ]
+}

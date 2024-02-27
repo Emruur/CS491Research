@@ -1,0 +1,826 @@
+{
+    "segments": [
+        {
+            "start": 0.99,
+            "end": 15.621,
+            "text": " I agree with this following claim because these days our world is getting worse in aspect of pollution.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.99,
+                    "end": 1.09,
+                    "score": 0.839
+                },
+                {
+                    "word": "agree",
+                    "start": 1.17,
+                    "end": 1.51,
+                    "score": 0.877
+                },
+                {
+                    "word": "with",
+                    "start": 1.85,
+                    "end": 2.071,
+                    "score": 0.374
+                },
+                {
+                    "word": "this",
+                    "start": 2.131,
+                    "end": 2.311,
+                    "score": 0.88
+                },
+                {
+                    "word": "following",
+                    "start": 2.491,
+                    "end": 2.971,
+                    "score": 0.803
+                },
+                {
+                    "word": "claim",
+                    "start": 3.031,
+                    "end": 3.432,
+                    "score": 0.593
+                },
+                {
+                    "word": "because",
+                    "start": 4.513,
+                    "end": 4.813,
+                    "score": 0.98
+                },
+                {
+                    "word": "these",
+                    "start": 4.893,
+                    "end": 5.213,
+                    "score": 0.508
+                },
+                {
+                    "word": "days",
+                    "start": 5.253,
+                    "end": 5.633,
+                    "score": 0.686
+                },
+                {
+                    "word": "our",
+                    "start": 6.874,
+                    "end": 7.295,
+                    "score": 0.834
+                },
+                {
+                    "word": "world",
+                    "start": 7.475,
+                    "end": 8.295,
+                    "score": 0.726
+                },
+                {
+                    "word": "is",
+                    "start": 8.716,
+                    "end": 10.777,
+                    "score": 0.705
+                },
+                {
+                    "word": "getting",
+                    "start": 10.837,
+                    "end": 11.098,
+                    "score": 0.903
+                },
+                {
+                    "word": "worse",
+                    "start": 11.158,
+                    "end": 11.818,
+                    "score": 0.856
+                },
+                {
+                    "word": "in",
+                    "start": 12.799,
+                    "end": 12.899,
+                    "score": 0.962
+                },
+                {
+                    "word": "aspect",
+                    "start": 13.179,
+                    "end": 14.04,
+                    "score": 0.802
+                },
+                {
+                    "word": "of",
+                    "start": 14.14,
+                    "end": 14.46,
+                    "score": 0.792
+                },
+                {
+                    "word": "pollution.",
+                    "start": 15.021,
+                    "end": 15.621,
+                    "score": 0.591
+                }
+            ]
+        },
+        {
+            "start": 16.402,
+            "end": 23.748,
+            "text": "So many cars occurred, many harmful pollution in the world.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 16.402,
+                    "end": 16.742,
+                    "score": 0.95
+                },
+                {
+                    "word": "many",
+                    "start": 16.822,
+                    "end": 17.062,
+                    "score": 0.867
+                },
+                {
+                    "word": "cars",
+                    "start": 17.142,
+                    "end": 17.883,
+                    "score": 0.88
+                },
+                {
+                    "word": "occurred,",
+                    "start": 18.543,
+                    "end": 20.025,
+                    "score": 0.656
+                },
+                {
+                    "word": "many",
+                    "start": 20.745,
+                    "end": 21.105,
+                    "score": 0.759
+                },
+                {
+                    "word": "harmful",
+                    "start": 21.226,
+                    "end": 22.326,
+                    "score": 0.826
+                },
+                {
+                    "word": "pollution",
+                    "start": 22.427,
+                    "end": 23.107,
+                    "score": 0.595
+                },
+                {
+                    "word": "in",
+                    "start": 23.187,
+                    "end": 23.267,
+                    "score": 0.881
+                },
+                {
+                    "word": "the",
+                    "start": 23.287,
+                    "end": 23.387,
+                    "score": 0.792
+                },
+                {
+                    "word": "world.",
+                    "start": 23.447,
+                    "end": 23.748,
+                    "score": 0.82
+                }
+            ]
+        },
+        {
+            "start": 25.829,
+            "end": 39.38,
+            "text": " And if some cities want to make no-car drones, we can take a break so we can refresh, we can",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 25.829,
+                    "end": 25.949,
+                    "score": 0.778
+                },
+                {
+                    "word": "if",
+                    "start": 26.33,
+                    "end": 26.43,
+                    "score": 0.948
+                },
+                {
+                    "word": "some",
+                    "start": 27.43,
+                    "end": 27.611,
+                    "score": 0.906
+                },
+                {
+                    "word": "cities",
+                    "start": 28.131,
+                    "end": 29.152,
+                    "score": 0.662
+                },
+                {
+                    "word": "want",
+                    "start": 29.312,
+                    "end": 29.592,
+                    "score": 0.848
+                },
+                {
+                    "word": "to",
+                    "start": 29.652,
+                    "end": 29.993,
+                    "score": 0.847
+                },
+                {
+                    "word": "make",
+                    "start": 30.173,
+                    "end": 30.473,
+                    "score": 0.727
+                },
+                {
+                    "word": "no-car",
+                    "start": 30.513,
+                    "end": 31.033,
+                    "score": 0.85
+                },
+                {
+                    "word": "drones,",
+                    "start": 31.053,
+                    "end": 31.954,
+                    "score": 0.684
+                },
+                {
+                    "word": "we",
+                    "start": 32.815,
+                    "end": 32.955,
+                    "score": 0.932
+                },
+                {
+                    "word": "can",
+                    "start": 33.015,
+                    "end": 33.355,
+                    "score": 0.87
+                },
+                {
+                    "word": "take",
+                    "start": 33.735,
+                    "end": 33.956,
+                    "score": 0.73
+                },
+                {
+                    "word": "a",
+                    "start": 33.996,
+                    "end": 34.036,
+                    "score": 0.901
+                },
+                {
+                    "word": "break",
+                    "start": 34.096,
+                    "end": 34.716,
+                    "score": 0.86
+                },
+                {
+                    "word": "so",
+                    "start": 36.177,
+                    "end": 36.578,
+                    "score": 0.954
+                },
+                {
+                    "word": "we",
+                    "start": 36.678,
+                    "end": 36.798,
+                    "score": 0.869
+                },
+                {
+                    "word": "can",
+                    "start": 36.838,
+                    "end": 37.138,
+                    "score": 0.813
+                },
+                {
+                    "word": "refresh,",
+                    "start": 37.518,
+                    "end": 38.539,
+                    "score": 0.473
+                },
+                {
+                    "word": "we",
+                    "start": 39.12,
+                    "end": 39.22,
+                    "score": 0.98
+                },
+                {
+                    "word": "can",
+                    "start": 39.26,
+                    "end": 39.38,
+                    "score": 0.963
+                }
+            ]
+        },
+        {
+            "start": 44.023,
+            "end": 55.868,
+            "text": " getting breath fresh air and otherwise we can get to the worker by taking a public transportation so",
+            "words": [
+                {
+                    "word": "getting",
+                    "start": 44.023,
+                    "end": 44.384,
+                    "score": 0.606
+                },
+                {
+                    "word": "breath",
+                    "start": 44.544,
+                    "end": 45.164,
+                    "score": 0.886
+                },
+                {
+                    "word": "fresh",
+                    "start": 45.344,
+                    "end": 45.764,
+                    "score": 0.849
+                },
+                {
+                    "word": "air",
+                    "start": 45.984,
+                    "end": 46.244,
+                    "score": 0.783
+                },
+                {
+                    "word": "and",
+                    "start": 46.544,
+                    "end": 46.744,
+                    "score": 0.474
+                },
+                {
+                    "word": "otherwise",
+                    "start": 48.445,
+                    "end": 49.486,
+                    "score": 0.891
+                },
+                {
+                    "word": "we",
+                    "start": 49.786,
+                    "end": 49.906,
+                    "score": 0.894
+                },
+                {
+                    "word": "can",
+                    "start": 49.946,
+                    "end": 50.206,
+                    "score": 0.72
+                },
+                {
+                    "word": "get",
+                    "start": 50.246,
+                    "end": 50.406,
+                    "score": 0.967
+                },
+                {
+                    "word": "to",
+                    "start": 50.446,
+                    "end": 50.546,
+                    "score": 0.771
+                },
+                {
+                    "word": "the",
+                    "start": 50.566,
+                    "end": 50.886,
+                    "score": 0.54
+                },
+                {
+                    "word": "worker",
+                    "start": 52.027,
+                    "end": 52.587,
+                    "score": 0.894
+                },
+                {
+                    "word": "by",
+                    "start": 52.687,
+                    "end": 53.027,
+                    "score": 0.799
+                },
+                {
+                    "word": "taking",
+                    "start": 53.347,
+                    "end": 53.767,
+                    "score": 0.905
+                },
+                {
+                    "word": "a",
+                    "start": 53.847,
+                    "end": 53.968,
+                    "score": 0.639
+                },
+                {
+                    "word": "public",
+                    "start": 54.008,
+                    "end": 54.388,
+                    "score": 0.926
+                },
+                {
+                    "word": "transportation",
+                    "start": 54.908,
+                    "end": 55.808,
+                    "score": 0.809
+                },
+                {
+                    "word": "so",
+                    "start": 55.828,
+                    "end": 55.868,
+                    "score": 0.008
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.99,
+            "end": 1.09,
+            "score": 0.839
+        },
+        {
+            "word": "agree",
+            "start": 1.17,
+            "end": 1.51,
+            "score": 0.877
+        },
+        {
+            "word": "with",
+            "start": 1.85,
+            "end": 2.071,
+            "score": 0.374
+        },
+        {
+            "word": "this",
+            "start": 2.131,
+            "end": 2.311,
+            "score": 0.88
+        },
+        {
+            "word": "following",
+            "start": 2.491,
+            "end": 2.971,
+            "score": 0.803
+        },
+        {
+            "word": "claim",
+            "start": 3.031,
+            "end": 3.432,
+            "score": 0.593
+        },
+        {
+            "word": "because",
+            "start": 4.513,
+            "end": 4.813,
+            "score": 0.98
+        },
+        {
+            "word": "these",
+            "start": 4.893,
+            "end": 5.213,
+            "score": 0.508
+        },
+        {
+            "word": "days",
+            "start": 5.253,
+            "end": 5.633,
+            "score": 0.686
+        },
+        {
+            "word": "our",
+            "start": 6.874,
+            "end": 7.295,
+            "score": 0.834
+        },
+        {
+            "word": "world",
+            "start": 7.475,
+            "end": 8.295,
+            "score": 0.726
+        },
+        {
+            "word": "is",
+            "start": 8.716,
+            "end": 10.777,
+            "score": 0.705
+        },
+        {
+            "word": "getting",
+            "start": 10.837,
+            "end": 11.098,
+            "score": 0.903
+        },
+        {
+            "word": "worse",
+            "start": 11.158,
+            "end": 11.818,
+            "score": 0.856
+        },
+        {
+            "word": "in",
+            "start": 12.799,
+            "end": 12.899,
+            "score": 0.962
+        },
+        {
+            "word": "aspect",
+            "start": 13.179,
+            "end": 14.04,
+            "score": 0.802
+        },
+        {
+            "word": "of",
+            "start": 14.14,
+            "end": 14.46,
+            "score": 0.792
+        },
+        {
+            "word": "pollution.",
+            "start": 15.021,
+            "end": 15.621,
+            "score": 0.591
+        },
+        {
+            "word": "So",
+            "start": 16.402,
+            "end": 16.742,
+            "score": 0.95
+        },
+        {
+            "word": "many",
+            "start": 16.822,
+            "end": 17.062,
+            "score": 0.867
+        },
+        {
+            "word": "cars",
+            "start": 17.142,
+            "end": 17.883,
+            "score": 0.88
+        },
+        {
+            "word": "occurred,",
+            "start": 18.543,
+            "end": 20.025,
+            "score": 0.656
+        },
+        {
+            "word": "many",
+            "start": 20.745,
+            "end": 21.105,
+            "score": 0.759
+        },
+        {
+            "word": "harmful",
+            "start": 21.226,
+            "end": 22.326,
+            "score": 0.826
+        },
+        {
+            "word": "pollution",
+            "start": 22.427,
+            "end": 23.107,
+            "score": 0.595
+        },
+        {
+            "word": "in",
+            "start": 23.187,
+            "end": 23.267,
+            "score": 0.881
+        },
+        {
+            "word": "the",
+            "start": 23.287,
+            "end": 23.387,
+            "score": 0.792
+        },
+        {
+            "word": "world.",
+            "start": 23.447,
+            "end": 23.748,
+            "score": 0.82
+        },
+        {
+            "word": "And",
+            "start": 25.829,
+            "end": 25.949,
+            "score": 0.778
+        },
+        {
+            "word": "if",
+            "start": 26.33,
+            "end": 26.43,
+            "score": 0.948
+        },
+        {
+            "word": "some",
+            "start": 27.43,
+            "end": 27.611,
+            "score": 0.906
+        },
+        {
+            "word": "cities",
+            "start": 28.131,
+            "end": 29.152,
+            "score": 0.662
+        },
+        {
+            "word": "want",
+            "start": 29.312,
+            "end": 29.592,
+            "score": 0.848
+        },
+        {
+            "word": "to",
+            "start": 29.652,
+            "end": 29.993,
+            "score": 0.847
+        },
+        {
+            "word": "make",
+            "start": 30.173,
+            "end": 30.473,
+            "score": 0.727
+        },
+        {
+            "word": "no-car",
+            "start": 30.513,
+            "end": 31.033,
+            "score": 0.85
+        },
+        {
+            "word": "drones,",
+            "start": 31.053,
+            "end": 31.954,
+            "score": 0.684
+        },
+        {
+            "word": "we",
+            "start": 32.815,
+            "end": 32.955,
+            "score": 0.932
+        },
+        {
+            "word": "can",
+            "start": 33.015,
+            "end": 33.355,
+            "score": 0.87
+        },
+        {
+            "word": "take",
+            "start": 33.735,
+            "end": 33.956,
+            "score": 0.73
+        },
+        {
+            "word": "a",
+            "start": 33.996,
+            "end": 34.036,
+            "score": 0.901
+        },
+        {
+            "word": "break",
+            "start": 34.096,
+            "end": 34.716,
+            "score": 0.86
+        },
+        {
+            "word": "so",
+            "start": 36.177,
+            "end": 36.578,
+            "score": 0.954
+        },
+        {
+            "word": "we",
+            "start": 36.678,
+            "end": 36.798,
+            "score": 0.869
+        },
+        {
+            "word": "can",
+            "start": 36.838,
+            "end": 37.138,
+            "score": 0.813
+        },
+        {
+            "word": "refresh,",
+            "start": 37.518,
+            "end": 38.539,
+            "score": 0.473
+        },
+        {
+            "word": "we",
+            "start": 39.12,
+            "end": 39.22,
+            "score": 0.98
+        },
+        {
+            "word": "can",
+            "start": 39.26,
+            "end": 39.38,
+            "score": 0.963
+        },
+        {
+            "word": "getting",
+            "start": 44.023,
+            "end": 44.384,
+            "score": 0.606
+        },
+        {
+            "word": "breath",
+            "start": 44.544,
+            "end": 45.164,
+            "score": 0.886
+        },
+        {
+            "word": "fresh",
+            "start": 45.344,
+            "end": 45.764,
+            "score": 0.849
+        },
+        {
+            "word": "air",
+            "start": 45.984,
+            "end": 46.244,
+            "score": 0.783
+        },
+        {
+            "word": "and",
+            "start": 46.544,
+            "end": 46.744,
+            "score": 0.474
+        },
+        {
+            "word": "otherwise",
+            "start": 48.445,
+            "end": 49.486,
+            "score": 0.891
+        },
+        {
+            "word": "we",
+            "start": 49.786,
+            "end": 49.906,
+            "score": 0.894
+        },
+        {
+            "word": "can",
+            "start": 49.946,
+            "end": 50.206,
+            "score": 0.72
+        },
+        {
+            "word": "get",
+            "start": 50.246,
+            "end": 50.406,
+            "score": 0.967
+        },
+        {
+            "word": "to",
+            "start": 50.446,
+            "end": 50.546,
+            "score": 0.771
+        },
+        {
+            "word": "the",
+            "start": 50.566,
+            "end": 50.886,
+            "score": 0.54
+        },
+        {
+            "word": "worker",
+            "start": 52.027,
+            "end": 52.587,
+            "score": 0.894
+        },
+        {
+            "word": "by",
+            "start": 52.687,
+            "end": 53.027,
+            "score": 0.799
+        },
+        {
+            "word": "taking",
+            "start": 53.347,
+            "end": 53.767,
+            "score": 0.905
+        },
+        {
+            "word": "a",
+            "start": 53.847,
+            "end": 53.968,
+            "score": 0.639
+        },
+        {
+            "word": "public",
+            "start": 54.008,
+            "end": 54.388,
+            "score": 0.926
+        },
+        {
+            "word": "transportation",
+            "start": 54.908,
+            "end": 55.808,
+            "score": 0.809
+        },
+        {
+            "word": "so",
+            "start": 55.828,
+            "end": 55.868,
+            "score": 0.008
+        }
+    ]
+}

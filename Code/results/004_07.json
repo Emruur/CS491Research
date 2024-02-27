@@ -1,0 +1,385 @@
+{
+    "segments": [
+        {
+            "start": 3.29,
+            "end": 28.175,
+            "text": " If you get to the Paradise Hotel, you can go to the ghost... The Paradise Hotel is located in the corner of between Kingmore Avenue and Page Street, so you can",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 3.29,
+                    "end": 3.37,
+                    "score": 0.83
+                },
+                {
+                    "word": "you",
+                    "start": 3.41,
+                    "end": 3.57,
+                    "score": 0.639
+                },
+                {
+                    "word": "get",
+                    "start": 3.59,
+                    "end": 3.75,
+                    "score": 0.99
+                },
+                {
+                    "word": "to",
+                    "start": 3.79,
+                    "end": 3.89,
+                    "score": 0.955
+                },
+                {
+                    "word": "the",
+                    "start": 3.93,
+                    "end": 4.27,
+                    "score": 0.709
+                },
+                {
+                    "word": "Paradise",
+                    "start": 5.59,
+                    "end": 6.25,
+                    "score": 0.9
+                },
+                {
+                    "word": "Hotel,",
+                    "start": 6.29,
+                    "end": 6.73,
+                    "score": 0.816
+                },
+                {
+                    "word": "you",
+                    "start": 9.251,
+                    "end": 9.391,
+                    "score": 0.88
+                },
+                {
+                    "word": "can",
+                    "start": 9.431,
+                    "end": 9.851,
+                    "score": 0.811
+                },
+                {
+                    "word": "go",
+                    "start": 12.992,
+                    "end": 13.152,
+                    "score": 0.891
+                },
+                {
+                    "word": "to",
+                    "start": 13.212,
+                    "end": 13.332,
+                    "score": 0.718
+                },
+                {
+                    "word": "the",
+                    "start": 13.352,
+                    "end": 14.152,
+                    "score": 0.853
+                },
+                {
+                    "word": "ghost...",
+                    "start": 15.152,
+                    "end": 16.372,
+                    "score": 0.855
+                },
+                {
+                    "word": "The",
+                    "start": 16.632,
+                    "end": 16.753,
+                    "score": 0.872
+                },
+                {
+                    "word": "Paradise",
+                    "start": 16.793,
+                    "end": 17.373,
+                    "score": 0.936
+                },
+                {
+                    "word": "Hotel",
+                    "start": 17.393,
+                    "end": 17.793,
+                    "score": 0.763
+                },
+                {
+                    "word": "is",
+                    "start": 17.833,
+                    "end": 17.933,
+                    "score": 0.862
+                },
+                {
+                    "word": "located",
+                    "start": 18.013,
+                    "end": 18.733,
+                    "score": 0.801
+                },
+                {
+                    "word": "in",
+                    "start": 20.313,
+                    "end": 20.413,
+                    "score": 0.802
+                },
+                {
+                    "word": "the",
+                    "start": 20.433,
+                    "end": 20.573,
+                    "score": 0.925
+                },
+                {
+                    "word": "corner",
+                    "start": 20.693,
+                    "end": 21.093,
+                    "score": 0.856
+                },
+                {
+                    "word": "of",
+                    "start": 21.213,
+                    "end": 21.614,
+                    "score": 0.883
+                },
+                {
+                    "word": "between",
+                    "start": 22.074,
+                    "end": 22.434,
+                    "score": 0.923
+                },
+                {
+                    "word": "Kingmore",
+                    "start": 22.474,
+                    "end": 23.414,
+                    "score": 0.765
+                },
+                {
+                    "word": "Avenue",
+                    "start": 23.534,
+                    "end": 23.974,
+                    "score": 0.633
+                },
+                {
+                    "word": "and",
+                    "start": 24.234,
+                    "end": 24.454,
+                    "score": 0.822
+                },
+                {
+                    "word": "Page",
+                    "start": 25.194,
+                    "end": 25.574,
+                    "score": 0.793
+                },
+                {
+                    "word": "Street,",
+                    "start": 25.594,
+                    "end": 25.954,
+                    "score": 0.896
+                },
+                {
+                    "word": "so",
+                    "start": 26.655,
+                    "end": 26.975,
+                    "score": 0.982
+                },
+                {
+                    "word": "you",
+                    "start": 27.935,
+                    "end": 28.055,
+                    "score": 0.761
+                },
+                {
+                    "word": "can",
+                    "start": 28.075,
+                    "end": 28.175,
+                    "score": 0.958
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 3.29,
+            "end": 3.37,
+            "score": 0.83
+        },
+        {
+            "word": "you",
+            "start": 3.41,
+            "end": 3.57,
+            "score": 0.639
+        },
+        {
+            "word": "get",
+            "start": 3.59,
+            "end": 3.75,
+            "score": 0.99
+        },
+        {
+            "word": "to",
+            "start": 3.79,
+            "end": 3.89,
+            "score": 0.955
+        },
+        {
+            "word": "the",
+            "start": 3.93,
+            "end": 4.27,
+            "score": 0.709
+        },
+        {
+            "word": "Paradise",
+            "start": 5.59,
+            "end": 6.25,
+            "score": 0.9
+        },
+        {
+            "word": "Hotel,",
+            "start": 6.29,
+            "end": 6.73,
+            "score": 0.816
+        },
+        {
+            "word": "you",
+            "start": 9.251,
+            "end": 9.391,
+            "score": 0.88
+        },
+        {
+            "word": "can",
+            "start": 9.431,
+            "end": 9.851,
+            "score": 0.811
+        },
+        {
+            "word": "go",
+            "start": 12.992,
+            "end": 13.152,
+            "score": 0.891
+        },
+        {
+            "word": "to",
+            "start": 13.212,
+            "end": 13.332,
+            "score": 0.718
+        },
+        {
+            "word": "the",
+            "start": 13.352,
+            "end": 14.152,
+            "score": 0.853
+        },
+        {
+            "word": "ghost...",
+            "start": 15.152,
+            "end": 16.372,
+            "score": 0.855
+        },
+        {
+            "word": "The",
+            "start": 16.632,
+            "end": 16.753,
+            "score": 0.872
+        },
+        {
+            "word": "Paradise",
+            "start": 16.793,
+            "end": 17.373,
+            "score": 0.936
+        },
+        {
+            "word": "Hotel",
+            "start": 17.393,
+            "end": 17.793,
+            "score": 0.763
+        },
+        {
+            "word": "is",
+            "start": 17.833,
+            "end": 17.933,
+            "score": 0.862
+        },
+        {
+            "word": "located",
+            "start": 18.013,
+            "end": 18.733,
+            "score": 0.801
+        },
+        {
+            "word": "in",
+            "start": 20.313,
+            "end": 20.413,
+            "score": 0.802
+        },
+        {
+            "word": "the",
+            "start": 20.433,
+            "end": 20.573,
+            "score": 0.925
+        },
+        {
+            "word": "corner",
+            "start": 20.693,
+            "end": 21.093,
+            "score": 0.856
+        },
+        {
+            "word": "of",
+            "start": 21.213,
+            "end": 21.614,
+            "score": 0.883
+        },
+        {
+            "word": "between",
+            "start": 22.074,
+            "end": 22.434,
+            "score": 0.923
+        },
+        {
+            "word": "Kingmore",
+            "start": 22.474,
+            "end": 23.414,
+            "score": 0.765
+        },
+        {
+            "word": "Avenue",
+            "start": 23.534,
+            "end": 23.974,
+            "score": 0.633
+        },
+        {
+            "word": "and",
+            "start": 24.234,
+            "end": 24.454,
+            "score": 0.822
+        },
+        {
+            "word": "Page",
+            "start": 25.194,
+            "end": 25.574,
+            "score": 0.793
+        },
+        {
+            "word": "Street,",
+            "start": 25.594,
+            "end": 25.954,
+            "score": 0.896
+        },
+        {
+            "word": "so",
+            "start": 26.655,
+            "end": 26.975,
+            "score": 0.982
+        },
+        {
+            "word": "you",
+            "start": 27.935,
+            "end": 28.055,
+            "score": 0.761
+        },
+        {
+            "word": "can",
+            "start": 28.075,
+            "end": 28.175,
+            "score": 0.958
+        }
+    ]
+}

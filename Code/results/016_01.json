@@ -1,0 +1,686 @@
+{
+    "segments": [
+        {
+            "start": 1.292,
+            "end": 1.994,
+            "text": " I like the most",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.292,
+                    "end": 1.393,
+                    "score": 0.827
+                },
+                {
+                    "word": "like",
+                    "start": 1.413,
+                    "end": 1.593,
+                    "score": 0.812
+                },
+                {
+                    "word": "the",
+                    "start": 1.633,
+                    "end": 1.713,
+                    "score": 0.805
+                },
+                {
+                    "word": "most",
+                    "start": 1.773,
+                    "end": 1.994,
+                    "score": 0.917
+                }
+            ]
+        },
+        {
+            "start": 4.739,
+            "end": 8.52,
+            "text": " I like the most movie is comedy.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 4.739,
+                    "end": 4.819,
+                    "score": 0.738
+                },
+                {
+                    "word": "like",
+                    "start": 4.839,
+                    "end": 4.999,
+                    "score": 0.914
+                },
+                {
+                    "word": "the",
+                    "start": 5.019,
+                    "end": 5.119,
+                    "score": 0.885
+                },
+                {
+                    "word": "most",
+                    "start": 5.159,
+                    "end": 5.399,
+                    "score": 0.922
+                },
+                {
+                    "word": "movie",
+                    "start": 7.0,
+                    "end": 7.32,
+                    "score": 0.563
+                },
+                {
+                    "word": "is",
+                    "start": 7.46,
+                    "end": 7.6,
+                    "score": 0.82
+                },
+                {
+                    "word": "comedy.",
+                    "start": 8.12,
+                    "end": 8.52,
+                    "score": 0.938
+                }
+            ]
+        },
+        {
+            "start": 9.641,
+            "end": 10.461,
+            "text": "There are two reasons.",
+            "words": [
+                {
+                    "word": "There",
+                    "start": 9.641,
+                    "end": 9.801,
+                    "score": 0.875
+                },
+                {
+                    "word": "are",
+                    "start": 9.821,
+                    "end": 9.901,
+                    "score": 0.922
+                },
+                {
+                    "word": "two",
+                    "start": 9.921,
+                    "end": 10.061,
+                    "score": 0.988
+                },
+                {
+                    "word": "reasons.",
+                    "start": 10.121,
+                    "end": 10.461,
+                    "score": 0.901
+                }
+            ]
+        },
+        {
+            "start": 10.881,
+            "end": 12.622,
+            "text": "First, comedy.",
+            "words": [
+                {
+                    "word": "First,",
+                    "start": 10.881,
+                    "end": 11.201,
+                    "score": 0.807
+                },
+                {
+                    "word": "comedy.",
+                    "start": 12.222,
+                    "end": 12.622,
+                    "score": 0.91
+                }
+            ]
+        },
+        {
+            "start": 14.702,
+            "end": 17.543,
+            "text": "I saw the comedy.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 14.702,
+                    "end": 14.862,
+                    "score": 0.75
+                },
+                {
+                    "word": "saw",
+                    "start": 15.963,
+                    "end": 16.163,
+                    "score": 0.93
+                },
+                {
+                    "word": "the",
+                    "start": 16.203,
+                    "end": 16.343,
+                    "score": 0.839
+                },
+                {
+                    "word": "comedy.",
+                    "start": 17.143,
+                    "end": 17.543,
+                    "score": 0.881
+                }
+            ]
+        },
+        {
+            "start": 18.143,
+            "end": 19.644,
+            "text": "I enjoy a lot.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 18.143,
+                    "end": 18.243,
+                    "score": 0.888
+                },
+                {
+                    "word": "enjoy",
+                    "start": 18.764,
+                    "end": 19.124,
+                    "score": 0.844
+                },
+                {
+                    "word": "a",
+                    "start": 19.324,
+                    "end": 19.384,
+                    "score": 0.886
+                },
+                {
+                    "word": "lot.",
+                    "start": 19.444,
+                    "end": 19.644,
+                    "score": 0.51
+                }
+            ]
+        },
+        {
+            "start": 20.264,
+            "end": 30.908,
+            "text": "Second, when I saw the comedy movie, we will be able to learn some good expression.",
+            "words": [
+                {
+                    "word": "Second,",
+                    "start": 20.264,
+                    "end": 20.644,
+                    "score": 0.862
+                },
+                {
+                    "word": "when",
+                    "start": 22.145,
+                    "end": 22.385,
+                    "score": 0.539
+                },
+                {
+                    "word": "I",
+                    "start": 22.765,
+                    "end": 23.585,
+                    "score": 0.834
+                },
+                {
+                    "word": "saw",
+                    "start": 24.045,
+                    "end": 24.325,
+                    "score": 0.751
+                },
+                {
+                    "word": "the",
+                    "start": 24.926,
+                    "end": 25.046,
+                    "score": 0.891
+                },
+                {
+                    "word": "comedy",
+                    "start": 25.086,
+                    "end": 25.366,
+                    "score": 0.895
+                },
+                {
+                    "word": "movie,",
+                    "start": 25.406,
+                    "end": 25.726,
+                    "score": 0.619
+                },
+                {
+                    "word": "we",
+                    "start": 26.226,
+                    "end": 26.426,
+                    "score": 0.906
+                },
+                {
+                    "word": "will",
+                    "start": 26.466,
+                    "end": 26.666,
+                    "score": 0.506
+                },
+                {
+                    "word": "be",
+                    "start": 26.686,
+                    "end": 26.746,
+                    "score": 0.939
+                },
+                {
+                    "word": "able",
+                    "start": 26.826,
+                    "end": 27.006,
+                    "score": 0.914
+                },
+                {
+                    "word": "to",
+                    "start": 27.086,
+                    "end": 27.206,
+                    "score": 0.78
+                },
+                {
+                    "word": "learn",
+                    "start": 27.266,
+                    "end": 27.507,
+                    "score": 0.435
+                },
+                {
+                    "word": "some",
+                    "start": 27.967,
+                    "end": 28.267,
+                    "score": 0.88
+                },
+                {
+                    "word": "good",
+                    "start": 29.667,
+                    "end": 29.827,
+                    "score": 0.983
+                },
+                {
+                    "word": "expression.",
+                    "start": 30.287,
+                    "end": 30.908,
+                    "score": 0.957
+                }
+            ]
+        },
+        {
+            "start": 32.269,
+            "end": 37.903,
+            "text": " So the comedy is the best movie I like the best.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 32.269,
+                    "end": 33.191,
+                    "score": 0.88
+                },
+                {
+                    "word": "the",
+                    "start": 33.211,
+                    "end": 33.291,
+                    "score": 0.263
+                },
+                {
+                    "word": "comedy",
+                    "start": 33.331,
+                    "end": 33.672,
+                    "score": 0.86
+                },
+                {
+                    "word": "is",
+                    "start": 33.752,
+                    "end": 33.833,
+                    "score": 0.607
+                },
+                {
+                    "word": "the",
+                    "start": 33.853,
+                    "end": 34.033,
+                    "score": 0.549
+                },
+                {
+                    "word": "best",
+                    "start": 35.256,
+                    "end": 35.477,
+                    "score": 0.613
+                },
+                {
+                    "word": "movie",
+                    "start": 35.517,
+                    "end": 35.878,
+                    "score": 0.701
+                },
+                {
+                    "word": "I",
+                    "start": 36.058,
+                    "end": 36.198,
+                    "score": 0.802
+                },
+                {
+                    "word": "like",
+                    "start": 36.8,
+                    "end": 37.061,
+                    "score": 0.948
+                },
+                {
+                    "word": "the",
+                    "start": 37.462,
+                    "end": 37.662,
+                    "score": 0.345
+                },
+                {
+                    "word": "best.",
+                    "start": 37.702,
+                    "end": 37.903,
+                    "score": 0.756
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.292,
+            "end": 1.393,
+            "score": 0.827
+        },
+        {
+            "word": "like",
+            "start": 1.413,
+            "end": 1.593,
+            "score": 0.812
+        },
+        {
+            "word": "the",
+            "start": 1.633,
+            "end": 1.713,
+            "score": 0.805
+        },
+        {
+            "word": "most",
+            "start": 1.773,
+            "end": 1.994,
+            "score": 0.917
+        },
+        {
+            "word": "I",
+            "start": 4.739,
+            "end": 4.819,
+            "score": 0.738
+        },
+        {
+            "word": "like",
+            "start": 4.839,
+            "end": 4.999,
+            "score": 0.914
+        },
+        {
+            "word": "the",
+            "start": 5.019,
+            "end": 5.119,
+            "score": 0.885
+        },
+        {
+            "word": "most",
+            "start": 5.159,
+            "end": 5.399,
+            "score": 0.922
+        },
+        {
+            "word": "movie",
+            "start": 7.0,
+            "end": 7.32,
+            "score": 0.563
+        },
+        {
+            "word": "is",
+            "start": 7.46,
+            "end": 7.6,
+            "score": 0.82
+        },
+        {
+            "word": "comedy.",
+            "start": 8.12,
+            "end": 8.52,
+            "score": 0.938
+        },
+        {
+            "word": "There",
+            "start": 9.641,
+            "end": 9.801,
+            "score": 0.875
+        },
+        {
+            "word": "are",
+            "start": 9.821,
+            "end": 9.901,
+            "score": 0.922
+        },
+        {
+            "word": "two",
+            "start": 9.921,
+            "end": 10.061,
+            "score": 0.988
+        },
+        {
+            "word": "reasons.",
+            "start": 10.121,
+            "end": 10.461,
+            "score": 0.901
+        },
+        {
+            "word": "First,",
+            "start": 10.881,
+            "end": 11.201,
+            "score": 0.807
+        },
+        {
+            "word": "comedy.",
+            "start": 12.222,
+            "end": 12.622,
+            "score": 0.91
+        },
+        {
+            "word": "I",
+            "start": 14.702,
+            "end": 14.862,
+            "score": 0.75
+        },
+        {
+            "word": "saw",
+            "start": 15.963,
+            "end": 16.163,
+            "score": 0.93
+        },
+        {
+            "word": "the",
+            "start": 16.203,
+            "end": 16.343,
+            "score": 0.839
+        },
+        {
+            "word": "comedy.",
+            "start": 17.143,
+            "end": 17.543,
+            "score": 0.881
+        },
+        {
+            "word": "I",
+            "start": 18.143,
+            "end": 18.243,
+            "score": 0.888
+        },
+        {
+            "word": "enjoy",
+            "start": 18.764,
+            "end": 19.124,
+            "score": 0.844
+        },
+        {
+            "word": "a",
+            "start": 19.324,
+            "end": 19.384,
+            "score": 0.886
+        },
+        {
+            "word": "lot.",
+            "start": 19.444,
+            "end": 19.644,
+            "score": 0.51
+        },
+        {
+            "word": "Second,",
+            "start": 20.264,
+            "end": 20.644,
+            "score": 0.862
+        },
+        {
+            "word": "when",
+            "start": 22.145,
+            "end": 22.385,
+            "score": 0.539
+        },
+        {
+            "word": "I",
+            "start": 22.765,
+            "end": 23.585,
+            "score": 0.834
+        },
+        {
+            "word": "saw",
+            "start": 24.045,
+            "end": 24.325,
+            "score": 0.751
+        },
+        {
+            "word": "the",
+            "start": 24.926,
+            "end": 25.046,
+            "score": 0.891
+        },
+        {
+            "word": "comedy",
+            "start": 25.086,
+            "end": 25.366,
+            "score": 0.895
+        },
+        {
+            "word": "movie,",
+            "start": 25.406,
+            "end": 25.726,
+            "score": 0.619
+        },
+        {
+            "word": "we",
+            "start": 26.226,
+            "end": 26.426,
+            "score": 0.906
+        },
+        {
+            "word": "will",
+            "start": 26.466,
+            "end": 26.666,
+            "score": 0.506
+        },
+        {
+            "word": "be",
+            "start": 26.686,
+            "end": 26.746,
+            "score": 0.939
+        },
+        {
+            "word": "able",
+            "start": 26.826,
+            "end": 27.006,
+            "score": 0.914
+        },
+        {
+            "word": "to",
+            "start": 27.086,
+            "end": 27.206,
+            "score": 0.78
+        },
+        {
+            "word": "learn",
+            "start": 27.266,
+            "end": 27.507,
+            "score": 0.435
+        },
+        {
+            "word": "some",
+            "start": 27.967,
+            "end": 28.267,
+            "score": 0.88
+        },
+        {
+            "word": "good",
+            "start": 29.667,
+            "end": 29.827,
+            "score": 0.983
+        },
+        {
+            "word": "expression.",
+            "start": 30.287,
+            "end": 30.908,
+            "score": 0.957
+        },
+        {
+            "word": "So",
+            "start": 32.269,
+            "end": 33.191,
+            "score": 0.88
+        },
+        {
+            "word": "the",
+            "start": 33.211,
+            "end": 33.291,
+            "score": 0.263
+        },
+        {
+            "word": "comedy",
+            "start": 33.331,
+            "end": 33.672,
+            "score": 0.86
+        },
+        {
+            "word": "is",
+            "start": 33.752,
+            "end": 33.833,
+            "score": 0.607
+        },
+        {
+            "word": "the",
+            "start": 33.853,
+            "end": 34.033,
+            "score": 0.549
+        },
+        {
+            "word": "best",
+            "start": 35.256,
+            "end": 35.477,
+            "score": 0.613
+        },
+        {
+            "word": "movie",
+            "start": 35.517,
+            "end": 35.878,
+            "score": 0.701
+        },
+        {
+            "word": "I",
+            "start": 36.058,
+            "end": 36.198,
+            "score": 0.802
+        },
+        {
+            "word": "like",
+            "start": 36.8,
+            "end": 37.061,
+            "score": 0.948
+        },
+        {
+            "word": "the",
+            "start": 37.462,
+            "end": 37.662,
+            "score": 0.345
+        },
+        {
+            "word": "best.",
+            "start": 37.702,
+            "end": 37.903,
+            "score": 0.756
+        }
+    ]
+}

@@ -1,0 +1,852 @@
+{
+    "segments": [
+        {
+            "start": 1.13,
+            "end": 10.136,
+            "text": " I agree with the sentence the government should require health warning labels on the sides of soda cans.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 1.13,
+                    "end": 1.25,
+                    "score": 0.819
+                },
+                {
+                    "word": "agree",
+                    "start": 1.31,
+                    "end": 1.65,
+                    "score": 0.855
+                },
+                {
+                    "word": "with",
+                    "start": 1.71,
+                    "end": 1.89,
+                    "score": 0.803
+                },
+                {
+                    "word": "the",
+                    "start": 2.13,
+                    "end": 2.431,
+                    "score": 0.953
+                },
+                {
+                    "word": "sentence",
+                    "start": 2.791,
+                    "end": 3.291,
+                    "score": 0.808
+                },
+                {
+                    "word": "the",
+                    "start": 3.331,
+                    "end": 3.491,
+                    "score": 0.666
+                },
+                {
+                    "word": "government",
+                    "start": 3.531,
+                    "end": 4.092,
+                    "score": 0.834
+                },
+                {
+                    "word": "should",
+                    "start": 4.172,
+                    "end": 4.432,
+                    "score": 0.743
+                },
+                {
+                    "word": "require",
+                    "start": 4.512,
+                    "end": 4.832,
+                    "score": 0.991
+                },
+                {
+                    "word": "health",
+                    "start": 4.852,
+                    "end": 5.273,
+                    "score": 0.227
+                },
+                {
+                    "word": "warning",
+                    "start": 5.513,
+                    "end": 5.873,
+                    "score": 0.876
+                },
+                {
+                    "word": "labels",
+                    "start": 6.774,
+                    "end": 7.314,
+                    "score": 0.721
+                },
+                {
+                    "word": "on",
+                    "start": 7.334,
+                    "end": 7.454,
+                    "score": 0.883
+                },
+                {
+                    "word": "the",
+                    "start": 7.494,
+                    "end": 7.634,
+                    "score": 0.73
+                },
+                {
+                    "word": "sides",
+                    "start": 7.674,
+                    "end": 8.014,
+                    "score": 0.777
+                },
+                {
+                    "word": "of",
+                    "start": 8.134,
+                    "end": 8.254,
+                    "score": 0.914
+                },
+                {
+                    "word": "soda",
+                    "start": 9.015,
+                    "end": 9.555,
+                    "score": 0.877
+                },
+                {
+                    "word": "cans.",
+                    "start": 9.755,
+                    "end": 10.136,
+                    "score": 0.78
+                }
+            ]
+        },
+        {
+            "start": 11.717,
+            "end": 16.78,
+            "text": "Because first, it's the customer's right.",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 11.717,
+                    "end": 12.117,
+                    "score": 0.857
+                },
+                {
+                    "word": "first,",
+                    "start": 12.257,
+                    "end": 12.577,
+                    "score": 0.799
+                },
+                {
+                    "word": "it's",
+                    "start": 14.138,
+                    "end": 14.759,
+                    "score": 0.459
+                },
+                {
+                    "word": "the",
+                    "start": 15.319,
+                    "end": 15.479,
+                    "score": 0.743
+                },
+                {
+                    "word": "customer's",
+                    "start": 15.559,
+                    "end": 16.18,
+                    "score": 0.795
+                },
+                {
+                    "word": "right.",
+                    "start": 16.48,
+                    "end": 16.78,
+                    "score": 0.812
+                }
+            ]
+        },
+        {
+            "start": 17.821,
+            "end": 22.064,
+            "text": "I don't know what it is inside in soda cans.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 17.821,
+                    "end": 17.881,
+                    "score": 0.671
+                },
+                {
+                    "word": "don't",
+                    "start": 17.921,
+                    "end": 18.061,
+                    "score": 0.883
+                },
+                {
+                    "word": "know",
+                    "start": 18.101,
+                    "end": 18.241,
+                    "score": 0.643
+                },
+                {
+                    "word": "what",
+                    "start": 18.261,
+                    "end": 18.441,
+                    "score": 0.894
+                },
+                {
+                    "word": "it",
+                    "start": 19.162,
+                    "end": 19.222,
+                    "score": 0.994
+                },
+                {
+                    "word": "is",
+                    "start": 19.342,
+                    "end": 19.482,
+                    "score": 0.832
+                },
+                {
+                    "word": "inside",
+                    "start": 19.722,
+                    "end": 20.242,
+                    "score": 0.627
+                },
+                {
+                    "word": "in",
+                    "start": 20.903,
+                    "end": 20.943,
+                    "score": 0.192
+                },
+                {
+                    "word": "soda",
+                    "start": 21.243,
+                    "end": 21.683,
+                    "score": 0.864
+                },
+                {
+                    "word": "cans.",
+                    "start": 21.723,
+                    "end": 22.064,
+                    "score": 0.88
+                }
+            ]
+        },
+        {
+            "start": 24.445,
+            "end": 29.789,
+            "text": "It might be more serious than we are thinking of.",
+            "words": [
+                {
+                    "word": "It",
+                    "start": 24.445,
+                    "end": 24.505,
+                    "score": 0.884
+                },
+                {
+                    "word": "might",
+                    "start": 24.545,
+                    "end": 24.766,
+                    "score": 0.83
+                },
+                {
+                    "word": "be",
+                    "start": 24.806,
+                    "end": 24.926,
+                    "score": 0.797
+                },
+                {
+                    "word": "more",
+                    "start": 24.986,
+                    "end": 25.246,
+                    "score": 0.904
+                },
+                {
+                    "word": "serious",
+                    "start": 25.546,
+                    "end": 26.046,
+                    "score": 0.921
+                },
+                {
+                    "word": "than",
+                    "start": 26.146,
+                    "end": 26.507,
+                    "score": 0.585
+                },
+                {
+                    "word": "we",
+                    "start": 28.128,
+                    "end": 28.428,
+                    "score": 0.908
+                },
+                {
+                    "word": "are",
+                    "start": 29.208,
+                    "end": 29.289,
+                    "score": 0.846
+                },
+                {
+                    "word": "thinking",
+                    "start": 29.309,
+                    "end": 29.649,
+                    "score": 0.934
+                },
+                {
+                    "word": "of.",
+                    "start": 29.749,
+                    "end": 29.789,
+                    "score": 0.527
+                }
+            ]
+        },
+        {
+            "start": 31.37,
+            "end": 36.255,
+            "text": " And we don't know how harmful it is to us.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 31.37,
+                    "end": 31.55,
+                    "score": 0.635
+                },
+                {
+                    "word": "we",
+                    "start": 32.912,
+                    "end": 33.012,
+                    "score": 0.841
+                },
+                {
+                    "word": "don't",
+                    "start": 33.032,
+                    "end": 33.192,
+                    "score": 0.894
+                },
+                {
+                    "word": "know",
+                    "start": 33.232,
+                    "end": 33.452,
+                    "score": 0.78
+                },
+                {
+                    "word": "how",
+                    "start": 33.833,
+                    "end": 34.053,
+                    "score": 0.934
+                },
+                {
+                    "word": "harmful",
+                    "start": 34.173,
+                    "end": 34.713,
+                    "score": 0.87
+                },
+                {
+                    "word": "it",
+                    "start": 35.434,
+                    "end": 35.514,
+                    "score": 0.956
+                },
+                {
+                    "word": "is",
+                    "start": 35.594,
+                    "end": 35.714,
+                    "score": 0.818
+                },
+                {
+                    "word": "to",
+                    "start": 35.854,
+                    "end": 35.994,
+                    "score": 0.986
+                },
+                {
+                    "word": "us.",
+                    "start": 36.135,
+                    "end": 36.255,
+                    "score": 0.8
+                }
+            ]
+        },
+        {
+            "start": 37.616,
+            "end": 50.468,
+            "text": "So it is obvious to show what it is inside in soda cans.",
+            "words": [
+                {
+                    "word": "So",
+                    "start": 37.616,
+                    "end": 37.996,
+                    "score": 0.913
+                },
+                {
+                    "word": "it",
+                    "start": 40.138,
+                    "end": 40.198,
+                    "score": 0.998
+                },
+                {
+                    "word": "is",
+                    "start": 40.258,
+                    "end": 40.338,
+                    "score": 0.826
+                },
+                {
+                    "word": "obvious",
+                    "start": 40.539,
+                    "end": 40.979,
+                    "score": 0.71
+                },
+                {
+                    "word": "to",
+                    "start": 42.821,
+                    "end": 43.141,
+                    "score": 0.904
+                },
+                {
+                    "word": "show",
+                    "start": 44.903,
+                    "end": 45.223,
+                    "score": 0.554
+                },
+                {
+                    "word": "what",
+                    "start": 45.743,
+                    "end": 46.004,
+                    "score": 0.983
+                },
+                {
+                    "word": "it",
+                    "start": 47.185,
+                    "end": 47.265,
+                    "score": 0.93
+                },
+                {
+                    "word": "is",
+                    "start": 47.365,
+                    "end": 47.485,
+                    "score": 0.664
+                },
+                {
+                    "word": "inside",
+                    "start": 47.745,
+                    "end": 48.246,
+                    "score": 0.705
+                },
+                {
+                    "word": "in",
+                    "start": 48.846,
+                    "end": 48.986,
+                    "score": 0.761
+                },
+                {
+                    "word": "soda",
+                    "start": 49.767,
+                    "end": 50.188,
+                    "score": 0.854
+                },
+                {
+                    "word": "cans.",
+                    "start": 50.208,
+                    "end": 50.468,
+                    "score": 0.839
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 1.13,
+            "end": 1.25,
+            "score": 0.819
+        },
+        {
+            "word": "agree",
+            "start": 1.31,
+            "end": 1.65,
+            "score": 0.855
+        },
+        {
+            "word": "with",
+            "start": 1.71,
+            "end": 1.89,
+            "score": 0.803
+        },
+        {
+            "word": "the",
+            "start": 2.13,
+            "end": 2.431,
+            "score": 0.953
+        },
+        {
+            "word": "sentence",
+            "start": 2.791,
+            "end": 3.291,
+            "score": 0.808
+        },
+        {
+            "word": "the",
+            "start": 3.331,
+            "end": 3.491,
+            "score": 0.666
+        },
+        {
+            "word": "government",
+            "start": 3.531,
+            "end": 4.092,
+            "score": 0.834
+        },
+        {
+            "word": "should",
+            "start": 4.172,
+            "end": 4.432,
+            "score": 0.743
+        },
+        {
+            "word": "require",
+            "start": 4.512,
+            "end": 4.832,
+            "score": 0.991
+        },
+        {
+            "word": "health",
+            "start": 4.852,
+            "end": 5.273,
+            "score": 0.227
+        },
+        {
+            "word": "warning",
+            "start": 5.513,
+            "end": 5.873,
+            "score": 0.876
+        },
+        {
+            "word": "labels",
+            "start": 6.774,
+            "end": 7.314,
+            "score": 0.721
+        },
+        {
+            "word": "on",
+            "start": 7.334,
+            "end": 7.454,
+            "score": 0.883
+        },
+        {
+            "word": "the",
+            "start": 7.494,
+            "end": 7.634,
+            "score": 0.73
+        },
+        {
+            "word": "sides",
+            "start": 7.674,
+            "end": 8.014,
+            "score": 0.777
+        },
+        {
+            "word": "of",
+            "start": 8.134,
+            "end": 8.254,
+            "score": 0.914
+        },
+        {
+            "word": "soda",
+            "start": 9.015,
+            "end": 9.555,
+            "score": 0.877
+        },
+        {
+            "word": "cans.",
+            "start": 9.755,
+            "end": 10.136,
+            "score": 0.78
+        },
+        {
+            "word": "Because",
+            "start": 11.717,
+            "end": 12.117,
+            "score": 0.857
+        },
+        {
+            "word": "first,",
+            "start": 12.257,
+            "end": 12.577,
+            "score": 0.799
+        },
+        {
+            "word": "it's",
+            "start": 14.138,
+            "end": 14.759,
+            "score": 0.459
+        },
+        {
+            "word": "the",
+            "start": 15.319,
+            "end": 15.479,
+            "score": 0.743
+        },
+        {
+            "word": "customer's",
+            "start": 15.559,
+            "end": 16.18,
+            "score": 0.795
+        },
+        {
+            "word": "right.",
+            "start": 16.48,
+            "end": 16.78,
+            "score": 0.812
+        },
+        {
+            "word": "I",
+            "start": 17.821,
+            "end": 17.881,
+            "score": 0.671
+        },
+        {
+            "word": "don't",
+            "start": 17.921,
+            "end": 18.061,
+            "score": 0.883
+        },
+        {
+            "word": "know",
+            "start": 18.101,
+            "end": 18.241,
+            "score": 0.643
+        },
+        {
+            "word": "what",
+            "start": 18.261,
+            "end": 18.441,
+            "score": 0.894
+        },
+        {
+            "word": "it",
+            "start": 19.162,
+            "end": 19.222,
+            "score": 0.994
+        },
+        {
+            "word": "is",
+            "start": 19.342,
+            "end": 19.482,
+            "score": 0.832
+        },
+        {
+            "word": "inside",
+            "start": 19.722,
+            "end": 20.242,
+            "score": 0.627
+        },
+        {
+            "word": "in",
+            "start": 20.903,
+            "end": 20.943,
+            "score": 0.192
+        },
+        {
+            "word": "soda",
+            "start": 21.243,
+            "end": 21.683,
+            "score": 0.864
+        },
+        {
+            "word": "cans.",
+            "start": 21.723,
+            "end": 22.064,
+            "score": 0.88
+        },
+        {
+            "word": "It",
+            "start": 24.445,
+            "end": 24.505,
+            "score": 0.884
+        },
+        {
+            "word": "might",
+            "start": 24.545,
+            "end": 24.766,
+            "score": 0.83
+        },
+        {
+            "word": "be",
+            "start": 24.806,
+            "end": 24.926,
+            "score": 0.797
+        },
+        {
+            "word": "more",
+            "start": 24.986,
+            "end": 25.246,
+            "score": 0.904
+        },
+        {
+            "word": "serious",
+            "start": 25.546,
+            "end": 26.046,
+            "score": 0.921
+        },
+        {
+            "word": "than",
+            "start": 26.146,
+            "end": 26.507,
+            "score": 0.585
+        },
+        {
+            "word": "we",
+            "start": 28.128,
+            "end": 28.428,
+            "score": 0.908
+        },
+        {
+            "word": "are",
+            "start": 29.208,
+            "end": 29.289,
+            "score": 0.846
+        },
+        {
+            "word": "thinking",
+            "start": 29.309,
+            "end": 29.649,
+            "score": 0.934
+        },
+        {
+            "word": "of.",
+            "start": 29.749,
+            "end": 29.789,
+            "score": 0.527
+        },
+        {
+            "word": "And",
+            "start": 31.37,
+            "end": 31.55,
+            "score": 0.635
+        },
+        {
+            "word": "we",
+            "start": 32.912,
+            "end": 33.012,
+            "score": 0.841
+        },
+        {
+            "word": "don't",
+            "start": 33.032,
+            "end": 33.192,
+            "score": 0.894
+        },
+        {
+            "word": "know",
+            "start": 33.232,
+            "end": 33.452,
+            "score": 0.78
+        },
+        {
+            "word": "how",
+            "start": 33.833,
+            "end": 34.053,
+            "score": 0.934
+        },
+        {
+            "word": "harmful",
+            "start": 34.173,
+            "end": 34.713,
+            "score": 0.87
+        },
+        {
+            "word": "it",
+            "start": 35.434,
+            "end": 35.514,
+            "score": 0.956
+        },
+        {
+            "word": "is",
+            "start": 35.594,
+            "end": 35.714,
+            "score": 0.818
+        },
+        {
+            "word": "to",
+            "start": 35.854,
+            "end": 35.994,
+            "score": 0.986
+        },
+        {
+            "word": "us.",
+            "start": 36.135,
+            "end": 36.255,
+            "score": 0.8
+        },
+        {
+            "word": "So",
+            "start": 37.616,
+            "end": 37.996,
+            "score": 0.913
+        },
+        {
+            "word": "it",
+            "start": 40.138,
+            "end": 40.198,
+            "score": 0.998
+        },
+        {
+            "word": "is",
+            "start": 40.258,
+            "end": 40.338,
+            "score": 0.826
+        },
+        {
+            "word": "obvious",
+            "start": 40.539,
+            "end": 40.979,
+            "score": 0.71
+        },
+        {
+            "word": "to",
+            "start": 42.821,
+            "end": 43.141,
+            "score": 0.904
+        },
+        {
+            "word": "show",
+            "start": 44.903,
+            "end": 45.223,
+            "score": 0.554
+        },
+        {
+            "word": "what",
+            "start": 45.743,
+            "end": 46.004,
+            "score": 0.983
+        },
+        {
+            "word": "it",
+            "start": 47.185,
+            "end": 47.265,
+            "score": 0.93
+        },
+        {
+            "word": "is",
+            "start": 47.365,
+            "end": 47.485,
+            "score": 0.664
+        },
+        {
+            "word": "inside",
+            "start": 47.745,
+            "end": 48.246,
+            "score": 0.705
+        },
+        {
+            "word": "in",
+            "start": 48.846,
+            "end": 48.986,
+            "score": 0.761
+        },
+        {
+            "word": "soda",
+            "start": 49.767,
+            "end": 50.188,
+            "score": 0.854
+        },
+        {
+            "word": "cans.",
+            "start": 50.208,
+            "end": 50.468,
+            "score": 0.839
+        }
+    ]
+}

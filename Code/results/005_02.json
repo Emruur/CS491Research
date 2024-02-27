@@ -1,0 +1,1195 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 8.057,
+            "text": " If I could go anywhere in the world right now, I would go back to my country, to Colombia, because I miss it so much.",
+            "words": [
+                {
+                    "word": "If",
+                    "start": 0.109,
+                    "end": 0.209,
+                    "score": 0.76
+                },
+                {
+                    "word": "I",
+                    "start": 0.309,
+                    "end": 0.369,
+                    "score": 0.721
+                },
+                {
+                    "word": "could",
+                    "start": 0.409,
+                    "end": 0.65,
+                    "score": 0.832
+                },
+                {
+                    "word": "go",
+                    "start": 0.73,
+                    "end": 1.11,
+                    "score": 0.694
+                },
+                {
+                    "word": "anywhere",
+                    "start": 1.41,
+                    "end": 1.751,
+                    "score": 0.758
+                },
+                {
+                    "word": "in",
+                    "start": 1.811,
+                    "end": 1.871,
+                    "score": 0.757
+                },
+                {
+                    "word": "the",
+                    "start": 1.931,
+                    "end": 2.011,
+                    "score": 0.862
+                },
+                {
+                    "word": "world",
+                    "start": 2.051,
+                    "end": 2.291,
+                    "score": 0.385
+                },
+                {
+                    "word": "right",
+                    "start": 2.331,
+                    "end": 2.491,
+                    "score": 0.134
+                },
+                {
+                    "word": "now,",
+                    "start": 2.531,
+                    "end": 2.772,
+                    "score": 0.839
+                },
+                {
+                    "word": "I",
+                    "start": 3.332,
+                    "end": 3.392,
+                    "score": 0.936
+                },
+                {
+                    "word": "would",
+                    "start": 3.432,
+                    "end": 3.653,
+                    "score": 0.816
+                },
+                {
+                    "word": "go",
+                    "start": 3.713,
+                    "end": 3.913,
+                    "score": 0.876
+                },
+                {
+                    "word": "back",
+                    "start": 3.993,
+                    "end": 4.213,
+                    "score": 0.869
+                },
+                {
+                    "word": "to",
+                    "start": 4.273,
+                    "end": 4.413,
+                    "score": 0.808
+                },
+                {
+                    "word": "my",
+                    "start": 4.473,
+                    "end": 4.614,
+                    "score": 0.838
+                },
+                {
+                    "word": "country,",
+                    "start": 4.694,
+                    "end": 5.354,
+                    "score": 0.919
+                },
+                {
+                    "word": "to",
+                    "start": 5.454,
+                    "end": 5.594,
+                    "score": 0.95
+                },
+                {
+                    "word": "Colombia,",
+                    "start": 5.675,
+                    "end": 6.315,
+                    "score": 0.854
+                },
+                {
+                    "word": "because",
+                    "start": 6.335,
+                    "end": 6.635,
+                    "score": 0.872
+                },
+                {
+                    "word": "I",
+                    "start": 6.696,
+                    "end": 6.856,
+                    "score": 0.769
+                },
+                {
+                    "word": "miss",
+                    "start": 6.936,
+                    "end": 7.196,
+                    "score": 0.942
+                },
+                {
+                    "word": "it",
+                    "start": 7.296,
+                    "end": 7.376,
+                    "score": 0.937
+                },
+                {
+                    "word": "so",
+                    "start": 7.496,
+                    "end": 7.697,
+                    "score": 0.944
+                },
+                {
+                    "word": "much.",
+                    "start": 7.757,
+                    "end": 8.057,
+                    "score": 0.895
+                }
+            ]
+        },
+        {
+            "start": 8.938,
+            "end": 15.865,
+            "text": "I miss the food and the music and how the people are with each other and...",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 8.938,
+                    "end": 9.018,
+                    "score": 0.829
+                },
+                {
+                    "word": "miss",
+                    "start": 9.098,
+                    "end": 9.638,
+                    "score": 0.562
+                },
+                {
+                    "word": "the",
+                    "start": 10.399,
+                    "end": 10.579,
+                    "score": 0.828
+                },
+                {
+                    "word": "food",
+                    "start": 10.639,
+                    "end": 11.1,
+                    "score": 0.784
+                },
+                {
+                    "word": "and",
+                    "start": 11.16,
+                    "end": 11.26,
+                    "score": 0.816
+                },
+                {
+                    "word": "the",
+                    "start": 11.28,
+                    "end": 11.36,
+                    "score": 0.802
+                },
+                {
+                    "word": "music",
+                    "start": 11.42,
+                    "end": 13.102,
+                    "score": 0.896
+                },
+                {
+                    "word": "and",
+                    "start": 13.122,
+                    "end": 13.182,
+                    "score": 0.001
+                },
+                {
+                    "word": "how",
+                    "start": 13.762,
+                    "end": 14.303,
+                    "score": 0.844
+                },
+                {
+                    "word": "the",
+                    "start": 14.403,
+                    "end": 14.503,
+                    "score": 0.906
+                },
+                {
+                    "word": "people",
+                    "start": 14.543,
+                    "end": 14.864,
+                    "score": 0.905
+                },
+                {
+                    "word": "are",
+                    "start": 14.944,
+                    "end": 15.064,
+                    "score": 0.84
+                },
+                {
+                    "word": "with",
+                    "start": 15.124,
+                    "end": 15.264,
+                    "score": 0.852
+                },
+                {
+                    "word": "each",
+                    "start": 15.304,
+                    "end": 15.444,
+                    "score": 0.707
+                },
+                {
+                    "word": "other",
+                    "start": 15.544,
+                    "end": 15.784,
+                    "score": 0.873
+                },
+                {
+                    "word": "and...",
+                    "start": 15.804,
+                    "end": 15.865,
+                    "score": 0.003
+                }
+            ]
+        },
+        {
+            "start": 18.82,
+            "end": 22.042,
+            "text": " I miss the beaches and the warm weather.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 18.82,
+                    "end": 18.88,
+                    "score": 0.983
+                },
+                {
+                    "word": "miss",
+                    "start": 18.98,
+                    "end": 19.32,
+                    "score": 0.768
+                },
+                {
+                    "word": "the",
+                    "start": 19.38,
+                    "end": 19.5,
+                    "score": 0.83
+                },
+                {
+                    "word": "beaches",
+                    "start": 19.54,
+                    "end": 20.201,
+                    "score": 0.83
+                },
+                {
+                    "word": "and",
+                    "start": 20.701,
+                    "end": 20.901,
+                    "score": 0.758
+                },
+                {
+                    "word": "the",
+                    "start": 21.001,
+                    "end": 21.161,
+                    "score": 0.897
+                },
+                {
+                    "word": "warm",
+                    "start": 21.201,
+                    "end": 21.521,
+                    "score": 0.827
+                },
+                {
+                    "word": "weather.",
+                    "start": 21.582,
+                    "end": 22.042,
+                    "score": 0.963
+                }
+            ]
+        },
+        {
+            "start": 22.062,
+            "end": 25.664,
+            "text": "Here it's really cold and I'm not really used to it.",
+            "words": [
+                {
+                    "word": "Here",
+                    "start": 22.062,
+                    "end": 22.142,
+                    "score": 0.004
+                },
+                {
+                    "word": "it's",
+                    "start": 22.842,
+                    "end": 23.122,
+                    "score": 0.636
+                },
+                {
+                    "word": "really",
+                    "start": 23.242,
+                    "end": 23.563,
+                    "score": 0.812
+                },
+                {
+                    "word": "cold",
+                    "start": 23.603,
+                    "end": 23.923,
+                    "score": 0.648
+                },
+                {
+                    "word": "and",
+                    "start": 23.983,
+                    "end": 24.063,
+                    "score": 0.902
+                },
+                {
+                    "word": "I'm",
+                    "start": 24.123,
+                    "end": 24.263,
+                    "score": 0.872
+                },
+                {
+                    "word": "not",
+                    "start": 24.323,
+                    "end": 24.523,
+                    "score": 0.903
+                },
+                {
+                    "word": "really",
+                    "start": 24.563,
+                    "end": 24.863,
+                    "score": 0.773
+                },
+                {
+                    "word": "used",
+                    "start": 25.083,
+                    "end": 25.243,
+                    "score": 0.858
+                },
+                {
+                    "word": "to",
+                    "start": 25.303,
+                    "end": 25.423,
+                    "score": 0.984
+                },
+                {
+                    "word": "it.",
+                    "start": 25.584,
+                    "end": 25.664,
+                    "score": 0.784
+                }
+            ]
+        },
+        {
+            "start": 25.684,
+            "end": 30.746,
+            "text": "I also miss my family and I miss my friends.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 25.684,
+                    "end": 27.164,
+                    "score": 0.937
+                },
+                {
+                    "word": "also",
+                    "start": 27.184,
+                    "end": 27.645,
+                    "score": 0.735
+                },
+                {
+                    "word": "miss",
+                    "start": 27.665,
+                    "end": 28.005,
+                    "score": 0.782
+                },
+                {
+                    "word": "my",
+                    "start": 28.105,
+                    "end": 28.265,
+                    "score": 0.876
+                },
+                {
+                    "word": "family",
+                    "start": 28.325,
+                    "end": 28.985,
+                    "score": 0.93
+                },
+                {
+                    "word": "and",
+                    "start": 29.005,
+                    "end": 29.065,
+                    "score": 0.0
+                },
+                {
+                    "word": "I",
+                    "start": 29.085,
+                    "end": 29.105,
+                    "score": 0.0
+                },
+                {
+                    "word": "miss",
+                    "start": 29.686,
+                    "end": 29.866,
+                    "score": 0.948
+                },
+                {
+                    "word": "my",
+                    "start": 29.886,
+                    "end": 30.026,
+                    "score": 0.609
+                },
+                {
+                    "word": "friends.",
+                    "start": 30.106,
+                    "end": 30.746,
+                    "score": 0.757
+                }
+            ]
+        },
+        {
+            "start": 32.327,
+            "end": 40.971,
+            "text": "And I miss the landscapes and I miss everything that you can hear and how people treat you.",
+            "words": [
+                {
+                    "word": "And",
+                    "start": 32.327,
+                    "end": 32.547,
+                    "score": 0.678
+                },
+                {
+                    "word": "I",
+                    "start": 32.567,
+                    "end": 32.587,
+                    "score": 0.0
+                },
+                {
+                    "word": "miss",
+                    "start": 33.388,
+                    "end": 33.748,
+                    "score": 0.711
+                },
+                {
+                    "word": "the",
+                    "start": 33.788,
+                    "end": 33.908,
+                    "score": 0.882
+                },
+                {
+                    "word": "landscapes",
+                    "start": 33.948,
+                    "end": 34.808,
+                    "score": 0.853
+                },
+                {
+                    "word": "and",
+                    "start": 34.928,
+                    "end": 35.048,
+                    "score": 0.786
+                },
+                {
+                    "word": "I",
+                    "start": 35.108,
+                    "end": 35.168,
+                    "score": 0.83
+                },
+                {
+                    "word": "miss",
+                    "start": 35.209,
+                    "end": 35.629,
+                    "score": 0.63
+                },
+                {
+                    "word": "everything",
+                    "start": 36.509,
+                    "end": 38.27,
+                    "score": 0.897
+                },
+                {
+                    "word": "that",
+                    "start": 38.31,
+                    "end": 38.45,
+                    "score": 0.808
+                },
+                {
+                    "word": "you",
+                    "start": 38.47,
+                    "end": 38.59,
+                    "score": 0.992
+                },
+                {
+                    "word": "can",
+                    "start": 38.63,
+                    "end": 38.77,
+                    "score": 0.929
+                },
+                {
+                    "word": "hear",
+                    "start": 38.83,
+                    "end": 39.191,
+                    "score": 0.85
+                },
+                {
+                    "word": "and",
+                    "start": 39.291,
+                    "end": 39.411,
+                    "score": 0.763
+                },
+                {
+                    "word": "how",
+                    "start": 39.471,
+                    "end": 39.651,
+                    "score": 0.985
+                },
+                {
+                    "word": "people",
+                    "start": 39.731,
+                    "end": 40.211,
+                    "score": 0.778
+                },
+                {
+                    "word": "treat",
+                    "start": 40.331,
+                    "end": 40.591,
+                    "score": 0.895
+                },
+                {
+                    "word": "you.",
+                    "start": 40.691,
+                    "end": 40.971,
+                    "score": 0.83
+                }
+            ]
+        },
+        {
+            "start": 41.252,
+            "end": 43.813,
+            "text": "That's where I go in the world.",
+            "words": [
+                {
+                    "word": "That's",
+                    "start": 41.252,
+                    "end": 41.672,
+                    "score": 0.902
+                },
+                {
+                    "word": "where",
+                    "start": 42.412,
+                    "end": 42.592,
+                    "score": 0.96
+                },
+                {
+                    "word": "I",
+                    "start": 42.652,
+                    "end": 42.712,
+                    "score": 0.974
+                },
+                {
+                    "word": "go",
+                    "start": 42.752,
+                    "end": 42.973,
+                    "score": 0.81
+                },
+                {
+                    "word": "in",
+                    "start": 43.373,
+                    "end": 43.453,
+                    "score": 0.883
+                },
+                {
+                    "word": "the",
+                    "start": 43.493,
+                    "end": 43.573,
+                    "score": 0.897
+                },
+                {
+                    "word": "world.",
+                    "start": 43.593,
+                    "end": 43.813,
+                    "score": 0.804
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "If",
+            "start": 0.109,
+            "end": 0.209,
+            "score": 0.76
+        },
+        {
+            "word": "I",
+            "start": 0.309,
+            "end": 0.369,
+            "score": 0.721
+        },
+        {
+            "word": "could",
+            "start": 0.409,
+            "end": 0.65,
+            "score": 0.832
+        },
+        {
+            "word": "go",
+            "start": 0.73,
+            "end": 1.11,
+            "score": 0.694
+        },
+        {
+            "word": "anywhere",
+            "start": 1.41,
+            "end": 1.751,
+            "score": 0.758
+        },
+        {
+            "word": "in",
+            "start": 1.811,
+            "end": 1.871,
+            "score": 0.757
+        },
+        {
+            "word": "the",
+            "start": 1.931,
+            "end": 2.011,
+            "score": 0.862
+        },
+        {
+            "word": "world",
+            "start": 2.051,
+            "end": 2.291,
+            "score": 0.385
+        },
+        {
+            "word": "right",
+            "start": 2.331,
+            "end": 2.491,
+            "score": 0.134
+        },
+        {
+            "word": "now,",
+            "start": 2.531,
+            "end": 2.772,
+            "score": 0.839
+        },
+        {
+            "word": "I",
+            "start": 3.332,
+            "end": 3.392,
+            "score": 0.936
+        },
+        {
+            "word": "would",
+            "start": 3.432,
+            "end": 3.653,
+            "score": 0.816
+        },
+        {
+            "word": "go",
+            "start": 3.713,
+            "end": 3.913,
+            "score": 0.876
+        },
+        {
+            "word": "back",
+            "start": 3.993,
+            "end": 4.213,
+            "score": 0.869
+        },
+        {
+            "word": "to",
+            "start": 4.273,
+            "end": 4.413,
+            "score": 0.808
+        },
+        {
+            "word": "my",
+            "start": 4.473,
+            "end": 4.614,
+            "score": 0.838
+        },
+        {
+            "word": "country,",
+            "start": 4.694,
+            "end": 5.354,
+            "score": 0.919
+        },
+        {
+            "word": "to",
+            "start": 5.454,
+            "end": 5.594,
+            "score": 0.95
+        },
+        {
+            "word": "Colombia,",
+            "start": 5.675,
+            "end": 6.315,
+            "score": 0.854
+        },
+        {
+            "word": "because",
+            "start": 6.335,
+            "end": 6.635,
+            "score": 0.872
+        },
+        {
+            "word": "I",
+            "start": 6.696,
+            "end": 6.856,
+            "score": 0.769
+        },
+        {
+            "word": "miss",
+            "start": 6.936,
+            "end": 7.196,
+            "score": 0.942
+        },
+        {
+            "word": "it",
+            "start": 7.296,
+            "end": 7.376,
+            "score": 0.937
+        },
+        {
+            "word": "so",
+            "start": 7.496,
+            "end": 7.697,
+            "score": 0.944
+        },
+        {
+            "word": "much.",
+            "start": 7.757,
+            "end": 8.057,
+            "score": 0.895
+        },
+        {
+            "word": "I",
+            "start": 8.938,
+            "end": 9.018,
+            "score": 0.829
+        },
+        {
+            "word": "miss",
+            "start": 9.098,
+            "end": 9.638,
+            "score": 0.562
+        },
+        {
+            "word": "the",
+            "start": 10.399,
+            "end": 10.579,
+            "score": 0.828
+        },
+        {
+            "word": "food",
+            "start": 10.639,
+            "end": 11.1,
+            "score": 0.784
+        },
+        {
+            "word": "and",
+            "start": 11.16,
+            "end": 11.26,
+            "score": 0.816
+        },
+        {
+            "word": "the",
+            "start": 11.28,
+            "end": 11.36,
+            "score": 0.802
+        },
+        {
+            "word": "music",
+            "start": 11.42,
+            "end": 13.102,
+            "score": 0.896
+        },
+        {
+            "word": "and",
+            "start": 13.122,
+            "end": 13.182,
+            "score": 0.001
+        },
+        {
+            "word": "how",
+            "start": 13.762,
+            "end": 14.303,
+            "score": 0.844
+        },
+        {
+            "word": "the",
+            "start": 14.403,
+            "end": 14.503,
+            "score": 0.906
+        },
+        {
+            "word": "people",
+            "start": 14.543,
+            "end": 14.864,
+            "score": 0.905
+        },
+        {
+            "word": "are",
+            "start": 14.944,
+            "end": 15.064,
+            "score": 0.84
+        },
+        {
+            "word": "with",
+            "start": 15.124,
+            "end": 15.264,
+            "score": 0.852
+        },
+        {
+            "word": "each",
+            "start": 15.304,
+            "end": 15.444,
+            "score": 0.707
+        },
+        {
+            "word": "other",
+            "start": 15.544,
+            "end": 15.784,
+            "score": 0.873
+        },
+        {
+            "word": "and...",
+            "start": 15.804,
+            "end": 15.865,
+            "score": 0.003
+        },
+        {
+            "word": "I",
+            "start": 18.82,
+            "end": 18.88,
+            "score": 0.983
+        },
+        {
+            "word": "miss",
+            "start": 18.98,
+            "end": 19.32,
+            "score": 0.768
+        },
+        {
+            "word": "the",
+            "start": 19.38,
+            "end": 19.5,
+            "score": 0.83
+        },
+        {
+            "word": "beaches",
+            "start": 19.54,
+            "end": 20.201,
+            "score": 0.83
+        },
+        {
+            "word": "and",
+            "start": 20.701,
+            "end": 20.901,
+            "score": 0.758
+        },
+        {
+            "word": "the",
+            "start": 21.001,
+            "end": 21.161,
+            "score": 0.897
+        },
+        {
+            "word": "warm",
+            "start": 21.201,
+            "end": 21.521,
+            "score": 0.827
+        },
+        {
+            "word": "weather.",
+            "start": 21.582,
+            "end": 22.042,
+            "score": 0.963
+        },
+        {
+            "word": "Here",
+            "start": 22.062,
+            "end": 22.142,
+            "score": 0.004
+        },
+        {
+            "word": "it's",
+            "start": 22.842,
+            "end": 23.122,
+            "score": 0.636
+        },
+        {
+            "word": "really",
+            "start": 23.242,
+            "end": 23.563,
+            "score": 0.812
+        },
+        {
+            "word": "cold",
+            "start": 23.603,
+            "end": 23.923,
+            "score": 0.648
+        },
+        {
+            "word": "and",
+            "start": 23.983,
+            "end": 24.063,
+            "score": 0.902
+        },
+        {
+            "word": "I'm",
+            "start": 24.123,
+            "end": 24.263,
+            "score": 0.872
+        },
+        {
+            "word": "not",
+            "start": 24.323,
+            "end": 24.523,
+            "score": 0.903
+        },
+        {
+            "word": "really",
+            "start": 24.563,
+            "end": 24.863,
+            "score": 0.773
+        },
+        {
+            "word": "used",
+            "start": 25.083,
+            "end": 25.243,
+            "score": 0.858
+        },
+        {
+            "word": "to",
+            "start": 25.303,
+            "end": 25.423,
+            "score": 0.984
+        },
+        {
+            "word": "it.",
+            "start": 25.584,
+            "end": 25.664,
+            "score": 0.784
+        },
+        {
+            "word": "I",
+            "start": 25.684,
+            "end": 27.164,
+            "score": 0.937
+        },
+        {
+            "word": "also",
+            "start": 27.184,
+            "end": 27.645,
+            "score": 0.735
+        },
+        {
+            "word": "miss",
+            "start": 27.665,
+            "end": 28.005,
+            "score": 0.782
+        },
+        {
+            "word": "my",
+            "start": 28.105,
+            "end": 28.265,
+            "score": 0.876
+        },
+        {
+            "word": "family",
+            "start": 28.325,
+            "end": 28.985,
+            "score": 0.93
+        },
+        {
+            "word": "and",
+            "start": 29.005,
+            "end": 29.065,
+            "score": 0.0
+        },
+        {
+            "word": "I",
+            "start": 29.085,
+            "end": 29.105,
+            "score": 0.0
+        },
+        {
+            "word": "miss",
+            "start": 29.686,
+            "end": 29.866,
+            "score": 0.948
+        },
+        {
+            "word": "my",
+            "start": 29.886,
+            "end": 30.026,
+            "score": 0.609
+        },
+        {
+            "word": "friends.",
+            "start": 30.106,
+            "end": 30.746,
+            "score": 0.757
+        },
+        {
+            "word": "And",
+            "start": 32.327,
+            "end": 32.547,
+            "score": 0.678
+        },
+        {
+            "word": "I",
+            "start": 32.567,
+            "end": 32.587,
+            "score": 0.0
+        },
+        {
+            "word": "miss",
+            "start": 33.388,
+            "end": 33.748,
+            "score": 0.711
+        },
+        {
+            "word": "the",
+            "start": 33.788,
+            "end": 33.908,
+            "score": 0.882
+        },
+        {
+            "word": "landscapes",
+            "start": 33.948,
+            "end": 34.808,
+            "score": 0.853
+        },
+        {
+            "word": "and",
+            "start": 34.928,
+            "end": 35.048,
+            "score": 0.786
+        },
+        {
+            "word": "I",
+            "start": 35.108,
+            "end": 35.168,
+            "score": 0.83
+        },
+        {
+            "word": "miss",
+            "start": 35.209,
+            "end": 35.629,
+            "score": 0.63
+        },
+        {
+            "word": "everything",
+            "start": 36.509,
+            "end": 38.27,
+            "score": 0.897
+        },
+        {
+            "word": "that",
+            "start": 38.31,
+            "end": 38.45,
+            "score": 0.808
+        },
+        {
+            "word": "you",
+            "start": 38.47,
+            "end": 38.59,
+            "score": 0.992
+        },
+        {
+            "word": "can",
+            "start": 38.63,
+            "end": 38.77,
+            "score": 0.929
+        },
+        {
+            "word": "hear",
+            "start": 38.83,
+            "end": 39.191,
+            "score": 0.85
+        },
+        {
+            "word": "and",
+            "start": 39.291,
+            "end": 39.411,
+            "score": 0.763
+        },
+        {
+            "word": "how",
+            "start": 39.471,
+            "end": 39.651,
+            "score": 0.985
+        },
+        {
+            "word": "people",
+            "start": 39.731,
+            "end": 40.211,
+            "score": 0.778
+        },
+        {
+            "word": "treat",
+            "start": 40.331,
+            "end": 40.591,
+            "score": 0.895
+        },
+        {
+            "word": "you.",
+            "start": 40.691,
+            "end": 40.971,
+            "score": 0.83
+        },
+        {
+            "word": "That's",
+            "start": 41.252,
+            "end": 41.672,
+            "score": 0.902
+        },
+        {
+            "word": "where",
+            "start": 42.412,
+            "end": 42.592,
+            "score": 0.96
+        },
+        {
+            "word": "I",
+            "start": 42.652,
+            "end": 42.712,
+            "score": 0.974
+        },
+        {
+            "word": "go",
+            "start": 42.752,
+            "end": 42.973,
+            "score": 0.81
+        },
+        {
+            "word": "in",
+            "start": 43.373,
+            "end": 43.453,
+            "score": 0.883
+        },
+        {
+            "word": "the",
+            "start": 43.493,
+            "end": 43.573,
+            "score": 0.897
+        },
+        {
+            "word": "world.",
+            "start": 43.593,
+            "end": 43.813,
+            "score": 0.804
+        }
+    ]
+}

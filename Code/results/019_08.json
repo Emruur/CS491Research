@@ -1,0 +1,464 @@
+{
+    "segments": [
+        {
+            "start": 0.089,
+            "end": 16.398,
+            "text": " I'm at the hobby shop and go street at until north avenue and you walk at high corner of high street and 11th street.",
+            "words": [
+                {
+                    "word": "I'm",
+                    "start": 0.089,
+                    "end": 0.189,
+                    "score": 0.742
+                },
+                {
+                    "word": "at",
+                    "start": 0.229,
+                    "end": 0.329,
+                    "score": 0.758
+                },
+                {
+                    "word": "the",
+                    "start": 0.389,
+                    "end": 0.569,
+                    "score": 0.793
+                },
+                {
+                    "word": "hobby",
+                    "start": 0.849,
+                    "end": 1.27,
+                    "score": 0.918
+                },
+                {
+                    "word": "shop",
+                    "start": 1.31,
+                    "end": 1.57,
+                    "score": 0.753
+                },
+                {
+                    "word": "and",
+                    "start": 2.43,
+                    "end": 2.57,
+                    "score": 0.701
+                },
+                {
+                    "word": "go",
+                    "start": 2.59,
+                    "end": 2.63,
+                    "score": 0.0
+                },
+                {
+                    "word": "street",
+                    "start": 3.331,
+                    "end": 3.871,
+                    "score": 0.798
+                },
+                {
+                    "word": "at",
+                    "start": 4.631,
+                    "end": 4.751,
+                    "score": 0.879
+                },
+                {
+                    "word": "until",
+                    "start": 5.832,
+                    "end": 6.372,
+                    "score": 0.872
+                },
+                {
+                    "word": "north",
+                    "start": 6.452,
+                    "end": 6.793,
+                    "score": 0.606
+                },
+                {
+                    "word": "avenue",
+                    "start": 6.993,
+                    "end": 7.433,
+                    "score": 0.646
+                },
+                {
+                    "word": "and",
+                    "start": 8.613,
+                    "end": 8.794,
+                    "score": 0.372
+                },
+                {
+                    "word": "you",
+                    "start": 8.814,
+                    "end": 10.655,
+                    "score": 0.798
+                },
+                {
+                    "word": "walk",
+                    "start": 11.355,
+                    "end": 11.715,
+                    "score": 0.9
+                },
+                {
+                    "word": "at",
+                    "start": 12.235,
+                    "end": 12.335,
+                    "score": 0.907
+                },
+                {
+                    "word": "high",
+                    "start": 12.556,
+                    "end": 12.916,
+                    "score": 0.874
+                },
+                {
+                    "word": "corner",
+                    "start": 13.796,
+                    "end": 14.136,
+                    "score": 0.839
+                },
+                {
+                    "word": "of",
+                    "start": 14.196,
+                    "end": 14.296,
+                    "score": 0.807
+                },
+                {
+                    "word": "high",
+                    "start": 14.336,
+                    "end": 14.597,
+                    "score": 0.926
+                },
+                {
+                    "word": "street",
+                    "start": 14.637,
+                    "end": 15.037,
+                    "score": 0.789
+                },
+                {
+                    "word": "and",
+                    "start": 15.297,
+                    "end": 15.437,
+                    "score": 0.609
+                },
+                {
+                    "word": "11th",
+                    "start": 15.457,
+                    "end": 15.497,
+                    "score": 0.0
+                },
+                {
+                    "word": "street.",
+                    "start": 16.037,
+                    "end": 16.398,
+                    "score": 0.789
+                }
+            ]
+        },
+        {
+            "start": 17.078,
+            "end": 22.701,
+            "text": "It's corner the post office is corner of high street and 11th street.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 17.078,
+                    "end": 17.318,
+                    "score": 0.629
+                },
+                {
+                    "word": "corner",
+                    "start": 17.478,
+                    "end": 17.938,
+                    "score": 0.849
+                },
+                {
+                    "word": "the",
+                    "start": 18.419,
+                    "end": 18.519,
+                    "score": 0.967
+                },
+                {
+                    "word": "post",
+                    "start": 18.579,
+                    "end": 18.859,
+                    "score": 0.798
+                },
+                {
+                    "word": "office",
+                    "start": 18.959,
+                    "end": 19.339,
+                    "score": 0.683
+                },
+                {
+                    "word": "is",
+                    "start": 19.439,
+                    "end": 19.559,
+                    "score": 0.669
+                },
+                {
+                    "word": "corner",
+                    "start": 19.679,
+                    "end": 20.079,
+                    "score": 0.84
+                },
+                {
+                    "word": "of",
+                    "start": 20.68,
+                    "end": 20.86,
+                    "score": 0.811
+                },
+                {
+                    "word": "high",
+                    "start": 20.94,
+                    "end": 21.16,
+                    "score": 0.975
+                },
+                {
+                    "word": "street",
+                    "start": 21.2,
+                    "end": 21.56,
+                    "score": 0.798
+                },
+                {
+                    "word": "and",
+                    "start": 21.74,
+                    "end": 21.84,
+                    "score": 0.907
+                },
+                {
+                    "word": "11th",
+                    "start": 21.86,
+                    "end": 22.361,
+                    "score": 0.676
+                },
+                {
+                    "word": "street.",
+                    "start": 22.401,
+                    "end": 22.701,
+                    "score": 0.91
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I'm",
+            "start": 0.089,
+            "end": 0.189,
+            "score": 0.742
+        },
+        {
+            "word": "at",
+            "start": 0.229,
+            "end": 0.329,
+            "score": 0.758
+        },
+        {
+            "word": "the",
+            "start": 0.389,
+            "end": 0.569,
+            "score": 0.793
+        },
+        {
+            "word": "hobby",
+            "start": 0.849,
+            "end": 1.27,
+            "score": 0.918
+        },
+        {
+            "word": "shop",
+            "start": 1.31,
+            "end": 1.57,
+            "score": 0.753
+        },
+        {
+            "word": "and",
+            "start": 2.43,
+            "end": 2.57,
+            "score": 0.701
+        },
+        {
+            "word": "go",
+            "start": 2.59,
+            "end": 2.63,
+            "score": 0.0
+        },
+        {
+            "word": "street",
+            "start": 3.331,
+            "end": 3.871,
+            "score": 0.798
+        },
+        {
+            "word": "at",
+            "start": 4.631,
+            "end": 4.751,
+            "score": 0.879
+        },
+        {
+            "word": "until",
+            "start": 5.832,
+            "end": 6.372,
+            "score": 0.872
+        },
+        {
+            "word": "north",
+            "start": 6.452,
+            "end": 6.793,
+            "score": 0.606
+        },
+        {
+            "word": "avenue",
+            "start": 6.993,
+            "end": 7.433,
+            "score": 0.646
+        },
+        {
+            "word": "and",
+            "start": 8.613,
+            "end": 8.794,
+            "score": 0.372
+        },
+        {
+            "word": "you",
+            "start": 8.814,
+            "end": 10.655,
+            "score": 0.798
+        },
+        {
+            "word": "walk",
+            "start": 11.355,
+            "end": 11.715,
+            "score": 0.9
+        },
+        {
+            "word": "at",
+            "start": 12.235,
+            "end": 12.335,
+            "score": 0.907
+        },
+        {
+            "word": "high",
+            "start": 12.556,
+            "end": 12.916,
+            "score": 0.874
+        },
+        {
+            "word": "corner",
+            "start": 13.796,
+            "end": 14.136,
+            "score": 0.839
+        },
+        {
+            "word": "of",
+            "start": 14.196,
+            "end": 14.296,
+            "score": 0.807
+        },
+        {
+            "word": "high",
+            "start": 14.336,
+            "end": 14.597,
+            "score": 0.926
+        },
+        {
+            "word": "street",
+            "start": 14.637,
+            "end": 15.037,
+            "score": 0.789
+        },
+        {
+            "word": "and",
+            "start": 15.297,
+            "end": 15.437,
+            "score": 0.609
+        },
+        {
+            "word": "11th",
+            "start": 15.457,
+            "end": 15.497,
+            "score": 0.0
+        },
+        {
+            "word": "street.",
+            "start": 16.037,
+            "end": 16.398,
+            "score": 0.789
+        },
+        {
+            "word": "It's",
+            "start": 17.078,
+            "end": 17.318,
+            "score": 0.629
+        },
+        {
+            "word": "corner",
+            "start": 17.478,
+            "end": 17.938,
+            "score": 0.849
+        },
+        {
+            "word": "the",
+            "start": 18.419,
+            "end": 18.519,
+            "score": 0.967
+        },
+        {
+            "word": "post",
+            "start": 18.579,
+            "end": 18.859,
+            "score": 0.798
+        },
+        {
+            "word": "office",
+            "start": 18.959,
+            "end": 19.339,
+            "score": 0.683
+        },
+        {
+            "word": "is",
+            "start": 19.439,
+            "end": 19.559,
+            "score": 0.669
+        },
+        {
+            "word": "corner",
+            "start": 19.679,
+            "end": 20.079,
+            "score": 0.84
+        },
+        {
+            "word": "of",
+            "start": 20.68,
+            "end": 20.86,
+            "score": 0.811
+        },
+        {
+            "word": "high",
+            "start": 20.94,
+            "end": 21.16,
+            "score": 0.975
+        },
+        {
+            "word": "street",
+            "start": 21.2,
+            "end": 21.56,
+            "score": 0.798
+        },
+        {
+            "word": "and",
+            "start": 21.74,
+            "end": 21.84,
+            "score": 0.907
+        },
+        {
+            "word": "11th",
+            "start": 21.86,
+            "end": 22.361,
+            "score": 0.676
+        },
+        {
+            "word": "street.",
+            "start": 22.401,
+            "end": 22.701,
+            "score": 0.91
+        }
+    ]
+}

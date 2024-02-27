@@ -1,0 +1,1006 @@
+{
+    "segments": [
+        {
+            "start": 0.431,
+            "end": 4.606,
+            "text": " Nowadays, more and more motor cars running on the road.",
+            "words": [
+                {
+                    "word": "Nowadays,",
+                    "start": 0.431,
+                    "end": 1.214,
+                    "score": 0.866
+                },
+                {
+                    "word": "more",
+                    "start": 1.836,
+                    "end": 2.017,
+                    "score": 0.607
+                },
+                {
+                    "word": "and",
+                    "start": 2.057,
+                    "end": 2.237,
+                    "score": 0.422
+                },
+                {
+                    "word": "more",
+                    "start": 2.278,
+                    "end": 2.458,
+                    "score": 0.604
+                },
+                {
+                    "word": "motor",
+                    "start": 2.478,
+                    "end": 2.82,
+                    "score": 0.79
+                },
+                {
+                    "word": "cars",
+                    "start": 2.84,
+                    "end": 3.101,
+                    "score": 0.738
+                },
+                {
+                    "word": "running",
+                    "start": 3.201,
+                    "end": 3.542,
+                    "score": 0.385
+                },
+                {
+                    "word": "on",
+                    "start": 3.663,
+                    "end": 3.803,
+                    "score": 0.858
+                },
+                {
+                    "word": "the",
+                    "start": 3.823,
+                    "end": 4.044,
+                    "score": 0.509
+                },
+                {
+                    "word": "road.",
+                    "start": 4.305,
+                    "end": 4.606,
+                    "score": 0.673
+                }
+            ]
+        },
+        {
+            "start": 7.782,
+            "end": 20.648,
+            "text": " I agree with the statement that some cities want to make no car zones in their city center where private cars are prohibited.",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 7.782,
+                    "end": 7.902,
+                    "score": 0.823
+                },
+                {
+                    "word": "agree",
+                    "start": 7.922,
+                    "end": 8.303,
+                    "score": 0.668
+                },
+                {
+                    "word": "with",
+                    "start": 8.343,
+                    "end": 8.903,
+                    "score": 0.712
+                },
+                {
+                    "word": "the",
+                    "start": 8.963,
+                    "end": 9.263,
+                    "score": 0.793
+                },
+                {
+                    "word": "statement",
+                    "start": 10.003,
+                    "end": 10.724,
+                    "score": 0.74
+                },
+                {
+                    "word": "that",
+                    "start": 10.744,
+                    "end": 10.844,
+                    "score": 0.38
+                },
+                {
+                    "word": "some",
+                    "start": 10.884,
+                    "end": 11.124,
+                    "score": 0.844
+                },
+                {
+                    "word": "cities",
+                    "start": 11.144,
+                    "end": 11.544,
+                    "score": 0.651
+                },
+                {
+                    "word": "want",
+                    "start": 11.704,
+                    "end": 11.924,
+                    "score": 0.725
+                },
+                {
+                    "word": "to",
+                    "start": 11.964,
+                    "end": 12.084,
+                    "score": 0.935
+                },
+                {
+                    "word": "make",
+                    "start": 12.164,
+                    "end": 12.565,
+                    "score": 0.829
+                },
+                {
+                    "word": "no",
+                    "start": 12.665,
+                    "end": 12.905,
+                    "score": 0.921
+                },
+                {
+                    "word": "car",
+                    "start": 12.945,
+                    "end": 13.285,
+                    "score": 0.861
+                },
+                {
+                    "word": "zones",
+                    "start": 13.425,
+                    "end": 13.805,
+                    "score": 0.859
+                },
+                {
+                    "word": "in",
+                    "start": 14.946,
+                    "end": 15.246,
+                    "score": 0.731
+                },
+                {
+                    "word": "their",
+                    "start": 15.446,
+                    "end": 15.766,
+                    "score": 0.403
+                },
+                {
+                    "word": "city",
+                    "start": 15.806,
+                    "end": 16.266,
+                    "score": 0.647
+                },
+                {
+                    "word": "center",
+                    "start": 16.807,
+                    "end": 17.367,
+                    "score": 0.646
+                },
+                {
+                    "word": "where",
+                    "start": 18.087,
+                    "end": 18.387,
+                    "score": 0.627
+                },
+                {
+                    "word": "private",
+                    "start": 18.467,
+                    "end": 19.188,
+                    "score": 0.859
+                },
+                {
+                    "word": "cars",
+                    "start": 19.248,
+                    "end": 19.588,
+                    "score": 0.812
+                },
+                {
+                    "word": "are",
+                    "start": 19.708,
+                    "end": 19.788,
+                    "score": 0.369
+                },
+                {
+                    "word": "prohibited.",
+                    "start": 19.848,
+                    "end": 20.648,
+                    "score": 0.882
+                }
+            ]
+        },
+        {
+            "start": 21.129,
+            "end": 30.633,
+            "text": "Because nowadays more and more motor cars are running on the road and it causes very serious pollution to the city like",
+            "words": [
+                {
+                    "word": "Because",
+                    "start": 21.129,
+                    "end": 21.569,
+                    "score": 0.91
+                },
+                {
+                    "word": "nowadays",
+                    "start": 21.649,
+                    "end": 22.289,
+                    "score": 0.735
+                },
+                {
+                    "word": "more",
+                    "start": 22.509,
+                    "end": 22.829,
+                    "score": 0.483
+                },
+                {
+                    "word": "and",
+                    "start": 22.849,
+                    "end": 22.909,
+                    "score": 0.173
+                },
+                {
+                    "word": "more",
+                    "start": 22.949,
+                    "end": 23.09,
+                    "score": 0.551
+                },
+                {
+                    "word": "motor",
+                    "start": 23.11,
+                    "end": 23.37,
+                    "score": 0.636
+                },
+                {
+                    "word": "cars",
+                    "start": 23.39,
+                    "end": 23.67,
+                    "score": 0.671
+                },
+                {
+                    "word": "are",
+                    "start": 23.69,
+                    "end": 23.75,
+                    "score": 0.184
+                },
+                {
+                    "word": "running",
+                    "start": 23.77,
+                    "end": 24.07,
+                    "score": 0.43
+                },
+                {
+                    "word": "on",
+                    "start": 24.21,
+                    "end": 24.37,
+                    "score": 0.746
+                },
+                {
+                    "word": "the",
+                    "start": 24.39,
+                    "end": 24.51,
+                    "score": 0.367
+                },
+                {
+                    "word": "road",
+                    "start": 24.55,
+                    "end": 24.93,
+                    "score": 0.813
+                },
+                {
+                    "word": "and",
+                    "start": 25.531,
+                    "end": 25.731,
+                    "score": 0.601
+                },
+                {
+                    "word": "it",
+                    "start": 25.771,
+                    "end": 25.971,
+                    "score": 0.69
+                },
+                {
+                    "word": "causes",
+                    "start": 26.011,
+                    "end": 26.391,
+                    "score": 0.704
+                },
+                {
+                    "word": "very",
+                    "start": 26.411,
+                    "end": 26.651,
+                    "score": 0.784
+                },
+                {
+                    "word": "serious",
+                    "start": 26.691,
+                    "end": 27.252,
+                    "score": 0.72
+                },
+                {
+                    "word": "pollution",
+                    "start": 28.872,
+                    "end": 29.433,
+                    "score": 0.446
+                },
+                {
+                    "word": "to",
+                    "start": 29.473,
+                    "end": 29.753,
+                    "score": 0.759
+                },
+                {
+                    "word": "the",
+                    "start": 29.773,
+                    "end": 29.913,
+                    "score": 0.202
+                },
+                {
+                    "word": "city",
+                    "start": 29.953,
+                    "end": 30.393,
+                    "score": 0.736
+                },
+                {
+                    "word": "like",
+                    "start": 30.433,
+                    "end": 30.633,
+                    "score": 0.9
+                }
+            ]
+        },
+        {
+            "start": 33.475,
+            "end": 56.768,
+            "text": " greenhouse problems and so I think cities should make some zones prohibit private cars and people use public traffic systems in that zones can make our",
+            "words": [
+                {
+                    "word": "greenhouse",
+                    "start": 33.475,
+                    "end": 34.315,
+                    "score": 0.763
+                },
+                {
+                    "word": "problems",
+                    "start": 34.435,
+                    "end": 35.176,
+                    "score": 0.846
+                },
+                {
+                    "word": "and",
+                    "start": 36.016,
+                    "end": 36.176,
+                    "score": 0.821
+                },
+                {
+                    "word": "so",
+                    "start": 36.797,
+                    "end": 36.977,
+                    "score": 0.943
+                },
+                {
+                    "word": "I",
+                    "start": 37.057,
+                    "end": 37.137,
+                    "score": 0.769
+                },
+                {
+                    "word": "think",
+                    "start": 37.177,
+                    "end": 37.777,
+                    "score": 0.596
+                },
+                {
+                    "word": "cities",
+                    "start": 38.457,
+                    "end": 38.978,
+                    "score": 0.668
+                },
+                {
+                    "word": "should",
+                    "start": 39.058,
+                    "end": 39.478,
+                    "score": 0.676
+                },
+                {
+                    "word": "make",
+                    "start": 39.518,
+                    "end": 39.798,
+                    "score": 0.876
+                },
+                {
+                    "word": "some",
+                    "start": 40.118,
+                    "end": 40.579,
+                    "score": 0.876
+                },
+                {
+                    "word": "zones",
+                    "start": 40.639,
+                    "end": 41.259,
+                    "score": 0.642
+                },
+                {
+                    "word": "prohibit",
+                    "start": 41.9,
+                    "end": 43.0,
+                    "score": 0.867
+                },
+                {
+                    "word": "private",
+                    "start": 43.701,
+                    "end": 44.241,
+                    "score": 0.849
+                },
+                {
+                    "word": "cars",
+                    "start": 44.261,
+                    "end": 44.701,
+                    "score": 0.822
+                },
+                {
+                    "word": "and",
+                    "start": 46.222,
+                    "end": 46.322,
+                    "score": 0.825
+                },
+                {
+                    "word": "people",
+                    "start": 46.482,
+                    "end": 47.003,
+                    "score": 0.723
+                },
+                {
+                    "word": "use",
+                    "start": 47.283,
+                    "end": 47.783,
+                    "score": 0.761
+                },
+                {
+                    "word": "public",
+                    "start": 50.324,
+                    "end": 50.905,
+                    "score": 0.692
+                },
+                {
+                    "word": "traffic",
+                    "start": 50.945,
+                    "end": 51.465,
+                    "score": 0.701
+                },
+                {
+                    "word": "systems",
+                    "start": 51.505,
+                    "end": 52.166,
+                    "score": 0.726
+                },
+                {
+                    "word": "in",
+                    "start": 52.406,
+                    "end": 52.566,
+                    "score": 0.622
+                },
+                {
+                    "word": "that",
+                    "start": 52.606,
+                    "end": 52.906,
+                    "score": 0.526
+                },
+                {
+                    "word": "zones",
+                    "start": 52.966,
+                    "end": 53.446,
+                    "score": 0.834
+                },
+                {
+                    "word": "can",
+                    "start": 54.207,
+                    "end": 54.587,
+                    "score": 0.86
+                },
+                {
+                    "word": "make",
+                    "start": 56.268,
+                    "end": 56.528,
+                    "score": 0.852
+                },
+                {
+                    "word": "our",
+                    "start": 56.708,
+                    "end": 56.768,
+                    "score": 0.172
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "Nowadays,",
+            "start": 0.431,
+            "end": 1.214,
+            "score": 0.866
+        },
+        {
+            "word": "more",
+            "start": 1.836,
+            "end": 2.017,
+            "score": 0.607
+        },
+        {
+            "word": "and",
+            "start": 2.057,
+            "end": 2.237,
+            "score": 0.422
+        },
+        {
+            "word": "more",
+            "start": 2.278,
+            "end": 2.458,
+            "score": 0.604
+        },
+        {
+            "word": "motor",
+            "start": 2.478,
+            "end": 2.82,
+            "score": 0.79
+        },
+        {
+            "word": "cars",
+            "start": 2.84,
+            "end": 3.101,
+            "score": 0.738
+        },
+        {
+            "word": "running",
+            "start": 3.201,
+            "end": 3.542,
+            "score": 0.385
+        },
+        {
+            "word": "on",
+            "start": 3.663,
+            "end": 3.803,
+            "score": 0.858
+        },
+        {
+            "word": "the",
+            "start": 3.823,
+            "end": 4.044,
+            "score": 0.509
+        },
+        {
+            "word": "road.",
+            "start": 4.305,
+            "end": 4.606,
+            "score": 0.673
+        },
+        {
+            "word": "I",
+            "start": 7.782,
+            "end": 7.902,
+            "score": 0.823
+        },
+        {
+            "word": "agree",
+            "start": 7.922,
+            "end": 8.303,
+            "score": 0.668
+        },
+        {
+            "word": "with",
+            "start": 8.343,
+            "end": 8.903,
+            "score": 0.712
+        },
+        {
+            "word": "the",
+            "start": 8.963,
+            "end": 9.263,
+            "score": 0.793
+        },
+        {
+            "word": "statement",
+            "start": 10.003,
+            "end": 10.724,
+            "score": 0.74
+        },
+        {
+            "word": "that",
+            "start": 10.744,
+            "end": 10.844,
+            "score": 0.38
+        },
+        {
+            "word": "some",
+            "start": 10.884,
+            "end": 11.124,
+            "score": 0.844
+        },
+        {
+            "word": "cities",
+            "start": 11.144,
+            "end": 11.544,
+            "score": 0.651
+        },
+        {
+            "word": "want",
+            "start": 11.704,
+            "end": 11.924,
+            "score": 0.725
+        },
+        {
+            "word": "to",
+            "start": 11.964,
+            "end": 12.084,
+            "score": 0.935
+        },
+        {
+            "word": "make",
+            "start": 12.164,
+            "end": 12.565,
+            "score": 0.829
+        },
+        {
+            "word": "no",
+            "start": 12.665,
+            "end": 12.905,
+            "score": 0.921
+        },
+        {
+            "word": "car",
+            "start": 12.945,
+            "end": 13.285,
+            "score": 0.861
+        },
+        {
+            "word": "zones",
+            "start": 13.425,
+            "end": 13.805,
+            "score": 0.859
+        },
+        {
+            "word": "in",
+            "start": 14.946,
+            "end": 15.246,
+            "score": 0.731
+        },
+        {
+            "word": "their",
+            "start": 15.446,
+            "end": 15.766,
+            "score": 0.403
+        },
+        {
+            "word": "city",
+            "start": 15.806,
+            "end": 16.266,
+            "score": 0.647
+        },
+        {
+            "word": "center",
+            "start": 16.807,
+            "end": 17.367,
+            "score": 0.646
+        },
+        {
+            "word": "where",
+            "start": 18.087,
+            "end": 18.387,
+            "score": 0.627
+        },
+        {
+            "word": "private",
+            "start": 18.467,
+            "end": 19.188,
+            "score": 0.859
+        },
+        {
+            "word": "cars",
+            "start": 19.248,
+            "end": 19.588,
+            "score": 0.812
+        },
+        {
+            "word": "are",
+            "start": 19.708,
+            "end": 19.788,
+            "score": 0.369
+        },
+        {
+            "word": "prohibited.",
+            "start": 19.848,
+            "end": 20.648,
+            "score": 0.882
+        },
+        {
+            "word": "Because",
+            "start": 21.129,
+            "end": 21.569,
+            "score": 0.91
+        },
+        {
+            "word": "nowadays",
+            "start": 21.649,
+            "end": 22.289,
+            "score": 0.735
+        },
+        {
+            "word": "more",
+            "start": 22.509,
+            "end": 22.829,
+            "score": 0.483
+        },
+        {
+            "word": "and",
+            "start": 22.849,
+            "end": 22.909,
+            "score": 0.173
+        },
+        {
+            "word": "more",
+            "start": 22.949,
+            "end": 23.09,
+            "score": 0.551
+        },
+        {
+            "word": "motor",
+            "start": 23.11,
+            "end": 23.37,
+            "score": 0.636
+        },
+        {
+            "word": "cars",
+            "start": 23.39,
+            "end": 23.67,
+            "score": 0.671
+        },
+        {
+            "word": "are",
+            "start": 23.69,
+            "end": 23.75,
+            "score": 0.184
+        },
+        {
+            "word": "running",
+            "start": 23.77,
+            "end": 24.07,
+            "score": 0.43
+        },
+        {
+            "word": "on",
+            "start": 24.21,
+            "end": 24.37,
+            "score": 0.746
+        },
+        {
+            "word": "the",
+            "start": 24.39,
+            "end": 24.51,
+            "score": 0.367
+        },
+        {
+            "word": "road",
+            "start": 24.55,
+            "end": 24.93,
+            "score": 0.813
+        },
+        {
+            "word": "and",
+            "start": 25.531,
+            "end": 25.731,
+            "score": 0.601
+        },
+        {
+            "word": "it",
+            "start": 25.771,
+            "end": 25.971,
+            "score": 0.69
+        },
+        {
+            "word": "causes",
+            "start": 26.011,
+            "end": 26.391,
+            "score": 0.704
+        },
+        {
+            "word": "very",
+            "start": 26.411,
+            "end": 26.651,
+            "score": 0.784
+        },
+        {
+            "word": "serious",
+            "start": 26.691,
+            "end": 27.252,
+            "score": 0.72
+        },
+        {
+            "word": "pollution",
+            "start": 28.872,
+            "end": 29.433,
+            "score": 0.446
+        },
+        {
+            "word": "to",
+            "start": 29.473,
+            "end": 29.753,
+            "score": 0.759
+        },
+        {
+            "word": "the",
+            "start": 29.773,
+            "end": 29.913,
+            "score": 0.202
+        },
+        {
+            "word": "city",
+            "start": 29.953,
+            "end": 30.393,
+            "score": 0.736
+        },
+        {
+            "word": "like",
+            "start": 30.433,
+            "end": 30.633,
+            "score": 0.9
+        },
+        {
+            "word": "greenhouse",
+            "start": 33.475,
+            "end": 34.315,
+            "score": 0.763
+        },
+        {
+            "word": "problems",
+            "start": 34.435,
+            "end": 35.176,
+            "score": 0.846
+        },
+        {
+            "word": "and",
+            "start": 36.016,
+            "end": 36.176,
+            "score": 0.821
+        },
+        {
+            "word": "so",
+            "start": 36.797,
+            "end": 36.977,
+            "score": 0.943
+        },
+        {
+            "word": "I",
+            "start": 37.057,
+            "end": 37.137,
+            "score": 0.769
+        },
+        {
+            "word": "think",
+            "start": 37.177,
+            "end": 37.777,
+            "score": 0.596
+        },
+        {
+            "word": "cities",
+            "start": 38.457,
+            "end": 38.978,
+            "score": 0.668
+        },
+        {
+            "word": "should",
+            "start": 39.058,
+            "end": 39.478,
+            "score": 0.676
+        },
+        {
+            "word": "make",
+            "start": 39.518,
+            "end": 39.798,
+            "score": 0.876
+        },
+        {
+            "word": "some",
+            "start": 40.118,
+            "end": 40.579,
+            "score": 0.876
+        },
+        {
+            "word": "zones",
+            "start": 40.639,
+            "end": 41.259,
+            "score": 0.642
+        },
+        {
+            "word": "prohibit",
+            "start": 41.9,
+            "end": 43.0,
+            "score": 0.867
+        },
+        {
+            "word": "private",
+            "start": 43.701,
+            "end": 44.241,
+            "score": 0.849
+        },
+        {
+            "word": "cars",
+            "start": 44.261,
+            "end": 44.701,
+            "score": 0.822
+        },
+        {
+            "word": "and",
+            "start": 46.222,
+            "end": 46.322,
+            "score": 0.825
+        },
+        {
+            "word": "people",
+            "start": 46.482,
+            "end": 47.003,
+            "score": 0.723
+        },
+        {
+            "word": "use",
+            "start": 47.283,
+            "end": 47.783,
+            "score": 0.761
+        },
+        {
+            "word": "public",
+            "start": 50.324,
+            "end": 50.905,
+            "score": 0.692
+        },
+        {
+            "word": "traffic",
+            "start": 50.945,
+            "end": 51.465,
+            "score": 0.701
+        },
+        {
+            "word": "systems",
+            "start": 51.505,
+            "end": 52.166,
+            "score": 0.726
+        },
+        {
+            "word": "in",
+            "start": 52.406,
+            "end": 52.566,
+            "score": 0.622
+        },
+        {
+            "word": "that",
+            "start": 52.606,
+            "end": 52.906,
+            "score": 0.526
+        },
+        {
+            "word": "zones",
+            "start": 52.966,
+            "end": 53.446,
+            "score": 0.834
+        },
+        {
+            "word": "can",
+            "start": 54.207,
+            "end": 54.587,
+            "score": 0.86
+        },
+        {
+            "word": "make",
+            "start": 56.268,
+            "end": 56.528,
+            "score": 0.852
+        },
+        {
+            "word": "our",
+            "start": 56.708,
+            "end": 56.768,
+            "score": 0.172
+        }
+    ]
+}

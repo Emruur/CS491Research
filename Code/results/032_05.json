@@ -1,0 +1,1143 @@
+{
+    "segments": [
+        {
+            "start": 0.489,
+            "end": 25.568,
+            "text": " I agree that the government should require health warning labels on the soda cans because as long as it is shown that the soda cans can be harmful to health of the people or may contribute to causing obesity, the government is responsible for",
+            "words": [
+                {
+                    "word": "I",
+                    "start": 0.489,
+                    "end": 0.569,
+                    "score": 0.772
+                },
+                {
+                    "word": "agree",
+                    "start": 0.649,
+                    "end": 0.95,
+                    "score": 0.889
+                },
+                {
+                    "word": "that",
+                    "start": 0.99,
+                    "end": 1.19,
+                    "score": 0.82
+                },
+                {
+                    "word": "the",
+                    "start": 1.31,
+                    "end": 1.41,
+                    "score": 0.95
+                },
+                {
+                    "word": "government",
+                    "start": 1.45,
+                    "end": 1.93,
+                    "score": 0.851
+                },
+                {
+                    "word": "should",
+                    "start": 1.99,
+                    "end": 2.231,
+                    "score": 0.879
+                },
+                {
+                    "word": "require",
+                    "start": 3.552,
+                    "end": 3.952,
+                    "score": 0.892
+                },
+                {
+                    "word": "health",
+                    "start": 4.012,
+                    "end": 4.272,
+                    "score": 0.885
+                },
+                {
+                    "word": "warning",
+                    "start": 4.292,
+                    "end": 4.572,
+                    "score": 0.333
+                },
+                {
+                    "word": "labels",
+                    "start": 4.592,
+                    "end": 4.973,
+                    "score": 0.812
+                },
+                {
+                    "word": "on",
+                    "start": 6.033,
+                    "end": 6.113,
+                    "score": 0.843
+                },
+                {
+                    "word": "the",
+                    "start": 6.134,
+                    "end": 6.214,
+                    "score": 0.96
+                },
+                {
+                    "word": "soda",
+                    "start": 6.254,
+                    "end": 6.534,
+                    "score": 0.922
+                },
+                {
+                    "word": "cans",
+                    "start": 6.614,
+                    "end": 6.994,
+                    "score": 0.804
+                },
+                {
+                    "word": "because",
+                    "start": 8.695,
+                    "end": 9.116,
+                    "score": 0.861
+                },
+                {
+                    "word": "as",
+                    "start": 10.377,
+                    "end": 10.477,
+                    "score": 0.652
+                },
+                {
+                    "word": "long",
+                    "start": 10.537,
+                    "end": 10.757,
+                    "score": 0.875
+                },
+                {
+                    "word": "as",
+                    "start": 10.857,
+                    "end": 10.977,
+                    "score": 0.7
+                },
+                {
+                    "word": "it",
+                    "start": 11.137,
+                    "end": 11.217,
+                    "score": 0.996
+                },
+                {
+                    "word": "is",
+                    "start": 11.958,
+                    "end": 12.098,
+                    "score": 0.643
+                },
+                {
+                    "word": "shown",
+                    "start": 12.898,
+                    "end": 13.259,
+                    "score": 0.854
+                },
+                {
+                    "word": "that",
+                    "start": 13.379,
+                    "end": 13.599,
+                    "score": 0.81
+                },
+                {
+                    "word": "the",
+                    "start": 13.899,
+                    "end": 14.039,
+                    "score": 0.956
+                },
+                {
+                    "word": "soda",
+                    "start": 14.179,
+                    "end": 14.52,
+                    "score": 0.934
+                },
+                {
+                    "word": "cans",
+                    "start": 14.58,
+                    "end": 14.92,
+                    "score": 0.773
+                },
+                {
+                    "word": "can",
+                    "start": 16.061,
+                    "end": 16.281,
+                    "score": 0.921
+                },
+                {
+                    "word": "be",
+                    "start": 16.321,
+                    "end": 16.441,
+                    "score": 0.897
+                },
+                {
+                    "word": "harmful",
+                    "start": 16.481,
+                    "end": 16.941,
+                    "score": 0.658
+                },
+                {
+                    "word": "to",
+                    "start": 17.022,
+                    "end": 17.122,
+                    "score": 0.829
+                },
+                {
+                    "word": "health",
+                    "start": 17.202,
+                    "end": 17.462,
+                    "score": 0.818
+                },
+                {
+                    "word": "of",
+                    "start": 17.522,
+                    "end": 17.602,
+                    "score": 0.824
+                },
+                {
+                    "word": "the",
+                    "start": 17.642,
+                    "end": 17.722,
+                    "score": 0.821
+                },
+                {
+                    "word": "people",
+                    "start": 17.762,
+                    "end": 18.102,
+                    "score": 0.791
+                },
+                {
+                    "word": "or",
+                    "start": 19.143,
+                    "end": 19.223,
+                    "score": 0.677
+                },
+                {
+                    "word": "may",
+                    "start": 19.303,
+                    "end": 21.024,
+                    "score": 0.809
+                },
+                {
+                    "word": "contribute",
+                    "start": 21.064,
+                    "end": 21.525,
+                    "score": 0.871
+                },
+                {
+                    "word": "to",
+                    "start": 21.565,
+                    "end": 21.665,
+                    "score": 0.822
+                },
+                {
+                    "word": "causing",
+                    "start": 21.705,
+                    "end": 22.065,
+                    "score": 0.812
+                },
+                {
+                    "word": "obesity,",
+                    "start": 22.125,
+                    "end": 22.686,
+                    "score": 0.816
+                },
+                {
+                    "word": "the",
+                    "start": 23.927,
+                    "end": 24.087,
+                    "score": 0.882
+                },
+                {
+                    "word": "government",
+                    "start": 24.167,
+                    "end": 24.567,
+                    "score": 0.803
+                },
+                {
+                    "word": "is",
+                    "start": 24.627,
+                    "end": 24.727,
+                    "score": 0.518
+                },
+                {
+                    "word": "responsible",
+                    "start": 24.787,
+                    "end": 25.308,
+                    "score": 0.967
+                },
+                {
+                    "word": "for",
+                    "start": 25.368,
+                    "end": 25.568,
+                    "score": 0.998
+                }
+            ]
+        },
+        {
+            "start": 27.556,
+            "end": 41.284,
+            "text": " responsible for that matter because the government is by definition is responsible for the well-being of the members of the society if we leave it to",
+            "words": [
+                {
+                    "word": "responsible",
+                    "start": 27.556,
+                    "end": 28.137,
+                    "score": 0.862
+                },
+                {
+                    "word": "for",
+                    "start": 28.777,
+                    "end": 28.957,
+                    "score": 0.721
+                },
+                {
+                    "word": "that",
+                    "start": 29.037,
+                    "end": 29.237,
+                    "score": 0.841
+                },
+                {
+                    "word": "matter",
+                    "start": 29.277,
+                    "end": 29.597,
+                    "score": 0.806
+                },
+                {
+                    "word": "because",
+                    "start": 29.998,
+                    "end": 30.358,
+                    "score": 0.835
+                },
+                {
+                    "word": "the",
+                    "start": 30.498,
+                    "end": 30.618,
+                    "score": 0.889
+                },
+                {
+                    "word": "government",
+                    "start": 30.658,
+                    "end": 31.118,
+                    "score": 0.83
+                },
+                {
+                    "word": "is",
+                    "start": 31.278,
+                    "end": 31.358,
+                    "score": 0.808
+                },
+                {
+                    "word": "by",
+                    "start": 31.418,
+                    "end": 31.719,
+                    "score": 0.692
+                },
+                {
+                    "word": "definition",
+                    "start": 32.119,
+                    "end": 32.659,
+                    "score": 0.893
+                },
+                {
+                    "word": "is",
+                    "start": 32.739,
+                    "end": 32.859,
+                    "score": 0.784
+                },
+                {
+                    "word": "responsible",
+                    "start": 32.999,
+                    "end": 33.52,
+                    "score": 0.867
+                },
+                {
+                    "word": "for",
+                    "start": 33.6,
+                    "end": 33.78,
+                    "score": 0.663
+                },
+                {
+                    "word": "the",
+                    "start": 33.82,
+                    "end": 33.9,
+                    "score": 0.836
+                },
+                {
+                    "word": "well-being",
+                    "start": 33.94,
+                    "end": 34.4,
+                    "score": 0.752
+                },
+                {
+                    "word": "of",
+                    "start": 34.48,
+                    "end": 34.58,
+                    "score": 0.876
+                },
+                {
+                    "word": "the",
+                    "start": 34.62,
+                    "end": 34.78,
+                    "score": 0.777
+                },
+                {
+                    "word": "members",
+                    "start": 35.441,
+                    "end": 35.821,
+                    "score": 0.931
+                },
+                {
+                    "word": "of",
+                    "start": 35.881,
+                    "end": 35.961,
+                    "score": 0.772
+                },
+                {
+                    "word": "the",
+                    "start": 36.001,
+                    "end": 36.081,
+                    "score": 0.83
+                },
+                {
+                    "word": "society",
+                    "start": 36.121,
+                    "end": 36.622,
+                    "score": 0.877
+                },
+                {
+                    "word": "if",
+                    "start": 39.623,
+                    "end": 39.723,
+                    "score": 0.647
+                },
+                {
+                    "word": "we",
+                    "start": 39.963,
+                    "end": 40.224,
+                    "score": 0.898
+                },
+                {
+                    "word": "leave",
+                    "start": 40.604,
+                    "end": 40.844,
+                    "score": 0.898
+                },
+                {
+                    "word": "it",
+                    "start": 40.924,
+                    "end": 40.984,
+                    "score": 0.995
+                },
+                {
+                    "word": "to",
+                    "start": 41.104,
+                    "end": 41.284,
+                    "score": 0.998
+                }
+            ]
+        },
+        {
+            "start": 44.758,
+            "end": 60.083,
+            "text": " the free will of the soda companies, I don't think it will be good idea because the company object is to earn money.",
+            "words": [
+                {
+                    "word": "the",
+                    "start": 44.758,
+                    "end": 44.918,
+                    "score": 0.826
+                },
+                {
+                    "word": "free",
+                    "start": 45.038,
+                    "end": 45.338,
+                    "score": 0.849
+                },
+                {
+                    "word": "will",
+                    "start": 45.418,
+                    "end": 45.718,
+                    "score": 0.827
+                },
+                {
+                    "word": "of",
+                    "start": 45.898,
+                    "end": 45.998,
+                    "score": 0.889
+                },
+                {
+                    "word": "the",
+                    "start": 46.078,
+                    "end": 46.299,
+                    "score": 0.862
+                },
+                {
+                    "word": "soda",
+                    "start": 46.859,
+                    "end": 47.199,
+                    "score": 0.926
+                },
+                {
+                    "word": "companies,",
+                    "start": 47.259,
+                    "end": 47.799,
+                    "score": 0.814
+                },
+                {
+                    "word": "I",
+                    "start": 49.82,
+                    "end": 49.88,
+                    "score": 0.932
+                },
+                {
+                    "word": "don't",
+                    "start": 49.92,
+                    "end": 50.1,
+                    "score": 0.75
+                },
+                {
+                    "word": "think",
+                    "start": 50.14,
+                    "end": 50.34,
+                    "score": 0.824
+                },
+                {
+                    "word": "it",
+                    "start": 50.52,
+                    "end": 50.6,
+                    "score": 0.961
+                },
+                {
+                    "word": "will",
+                    "start": 52.02,
+                    "end": 52.28,
+                    "score": 0.85
+                },
+                {
+                    "word": "be",
+                    "start": 52.34,
+                    "end": 52.58,
+                    "score": 0.791
+                },
+                {
+                    "word": "good",
+                    "start": 53.581,
+                    "end": 53.741,
+                    "score": 0.679
+                },
+                {
+                    "word": "idea",
+                    "start": 53.781,
+                    "end": 54.181,
+                    "score": 0.895
+                },
+                {
+                    "word": "because",
+                    "start": 54.861,
+                    "end": 55.381,
+                    "score": 0.802
+                },
+                {
+                    "word": "the",
+                    "start": 55.561,
+                    "end": 55.701,
+                    "score": 0.871
+                },
+                {
+                    "word": "company",
+                    "start": 55.802,
+                    "end": 56.302,
+                    "score": 0.878
+                },
+                {
+                    "word": "object",
+                    "start": 58.802,
+                    "end": 59.103,
+                    "score": 0.982
+                },
+                {
+                    "word": "is",
+                    "start": 59.183,
+                    "end": 59.303,
+                    "score": 0.714
+                },
+                {
+                    "word": "to",
+                    "start": 59.343,
+                    "end": 59.443,
+                    "score": 0.996
+                },
+                {
+                    "word": "earn",
+                    "start": 59.463,
+                    "end": 59.783,
+                    "score": 0.617
+                },
+                {
+                    "word": "money.",
+                    "start": 59.843,
+                    "end": 60.083,
+                    "score": 0.896
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "I",
+            "start": 0.489,
+            "end": 0.569,
+            "score": 0.772
+        },
+        {
+            "word": "agree",
+            "start": 0.649,
+            "end": 0.95,
+            "score": 0.889
+        },
+        {
+            "word": "that",
+            "start": 0.99,
+            "end": 1.19,
+            "score": 0.82
+        },
+        {
+            "word": "the",
+            "start": 1.31,
+            "end": 1.41,
+            "score": 0.95
+        },
+        {
+            "word": "government",
+            "start": 1.45,
+            "end": 1.93,
+            "score": 0.851
+        },
+        {
+            "word": "should",
+            "start": 1.99,
+            "end": 2.231,
+            "score": 0.879
+        },
+        {
+            "word": "require",
+            "start": 3.552,
+            "end": 3.952,
+            "score": 0.892
+        },
+        {
+            "word": "health",
+            "start": 4.012,
+            "end": 4.272,
+            "score": 0.885
+        },
+        {
+            "word": "warning",
+            "start": 4.292,
+            "end": 4.572,
+            "score": 0.333
+        },
+        {
+            "word": "labels",
+            "start": 4.592,
+            "end": 4.973,
+            "score": 0.812
+        },
+        {
+            "word": "on",
+            "start": 6.033,
+            "end": 6.113,
+            "score": 0.843
+        },
+        {
+            "word": "the",
+            "start": 6.134,
+            "end": 6.214,
+            "score": 0.96
+        },
+        {
+            "word": "soda",
+            "start": 6.254,
+            "end": 6.534,
+            "score": 0.922
+        },
+        {
+            "word": "cans",
+            "start": 6.614,
+            "end": 6.994,
+            "score": 0.804
+        },
+        {
+            "word": "because",
+            "start": 8.695,
+            "end": 9.116,
+            "score": 0.861
+        },
+        {
+            "word": "as",
+            "start": 10.377,
+            "end": 10.477,
+            "score": 0.652
+        },
+        {
+            "word": "long",
+            "start": 10.537,
+            "end": 10.757,
+            "score": 0.875
+        },
+        {
+            "word": "as",
+            "start": 10.857,
+            "end": 10.977,
+            "score": 0.7
+        },
+        {
+            "word": "it",
+            "start": 11.137,
+            "end": 11.217,
+            "score": 0.996
+        },
+        {
+            "word": "is",
+            "start": 11.958,
+            "end": 12.098,
+            "score": 0.643
+        },
+        {
+            "word": "shown",
+            "start": 12.898,
+            "end": 13.259,
+            "score": 0.854
+        },
+        {
+            "word": "that",
+            "start": 13.379,
+            "end": 13.599,
+            "score": 0.81
+        },
+        {
+            "word": "the",
+            "start": 13.899,
+            "end": 14.039,
+            "score": 0.956
+        },
+        {
+            "word": "soda",
+            "start": 14.179,
+            "end": 14.52,
+            "score": 0.934
+        },
+        {
+            "word": "cans",
+            "start": 14.58,
+            "end": 14.92,
+            "score": 0.773
+        },
+        {
+            "word": "can",
+            "start": 16.061,
+            "end": 16.281,
+            "score": 0.921
+        },
+        {
+            "word": "be",
+            "start": 16.321,
+            "end": 16.441,
+            "score": 0.897
+        },
+        {
+            "word": "harmful",
+            "start": 16.481,
+            "end": 16.941,
+            "score": 0.658
+        },
+        {
+            "word": "to",
+            "start": 17.022,
+            "end": 17.122,
+            "score": 0.829
+        },
+        {
+            "word": "health",
+            "start": 17.202,
+            "end": 17.462,
+            "score": 0.818
+        },
+        {
+            "word": "of",
+            "start": 17.522,
+            "end": 17.602,
+            "score": 0.824
+        },
+        {
+            "word": "the",
+            "start": 17.642,
+            "end": 17.722,
+            "score": 0.821
+        },
+        {
+            "word": "people",
+            "start": 17.762,
+            "end": 18.102,
+            "score": 0.791
+        },
+        {
+            "word": "or",
+            "start": 19.143,
+            "end": 19.223,
+            "score": 0.677
+        },
+        {
+            "word": "may",
+            "start": 19.303,
+            "end": 21.024,
+            "score": 0.809
+        },
+        {
+            "word": "contribute",
+            "start": 21.064,
+            "end": 21.525,
+            "score": 0.871
+        },
+        {
+            "word": "to",
+            "start": 21.565,
+            "end": 21.665,
+            "score": 0.822
+        },
+        {
+            "word": "causing",
+            "start": 21.705,
+            "end": 22.065,
+            "score": 0.812
+        },
+        {
+            "word": "obesity,",
+            "start": 22.125,
+            "end": 22.686,
+            "score": 0.816
+        },
+        {
+            "word": "the",
+            "start": 23.927,
+            "end": 24.087,
+            "score": 0.882
+        },
+        {
+            "word": "government",
+            "start": 24.167,
+            "end": 24.567,
+            "score": 0.803
+        },
+        {
+            "word": "is",
+            "start": 24.627,
+            "end": 24.727,
+            "score": 0.518
+        },
+        {
+            "word": "responsible",
+            "start": 24.787,
+            "end": 25.308,
+            "score": 0.967
+        },
+        {
+            "word": "for",
+            "start": 25.368,
+            "end": 25.568,
+            "score": 0.998
+        },
+        {
+            "word": "responsible",
+            "start": 27.556,
+            "end": 28.137,
+            "score": 0.862
+        },
+        {
+            "word": "for",
+            "start": 28.777,
+            "end": 28.957,
+            "score": 0.721
+        },
+        {
+            "word": "that",
+            "start": 29.037,
+            "end": 29.237,
+            "score": 0.841
+        },
+        {
+            "word": "matter",
+            "start": 29.277,
+            "end": 29.597,
+            "score": 0.806
+        },
+        {
+            "word": "because",
+            "start": 29.998,
+            "end": 30.358,
+            "score": 0.835
+        },
+        {
+            "word": "the",
+            "start": 30.498,
+            "end": 30.618,
+            "score": 0.889
+        },
+        {
+            "word": "government",
+            "start": 30.658,
+            "end": 31.118,
+            "score": 0.83
+        },
+        {
+            "word": "is",
+            "start": 31.278,
+            "end": 31.358,
+            "score": 0.808
+        },
+        {
+            "word": "by",
+            "start": 31.418,
+            "end": 31.719,
+            "score": 0.692
+        },
+        {
+            "word": "definition",
+            "start": 32.119,
+            "end": 32.659,
+            "score": 0.893
+        },
+        {
+            "word": "is",
+            "start": 32.739,
+            "end": 32.859,
+            "score": 0.784
+        },
+        {
+            "word": "responsible",
+            "start": 32.999,
+            "end": 33.52,
+            "score": 0.867
+        },
+        {
+            "word": "for",
+            "start": 33.6,
+            "end": 33.78,
+            "score": 0.663
+        },
+        {
+            "word": "the",
+            "start": 33.82,
+            "end": 33.9,
+            "score": 0.836
+        },
+        {
+            "word": "well-being",
+            "start": 33.94,
+            "end": 34.4,
+            "score": 0.752
+        },
+        {
+            "word": "of",
+            "start": 34.48,
+            "end": 34.58,
+            "score": 0.876
+        },
+        {
+            "word": "the",
+            "start": 34.62,
+            "end": 34.78,
+            "score": 0.777
+        },
+        {
+            "word": "members",
+            "start": 35.441,
+            "end": 35.821,
+            "score": 0.931
+        },
+        {
+            "word": "of",
+            "start": 35.881,
+            "end": 35.961,
+            "score": 0.772
+        },
+        {
+            "word": "the",
+            "start": 36.001,
+            "end": 36.081,
+            "score": 0.83
+        },
+        {
+            "word": "society",
+            "start": 36.121,
+            "end": 36.622,
+            "score": 0.877
+        },
+        {
+            "word": "if",
+            "start": 39.623,
+            "end": 39.723,
+            "score": 0.647
+        },
+        {
+            "word": "we",
+            "start": 39.963,
+            "end": 40.224,
+            "score": 0.898
+        },
+        {
+            "word": "leave",
+            "start": 40.604,
+            "end": 40.844,
+            "score": 0.898
+        },
+        {
+            "word": "it",
+            "start": 40.924,
+            "end": 40.984,
+            "score": 0.995
+        },
+        {
+            "word": "to",
+            "start": 41.104,
+            "end": 41.284,
+            "score": 0.998
+        },
+        {
+            "word": "the",
+            "start": 44.758,
+            "end": 44.918,
+            "score": 0.826
+        },
+        {
+            "word": "free",
+            "start": 45.038,
+            "end": 45.338,
+            "score": 0.849
+        },
+        {
+            "word": "will",
+            "start": 45.418,
+            "end": 45.718,
+            "score": 0.827
+        },
+        {
+            "word": "of",
+            "start": 45.898,
+            "end": 45.998,
+            "score": 0.889
+        },
+        {
+            "word": "the",
+            "start": 46.078,
+            "end": 46.299,
+            "score": 0.862
+        },
+        {
+            "word": "soda",
+            "start": 46.859,
+            "end": 47.199,
+            "score": 0.926
+        },
+        {
+            "word": "companies,",
+            "start": 47.259,
+            "end": 47.799,
+            "score": 0.814
+        },
+        {
+            "word": "I",
+            "start": 49.82,
+            "end": 49.88,
+            "score": 0.932
+        },
+        {
+            "word": "don't",
+            "start": 49.92,
+            "end": 50.1,
+            "score": 0.75
+        },
+        {
+            "word": "think",
+            "start": 50.14,
+            "end": 50.34,
+            "score": 0.824
+        },
+        {
+            "word": "it",
+            "start": 50.52,
+            "end": 50.6,
+            "score": 0.961
+        },
+        {
+            "word": "will",
+            "start": 52.02,
+            "end": 52.28,
+            "score": 0.85
+        },
+        {
+            "word": "be",
+            "start": 52.34,
+            "end": 52.58,
+            "score": 0.791
+        },
+        {
+            "word": "good",
+            "start": 53.581,
+            "end": 53.741,
+            "score": 0.679
+        },
+        {
+            "word": "idea",
+            "start": 53.781,
+            "end": 54.181,
+            "score": 0.895
+        },
+        {
+            "word": "because",
+            "start": 54.861,
+            "end": 55.381,
+            "score": 0.802
+        },
+        {
+            "word": "the",
+            "start": 55.561,
+            "end": 55.701,
+            "score": 0.871
+        },
+        {
+            "word": "company",
+            "start": 55.802,
+            "end": 56.302,
+            "score": 0.878
+        },
+        {
+            "word": "object",
+            "start": 58.802,
+            "end": 59.103,
+            "score": 0.982
+        },
+        {
+            "word": "is",
+            "start": 59.183,
+            "end": 59.303,
+            "score": 0.714
+        },
+        {
+            "word": "to",
+            "start": 59.343,
+            "end": 59.443,
+            "score": 0.996
+        },
+        {
+            "word": "earn",
+            "start": 59.463,
+            "end": 59.783,
+            "score": 0.617
+        },
+        {
+            "word": "money.",
+            "start": 59.843,
+            "end": 60.083,
+            "score": 0.896
+        }
+    ]
+}

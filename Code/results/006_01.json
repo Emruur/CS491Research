@@ -1,0 +1,596 @@
+{
+    "segments": [
+        {
+            "start": 0.109,
+            "end": 16.384,
+            "text": " My favorite movie is A Fugue Man and it gives me a very good impression and it's a",
+            "words": [
+                {
+                    "word": "My",
+                    "start": 0.109,
+                    "end": 0.409,
+                    "score": 0.901
+                },
+                {
+                    "word": "favorite",
+                    "start": 0.529,
+                    "end": 1.01,
+                    "score": 0.624
+                },
+                {
+                    "word": "movie",
+                    "start": 1.03,
+                    "end": 1.39,
+                    "score": 0.664
+                },
+                {
+                    "word": "is",
+                    "start": 1.59,
+                    "end": 1.751,
+                    "score": 0.808
+                },
+                {
+                    "word": "A",
+                    "start": 2.671,
+                    "end": 2.751,
+                    "score": 0.835
+                },
+                {
+                    "word": "Fugue",
+                    "start": 2.812,
+                    "end": 3.152,
+                    "score": 0.638
+                },
+                {
+                    "word": "Man",
+                    "start": 3.192,
+                    "end": 3.452,
+                    "score": 0.7
+                },
+                {
+                    "word": "and",
+                    "start": 4.093,
+                    "end": 4.293,
+                    "score": 0.473
+                },
+                {
+                    "word": "it",
+                    "start": 10.398,
+                    "end": 10.478,
+                    "score": 0.887
+                },
+                {
+                    "word": "gives",
+                    "start": 10.538,
+                    "end": 10.859,
+                    "score": 0.898
+                },
+                {
+                    "word": "me",
+                    "start": 10.999,
+                    "end": 11.279,
+                    "score": 0.783
+                },
+                {
+                    "word": "a",
+                    "start": 11.68,
+                    "end": 11.78,
+                    "score": 0.66
+                },
+                {
+                    "word": "very",
+                    "start": 13.902,
+                    "end": 14.142,
+                    "score": 0.994
+                },
+                {
+                    "word": "good",
+                    "start": 14.202,
+                    "end": 14.382,
+                    "score": 0.807
+                },
+                {
+                    "word": "impression",
+                    "start": 14.862,
+                    "end": 15.443,
+                    "score": 0.872
+                },
+                {
+                    "word": "and",
+                    "start": 15.663,
+                    "end": 15.823,
+                    "score": 0.762
+                },
+                {
+                    "word": "it's",
+                    "start": 16.003,
+                    "end": 16.184,
+                    "score": 0.766
+                },
+                {
+                    "word": "a",
+                    "start": 16.364,
+                    "end": 16.384,
+                    "score": 0.931
+                }
+            ]
+        },
+        {
+            "start": 19.156,
+            "end": 39.65,
+            "text": " It's thrilled me and make me some thinking about the government or the power and I like such movies that gives me some deep impression and give me some thrill.",
+            "words": [
+                {
+                    "word": "It's",
+                    "start": 19.156,
+                    "end": 19.276,
+                    "score": 0.525
+                },
+                {
+                    "word": "thrilled",
+                    "start": 19.396,
+                    "end": 19.857,
+                    "score": 0.94
+                },
+                {
+                    "word": "me",
+                    "start": 19.937,
+                    "end": 20.157,
+                    "score": 0.899
+                },
+                {
+                    "word": "and",
+                    "start": 20.437,
+                    "end": 20.577,
+                    "score": 0.712
+                },
+                {
+                    "word": "make",
+                    "start": 20.877,
+                    "end": 21.097,
+                    "score": 0.917
+                },
+                {
+                    "word": "me",
+                    "start": 21.157,
+                    "end": 21.378,
+                    "score": 0.822
+                },
+                {
+                    "word": "some",
+                    "start": 21.598,
+                    "end": 21.878,
+                    "score": 0.704
+                },
+                {
+                    "word": "thinking",
+                    "start": 21.958,
+                    "end": 22.358,
+                    "score": 0.9
+                },
+                {
+                    "word": "about",
+                    "start": 22.418,
+                    "end": 22.738,
+                    "score": 0.951
+                },
+                {
+                    "word": "the",
+                    "start": 22.818,
+                    "end": 22.999,
+                    "score": 0.846
+                },
+                {
+                    "word": "government",
+                    "start": 23.039,
+                    "end": 23.619,
+                    "score": 0.871
+                },
+                {
+                    "word": "or",
+                    "start": 23.899,
+                    "end": 24.42,
+                    "score": 0.816
+                },
+                {
+                    "word": "the",
+                    "start": 25.28,
+                    "end": 25.4,
+                    "score": 0.927
+                },
+                {
+                    "word": "power",
+                    "start": 25.48,
+                    "end": 25.961,
+                    "score": 0.849
+                },
+                {
+                    "word": "and",
+                    "start": 26.741,
+                    "end": 26.881,
+                    "score": 0.776
+                },
+                {
+                    "word": "I",
+                    "start": 27.001,
+                    "end": 27.061,
+                    "score": 0.751
+                },
+                {
+                    "word": "like",
+                    "start": 27.101,
+                    "end": 27.361,
+                    "score": 0.985
+                },
+                {
+                    "word": "such",
+                    "start": 27.502,
+                    "end": 28.062,
+                    "score": 0.749
+                },
+                {
+                    "word": "movies",
+                    "start": 30.424,
+                    "end": 30.944,
+                    "score": 0.848
+                },
+                {
+                    "word": "that",
+                    "start": 32.285,
+                    "end": 32.445,
+                    "score": 0.928
+                },
+                {
+                    "word": "gives",
+                    "start": 32.505,
+                    "end": 32.785,
+                    "score": 0.928
+                },
+                {
+                    "word": "me",
+                    "start": 32.905,
+                    "end": 33.185,
+                    "score": 0.854
+                },
+                {
+                    "word": "some",
+                    "start": 33.466,
+                    "end": 33.786,
+                    "score": 0.791
+                },
+                {
+                    "word": "deep",
+                    "start": 34.446,
+                    "end": 34.666,
+                    "score": 0.884
+                },
+                {
+                    "word": "impression",
+                    "start": 34.846,
+                    "end": 35.547,
+                    "score": 0.886
+                },
+                {
+                    "word": "and",
+                    "start": 36.508,
+                    "end": 36.668,
+                    "score": 0.734
+                },
+                {
+                    "word": "give",
+                    "start": 36.808,
+                    "end": 36.988,
+                    "score": 0.994
+                },
+                {
+                    "word": "me",
+                    "start": 37.028,
+                    "end": 37.168,
+                    "score": 0.874
+                },
+                {
+                    "word": "some",
+                    "start": 37.488,
+                    "end": 37.888,
+                    "score": 0.772
+                },
+                {
+                    "word": "thrill.",
+                    "start": 39.309,
+                    "end": 39.65,
+                    "score": 0.847
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "My",
+            "start": 0.109,
+            "end": 0.409,
+            "score": 0.901
+        },
+        {
+            "word": "favorite",
+            "start": 0.529,
+            "end": 1.01,
+            "score": 0.624
+        },
+        {
+            "word": "movie",
+            "start": 1.03,
+            "end": 1.39,
+            "score": 0.664
+        },
+        {
+            "word": "is",
+            "start": 1.59,
+            "end": 1.751,
+            "score": 0.808
+        },
+        {
+            "word": "A",
+            "start": 2.671,
+            "end": 2.751,
+            "score": 0.835
+        },
+        {
+            "word": "Fugue",
+            "start": 2.812,
+            "end": 3.152,
+            "score": 0.638
+        },
+        {
+            "word": "Man",
+            "start": 3.192,
+            "end": 3.452,
+            "score": 0.7
+        },
+        {
+            "word": "and",
+            "start": 4.093,
+            "end": 4.293,
+            "score": 0.473
+        },
+        {
+            "word": "it",
+            "start": 10.398,
+            "end": 10.478,
+            "score": 0.887
+        },
+        {
+            "word": "gives",
+            "start": 10.538,
+            "end": 10.859,
+            "score": 0.898
+        },
+        {
+            "word": "me",
+            "start": 10.999,
+            "end": 11.279,
+            "score": 0.783
+        },
+        {
+            "word": "a",
+            "start": 11.68,
+            "end": 11.78,
+            "score": 0.66
+        },
+        {
+            "word": "very",
+            "start": 13.902,
+            "end": 14.142,
+            "score": 0.994
+        },
+        {
+            "word": "good",
+            "start": 14.202,
+            "end": 14.382,
+            "score": 0.807
+        },
+        {
+            "word": "impression",
+            "start": 14.862,
+            "end": 15.443,
+            "score": 0.872
+        },
+        {
+            "word": "and",
+            "start": 15.663,
+            "end": 15.823,
+            "score": 0.762
+        },
+        {
+            "word": "it's",
+            "start": 16.003,
+            "end": 16.184,
+            "score": 0.766
+        },
+        {
+            "word": "a",
+            "start": 16.364,
+            "end": 16.384,
+            "score": 0.931
+        },
+        {
+            "word": "It's",
+            "start": 19.156,
+            "end": 19.276,
+            "score": 0.525
+        },
+        {
+            "word": "thrilled",
+            "start": 19.396,
+            "end": 19.857,
+            "score": 0.94
+        },
+        {
+            "word": "me",
+            "start": 19.937,
+            "end": 20.157,
+            "score": 0.899
+        },
+        {
+            "word": "and",
+            "start": 20.437,
+            "end": 20.577,
+            "score": 0.712
+        },
+        {
+            "word": "make",
+            "start": 20.877,
+            "end": 21.097,
+            "score": 0.917
+        },
+        {
+            "word": "me",
+            "start": 21.157,
+            "end": 21.378,
+            "score": 0.822
+        },
+        {
+            "word": "some",
+            "start": 21.598,
+            "end": 21.878,
+            "score": 0.704
+        },
+        {
+            "word": "thinking",
+            "start": 21.958,
+            "end": 22.358,
+            "score": 0.9
+        },
+        {
+            "word": "about",
+            "start": 22.418,
+            "end": 22.738,
+            "score": 0.951
+        },
+        {
+            "word": "the",
+            "start": 22.818,
+            "end": 22.999,
+            "score": 0.846
+        },
+        {
+            "word": "government",
+            "start": 23.039,
+            "end": 23.619,
+            "score": 0.871
+        },
+        {
+            "word": "or",
+            "start": 23.899,
+            "end": 24.42,
+            "score": 0.816
+        },
+        {
+            "word": "the",
+            "start": 25.28,
+            "end": 25.4,
+            "score": 0.927
+        },
+        {
+            "word": "power",
+            "start": 25.48,
+            "end": 25.961,
+            "score": 0.849
+        },
+        {
+            "word": "and",
+            "start": 26.741,
+            "end": 26.881,
+            "score": 0.776
+        },
+        {
+            "word": "I",
+            "start": 27.001,
+            "end": 27.061,
+            "score": 0.751
+        },
+        {
+            "word": "like",
+            "start": 27.101,
+            "end": 27.361,
+            "score": 0.985
+        },
+        {
+            "word": "such",
+            "start": 27.502,
+            "end": 28.062,
+            "score": 0.749
+        },
+        {
+            "word": "movies",
+            "start": 30.424,
+            "end": 30.944,
+            "score": 0.848
+        },
+        {
+            "word": "that",
+            "start": 32.285,
+            "end": 32.445,
+            "score": 0.928
+        },
+        {
+            "word": "gives",
+            "start": 32.505,
+            "end": 32.785,
+            "score": 0.928
+        },
+        {
+            "word": "me",
+            "start": 32.905,
+            "end": 33.185,
+            "score": 0.854
+        },
+        {
+            "word": "some",
+            "start": 33.466,
+            "end": 33.786,
+            "score": 0.791
+        },
+        {
+            "word": "deep",
+            "start": 34.446,
+            "end": 34.666,
+            "score": 0.884
+        },
+        {
+            "word": "impression",
+            "start": 34.846,
+            "end": 35.547,
+            "score": 0.886
+        },
+        {
+            "word": "and",
+            "start": 36.508,
+            "end": 36.668,
+            "score": 0.734
+        },
+        {
+            "word": "give",
+            "start": 36.808,
+            "end": 36.988,
+            "score": 0.994
+        },
+        {
+            "word": "me",
+            "start": 37.028,
+            "end": 37.168,
+            "score": 0.874
+        },
+        {
+            "word": "some",
+            "start": 37.488,
+            "end": 37.888,
+            "score": 0.772
+        },
+        {
+            "word": "thrill.",
+            "start": 39.309,
+            "end": 39.65,
+            "score": 0.847
+        }
+    ]
+}

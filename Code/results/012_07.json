@@ -1,0 +1,627 @@
+{
+    "segments": [
+        {
+            "start": 2.812,
+            "end": 16.305,
+            "text": " After coming out the hotel, turn left and go straight until on the corner of Zero Street and Harrison Avenue.",
+            "words": [
+                {
+                    "word": "After",
+                    "start": 2.812,
+                    "end": 3.032,
+                    "score": 0.759
+                },
+                {
+                    "word": "coming",
+                    "start": 3.092,
+                    "end": 3.332,
+                    "score": 0.8
+                },
+                {
+                    "word": "out",
+                    "start": 3.492,
+                    "end": 3.633,
+                    "score": 0.926
+                },
+                {
+                    "word": "the",
+                    "start": 3.693,
+                    "end": 3.833,
+                    "score": 0.774
+                },
+                {
+                    "word": "hotel,",
+                    "start": 3.913,
+                    "end": 4.353,
+                    "score": 0.783
+                },
+                {
+                    "word": "turn",
+                    "start": 4.814,
+                    "end": 5.114,
+                    "score": 0.806
+                },
+                {
+                    "word": "left",
+                    "start": 5.154,
+                    "end": 5.474,
+                    "score": 0.889
+                },
+                {
+                    "word": "and",
+                    "start": 6.115,
+                    "end": 6.295,
+                    "score": 0.587
+                },
+                {
+                    "word": "go",
+                    "start": 8.197,
+                    "end": 8.417,
+                    "score": 0.849
+                },
+                {
+                    "word": "straight",
+                    "start": 8.477,
+                    "end": 9.018,
+                    "score": 0.823
+                },
+                {
+                    "word": "until",
+                    "start": 10.539,
+                    "end": 10.96,
+                    "score": 0.754
+                },
+                {
+                    "word": "on",
+                    "start": 12.381,
+                    "end": 12.481,
+                    "score": 0.798
+                },
+                {
+                    "word": "the",
+                    "start": 12.501,
+                    "end": 12.601,
+                    "score": 0.79
+                },
+                {
+                    "word": "corner",
+                    "start": 12.641,
+                    "end": 13.002,
+                    "score": 0.869
+                },
+                {
+                    "word": "of",
+                    "start": 13.082,
+                    "end": 13.202,
+                    "score": 0.886
+                },
+                {
+                    "word": "Zero",
+                    "start": 14.203,
+                    "end": 14.603,
+                    "score": 0.822
+                },
+                {
+                    "word": "Street",
+                    "start": 14.763,
+                    "end": 15.064,
+                    "score": 0.964
+                },
+                {
+                    "word": "and",
+                    "start": 15.124,
+                    "end": 15.244,
+                    "score": 0.736
+                },
+                {
+                    "word": "Harrison",
+                    "start": 15.304,
+                    "end": 15.744,
+                    "score": 0.928
+                },
+                {
+                    "word": "Avenue.",
+                    "start": 15.884,
+                    "end": 16.305,
+                    "score": 0.567
+                }
+            ]
+        },
+        {
+            "start": 17.246,
+            "end": 22.571,
+            "text": "When you arrive there, please turn right and go to Gaines Street.",
+            "words": [
+                {
+                    "word": "When",
+                    "start": 17.246,
+                    "end": 17.426,
+                    "score": 0.978
+                },
+                {
+                    "word": "you",
+                    "start": 17.466,
+                    "end": 17.606,
+                    "score": 0.827
+                },
+                {
+                    "word": "arrive",
+                    "start": 17.686,
+                    "end": 18.067,
+                    "score": 0.911
+                },
+                {
+                    "word": "there,",
+                    "start": 18.107,
+                    "end": 18.447,
+                    "score": 0.67
+                },
+                {
+                    "word": "please",
+                    "start": 19.168,
+                    "end": 19.508,
+                    "score": 0.898
+                },
+                {
+                    "word": "turn",
+                    "start": 19.568,
+                    "end": 19.888,
+                    "score": 0.924
+                },
+                {
+                    "word": "right",
+                    "start": 19.968,
+                    "end": 20.309,
+                    "score": 0.824
+                },
+                {
+                    "word": "and",
+                    "start": 21.009,
+                    "end": 21.15,
+                    "score": 0.548
+                },
+                {
+                    "word": "go",
+                    "start": 21.27,
+                    "end": 21.61,
+                    "score": 0.9
+                },
+                {
+                    "word": "to",
+                    "start": 21.75,
+                    "end": 21.87,
+                    "score": 0.918
+                },
+                {
+                    "word": "Gaines",
+                    "start": 21.91,
+                    "end": 22.211,
+                    "score": 0.621
+                },
+                {
+                    "word": "Street.",
+                    "start": 22.251,
+                    "end": 22.571,
+                    "score": 0.903
+                }
+            ]
+        },
+        {
+            "start": 23.912,
+            "end": 31.418,
+            "text": " and when you arrive game street you turn left and you can see on your left limelight score",
+            "words": [
+                {
+                    "word": "and",
+                    "start": 23.912,
+                    "end": 24.052,
+                    "score": 0.834
+                },
+                {
+                    "word": "when",
+                    "start": 24.593,
+                    "end": 24.733,
+                    "score": 0.882
+                },
+                {
+                    "word": "you",
+                    "start": 24.753,
+                    "end": 24.873,
+                    "score": 0.846
+                },
+                {
+                    "word": "arrive",
+                    "start": 24.913,
+                    "end": 25.333,
+                    "score": 0.806
+                },
+                {
+                    "word": "game",
+                    "start": 25.353,
+                    "end": 25.433,
+                    "score": 0.032
+                },
+                {
+                    "word": "street",
+                    "start": 25.834,
+                    "end": 26.234,
+                    "score": 0.609
+                },
+                {
+                    "word": "you",
+                    "start": 26.974,
+                    "end": 27.135,
+                    "score": 0.846
+                },
+                {
+                    "word": "turn",
+                    "start": 27.195,
+                    "end": 27.535,
+                    "score": 0.723
+                },
+                {
+                    "word": "left",
+                    "start": 27.615,
+                    "end": 27.935,
+                    "score": 0.949
+                },
+                {
+                    "word": "and",
+                    "start": 28.816,
+                    "end": 28.956,
+                    "score": 0.634
+                },
+                {
+                    "word": "you",
+                    "start": 28.996,
+                    "end": 29.116,
+                    "score": 0.854
+                },
+                {
+                    "word": "can",
+                    "start": 29.156,
+                    "end": 29.336,
+                    "score": 0.797
+                },
+                {
+                    "word": "see",
+                    "start": 29.396,
+                    "end": 29.657,
+                    "score": 0.812
+                },
+                {
+                    "word": "on",
+                    "start": 29.837,
+                    "end": 29.917,
+                    "score": 0.833
+                },
+                {
+                    "word": "your",
+                    "start": 29.957,
+                    "end": 30.117,
+                    "score": 0.744
+                },
+                {
+                    "word": "left",
+                    "start": 30.157,
+                    "end": 30.437,
+                    "score": 0.928
+                },
+                {
+                    "word": "limelight",
+                    "start": 30.677,
+                    "end": 31.138,
+                    "score": 0.882
+                },
+                {
+                    "word": "score",
+                    "start": 31.178,
+                    "end": 31.418,
+                    "score": 0.559
+                }
+            ]
+        }
+    ],
+    "word_segments": [
+        {
+            "word": "After",
+            "start": 2.812,
+            "end": 3.032,
+            "score": 0.759
+        },
+        {
+            "word": "coming",
+            "start": 3.092,
+            "end": 3.332,
+            "score": 0.8
+        },
+        {
+            "word": "out",
+            "start": 3.492,
+            "end": 3.633,
+            "score": 0.926
+        },
+        {
+            "word": "the",
+            "start": 3.693,
+            "end": 3.833,
+            "score": 0.774
+        },
+        {
+            "word": "hotel,",
+            "start": 3.913,
+            "end": 4.353,
+            "score": 0.783
+        },
+        {
+            "word": "turn",
+            "start": 4.814,
+            "end": 5.114,
+            "score": 0.806
+        },
+        {
+            "word": "left",
+            "start": 5.154,
+            "end": 5.474,
+            "score": 0.889
+        },
+        {
+            "word": "and",
+            "start": 6.115,
+            "end": 6.295,
+            "score": 0.587
+        },
+        {
+            "word": "go",
+            "start": 8.197,
+            "end": 8.417,
+            "score": 0.849
+        },
+        {
+            "word": "straight",
+            "start": 8.477,
+            "end": 9.018,
+            "score": 0.823
+        },
+        {
+            "word": "until",
+            "start": 10.539,
+            "end": 10.96,
+            "score": 0.754
+        },
+        {
+            "word": "on",
+            "start": 12.381,
+            "end": 12.481,
+            "score": 0.798
+        },
+        {
+            "word": "the",
+            "start": 12.501,
+            "end": 12.601,
+            "score": 0.79
+        },
+        {
+            "word": "corner",
+            "start": 12.641,
+            "end": 13.002,
+            "score": 0.869
+        },
+        {
+            "word": "of",
+            "start": 13.082,
+            "end": 13.202,
+            "score": 0.886
+        },
+        {
+            "word": "Zero",
+            "start": 14.203,
+            "end": 14.603,
+            "score": 0.822
+        },
+        {
+            "word": "Street",
+            "start": 14.763,
+            "end": 15.064,
+            "score": 0.964
+        },
+        {
+            "word": "and",
+            "start": 15.124,
+            "end": 15.244,
+            "score": 0.736
+        },
+        {
+            "word": "Harrison",
+            "start": 15.304,
+            "end": 15.744,
+            "score": 0.928
+        },
+        {
+            "word": "Avenue.",
+            "start": 15.884,
+            "end": 16.305,
+            "score": 0.567
+        },
+        {
+            "word": "When",
+            "start": 17.246,
+            "end": 17.426,
+            "score": 0.978
+        },
+        {
+            "word": "you",
+            "start": 17.466,
+            "end": 17.606,
+            "score": 0.827
+        },
+        {
+            "word": "arrive",
+            "start": 17.686,
+            "end": 18.067,
+            "score": 0.911
+        },
+        {
+            "word": "there,",
+            "start": 18.107,
+            "end": 18.447,
+            "score": 0.67
+        },
+        {
+            "word": "please",
+            "start": 19.168,
+            "end": 19.508,
+            "score": 0.898
+        },
+        {
+            "word": "turn",
+            "start": 19.568,
+            "end": 19.888,
+            "score": 0.924
+        },
+        {
+            "word": "right",
+            "start": 19.968,
+            "end": 20.309,
+            "score": 0.824
+        },
+        {
+            "word": "and",
+            "start": 21.009,
+            "end": 21.15,
+            "score": 0.548
+        },
+        {
+            "word": "go",
+            "start": 21.27,
+            "end": 21.61,
+            "score": 0.9
+        },
+        {
+            "word": "to",
+            "start": 21.75,
+            "end": 21.87,
+            "score": 0.918
+        },
+        {
+            "word": "Gaines",
+            "start": 21.91,
+            "end": 22.211,
+            "score": 0.621
+        },
+        {
+            "word": "Street.",
+            "start": 22.251,
+            "end": 22.571,
+            "score": 0.903
+        },
+        {
+            "word": "and",
+            "start": 23.912,
+            "end": 24.052,
+            "score": 0.834
+        },
+        {
+            "word": "when",
+            "start": 24.593,
+            "end": 24.733,
+            "score": 0.882
+        },
+        {
+            "word": "you",
+            "start": 24.753,
+            "end": 24.873,
+            "score": 0.846
+        },
+        {
+            "word": "arrive",
+            "start": 24.913,
+            "end": 25.333,
+            "score": 0.806
+        },
+        {
+            "word": "game",
+            "start": 25.353,
+            "end": 25.433,
+            "score": 0.032
+        },
+        {
+            "word": "street",
+            "start": 25.834,
+            "end": 26.234,
+            "score": 0.609
+        },
+        {
+            "word": "you",
+            "start": 26.974,
+            "end": 27.135,
+            "score": 0.846
+        },
+        {
+            "word": "turn",
+            "start": 27.195,
+            "end": 27.535,
+            "score": 0.723
+        },
+        {
+            "word": "left",
+            "start": 27.615,
+            "end": 27.935,
+            "score": 0.949
+        },
+        {
+            "word": "and",
+            "start": 28.816,
+            "end": 28.956,
+            "score": 0.634
+        },
+        {
+            "word": "you",
+            "start": 28.996,
+            "end": 29.116,
+            "score": 0.854
+        },
+        {
+            "word": "can",
+            "start": 29.156,
+            "end": 29.336,
+            "score": 0.797
+        },
+        {
+            "word": "see",
+            "start": 29.396,
+            "end": 29.657,
+            "score": 0.812
+        },
+        {
+            "word": "on",
+            "start": 29.837,
+            "end": 29.917,
+            "score": 0.833
+        },
+        {
+            "word": "your",
+            "start": 29.957,
+            "end": 30.117,
+            "score": 0.744
+        },
+        {
+            "word": "left",
+            "start": 30.157,
+            "end": 30.437,
+            "score": 0.928
+        },
+        {
+            "word": "limelight",
+            "start": 30.677,
+            "end": 31.138,
+            "score": 0.882
+        },
+        {
+            "word": "score",
+            "start": 31.178,
+            "end": 31.418,
+            "score": 0.559
+        }
+    ]
+}
