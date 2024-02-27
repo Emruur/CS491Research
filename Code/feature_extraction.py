@@ -99,7 +99,8 @@ class Transcription:
                     elements.append(chunk)
                     #elements.append(Pause(start=current_chunk_words[-1].end, end=word.start))
                     pauses= detect_pause_segments(current_chunk_words[-1].end*1000, word.start*1000, recording)
-                    pause= Pause(current_chunk_words[-1].end, word.start, pauses)
+                    pauses_filtered= [pause for pause in pauses if pause.duration() > 0.25]
+                    pause= Pause(current_chunk_words[-1].end, word.start, pauses_filtered)
                     elements.append(pause)
                     current_chunk_words = [word]
 
@@ -181,10 +182,10 @@ def detect_pause_segments(start, end, recording_path):
 
 
 
-file_path = 'testdata/emre_recording.json'
+file_path = 'testdata/recording.json'
 with open(file_path, 'r') as file:
     data = json.load(file)
                    
 
-transcription = Transcription(data["word_segments"],"testdata/emre_recording.wav")
+transcription = Transcription(data["word_segments"],"testdata/recording.wav")
 print(transcription)
