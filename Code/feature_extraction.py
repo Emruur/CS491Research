@@ -151,6 +151,12 @@ class Transcription:
     
 
     def save_features(self, file_path):
+        features = self.get_features()
+
+        with open(file_path, 'w') as file:
+            json.dump(features, file, indent=4)
+
+    def get_features(self, file_path):
         features = {
             "total_duration": self.total_duration,
             "total_words": self.total_words,
@@ -167,8 +173,7 @@ class Transcription:
             "frequency_of_filled_pauses": self.frequency_of_filled_pauses()
         }
 
-        with open(file_path, 'w') as file:
-            json.dump(features, file, indent=4)
+        return features
 
 def detect_pause_segments(start, end, recording_path):
     # Load the recording using pydub
