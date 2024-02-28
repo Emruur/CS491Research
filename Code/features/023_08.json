@@ -1,0 +1,15 @@
+{
+    "total_duration": 26.0,
+    "total_words": 66,
+    "unique_words_count": 41,
+    "average_chunk_length_in_words": 3.3,
+    "articulation_rate": 3.4651126161600243,
+    "mean_deviation_of_chunks_in_words": 2.1500000000000004,
+    "duration_of_silences_per_word": 0.1052121212121212,
+    "mean_of_silence_duration": 0.3654736842105263,
+    "mean_duration_of_long_pauses": 0.5936666666666666,
+    "frequency_of_longer_pauses_divided_by_number_of_words": 0.09090909090909091,
+    "types_divided_by_uttsegdur": 1.5769230769230769,
+    "mean_length_of_filled_pauses": 0.4950000000000001,
+    "frequency_of_filled_pauses": 0.07692307692307693
+}

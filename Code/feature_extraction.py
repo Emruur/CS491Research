@@ -72,6 +72,15 @@ class Transcription:
     def types_divided_by_uttsegdur(self):
         #FIXME total duration should be duration of entire transcribed segment but without inter-utterance pauses
         return len(self.unique_words) / self.total_duration if self.total_duration else 0
+    
+    def mean_length_of_filled_pauses(self):
+        filled_pauses = [pause.duration() for element in self.elements if isinstance(element, Pause) for pause in element.pause_elements if isinstance(pause, FilledPause)]
+        return sum(filled_pauses) / len(filled_pauses) if filled_pauses else 0
+
+    def frequency_of_filled_pauses(self):
+        total_filled_pauses = sum(1 for element in self.elements if isinstance(element, Pause) for pause in element.pause_elements if isinstance(pause, FilledPause))
+        return total_filled_pauses / self.total_duration if self.total_duration else 0
+    
 
 
     def __init__ (self,word_segments, recording:str= None):
@@ -81,6 +90,8 @@ class Transcription:
         #lemmatizer = WordNetLemmatizer()
 
         for i, word_info in enumerate(word_segments):
+            if word_info.get('start') is None:
+                continue
             word = Word(word=word_info['word'], start=word_info['start'], end=word_info['end'])
             self.total_words += 1
             #TODO leematize etmek kokunu almak ama hiçbirşeye yaramadı... unique words aynı çıkıyor
@@ -137,6 +148,27 @@ class Transcription:
                 words_str = ', '.join([word.word for word in element.words])
                 transcription_str += f"Chunk from {element.start} to {element.end} seconds: {words_str}\n"
         return transcription_str
+    
+
+    def save_features(self, file_path):
+        features = {
+            "total_duration": self.total_duration,
+            "total_words": self.total_words,
+            "unique_words_count": len(self.unique_words),
+            "average_chunk_length_in_words": self.average_chunk_length_in_words(),
+            "articulation_rate": self.articulation_rate(),
+            "mean_deviation_of_chunks_in_words": self.mean_deviation_of_chunks_in_words(),
+            "duration_of_silences_per_word": self.duration_of_silences_per_word(),
+            "mean_of_silence_duration": self.mean_of_silence_duration(),
+            "mean_duration_of_long_pauses": self.mean_duration_of_long_pauses(),
+            "frequency_of_longer_pauses_divided_by_number_of_words": self.frequency_of_longer_pauses_divided_by_number_of_words(),
+            "types_divided_by_uttsegdur": self.types_divided_by_uttsegdur(),
+            "mean_length_of_filled_pauses": self.mean_length_of_filled_pauses(),
+            "frequency_of_filled_pauses": self.frequency_of_filled_pauses()
+        }
+
+        with open(file_path, 'w') as file:
+            json.dump(features, file, indent=4)
 
 def detect_pause_segments(start, end, recording_path):
     # Load the recording using pydub
@@ -182,10 +214,10 @@ def detect_pause_segments(start, end, recording_path):
 
 
 
-file_path = 'testdata/recording.json'
+file_path = 'testdata/emre_recording.json'
 with open(file_path, 'r') as file:
     data = json.load(file)
                    
 
-transcription = Transcription(data["word_segments"],"testdata/recording.wav")
-print(transcription)
+transcription = Transcription(data["word_segments"],"testdata/emre_recording.wav")
+transcription.save_features("features/emre_recording.json")
