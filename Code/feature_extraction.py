@@ -48,6 +48,7 @@ class AudioAnalysis:
     total_duration: float = 0.0
     total_words: int = 0
     unique_words: set = field(default_factory=set)
+    asr_score: float= 0
 
     def getLowLevelFeatures(self):
         lowLevelAnalysis= LowLevelFeatures(self.recording_path)
@@ -96,11 +97,14 @@ class AudioAnalysis:
         elements = []
         current_chunk_words = []
         unique= set()
+        c_score= 0
         #lemmatizer = WordNetLemmatizer()
 
         for i, word_info in enumerate(word_segments):
             if word_info.get('start') is None:
                 continue
+            c_score += word_info['score']
+            
             word = Word(word=word_info['word'], start=word_info['start'], end=word_info['end'])
             self.total_words += 1
             #TODO leematize etmek kokunu almak ama hiçbirşeye yaramadı... unique words aynı çıkıyor
@@ -132,6 +136,8 @@ class AudioAnalysis:
         self.transcription_elements= elements
         self.total_duration = elements[-1].end if elements else 0.0  # Duration based on the last element
         self.unique_words= unique
+        self.asr_score= c_score / self.total_words
+
 
     def __str__(self):
         transcription_str = ""
@@ -181,7 +187,8 @@ class AudioAnalysis:
             "frequency_of_longer_pauses_divided_by_number_of_words": self.frequency_of_longer_pauses_divided_by_number_of_words(),
             "types_divided_by_uttsegdur": self.types_divided_by_uttsegdur(),
             "mean_length_of_filled_pauses": self.mean_length_of_filled_pauses(),
-            "frequency_of_filled_pauses": self.frequency_of_filled_pauses()
+            "frequency_of_filled_pauses": self.frequency_of_filled_pauses(),
+            "asr_score": self.asr_score
         }
 
         return features
@@ -236,6 +243,6 @@ if __name__ == "__main__":
                     
 
     analysis = AudioAnalysis(data["word_segments"],"testdata/emre_recording.wav")
-    #transcription.save_features("features/emre_recording.json")
+    print(analysis)
+    analysis.save_features("features/features_3/emre_recording.json")
 
-    analysis.getLowLevelFeatures()

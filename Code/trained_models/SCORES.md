@@ -125,3 +125,21 @@ selected_features = [
     "local_shimmer",
 ]
 
+
+## Model9
+selected_features = [
+    "total_words", "unique_words_count", 
+    "average_chunk_length_in_words", "articulation_rate", "mean_deviation_of_chunks_in_words", 
+    "duration_of_silences_per_word", "mean_of_silence_duration", "mean_duration_of_long_pauses", 
+    "frequency_of_longer_pauses_divided_by_number_of_words", "types_divided_by_uttsegdur", 
+    "mean_length_of_filled_pauses","frequency_of_filled_pauses",
+    "asr_score",
+]
+
+Mean Squared Error: 0.26870198208621027
+Root Mean Squared Error: 0.5183647191758041
+Mean Absolute Error: 0.43305143058552575
+R-squared: -0.22859501169994068
+Adjusted R-squared: -0.8940839763707418
+
+

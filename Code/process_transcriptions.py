@@ -23,7 +23,7 @@ def process_transcription_file(json_file, input_folder, audio_folder, output_fol
 # Specify your folders here
 input_folder = 'results'
 audio_folder = '/Users/emreugur/Downloads/DATASETS/L2Corpus'  # Assuming audio files are in a folder named 'testdata'
-output_folder = 'features/features2'
+output_folder = 'features/features3'
 
 # Create the output directory if it doesn't exist
 if not os.path.exists(output_folder):
