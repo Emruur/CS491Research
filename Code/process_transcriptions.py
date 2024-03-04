@@ -1,7 +1,7 @@
 import os
 import json
 # Assuming Transcription is a class you have defined elsewhere
-from feature_extraction import Transcription
+from feature_extraction import AudioAnalysis
 
 def process_transcription_file(json_file, input_folder, audio_folder, output_folder):
     # Construct the base filename without extension
@@ -17,13 +17,13 @@ def process_transcription_file(json_file, input_folder, audio_folder, output_fol
         data = json.load(file)
     
     # Create a Transcription object and save the features
-    transcription = Transcription(data["word_segments"], audio_path)
+    transcription = AudioAnalysis(data["word_segments"], audio_path)
     transcription.save_features(output_path)
 
 # Specify your folders here
 input_folder = 'results'
 audio_folder = '/Users/emreugur/Downloads/DATASETS/L2Corpus'  # Assuming audio files are in a folder named 'testdata'
-output_folder = 'features'
+output_folder = 'features/features2'
 
 # Create the output directory if it doesn't exist
 if not os.path.exists(output_folder):

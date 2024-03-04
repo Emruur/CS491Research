@@ -5,6 +5,9 @@ from nltk.stem import WordNetLemmatizer
 import wave
 from pydub import AudioSegment
 import webrtcvad
+from LowLevelAudioAnalysis import LowLevelFeatures
+
+
 
 @dataclass
 class TranscriptionElement:
@@ -40,50 +43,56 @@ class Word:
 class Chunk(TranscriptionElement):
     words: List[Word]
 @dataclass
-class Transcription:
-    elements: List[TranscriptionElement]
+class AudioAnalysis:
+    transcription_elements: List[TranscriptionElement]
     total_duration: float = 0.0
     total_words: int = 0
     unique_words: set = field(default_factory=set)
 
+    def getLowLevelFeatures(self):
+        lowLevelAnalysis= LowLevelFeatures(self.recording_path)
+        all_features = lowLevelAnalysis.getAllFeatures(75, 300, "Hertz")  # Example parameters for a male voice
+        return all_features
+
     def average_chunk_length_in_words(self):
         total_words_in_chunks = self.total_words
-        number_of_chunks = sum(1 for element in self.elements if isinstance(element, Chunk))
+        number_of_chunks = sum(1 for element in self.transcription_elements if isinstance(element, Chunk))
         return total_words_in_chunks / number_of_chunks if number_of_chunks else 0   
     def articulation_rate(self):
-        total_speech_duration = sum(chunk.duration() for chunk in self.elements if isinstance(chunk, Chunk))
+        total_speech_duration = sum(chunk.duration() for chunk in self.transcription_elements if isinstance(chunk, Chunk))
         return self.total_words / total_speech_duration if total_speech_duration else 0
     def mean_deviation_of_chunks_in_words(self):
         mean_chunk_length = self.average_chunk_length_in_words()
-        deviations = [abs(len(chunk.words) - mean_chunk_length) for chunk in self.elements if isinstance(chunk, Chunk)]
+        deviations = [abs(len(chunk.words) - mean_chunk_length) for chunk in self.transcription_elements if isinstance(chunk, Chunk)]
         return sum(deviations) / len(deviations) if deviations else 0
     def duration_of_silences_per_word(self):
-        total_silence_duration = sum(silence.duration() for silence in self.elements if isinstance(silence, Pause))
+        total_silence_duration = sum(silence.duration() for silence in self.transcription_elements if isinstance(silence, Pause))
         return total_silence_duration / self.total_words if self.total_words else 0
     def mean_of_silence_duration(self):
-        silence_durations = [silence.duration() for silence in self.elements if isinstance(silence, Pause)]
+        silence_durations = [silence.duration() for silence in self.transcription_elements if isinstance(silence, Pause)]
         return sum(silence_durations) / len(silence_durations) if silence_durations else 0
     def mean_duration_of_long_pauses(self):
-        long_pauses = [silence.duration() for silence in self.elements if isinstance(silence, Pause) and silence.duration() >= 0.5]
+        long_pauses = [silence.duration() for silence in self.transcription_elements if isinstance(silence, Pause) and silence.duration() >= 0.5]
         return sum(long_pauses) / len(long_pauses) if long_pauses else 0
     def frequency_of_longer_pauses_divided_by_number_of_words(self):
-        long_pause_count = sum(1 for silence in self.elements if isinstance(silence, Pause) and silence.duration() >= 0.5)
+        long_pause_count = sum(1 for silence in self.transcription_elements if isinstance(silence, Pause) and silence.duration() >= 0.5)
         return long_pause_count / self.total_words if self.total_words else 0
     def types_divided_by_uttsegdur(self):
         #FIXME total duration should be duration of entire transcribed segment but without inter-utterance pauses
         return len(self.unique_words) / self.total_duration if self.total_duration else 0
     
     def mean_length_of_filled_pauses(self):
-        filled_pauses = [pause.duration() for element in self.elements if isinstance(element, Pause) for pause in element.pause_elements if isinstance(pause, FilledPause)]
+        filled_pauses = [pause.duration() for element in self.transcription_elements if isinstance(element, Pause) for pause in element.pause_elements if isinstance(pause, FilledPause)]
         return sum(filled_pauses) / len(filled_pauses) if filled_pauses else 0
 
     def frequency_of_filled_pauses(self):
-        total_filled_pauses = sum(1 for element in self.elements if isinstance(element, Pause) for pause in element.pause_elements if isinstance(pause, FilledPause))
+        total_filled_pauses = sum(1 for element in self.transcription_elements if isinstance(element, Pause) for pause in element.pause_elements if isinstance(pause, FilledPause))
         return total_filled_pauses / self.total_duration if self.total_duration else 0
     
 
 
     def __init__ (self,word_segments, recording:str= None):
+        self.recording_path= recording
         elements = []
         current_chunk_words = []
         unique= set()
@@ -120,7 +129,7 @@ class Transcription:
             chunk = Chunk(start=current_chunk_words[0].start, end=current_chunk_words[-1].end, words=current_chunk_words)
             elements.append(chunk)
 
-        self.elements= elements
+        self.transcription_elements= elements
         self.total_duration = elements[-1].end if elements else 0.0  # Duration based on the last element
         self.unique_words= unique
 
@@ -138,7 +147,7 @@ class Transcription:
         transcription_str += f"Frequency of Longer Pauses Divided by Number of Words: {self.frequency_of_longer_pauses_divided_by_number_of_words()} pauses/word\n"
         transcription_str += f"Types Divided by Uttsegdur: {self.types_divided_by_uttsegdur()} types/second\n"
 
-        for element in self.elements:
+        for element in self.transcription_elements:
             if isinstance(element, Pause):
                     transcription_str += f"Pause from {element.start} to {element.end} seconds\n"
                     for pause in element.pause_elements:
@@ -152,11 +161,13 @@ class Transcription:
 
     def save_features(self, file_path):
         features = self.get_features()
+        low_level_features= self.getLowLevelFeatures()
+        features.update(low_level_features)
 
         with open(file_path, 'w') as file:
             json.dump(features, file, indent=4)
 
-    def get_features(self, file_path):
+    def get_features(self):
         features = {
             "total_duration": self.total_duration,
             "total_words": self.total_words,
@@ -218,11 +229,13 @@ def detect_pause_segments(start, end, recording_path):
     return pauses
 
 
+if __name__ == "__main__":
+    file_path = 'testdata/emre_recording.json'
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+                    
 
-file_path = 'testdata/emre_recording.json'
-with open(file_path, 'r') as file:
-    data = json.load(file)
-                   
+    analysis = AudioAnalysis(data["word_segments"],"testdata/emre_recording.wav")
+    #transcription.save_features("features/emre_recording.json")
 
-transcription = Transcription(data["word_segments"],"testdata/emre_recording.wav")
-transcription.save_features("features/emre_recording.json")
+    analysis.getLowLevelFeatures()
